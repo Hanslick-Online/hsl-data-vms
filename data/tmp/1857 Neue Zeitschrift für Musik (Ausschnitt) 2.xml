@@ -3,7 +3,10 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
-            <title level="a"/>
+            <title level="a">
+      Nr. 18.
+      Siebenundvierzigster Band.
+      Den 30. October 1857.</title>
             <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
@@ -72,12 +75,26 @@
             <listBibl>
                <biblStruct>
                   <analytic>
-                     <title/>
+                     <title>
+      Nr. 18.
+      Siebenundvierzigster Band.
+      Den 30. October 1857.</title>
                      <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
                   </analytic>
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
-                     <title type="sub"/>
+                     <title type="sub">
+      Neue
+      des Bandes von 26 Nummern 21 Thlr.
+      Musikallen= und Kunst=Handlungen an.
+      
+      
+      
+      
+      
+      
+      K.
+      </title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person">Etienne, Michael</name>
@@ -85,7 +102,7 @@
                      </respStmt>
                      <imprint>
                         <pubPlace/>
-                        <date when=""/>
+                        <date/>
                      </imprint>
                   </monogr>
                </biblStruct>
@@ -642,25 +659,9 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <p facs="#facs_1_TextRegion_1709376952579_2064">
-               <lb facs="#facs_1_TextRegion_1709376952579_2064_tl_1" n="N001"/>Neue
-      <lb facs="#facs_1_TextRegion_1709376952579_2064_tl_2" n="N002"/>des Bandes von 26 Nummern 21 Thlr.
-      <lb facs="#facs_1_TextRegion_1709376952579_2064_tl_3" n="N003"/>Musikallen= und Kunst=Handlungen an.
-      <lb facs="#facs_1_TextRegion_1709376952579_2064_tl_4" n="N004"/>
-               <lb facs="#facs_1_TextRegion_1709376952579_2064_tl_5" n="N005"/>
-               <lb facs="#facs_1_TextRegion_1709376952579_2064_tl_6" n="N006"/>
-               <lb facs="#facs_1_TextRegion_1709376952579_2064_tl_7" n="N007"/>
-               <lb facs="#facs_1_TextRegion_1709376952579_2064_tl_8" n="N008"/>
-               <lb facs="#facs_1_TextRegion_1709376952579_2064_tl_9" n="N009"/>
-               <lb facs="#facs_1_TextRegion_1709376952579_2064_tl_10" n="N010"/>K.
-      <lb facs="#facs_1_TextRegion_1709376952579_2064_tl_11" n="N011"/>
-            </p>
-            <p facs="#facs_1_region_1709376947762_2059">
-               <lb facs="#facs_1_region_1709376947762_2059_tl_1" n="N001"/>Nr. 18.
-      <lb facs="#facs_1_region_1709376947762_2059_tl_2" n="N002"/>Siebenundvierzigster Band.
-      <lb facs="#facs_1_region_1709376947762_2059_tl_3" n="N003"/>Den 30. October 1857.</p>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <p facs="#facs_2_region_1709376989041_2071">
+            <cb n="1"/>
+            <p>
                <lb facs="#facs_2_region_1709376989041_2071_tl_1" n="N001"/>Dr. Hanslick und der „Tannhäuser.
       <lb facs="#facs_2_region_1709376989041_2071_tl_2" n="N002"/>Bei Gelegenheit der ersten Aufführung des „Tann¬
       <lb facs="#facs_2_region_1709376989041_2071_tl_3" n="N003"/>häuser in Wien veröffentlichte Dr. Ed. Hanslick in
@@ -689,7 +690,8 @@
       <lb facs="#facs_2_region_1709376989041_2071_tl_26" n="N026"/>und der Kritik des Unverstandes. Damit nun das Ton¬
       <lb facs="#facs_2_region_1709376989041_2071_tl_27" n="N027"/>werk Wagner's weder mißverstanden werde, noch unver¬
       <lb facs="#facs_2_region_1709376989041_2071_tl_28" n="N028"/>standen bliebe, hat Dr. Hanslick ein „Vorwort voran¬</p>
-            <p facs="#facs_2_region_1709376995266_2074">
+            <cb n="2"/>
+            <p>
                <lb facs="#facs_2_region_1709376995266_2074_tl_1" n="N001"/>gesendet, wahrscheinlich in der Absicht, um das Publicum
       <lb facs="#facs_2_region_1709376995266_2074_tl_2" n="N002"/>mit der Idee der Dichtung und mit dem Charakter der
       <lb facs="#facs_2_region_1709376995266_2074_tl_3" n="N003"/>Musik der neuen Oper bekannt zu machen. Diesen
@@ -745,7 +747,8 @@
       <lb facs="#facs_2_region_1709376995266_2074_tl_53" n="N053"/>Resultaten gekommen, die — wie sie eben wirklich in
       <lb facs="#facs_2_region_1709376995266_2074_tl_54" n="N054"/>seinem Werke vorliegen — mit dem ganzen historischen</p>
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-            <p facs="#facs_3_region_1709377018081_2080">
+            <cb n="3"/>
+            <p>
                <lb facs="#facs_3_region_1709377018081_2080_tl_1" n="N001"/>Gange der Musik und ihrer Praxis in diamentralem
       <lb facs="#facs_3_region_1709377018081_2080_tl_2" n="N002"/>Gegensatze stehen. Als Theoretiker mit Zopf und
       <lb facs="#facs_3_region_1709377018081_2080_tl_3" n="N003"/>Schwert“ bringt Hanslick sein System an die Beurthei¬
@@ -778,7 +781,8 @@
       <lb facs="#facs_3_region_1709377018081_2080_tl_30" n="N030"/>kritiklosen Wirrwarr Hanslick's zu vertiefen und einzelne
       <lb facs="#facs_3_region_1709377018081_2080_tl_31" n="N031"/>Belege für das eben Ausgesprochene zutage zu fördern,
       <lb facs="#facs_3_region_1709377018081_2080_tl_32" n="N032"/>es möge eine Hindeutung auf den zweiten Artikel genü¬</p>
-            <p facs="#facs_3_region_1709377021295_2083">
+            <cb n="4"/>
+            <p>
                <lb facs="#facs_3_region_1709377021295_2083_tl_1" n="N001"/>gen. Der höhnische, sarkastisch sein sollende Ton, der in
       <lb facs="#facs_3_region_1709377021295_2083_tl_2" n="N002"/>demselben angeschlagen wird, die Selbstüberschätzung,
       <lb facs="#facs_3_region_1709377021295_2083_tl_3" n="N003"/>mit der Hanslick das ganze Tonwerk mit einer vornehmen

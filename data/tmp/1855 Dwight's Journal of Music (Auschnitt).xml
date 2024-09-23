@@ -3,7 +3,8 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
-            <title level="a"/>
+            <title level="a">
+      Whole No. 172. Boston, Saturday, July 21, 1855. Vol. VII. No. 16</title>
             <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
@@ -72,12 +73,14 @@
             <listBibl>
                <biblStruct>
                   <analytic>
-                     <title/>
+                     <title>
+      Whole No. 172. Boston, Saturday, July 21, 1855. Vol. VII. No. 16</title>
                      <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
                   </analytic>
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
-                     <title type="sub"/>
+                     <title type="sub">
+      Dwight's Journal of Music, A Paper of Art and Literature</title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person">Etienne, Michael</name>
@@ -85,7 +88,7 @@
                      </respStmt>
                      <imprint>
                         <pubPlace/>
-                        <date when=""/>
+                        <date/>
                      </imprint>
                   </monogr>
                </biblStruct>
@@ -1061,12 +1064,9 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <p facs="#facs_1_region_1709374289355_1178">
-               <lb facs="#facs_1_line_1709381427473_2225" n="N001"/>Dwight's Journal of Music, A Paper of Art and Literature</p>
-            <p facs="#facs_1_region_1709374293243_1181">
-               <lb facs="#facs_1_line_1709381443120_2232" n="N001"/>Whole No. 172. Boston, Saturday, July 21, 1855. Vol. VII. No. 16</p>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <p facs="#facs_2_region_1709374311747_1190">
+            <cb n="1"/>
+            <p>
                <lb facs="#facs_2_region_1709374311747_1190_tl_1" n="N001"/>Music the Exponent of motion.
       <lb facs="#facs_2_region_1709374311747_1190_tl_2" n="N002"/>sure in studying the changeable forms of the Kalei¬
       <lb facs="#facs_2_region_1709374311747_1190_tl_3" n="N003"/>doscope. Such a Kaleidoscope is Music, although of
@@ -1134,7 +1134,8 @@
       <lb facs="#facs_2_region_1709374311747_1190_tl_65" n="N065"/>having its distinctive phraseology and forms of
       <lb facs="#facs_2_region_1709374311747_1190_tl_66" n="N066"/>expression, so that no intellectual idea can spring
       <lb facs="#facs_2_region_1709374311747_1190_tl_67" n="N067"/>up, without having its special representation in</p>
-            <p facs="#facs_2_region_1709374316266_1193">
+            <cb n="2"/>
+            <p>
                <lb facs="#facs_2_region_1709374316266_1193_tl_1" n="N001"/>written speech. The pretensions of Music, on
       <lb facs="#facs_2_region_1709374316266_1193_tl_2" n="N002"/>this score, are vague, doubtful and assuming.
       <lb facs="#facs_2_region_1709374316266_1193_tl_3" n="N003"/>Where the same forms of melody are adapted
@@ -1209,7 +1210,8 @@
       <lb facs="#facs_2_region_1709374316266_1193_tl_72" n="N072"/>when it addresses the mind by association.
       <lb facs="#facs_2_region_1709374316266_1193_tl_73" n="N073"/>When the Ranz des Vaches is heard in distant</p>
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-            <p facs="#facs_3_region_1709374333587_1199">
+            <cb n="3"/>
+            <p>
                <lb facs="#facs_3_region_1709374333587_1199_tl_1" n="N001"/>lands by the Swiss mountainer, it recalls the
       <lb facs="#facs_3_region_1709374333587_1199_tl_2" n="N002"/>memories of the past. It does ineffably more
       <lb facs="#facs_3_region_1709374333587_1199_tl_3" n="N003"/>than this, by raising up before the mind's eye the
@@ -1282,7 +1284,8 @@
       <lb facs="#facs_3_region_1709374333587_1199_tl_70" n="N070"/>outward scenes of life and nature, but how deeply
       <lb facs="#facs_3_region_1709374333587_1199_tl_71" n="N071"/>the soul felt in the study of those scenes it has
       <lb facs="#facs_3_region_1709374333587_1199_tl_72" n="N072"/>never yet revealed. This attribute belongs to the</p>
-            <p facs="#facs_3_region_1709374338090_1202">
+            <cb n="4"/>
+            <p>
                <lb facs="#facs_3_region_1709374338090_1202_tl_1" n="N001"/>it pretends to, we refer more to the phraseology
       <lb facs="#facs_3_region_1709374338090_1202_tl_2" n="N002"/>of description than the intensity of effect which
       <lb facs="#facs_3_region_1709374338090_1202_tl_3" n="N003"/>lies in music.
@@ -1356,7 +1359,8 @@
       <lb facs="#facs_3_region_1709374338090_1202_tl_71" n="N071"/>nomenclature of musical thought must become
       <lb facs="#facs_3_region_1709374338090_1202_tl_72" n="N072"/>more exclusively musical, before it can lay open
       <lb facs="#facs_3_region_1709374338090_1202_tl_73" n="N073"/>Art of Tone, and in denying its claims to do all its real meaning and designs to the mind and ima¬</p>
-            <p facs="#facs_3_region_1709374343851_1205">
+            <cb n="5"/>
+            <p>
                <lb facs="#facs_3_region_1709374343851_1205_tl_1" n="N001"/>gination. Every combination of tones, every
       <lb facs="#facs_3_region_1709374343851_1205_tl_2" n="N002"/>group of symphonious representations, all the
       <lb facs="#facs_3_region_1709374343851_1205_tl_3" n="N003"/>swells and cadences of rhythmical compositions,

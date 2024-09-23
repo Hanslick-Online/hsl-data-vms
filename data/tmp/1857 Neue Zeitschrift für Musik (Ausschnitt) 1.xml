@@ -3,7 +3,16 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
-            <title level="a"/>
+            <title level="a">
+      abonnement nehmen alle Postämter, Buch¬
+      Neue
+      des Bandes von 26 Nummern 21 Thlr.
+      Musikalien= und Kunst=Handlungen an.
+      
+      
+      
+      
+      </title>
             <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
@@ -72,12 +81,49 @@
             <listBibl>
                <biblStruct>
                   <analytic>
-                     <title/>
+                     <title>
+      abonnement nehmen alle Postämter, Buch¬
+      Neue
+      des Bandes von 26 Nummern 21 Thlr.
+      Musikalien= und Kunst=Handlungen an.
+      
+      
+      
+      
+      </title>
                      <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
                   </analytic>
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
-                     <title type="sub"/>
+                     <title type="sub">
+      Die Aesthetik der Tonkunst.
+      Wir haben bis jetzt fünf Briefe, Referate über die
+      Vischer'sche Aesthetik aus der Feder des Hrn. E. v. El¬
+      terlein enthaltend, veröffentlicht, und es werden noch
+      zwei oder drei derselben folgen, bevor das Ganze vor¬
+      läufig zum Abschluß gebracht, d. h. bis zum Beginn der
+      Aesthetik der Tonkunst fortgeführt ist. Doch ist mit dem
+      bereits Gegebenen das Abstracte beseitigt und alles
+      Spätere bewegt sich auf concreterem Boden.
+      Entsteht die Frage nach dem Zweck dieser Mitthei¬
+      lungen, so bemerke ich zunächst, daß diese Auszüge nicht
+      auf flüchtiges Lesen berechnet, sondern zu wiederholter
+      genauer Lecture bestimmt sind. Geschieht dies, so ist der
+      Vorschub, der damit dem Studium des Werkes selbst ge¬
+      leistet wird, die Erleichterung des Verständnisses für den
+      Ungeübteren, sehr bedeutend, und wenn auch zuerst da¬
+      durch nur eine Uebersicht des Gedankenganges mehr äu¬
+      serlicher Natur, zunächst für das Gedächtniß, gewonnen
+      würde. Ein zweiter Vortheil erwächst aus solchen Mit¬
+      theilungen für diejenigen, die sich sofort mit dem Werke
+      selbst noch nicht befassen können oder mögen, und dies ist
+      die Mehrzahl. Jene großen wissenschaftlichen Resultate,
+      welche bisher nur das Eigenthum der in sich abgeschlos¬
+      senen Wissenschaft waren, werden dadurch einem größeren
+      Kreise mindestens zugänglich und in etwas geläufig, und
+      es ist an sich selbst schon ein Gewinn, auch wenn den¬
+      selben unmittelbar weiter keine Folge gegeben werden
+      könnte. Gehören doch die Leistungen der Deutschen auf</title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person">Etienne, Michael</name>
@@ -85,7 +131,7 @@
                      </respStmt>
                      <imprint>
                         <pubPlace/>
-                        <date when=""/>
+                        <date/>
                      </imprint>
                   </monogr>
                </biblStruct>
@@ -601,51 +647,13 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <p facs="#facs_1_region_1709376849201_2027">
-               <lb facs="#facs_1_region_1709376849201_2027_tl_1" n="N001"/>Die Aesthetik der Tonkunst.
-      <lb facs="#facs_1_region_1709376849201_2027_tl_2" n="N002"/>Wir haben bis jetzt fünf Briefe, Referate über die
-      <lb facs="#facs_1_region_1709376849201_2027_tl_3" n="N003"/>Vischer'sche Aesthetik aus der Feder des Hrn. E. v. El¬
-      <lb facs="#facs_1_region_1709376849201_2027_tl_4" n="N004"/>terlein enthaltend, veröffentlicht, und es werden noch
-      <lb facs="#facs_1_region_1709376849201_2027_tl_5" n="N005"/>zwei oder drei derselben folgen, bevor das Ganze vor¬
-      <lb facs="#facs_1_region_1709376849201_2027_tl_6" n="N006"/>läufig zum Abschluß gebracht, d. h. bis zum Beginn der
-      <lb facs="#facs_1_region_1709376849201_2027_tl_7" n="N007"/>Aesthetik der Tonkunst fortgeführt ist. Doch ist mit dem
-      <lb facs="#facs_1_region_1709376849201_2027_tl_8" n="N008"/>bereits Gegebenen das Abstracte beseitigt und alles
-      <lb facs="#facs_1_region_1709376849201_2027_tl_9" n="N009"/>Spätere bewegt sich auf concreterem Boden.
-      <lb facs="#facs_1_region_1709376849201_2027_tl_10" n="N010"/>Entsteht die Frage nach dem Zweck dieser Mitthei¬
-      <lb facs="#facs_1_region_1709376849201_2027_tl_11" n="N011"/>lungen, so bemerke ich zunächst, daß diese Auszüge nicht
-      <lb facs="#facs_1_region_1709376849201_2027_tl_12" n="N012"/>auf flüchtiges Lesen berechnet, sondern zu wiederholter
-      <lb facs="#facs_1_region_1709376849201_2027_tl_13" n="N013"/>genauer Lecture bestimmt sind. Geschieht dies, so ist der
-      <lb facs="#facs_1_region_1709376849201_2027_tl_14" n="N014"/>Vorschub, der damit dem Studium des Werkes selbst ge¬
-      <lb facs="#facs_1_region_1709376849201_2027_tl_15" n="N015"/>leistet wird, die Erleichterung des Verständnisses für den
-      <lb facs="#facs_1_region_1709376849201_2027_tl_16" n="N016"/>Ungeübteren, sehr bedeutend, und wenn auch zuerst da¬
-      <lb facs="#facs_1_region_1709376849201_2027_tl_17" n="N017"/>durch nur eine Uebersicht des Gedankenganges mehr äu¬
-      <lb facs="#facs_1_region_1709376849201_2027_tl_18" n="N018"/>serlicher Natur, zunächst für das Gedächtniß, gewonnen
-      <lb facs="#facs_1_region_1709376849201_2027_tl_19" n="N019"/>würde. Ein zweiter Vortheil erwächst aus solchen Mit¬
-      <lb facs="#facs_1_region_1709376849201_2027_tl_20" n="N020"/>theilungen für diejenigen, die sich sofort mit dem Werke
-      <lb facs="#facs_1_region_1709376849201_2027_tl_21" n="N021"/>selbst noch nicht befassen können oder mögen, und dies ist
-      <lb facs="#facs_1_region_1709376849201_2027_tl_22" n="N022"/>die Mehrzahl. Jene großen wissenschaftlichen Resultate,
-      <lb facs="#facs_1_region_1709376849201_2027_tl_23" n="N023"/>welche bisher nur das Eigenthum der in sich abgeschlos¬
-      <lb facs="#facs_1_region_1709376849201_2027_tl_24" n="N024"/>senen Wissenschaft waren, werden dadurch einem größeren
-      <lb facs="#facs_1_region_1709376849201_2027_tl_25" n="N025"/>Kreise mindestens zugänglich und in etwas geläufig, und
-      <lb facs="#facs_1_region_1709376849201_2027_tl_26" n="N026"/>es ist an sich selbst schon ein Gewinn, auch wenn den¬
-      <lb facs="#facs_1_region_1709376849201_2027_tl_27" n="N027"/>selben unmittelbar weiter keine Folge gegeben werden
-      <lb facs="#facs_1_region_1709376849201_2027_tl_28" n="N028"/>könnte. Gehören doch die Leistungen der Deutschen auf</p>
-            <p facs="#facs_1_TextRegion_1709376862328_2037">
-               <lb facs="#facs_1_TextRegion_1709376862328_2037_tl_1" n="N001"/>abonnement nehmen alle Postämter, Buch¬
-      <lb facs="#facs_1_TextRegion_1709376862328_2037_tl_2" n="N002"/>Neue
-      <lb facs="#facs_1_TextRegion_1709376862328_2037_tl_3" n="N003"/>des Bandes von 26 Nummern 21 Thlr.
-      <lb facs="#facs_1_TextRegion_1709376862328_2037_tl_4" n="N004"/>Musikalien= und Kunst=Handlungen an.
-      <lb facs="#facs_1_TextRegion_1709376862328_2037_tl_5" n="N005"/>
-               <lb facs="#facs_1_TextRegion_1709376862328_2037_tl_6" n="N006"/>
-               <lb facs="#facs_1_TextRegion_1709376862328_2037_tl_7" n="N007"/>
-               <lb facs="#facs_1_TextRegion_1709376862328_2037_tl_8" n="N008"/>
-               <lb facs="#facs_1_TextRegion_1709376862328_2037_tl_9" n="N009"/>
-            </p>
-            <p facs="#facs_1_region_1709376842500_2024">
+            <cb n="1"/>
+            <p>
                <lb facs="#facs_1_region_1709376842500_2024_tl_1" n="N001"/>Nr. 18.
       <lb facs="#facs_1_region_1709376842500_2024_tl_2" n="N002"/>Sechsundvierzigster Band.
       <lb facs="#facs_1_region_1709376842500_2024_tl_3" n="N003"/>Den 1. Mai 1857.</p>
-            <p facs="#facs_1_region_1709376852695_2030">
+            <cb n="2"/>
+            <p>
                <lb facs="#facs_1_region_1709376852695_2030_tl_1" n="N001"/>dem Gebiete der Aesthetik zu den größten geistigen Thaten
       <lb facs="#facs_1_region_1709376852695_2030_tl_2" n="N002"/>derselben.
       <lb facs="#facs_1_region_1709376852695_2030_tl_3" n="N003"/>So wichtig indeß die hier angegebenen Zwecke sind,
@@ -683,7 +691,8 @@
       <lb facs="#facs_1_region_1709376852695_2030_tl_35" n="N035"/>geistigen Gehalt zu begreifen. Das Princip selbst
       <lb facs="#facs_1_region_1709376852695_2030_tl_36" n="N036"/>habe ich vor langen Jahren schon einmal ausgesprochen,</p>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <p facs="#facs_2_region_1709376886985_2043">
+            <cb n="3"/>
+            <p>
                <lb facs="#facs_2_region_1709376886985_2043_tl_1" n="N001"/>und Hanslick hat neuerdings dasselbe gethan, nur daß
       <lb facs="#facs_2_region_1709376886985_2043_tl_2" n="N002"/>dieser falsche Consequenzen gezogen hat, so daß, streng ge¬
       <lb facs="#facs_2_region_1709376886985_2043_tl_3" n="N003"/>nommen, kein einziger seiner Sätze stichhaltig ist. Es
@@ -738,7 +747,8 @@
       <lb facs="#facs_2_region_1709376886985_2043_tl_52" n="N052"/>schön sei, und nicht willkürlich gemacht, sondern aus
       <lb facs="#facs_2_region_1709376886985_2043_tl_53" n="N053"/>den bisherigen Gestaltungen naturgemäß hervorwachsend.
       <lb facs="#facs_2_region_1709376886985_2043_tl_54" n="N054"/>Es geht demnach hier mit dem bezeichneten Fortschritt</p>
-            <p facs="#facs_2_region_1709376890177_2046">
+            <cb n="4"/>
+            <p>
                <lb facs="#facs_2_region_1709376890177_2046_tl_1" n="N001"/>wie in allen menschlichen Dingen. Ein Zeitalter ist in
       <lb facs="#facs_2_region_1709376890177_2046_tl_2" n="N002"/>Zweifeln und Irrthümern befangen, und spannt vergeb¬
       <lb facs="#facs_2_region_1709376890177_2046_tl_3" n="N003"/>lich alle Kräfte an, sich daraus emporzuringen. Ist das

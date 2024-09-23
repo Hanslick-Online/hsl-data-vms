@@ -3,7 +3,15 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
-            <title level="a"/>
+            <title level="a">
+      AMSTERDAM, Then a con¬
+      S PATERSURS. Bernard, Bande a Con¬
+      STOCKHOLM. R. Rylander.
+      MATLAND. Ricord.
+      an
+      Die
+      SALE
+      ne</title>
             <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
@@ -72,12 +80,26 @@
             <listBibl>
                <biblStruct>
                   <analytic>
-                     <title/>
+                     <title>
+      AMSTERDAM, Then a con¬
+      S PATERSURS. Bernard, Bande a Con¬
+      STOCKHOLM. R. Rylander.
+      MATLAND. Ricord.
+      an
+      Die
+      SALE
+      ne</title>
                      <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
                   </analytic>
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
-                     <title type="sub"/>
+                     <title type="sub">
+      Von dieser Zeitung erscheint wöchentlich
+      Zehnter Jahrgang Nr. 50.
+      10. December 1856.
+      eine Nummer.
+      
+      </title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person">Etienne, Michael</name>
@@ -85,7 +107,7 @@
                      </respStmt>
                      <imprint>
                         <pubPlace/>
-                        <date when=""/>
+                        <date/>
                      </imprint>
                   </monogr>
                </biblStruct>
@@ -293,25 +315,9 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <p facs="#facs_1_region_1709376381895_1886">
-               <lb facs="#facs_1_region_1709376381895_1886_tl_1" n="N001"/>Von dieser Zeitung erscheint wöchentlich
-      <lb facs="#facs_1_region_1709376381895_1886_tl_2" n="N002"/>Zehnter Jahrgang Nr. 50.
-      <lb facs="#facs_1_region_1709376381895_1886_tl_3" n="N003"/>10. December 1856.
-      <lb facs="#facs_1_region_1709376381895_1886_tl_4" n="N004"/>eine Nummer.
-      <lb facs="#facs_1_region_1709376381895_1886_tl_5" n="N005"/>
-               <lb facs="#facs_1_region_1709376381895_1886_tl_6" n="N006"/>
-            </p>
-            <p facs="#facs_1_TextRegion_1709376392958_1892">
-               <lb facs="#facs_1_TextRegion_1709376392958_1892_tl_1" n="N001"/>AMSTERDAM, Then a con¬
-      <lb facs="#facs_1_TextRegion_1709376392958_1892_tl_2" n="N002"/>S PATERSURS. Bernard, Bande a Con¬
-      <lb facs="#facs_1_TextRegion_1709376392958_1892_tl_3" n="N003"/>STOCKHOLM. R. Rylander.
-      <lb facs="#facs_1_TextRegion_1709376392958_1892_tl_4" n="N004"/>MATLAND. Ricord.
-      <lb facs="#facs_1_TextRegion_1709376392958_1892_tl_5" n="N005"/>an
-      <lb facs="#facs_1_TextRegion_1709376392958_1892_tl_6" n="N006"/>Die
-      <lb facs="#facs_1_TextRegion_1709376392958_1892_tl_7" n="N007"/>SALE
-      <lb facs="#facs_1_TextRegion_1709376392958_1892_tl_8" n="N008"/>ne</p>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <p facs="#facs_2_region_1709376443874_1904">
+            <cb n="1"/>
+            <p>
                <lb facs="#facs_2_region_1709376443874_1904_tl_1" n="N001"/>8. Berlin. „Der gegenwärtige Principienstreit über den ästheti¬
       <lb facs="#facs_2_region_1709376443874_1904_tl_2" n="N002"/>schen Standpunkt in der Tonkunst" war die Bezeichnung eines
       <lb facs="#facs_2_region_1709376443874_1904_tl_3" n="N003"/>Vortrags, den der Dr. Ad. Kullak in der letzten Versammlung
@@ -328,7 +334,8 @@
       <lb facs="#facs_2_region_1709376443874_1904_tl_14" n="N014"/>sich in der Philosophie überhaupt, wie in der Aesth
       <lb facs="#facs_2_region_1709376443874_1904_tl_15" n="N015"/>geltend</p>
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-            <p facs="#facs_3_region_1709376457801_1910">
+            <cb n="2"/>
+            <p>
                <lb facs="#facs_3_region_1709376457801_1910_tl_1" n="N001"/>gemacht, und haben aus der allgemeinen Aesthetik auch in die kennenswerthesten Verdienste der Direction, das wir um so
       <lb facs="#facs_3_region_1709376457801_1910_tl_2" n="N002"/>specielle der Tonkunst einen Uebergang gewonnen. In der Ton¬
       <lb facs="#facs_3_region_1709376457801_1910_tl_3" n="N003"/>kunst ist der Vertreter des Realismus Dr. Hanslick. Auf der

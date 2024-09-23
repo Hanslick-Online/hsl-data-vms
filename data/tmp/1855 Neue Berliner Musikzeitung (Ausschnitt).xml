@@ -3,7 +3,8 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
-            <title level="a"/>
+            <title level="a">
+      Neue Berliner Musikzeitung</title>
             <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
@@ -72,12 +73,14 @@
             <listBibl>
                <biblStruct>
                   <analytic>
-                     <title/>
+                     <title>
+      Neue Berliner Musikzeitung</title>
                      <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
                   </analytic>
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
-                     <title type="sub"/>
+                     <title type="sub">
+      Neunter Jahrgang No. 42. 17. October 1855</title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person">Etienne, Michael</name>
@@ -85,7 +88,7 @@
                      </respStmt>
                      <imprint>
                         <pubPlace/>
-                        <date when=""/>
+                        <date/>
                      </imprint>
                   </monogr>
                </biblStruct>
@@ -295,12 +298,9 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <p facs="#facs_1_region_1709374934858_1429">
-               <lb facs="#facs_1_line_1709382021136_2351" n="N001"/>Neunter Jahrgang No. 42. 17. October 1855</p>
-            <p facs="#facs_1_TextRegion_1709374949395_1438">
-               <lb facs="#facs_1_line_1709382059649_2387" n="N001"/>Neue Berliner Musikzeitung</p>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <p facs="#facs_2_region_1709374989506_1444">
+            <cb n="1"/>
+            <p>
                <lb facs="#facs_2_region_1709374989506_1444_tl_1" n="N001"/>Musik-Literatur.
       <lb facs="#facs_2_region_1709374989506_1444_tl_2" n="N002"/>Dr. Eduard Hanslick, Vom Musikalisch-Schönen. Ein
       <lb facs="#facs_2_region_1709374989506_1444_tl_3" n="N003"/>Beitrag zur Revision der Ästhetik der Tonkunst. Leipzig,

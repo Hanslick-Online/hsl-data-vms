@@ -3,7 +3,8 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
-            <title level="a"/>
+            <title level="a">
+      No. 7. Montag, den 12. Februar 1855. II. Jahrg.</title>
             <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
@@ -72,12 +73,14 @@
             <listBibl>
                <biblStruct>
                   <analytic>
-                     <title/>
+                     <title>
+      No. 7. Montag, den 12. Februar 1855. II. Jahrg.</title>
                      <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
                   </analytic>
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
-                     <title type="sub"/>
+                     <title type="sub">
+      Katholische Literatur-Zeitung</title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person">Etienne, Michael</name>
@@ -85,7 +88,7 @@
                      </respStmt>
                      <imprint>
                         <pubPlace/>
-                        <date when=""/>
+                        <date/>
                      </imprint>
                   </monogr>
                </biblStruct>
@@ -305,12 +308,9 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <p facs="#facs_1_region_1709374663067_1364">
-               <lb facs="#facs_1_line_1709381725722_2296" n="N001"/>Katholische Literatur-Zeitung</p>
-            <p facs="#facs_1_region_1709374666666_1367">
-               <lb facs="#facs_1_line_1709381739913_2302" n="N001"/>No. 7. Montag, den 12. Februar 1855. II. Jahrg.</p>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <p facs="#facs_2_region_1709374685145_1373">
+            <cb n="1"/>
+            <p>
                <lb facs="#facs_2_region_1709374685145_1373_tl_1" n="N001"/>Vom Musikalisch-Schönen. Ein Beitrag zur Revision der
       <lb facs="#facs_2_region_1709374685145_1373_tl_2" n="N002"/>Aesthetik der Tonkunst von Dr. Eduard Hanslick. Leipzig
       <lb facs="#facs_2_region_1709374685145_1373_tl_3" n="N003"/>bei Rudolph Weigel 1854.
@@ -344,7 +344,8 @@
       <lb facs="#facs_2_region_1709374685145_1373_tl_31" n="N031"/>nur einer andern Uebertreibung gegenüber, welche die Oper durch
       <lb facs="#facs_2_region_1709374685145_1373_tl_32" n="N032"/>Verzerrung des Textes zum Ungethüme stempelt. In der Kammer¬</p>
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-            <p facs="#facs_3_region_1709374696443_1379">
+            <cb n="2"/>
+            <p>
                <lb facs="#facs_3_region_1709374696443_1379_tl_1" n="N001"/>musik steht die Musik für sich allein, und kann als solche das Höchste
       <lb facs="#facs_3_region_1709374696443_1379_tl_2" n="N002"/>und Vollendetste leisten; allein in der Oper soll sie mit dem Texte
       <lb facs="#facs_3_region_1709374696443_1379_tl_3" n="N003"/>Hand in Hand gehen, ohne diesem darum sich unterordnen zu müssen,

@@ -3,7 +3,8 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
-            <title level="a"/>
+            <title level="a">
+      Montag um 8.</title>
             <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
@@ -72,12 +73,14 @@
             <listBibl>
                <biblStruct>
                   <analytic>
-                     <title/>
+                     <title>
+      Montag um 8.</title>
                      <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
                   </analytic>
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
-                     <title type="sub"/>
+                     <title type="sub">
+      Blätter für Literatur und Kunst</title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person">Etienne, Michael</name>
@@ -85,7 +88,7 @@
                      </respStmt>
                      <imprint>
                         <pubPlace/>
-                        <date when=""/>
+                        <date/>
                      </imprint>
                   </monogr>
                </biblStruct>
@@ -1903,11 +1906,8 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <p facs="#facs_1_region_1709373951540_1078">
-               <lb facs="#facs_1_line_1709378724074_2145" n="N001"/>Blätter für Literatur und Kunst</p>
-            <p facs="#facs_1_region_1709373959291_1081">
-               <lb facs="#facs_1_region_1709373959291_1081_tl_1" n="N001"/>Montag um 8.</p>
-            <p facs="#facs_1_region_1709373986218_1090">
+            <cb n="1"/>
+            <p>
                <lb facs="#facs_1_region_1709373986218_1090_tl_1" n="N001"/>se on
       <lb facs="#facs_1_line_1709378764500_2159" n="N002"/>Vom Musikalisch=Schönen. Ein Beitrag zur Revision
       <lb facs="#facs_1_region_1709373986218_1090_tl_3" n="N003"/>der Aesthetik der Tonkunst. Von Dr. Eduard
@@ -1969,7 +1969,8 @@
       <lb facs="#facs_1_region_1709373986218_1090_tl_59" n="N059"/>eine Aesthetik der Tonkunst zu sein. Er nennt es be¬
       <lb facs="#facs_1_region_1709373986218_1090_tl_60" n="N060"/>tik der Tonkunst", aber es ist kein Zweifel, daß
       <lb facs="#facs_1_region_1709373986218_1090_tl_61" n="N061"/>Aesthetik der Tonkunst sich umgestalten müßte.</p>
-            <p facs="#facs_1_region_1709373991227_1093">
+            <cb n="2"/>
+            <p>
                <lb facs="#facs_1_region_1709373991227_1093_tl_1" n="N001"/>stimmt beide negativ: „Gefühle sind weder Zweck noch flikt kommt. Zum Glück trägt ersterer gewöhnlich,
       <lb facs="#facs_1_region_1709373991227_1093_tl_2" n="N002"/>Inhalt der Musik. Das Schöne hat überhaupt kei= wie auch bei unserm Verfasser, den Sieg davon.
       <lb facs="#facs_1_line_1709378766721_2162" n="N003"/>nen Zweck, denn es ist bloße Form, welche wohl
@@ -2008,7 +2009,8 @@
       <lb facs="#facs_1_region_1709373991227_1093_tl_35" n="N036"/>scheiden nur einen „Beitrag zur Revision der Aesthe bestimmter einziger Inhalt und dann ist es
       <lb facs="#facs_1_region_1709373991227_1093_tl_36" n="N037"/>wenn seine Ansichten die richtigen sind, die ganze durch die Art wie es ist, eine Behauptung, die doch lange sie nicht Worte, blos Töne singt, hier
       <lb facs="#facs_1_region_1709373991227_1093_tl_37" n="N038"/>Die Hauptfrage, die den Verfasser beschäftigt, ist ein Hauptpunkt, auf welchem der natürliche ästhetische Vocal- und Instrumentalmusik stehen einander nur</p>
-            <p facs="#facs_1_region_1709373996802_1096">
+            <cb n="3"/>
+            <p>
                <lb facs="#facs_1_region_1709373996802_1096_tl_1" n="N001"/>Der Verf. kämpft kräftig gegen das Vorurtheil
       <lb facs="#facs_1_region_1709373996802_1096_tl_2" n="N002"/>fühlen bestehe. Die Musik, sagt er, flüstert, stürmt
       <lb facs="#facs_1_region_1709373996802_1096_tl_3" n="N003"/>so sagen soll, sich selbst. Wenn aus seiner Betrach= unser eigenes Herz in sie hinein." (S. 13.) „Sie
@@ -2076,7 +2078,8 @@
       <lb facs="#facs_1_region_1709373996802_1096_tl_65" n="N065"/>gerade Vischer aufs Lebhafteste ablehnt. Es ist dies mit zu den Instrumenten müßte gerechnet werden.
       <lb facs="#facs_1_region_1709373996802_1096_tl_66" n="N066"/>die nach Zweck und Inhalt der Musik. Er be¬ Takt mit dem Prokrustesbeit des Systems in Kon¬ wie begleitende und selbstständige Musik gegenüber.</p>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <p facs="#facs_2_region_1709374019522_1102">
+            <cb n="4"/>
+            <p>
                <lb facs="#facs_2_region_1709374019522_1102_tl_1" n="N001"/>sind nun bedenke man, daß selbst Goethe seinen matische Natur, als der Musik gar nicht zugehörig
       <lb facs="#facs_2_region_1709374019522_1102_tl_2" n="N002"/>der Luft vor unsern Augen herumschweben, die wir
       <lb facs="#facs_2_region_1709374019522_1102_tl_3" n="N003"/>der Gesang dagegen, wie ein Genius gegen Himme
@@ -2157,7 +2160,8 @@
       <lb facs="#facs_2_region_1709374019522_1102_tl_78" n="N078"/>z. B. eine Tonart dramatischer sein als die andere neue Grundlagen; beide vereint, bewegt der Rhyth
       <lb facs="#facs_2_region_1709374019522_1102_tl_79" n="N079"/>Entweder also man erkläre die Oper für ein rein mus, die Pulsader musikalischen Lebens, und färb¬
       <lb facs="#facs_2_region_1709374019522_1102_tl_80" n="N080"/>musikalisches Kunstwerk und leiste dann auf ihre dra¬ der Reiz mannigfaltiger Klangfarben. Frägt es sich, in der Chromatik," S. 38</p>
-            <p facs="#facs_2_region_1709374025339_1105">
+            <cb n="5"/>
+            <p>
                <lb facs="#facs_2_region_1709374025339_1105_tl_1" n="N001"/>Meister sagen läßt: „Das Instrument sollte nur die geradezu Verzicht, oder man rette ihren dramatischer
       <lb facs="#facs_2_region_1709374025339_1105_tl_2" n="N002"/>Stimme begleiten; denn Melodien, Gänge und Läufe Charakter, indem man aufhört sie als reines Ton¬
       <lb facs="#facs_2_region_1709374025339_1105_tl_3" n="N003"/>ohne Wort und Sinn schienen ihm Schmetterlingen werk zu betrachten. Ein Drittes gibt es nicht. Die
@@ -2206,7 +2210,8 @@
       <lb facs="#facs_2_region_1709374025339_1105_tl_46" n="N046"/>waltet vor Allem die Melodie, als Grundgestalt mu¬
       <lb facs="#facs_2_region_1709374025339_1105_tl_47" n="N047"/>sikalischer Schönheit; mit tausendfachem Verwandeln
       <lb facs="#facs_2_region_1709374025339_1105_tl_48" n="N048"/>Umkehren, Verstärken bietet ihr die Harmonie imme</p>
-            <p facs="#facs_2_region_1709374033121_1108">
+            <cb n="6"/>
+            <p>
                <lb facs="#facs_2_region_1709374033121_1108_tl_1" n="N001"/>was mit diesem Tonmaterial ausgedrückt werden soll,
       <lb facs="#facs_2_region_1709374033121_1108_tl_2" n="N002"/>so lautet die Antwort: „Musikalische Ideen!"
       <lb facs="#facs_2_region_1709374033121_1108_tl_3" n="N003"/>Vortrefflich! aber warum trübt der Verfasser diese
@@ -2300,7 +2305,8 @@
       <lb facs="#facs_2_region_1709374033121_1108_tl_91" n="N091"/>nicht in dem Zittern seiner Seele, sondern im Tre¬
       <lb facs="#facs_2_region_1709374033121_1108_tl_92" n="N092"/>molo der Pauken, nicht in seiner Sehnsucht, sondern</p>
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-            <p facs="#facs_3_region_1709374056921_1114">
+            <cb n="7"/>
+            <p>
                <lb facs="#facs_3_region_1709374056921_1114_tl_1" n="N001"/>jektiven Charakter des Musikalischen als reiner Ton= nenden Kritik die ewige Wahrheit vorgehalten, da
       <lb facs="#facs_3_region_1709374056921_1114_tl_2" n="N002"/>verhältnisse gehe der subjektive Antheil der Persön¬
       <lb facs="#facs_3_region_1709374056921_1114_tl_3" n="N003"/>lichkeit des Komponisten verloren. Im Gegentheil
@@ -2379,7 +2385,8 @@
       <lb facs="#facs_3_region_1709374056921_1114_tl_76" n="N076"/>sinn erscheine.
       <lb facs="#facs_3_region_1709374056921_1114_tl_77" n="N077"/>Referent hat obige Stelle mit wahrer Befriedigun
       <lb facs="#facs_3_region_1709374056921_1114_tl_78" n="N078"/>gelesen. Er hat selbst bei einer andern Gelegenheit</p>
-            <p facs="#facs_3_region_1709374062906_1117">
+            <cb n="8"/>
+            <p>
                <lb facs="#facs_3_region_1709374062906_1117_tl_1" n="N001"/>„historisches Begreifen" und „ästhetisches Beurthei¬
       <lb facs="#facs_3_region_1709374062906_1117_tl_2" n="N002"/>len" verschiedene Dinge sind. Mit wahrer Freude Und hätte denn nicht die Musik in der That ein
       <lb facs="#facs_3_region_1709374062906_1117_tl_3" n="N003"/>nes damaligen Ausspruchs. „Heroismus" nennt er
@@ -2461,7 +2468,8 @@
       <lb facs="#facs_3_region_1709374062906_1117_tl_79" n="N079"/>läßt uns in dem Werke menschlichen Talents immer Planina=Höhle.
       <lb facs="#facs_3_region_1709374062906_1117_tl_80" n="N080"/>zugleich das Unendliche fühlen." Ja wohl sind dies
       <lb facs="#facs_3_region_1709374062906_1117_tl_81" n="N081"/>(Oesterr. Bl. für Lit. und Kunst, 1854, Nr. 6. Ueber Naturbeziehungen „geheim“, denn sind sie denn über zum Text der näheren Umstände seiner unterirdischen</p>
-            <p facs="#facs_3_region_1709374068051_1120">
+            <cb n="9"/>
+            <p>
                <lb facs="#facs_3_region_1709374068051_1120_tl_1" n="N001"/>Daß man ja nicht befürchte, über dem streng ob¬ spek. Aesthetik und Kritik), der sich spekulativ nen haupt? Welche Bewegungen im Weltall sollen denn
       <lb facs="#facs_3_region_1709374068051_1120_tl_2" n="N002"/>wiederklingen in der Musik? Etwa die der Himmels¬
       <lb facs="#facs_3_region_1709374068051_1120_tl_3" n="N003"/>körper? Wäre die Musik eine tönende Astronomie

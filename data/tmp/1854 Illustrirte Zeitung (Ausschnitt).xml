@@ -3,7 +3,8 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
-            <title level="a"/>
+            <title level="a">
+      No. 599. Erscheint jeden Sonnabend. — Leipzig, 23. December 1854. — Vierteljährlicher Preis 2 Thlr. XXIII. Band.</title>
             <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
@@ -72,12 +73,14 @@
             <listBibl>
                <biblStruct>
                   <analytic>
-                     <title/>
+                     <title>
+      No. 599. Erscheint jeden Sonnabend. — Leipzig, 23. December 1854. — Vierteljährlicher Preis 2 Thlr. XXIII. Band.</title>
                      <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
                   </analytic>
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
-                     <title type="sub"/>
+                     <title type="sub">
+      Illustrirte Zeitung</title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person">Etienne, Michael</name>
@@ -85,7 +88,7 @@
                      </respStmt>
                      <imprint>
                         <pubPlace/>
-                        <date when=""/>
+                        <date/>
                      </imprint>
                   </monogr>
                </biblStruct>
@@ -337,12 +340,9 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <p facs="#facs_1_region_1709372234115_254">
-               <lb facs="#facs_1_line_1709372479597_296" n="N001"/>Illustrirte Zeitung</p>
-            <p facs="#facs_1_region_1709372237291_257">
-               <lb facs="#facs_1_line_1709372493380_304" n="N001"/>No. 599. Erscheint jeden Sonnabend. — Leipzig, 23. December 1854. — Vierteljährlicher Preis 2 Thlr. XXIII. Band.</p>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <p facs="#facs_2_region_1709372669268_416">
+            <cb n="1"/>
+            <p>
                <lb facs="#facs_2_region_1709372669268_416_tl_1" n="N001"/>„Vom Musikalisch=Schönen. Ein Beitrag zur Revi¬
       <lb facs="#facs_2_region_1709372669268_416_tl_2" n="N002"/>sion der Aesthetik der Tonkunst, von Dr. Eduard Hanslick.“
       <lb facs="#facs_2_region_1709372669268_416_tl_3" n="N003"/>sucht in dem vorliegenden Schriftchen

@@ -3,7 +3,8 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
-            <title level="a"/>
+            <title level="a">
+      osit-Zeitung,</title>
             <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
@@ -72,12 +73,14 @@
             <listBibl>
                <biblStruct>
                   <analytic>
-                     <title/>
+                     <title>
+      osit-Zeitung,</title>
                      <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
                   </analytic>
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
-                     <title type="sub"/>
+                     <title type="sub">
+      Vierter Jahrgang Nr. 21. dies auch ein gere og 24. Mai 1855.</title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person">Etienne, Michael</name>
@@ -85,7 +88,7 @@
                      </respStmt>
                      <imprint>
                         <pubPlace/>
-                        <date when=""/>
+                        <date/>
                      </imprint>
                   </monogr>
                </biblStruct>
@@ -392,11 +395,8 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <p facs="#facs_1_region_1709375017978_1457">
-               <lb facs="#facs_1_line_1709382154153_2407" n="N001"/>Vierter Jahrgang Nr. 21. dies auch ein gere og 24. Mai 1855.</p>
-            <p facs="#facs_1_TextRegion_1709375025193_1462">
-               <lb facs="#facs_1_line_1709382187608_2435" n="N001"/>osit-Zeitung,</p>
-            <p facs="#facs_1_region_1709375039906_1465">
+            <cb n="1"/>
+            <p>
                <lb facs="#facs_1_region_1709375039906_1465_tl_1" n="N001"/>Ein Beitrag zu
       <lb facs="#facs_1_region_1709375039906_1465_tl_2" n="N002"/>„Vom Musikalisch=Schönen“.
       <lb facs="#facs_1_region_1709375039906_1465_tl_3" n="N003"/>Revision der Aesthetik der Tonkunst. Von Dr. Eduard
@@ -434,7 +434,8 @@
       <lb facs="#facs_1_region_1709375039906_1465_tl_35" n="N035"/>freundlichen Publikums zu empfehlen.
       <lb facs="#facs_1_region_1709375039906_1465_tl_36" n="N036"/>Inwieferne es vor allem die objektive Erkenntniß des mu¬
       <lb facs="#facs_1_region_1709375039906_1465_tl_37" n="N037"/>sikalisch=Schönen als Produkt der schaffenden Phantasie gegen</p>
-            <p facs="#facs_1_region_1709375043722_1468">
+            <cb n="2"/>
+            <p>
                <lb facs="#facs_1_region_1709375043722_1468_tl_1" n="N001"/>über der bisherigen Gefühlsästhetik zu vermitteln sucht, tritt e¬
       <lb facs="#facs_1_region_1709375043722_1468_tl_2" n="N002"/>mit Schärfe manchem eingewurzelten Irrthume über das Weser
       <lb facs="#facs_1_region_1709375043722_1468_tl_3" n="N003"/>der Tonkunst entgegen; inwieferne es die neu auftauchende An¬
@@ -474,7 +475,8 @@
       <lb facs="#facs_1_region_1709375043722_1468_tl_37" n="N037"/>zugleich als tönendes Abbild der großen Bewegun¬
       <lb facs="#facs_1_region_1709375043722_1468_tl_38" n="N038"/>gen im Weltall“ — dann: „Durch tiefe und geheim¬</p>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <p facs="#facs_2_region_1709375060715_1474">
+            <cb n="3"/>
+            <p>
                <lb facs="#facs_2_region_1709375060715_1474_tl_1" n="N001"/>Naturbeziehungen steigert sich die Bedeutung der
       <lb facs="#facs_2_region_1709375060715_1474_tl_2" n="N002"/>Töne hoch über sie selbst hinaus und läßt uns in dem
       <lb facs="#facs_2_region_1709375060715_1474_tl_3" n="N003"/>Werke menschlichen Talents immer zugleich das Unendliche

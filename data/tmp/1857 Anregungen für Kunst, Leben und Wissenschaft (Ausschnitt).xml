@@ -3,7 +3,37 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
-            <title level="a"/>
+            <title level="a">
+      Ueber das musikalisch Schöne
+      von
+      Dr. Adolf Kullak.
+      Die Untersuchungen über das musikalisch Schöne sind mit den ver¬
+      dienstlichen Bemühungen der letzten Zeit keineswegs erledigt. Die Par¬
+      teiungen der Gegenwart, die Zerklüftung jetziger Kunstrichtungen beweisen
+      dies am besten. Der junge Komponist ist nicht minder übel daran, als
+      der begeisterte Dilettant. Dieser steht mit seinem Enthusiasmus in der
+      Schwebe zwischen alter und neuer Anschauung, jener gewiß empfänglich
+      und erfüllt von dem Gesammtumfange der Kunst, weiß nicht, ob Zopfmusik
+      oder Zukunftsmusik in den entscheidenden Erstlingen seiner Production
+      ihm günstiger eine Laufbahn eröffnen. Die Aesthetik der Tonkunst selbst
+      aber ist eigentlich in dem Bewußtsein, daß sie noch am Anfange ihrer
+      Forschung stehe, zu ihrem höchsten Resultat gelangt.
+      Die Musik hat in den Theorien der allgemeinen Kunstlehre von jeher
+      Unglück gehabt. Hegel's Genie für das Allgemeine ästhetischer Er¬
+      kenntniß und sein reiches Wissen in den anderen Kunstgebieten wiegen die
+      Lücken und das Unvollkommne nicht auf, das sich in dem speciellen Theile
+      der Musik bei ihm vorfindet. Er mag sich wol mit Recht darüber be¬
+      klagen, daß die Unbildung der praktischen Musiker damaliger Zeit ihm jede
+      tiefere Aufklärung versagt hat. Sein fleißiger und genialer Schüler
+      Vischer steht in einem ähnlichen Falle. Reicher, kritischer und fleißiger hat
+      er das Hegelsche Material gesichtet, verbessert und ergänzt. Aber gerade
+      die Musik hat der treffliche Autor zum größeren Theile fremden Händen
+      überlassen müssen und in den wenigen Auseinandersetzungen, die aus seinem
+      eigenen Geiste geflossen sind, bewegt er sich einestheils befangener als
+      sonst, anderentheils verweist er auf das, was gerade noch zu thun sei,
+      wozu er nichts weiter gebe als Andeutungen und Anfänge.
+      Wenn es nun nicht recht logisch erscheint, den allgemeinen Schön¬
+      heitsbegriff in einer ausführlichen Wissenschaft zu behandeln, während doch</title>
             <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
@@ -72,12 +102,58 @@
             <listBibl>
                <biblStruct>
                   <analytic>
-                     <title/>
+                     <title>
+      Ueber das musikalisch Schöne
+      von
+      Dr. Adolf Kullak.
+      Die Untersuchungen über das musikalisch Schöne sind mit den ver¬
+      dienstlichen Bemühungen der letzten Zeit keineswegs erledigt. Die Par¬
+      teiungen der Gegenwart, die Zerklüftung jetziger Kunstrichtungen beweisen
+      dies am besten. Der junge Komponist ist nicht minder übel daran, als
+      der begeisterte Dilettant. Dieser steht mit seinem Enthusiasmus in der
+      Schwebe zwischen alter und neuer Anschauung, jener gewiß empfänglich
+      und erfüllt von dem Gesammtumfange der Kunst, weiß nicht, ob Zopfmusik
+      oder Zukunftsmusik in den entscheidenden Erstlingen seiner Production
+      ihm günstiger eine Laufbahn eröffnen. Die Aesthetik der Tonkunst selbst
+      aber ist eigentlich in dem Bewußtsein, daß sie noch am Anfange ihrer
+      Forschung stehe, zu ihrem höchsten Resultat gelangt.
+      Die Musik hat in den Theorien der allgemeinen Kunstlehre von jeher
+      Unglück gehabt. Hegel's Genie für das Allgemeine ästhetischer Er¬
+      kenntniß und sein reiches Wissen in den anderen Kunstgebieten wiegen die
+      Lücken und das Unvollkommne nicht auf, das sich in dem speciellen Theile
+      der Musik bei ihm vorfindet. Er mag sich wol mit Recht darüber be¬
+      klagen, daß die Unbildung der praktischen Musiker damaliger Zeit ihm jede
+      tiefere Aufklärung versagt hat. Sein fleißiger und genialer Schüler
+      Vischer steht in einem ähnlichen Falle. Reicher, kritischer und fleißiger hat
+      er das Hegelsche Material gesichtet, verbessert und ergänzt. Aber gerade
+      die Musik hat der treffliche Autor zum größeren Theile fremden Händen
+      überlassen müssen und in den wenigen Auseinandersetzungen, die aus seinem
+      eigenen Geiste geflossen sind, bewegt er sich einestheils befangener als
+      sonst, anderentheils verweist er auf das, was gerade noch zu thun sei,
+      wozu er nichts weiter gebe als Andeutungen und Anfänge.
+      Wenn es nun nicht recht logisch erscheint, den allgemeinen Schön¬
+      heitsbegriff in einer ausführlichen Wissenschaft zu behandeln, während doch</title>
                      <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
                   </analytic>
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
-                     <title type="sub"/>
+                     <title type="sub">
+      Anregungen
+      Kunst, Leben
+      und Win¬
+      enschaft.
+      Unter Mitwirkung von Schriftstellern und Künstlern
+      herausgegeben
+      tynä
+      Joida
+      11
+      Pohl.
+      Franz Brendel und Richard
+      Zweiter Band.
+      (Jahrgang 1857.
+      Leipzig,
+      Verlag von C. Merseburger.
+      1857.</title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person">Etienne, Michael</name>
@@ -85,7 +161,7 @@
                      </respStmt>
                      <imprint>
                         <pubPlace/>
-                        <date when=""/>
+                        <date/>
                      </imprint>
                   </monogr>
                </biblStruct>
@@ -889,57 +965,10 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <p facs="#facs_1_region_1709376494471_1917">
-               <lb facs="#facs_1_region_1709376494471_1917_tl_1" n="N001"/>Anregungen
-      <lb facs="#facs_1_region_1709376494471_1917_tl_2" n="N002"/>Kunst, Leben
-      <lb facs="#facs_1_region_1709376494471_1917_tl_3" n="N003"/>und Win¬
-      <lb facs="#facs_1_region_1709376494471_1917_tl_4" n="N004"/>enschaft.
-      <lb facs="#facs_1_region_1709376494471_1917_tl_5" n="N005"/>Unter Mitwirkung von Schriftstellern und Künstlern
-      <lb facs="#facs_1_region_1709376494471_1917_tl_6" n="N006"/>herausgegeben
-      <lb facs="#facs_1_region_1709376494471_1917_tl_7" n="N007"/>tynä
-      <lb facs="#facs_1_region_1709376494471_1917_tl_8" n="N008"/>Joida
-      <lb facs="#facs_1_region_1709376494471_1917_tl_9" n="N009"/>11
-      <lb facs="#facs_1_region_1709376494471_1917_tl_10" n="N010"/>Pohl.
-      <lb facs="#facs_1_region_1709376494471_1917_tl_11" n="N011"/>Franz Brendel und Richard
-      <lb facs="#facs_1_region_1709376494471_1917_tl_12" n="N012"/>Zweiter Band.
-      <lb facs="#facs_1_region_1709376494471_1917_tl_13" n="N013"/>(Jahrgang 1857.
-      <lb facs="#facs_1_region_1709376494471_1917_tl_14" n="N014"/>Leipzig,
-      <lb facs="#facs_1_region_1709376494471_1917_tl_15" n="N015"/>Verlag von C. Merseburger.
-      <lb facs="#facs_1_region_1709376494471_1917_tl_16" n="N016"/>1857.</p>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <p facs="#facs_2_region_1709376529138_1923">
-               <lb facs="#facs_2_region_1709376529138_1923_tl_1" n="N001"/>Ueber das musikalisch Schöne
-      <lb facs="#facs_2_region_1709376529138_1923_tl_2" n="N002"/>von
-      <lb facs="#facs_2_region_1709376529138_1923_tl_3" n="N003"/>Dr. Adolf Kullak.
-      <lb facs="#facs_2_region_1709376529138_1923_tl_4" n="N004"/>Die Untersuchungen über das musikalisch Schöne sind mit den ver¬
-      <lb facs="#facs_2_region_1709376529138_1923_tl_5" n="N005"/>dienstlichen Bemühungen der letzten Zeit keineswegs erledigt. Die Par¬
-      <lb facs="#facs_2_region_1709376529138_1923_tl_6" n="N006"/>teiungen der Gegenwart, die Zerklüftung jetziger Kunstrichtungen beweisen
-      <lb facs="#facs_2_region_1709376529138_1923_tl_7" n="N007"/>dies am besten. Der junge Komponist ist nicht minder übel daran, als
-      <lb facs="#facs_2_region_1709376529138_1923_tl_8" n="N008"/>der begeisterte Dilettant. Dieser steht mit seinem Enthusiasmus in der
-      <lb facs="#facs_2_region_1709376529138_1923_tl_9" n="N009"/>Schwebe zwischen alter und neuer Anschauung, jener gewiß empfänglich
-      <lb facs="#facs_2_region_1709376529138_1923_tl_10" n="N010"/>und erfüllt von dem Gesammtumfange der Kunst, weiß nicht, ob Zopfmusik
-      <lb facs="#facs_2_region_1709376529138_1923_tl_11" n="N011"/>oder Zukunftsmusik in den entscheidenden Erstlingen seiner Production
-      <lb facs="#facs_2_region_1709376529138_1923_tl_12" n="N012"/>ihm günstiger eine Laufbahn eröffnen. Die Aesthetik der Tonkunst selbst
-      <lb facs="#facs_2_region_1709376529138_1923_tl_13" n="N013"/>aber ist eigentlich in dem Bewußtsein, daß sie noch am Anfange ihrer
-      <lb facs="#facs_2_region_1709376529138_1923_tl_14" n="N014"/>Forschung stehe, zu ihrem höchsten Resultat gelangt.
-      <lb facs="#facs_2_region_1709376529138_1923_tl_15" n="N015"/>Die Musik hat in den Theorien der allgemeinen Kunstlehre von jeher
-      <lb facs="#facs_2_region_1709376529138_1923_tl_16" n="N016"/>Unglück gehabt. Hegel's Genie für das Allgemeine ästhetischer Er¬
-      <lb facs="#facs_2_region_1709376529138_1923_tl_17" n="N017"/>kenntniß und sein reiches Wissen in den anderen Kunstgebieten wiegen die
-      <lb facs="#facs_2_region_1709376529138_1923_tl_18" n="N018"/>Lücken und das Unvollkommne nicht auf, das sich in dem speciellen Theile
-      <lb facs="#facs_2_region_1709376529138_1923_tl_19" n="N019"/>der Musik bei ihm vorfindet. Er mag sich wol mit Recht darüber be¬
-      <lb facs="#facs_2_region_1709376529138_1923_tl_20" n="N020"/>klagen, daß die Unbildung der praktischen Musiker damaliger Zeit ihm jede
-      <lb facs="#facs_2_region_1709376529138_1923_tl_21" n="N021"/>tiefere Aufklärung versagt hat. Sein fleißiger und genialer Schüler
-      <lb facs="#facs_2_region_1709376529138_1923_tl_22" n="N022"/>Vischer steht in einem ähnlichen Falle. Reicher, kritischer und fleißiger hat
-      <lb facs="#facs_2_region_1709376529138_1923_tl_23" n="N023"/>er das Hegelsche Material gesichtet, verbessert und ergänzt. Aber gerade
-      <lb facs="#facs_2_region_1709376529138_1923_tl_24" n="N024"/>die Musik hat der treffliche Autor zum größeren Theile fremden Händen
-      <lb facs="#facs_2_region_1709376529138_1923_tl_25" n="N025"/>überlassen müssen und in den wenigen Auseinandersetzungen, die aus seinem
-      <lb facs="#facs_2_region_1709376529138_1923_tl_26" n="N026"/>eigenen Geiste geflossen sind, bewegt er sich einestheils befangener als
-      <lb facs="#facs_2_region_1709376529138_1923_tl_27" n="N027"/>sonst, anderentheils verweist er auf das, was gerade noch zu thun sei,
-      <lb facs="#facs_2_region_1709376529138_1923_tl_28" n="N028"/>wozu er nichts weiter gebe als Andeutungen und Anfänge.
-      <lb facs="#facs_2_region_1709376529138_1923_tl_29" n="N029"/>Wenn es nun nicht recht logisch erscheint, den allgemeinen Schön¬
-      <lb facs="#facs_2_region_1709376529138_1923_tl_30" n="N030"/>heitsbegriff in einer ausführlichen Wissenschaft zu behandeln, während doch</p>
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-            <p facs="#facs_3_region_1709376541146_1929">
+            <cb n="1"/>
+            <p>
                <lb facs="#facs_3_region_1709376541146_1929_tl_1" n="N001"/>ein Theil desselben, die Musik, einer genügenden Durchdringung dabei ent¬
       <lb facs="#facs_3_region_1709376541146_1929_tl_2" n="N002"/>behren mußte, so hätte man erwarten sollen, daß die speciellen Versuche
       <lb facs="#facs_3_region_1709376541146_1929_tl_3" n="N003"/>einer musikalischen Aesthetik jenes Allgemeine nicht unbedingt voraussetzen
@@ -979,7 +1008,8 @@
       <lb facs="#facs_3_region_1709376541146_1929_tl_37" n="N037"/>schätzung entgegen halten? Und gleichwol muß es geschehen. Die musi¬
       <lb facs="#facs_3_region_1709376541146_1929_tl_38" n="N038"/>kalische Aesthetik hat eben so sehr den Zweck auf das Allgemeine noch ein¬</p>
             <pb facs="#facs_4" n="4" xml:id="img_0004"/>
-            <p facs="#facs_4_region_1709376564042_1935">
+            <cb n="2"/>
+            <p>
                <lb facs="#facs_4_region_1709376564042_1935_tl_1" n="N001"/>mal zurückzugehen, als sie umgekehrt die Besonderheit von jenem Gesichts¬
       <lb facs="#facs_4_region_1709376564042_1935_tl_2" n="N002"/>puncte aus zu beurtheilen und ausführlicher zu behandeln hat.
       <lb facs="#facs_4_region_1709376564042_1935_tl_3" n="N003"/>Die allgemeine Aesthetik geht in den eigentlichen Streitpunkt der
@@ -1019,7 +1049,8 @@
       <lb facs="#facs_4_region_1709376564042_1935_tl_37" n="N037"/>spruch entsteht. „Die Musik solle keinen Inhalt haben, aber die Form sei
       <lb facs="#facs_4_region_1709376564042_1935_tl_38" n="N038"/>am letzten Ende doch ihr Inhalt." An anderen Stellen giebt aber Vi¬</p>
             <pb facs="#facs_5" n="5" xml:id="img_0005"/>
-            <p facs="#facs_5_region_1709376587650_1941">
+            <cb n="3"/>
+            <p>
                <lb facs="#facs_5_region_1709376587650_1941_tl_1" n="N001"/>scher Hanslick wieder Recht, ja neigt sich in gewissem Sinne ihm ein
       <lb facs="#facs_5_region_1709376587650_1941_tl_2" n="N002"/>wenig entgegen.
       <lb facs="#facs_5_region_1709376587650_1941_tl_3" n="N003"/>Sehr richtig hat Vischer erkannt, daß die Schönheitsidee der Musik
@@ -1060,7 +1091,8 @@
       <lb facs="#facs_5_region_1709376587650_1941_tl_38" n="N038"/>Kreis=Bewegung des Gedankens, die mit einer Selbsttäuschung sehr nah
       <lb facs="#facs_5_region_1709376587650_1941_tl_39" n="N039"/>zusammenhängt. Außerdem ist die Vischer'sche Theorie nur zum Theil</p>
             <pb facs="#facs_6" n="6" xml:id="img_0006"/>
-            <p facs="#facs_6_region_1709376602290_1947">
+            <cb n="4"/>
+            <p>
                <lb facs="#facs_6_region_1709376602290_1947_tl_1" n="N001"/>richtig. Das Gefühl ist nur in einem sehr weit vorgerückten, krankhaft ro¬
       <lb facs="#facs_6_region_1709376602290_1947_tl_2" n="N002"/>mantischen Zustande zu solcher Inhaltsunsicherheit oder Inhaltslosigkeit
       <lb facs="#facs_6_region_1709376602290_1947_tl_3" n="N003"/>gelangt. Vischer giebt nur einen speciellen Fall der Gefühlserscheinungen.
@@ -1101,7 +1133,8 @@
       <lb facs="#facs_6_region_1709376602290_1947_tl_38" n="N038"/>denden Künsten, doch aber ist er in zweitem Grade vorhanden, und die
       <lb facs="#facs_6_region_1709376602290_1947_tl_39" n="N039"/>Empirie und der Instinct des Gehöres schöpfen unaufhörlich aus dieser</p>
             <pb facs="#facs_7" n="7" xml:id="img_0007"/>
-            <p facs="#facs_7_region_1709376620346_1953">
+            <cb n="5"/>
+            <p>
                <lb facs="#facs_7_region_1709376620346_1953_tl_1" n="N001"/>Quelle. Das Gehör ist im Gegensatz gegen das Auge der Sinn der Ein¬
       <lb facs="#facs_7_region_1709376620346_1953_tl_2" n="N002"/>bildungskraft. Der Gesichtssinn ist der Sinn der prosaischen Gewißheit,
       <lb facs="#facs_7_region_1709376620346_1953_tl_3" n="N003"/>wenigstens im allgemeinen. Dem Gehörssinn die Thätigkeit der Einbil¬

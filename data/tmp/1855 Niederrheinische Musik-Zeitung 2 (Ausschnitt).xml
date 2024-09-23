@@ -3,7 +3,10 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
-            <title level="a"/>
+            <title level="a">
+      III. Jahrgang.
+      KÖLN, 24. März 1855.
+      Nr. 12.</title>
             <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
@@ -72,12 +75,17 @@
             <listBibl>
                <biblStruct>
                   <analytic>
-                     <title/>
+                     <title>
+      III. Jahrgang.
+      KÖLN, 24. März 1855.
+      Nr. 12.</title>
                      <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
                   </analytic>
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
-                     <title type="sub"/>
+                     <title type="sub">
+      Niederrheinische Musik-Zeitung
+      für Kunstfreunde und Künstler.</title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person">Etienne, Michael</name>
@@ -85,7 +93,7 @@
                      </respStmt>
                      <imprint>
                         <pubPlace/>
-                        <date when=""/>
+                        <date/>
                      </imprint>
                   </monogr>
                </biblStruct>
@@ -773,14 +781,8 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <p facs="#facs_1_region_1709376053701_1765">
-               <lb facs="#facs_1_region_1709376053701_1765_tl_1" n="N001"/>Niederrheinische Musik-Zeitung
-      <lb facs="#facs_1_region_1709376053701_1765_tl_2" n="N002"/>für Kunstfreunde und Künstler.</p>
-            <p facs="#facs_1_region_1709376057002_1768">
-               <lb facs="#facs_1_region_1709376057002_1768_tl_1" n="N001"/>III. Jahrgang.
-      <lb facs="#facs_1_region_1709376057002_1768_tl_2" n="N002"/>KÖLN, 24. März 1855.
-      <lb facs="#facs_1_region_1709376057002_1768_tl_3" n="N003"/>Nr. 12.</p>
-            <p facs="#facs_1_region_1709376061810_1771">
+            <cb n="1"/>
+            <p>
                <lb facs="#facs_1_region_1709376061810_1771_tl_1" n="N001"/>Stimmen der Kritik über Richard Wagner.
       <lb facs="#facs_1_region_1709376061810_1771_tl_2" n="N002"/>Wir gehen zu Ed. Hanslick über. Seine ganze
       <lb facs="#facs_1_region_1709376061810_1771_tl_3" n="N003"/>Schrift „Vom Musicalisch-Schönen“ ist ein Protest gegen
@@ -817,7 +819,8 @@
       <lb facs="#facs_1_region_1709376061810_1771_tl_34" n="N034"/>schöne Musik sein. — Das Augenmerk des echten Opern¬
       <lb facs="#facs_1_region_1709376061810_1771_tl_35" n="N035"/>Componisten wird ein stetes Verbinden und Vermitteln
       <lb facs="#facs_1_region_1709376061810_1771_tl_36" n="N036"/>beider Forderungen sein, niemals ein principiel unverhält¬</p>
-            <p facs="#facs_1_region_1709376066426_1774">
+            <cb n="2"/>
+            <p>
                <lb facs="#facs_1_region_1709376066426_1774_tl_1" n="N001"/>nissmässiges Vorherrschen der einen. Im Zweifel wird er
       <lb facs="#facs_1_region_1709376066426_1774_tl_2" n="N002"/>sich für die Bevorzugung der musicalischen entschei¬
       <lb facs="#facs_1_region_1709376066426_1774_tl_3" n="N003"/>den; denn die Oper ist vorerst Musik, nicht
@@ -857,7 +860,8 @@
       <lb facs="#facs_1_region_1709376066426_1774_tl_37" n="N037"/>unseren Artikeln über Gluck und in der kritischen Analyse
       <lb facs="#facs_1_region_1709376066426_1774_tl_38" n="N038"/>von Wagner's „Tannhäuser“ in diesen Blättern.</p>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <p facs="#facs_2_region_1709376079410_1780">
+            <cb n="3"/>
+            <p>
                <lb facs="#facs_2_region_1709376079410_1780_tl_1" n="N001"/>Theorien, welche der Musik die Entwicklungs- und Con¬
       <lb facs="#facs_2_region_1709376079410_1780_tl_2" n="N002"/>structions-Gesetze der Sprache aufdringen wollen, wie es
       <lb facs="#facs_2_region_1709376079410_1780_tl_3" n="N003"/>in älterer Zeit Rousseau und Rameau gethan, in neue¬
@@ -905,7 +909,8 @@
       <lb facs="#facs_2_region_1709376079410_1780_tl_45" n="N045"/>Wagner.
       <lb facs="#facs_2_region_1709376079410_1780_tl_46" n="N046"/>Ist das eine Widerlegung? Man definire uns doch
       <lb facs="#facs_2_region_1709376079410_1780_tl_47" n="N047"/>diese neue Schönheit; man zeige uns vor Allem ihre Kri¬</p>
-            <p facs="#facs_2_region_1709376084970_1783">
+            <cb n="4"/>
+            <p>
                <lb facs="#facs_2_region_1709376084970_1783_tl_1" n="N001"/>terien als musicalische Schönheit. Denn wenn wir auch
       <lb facs="#facs_2_region_1709376084970_1783_tl_2" n="N002"/>momentan auf die so genannten Principe der Wagner-Secte
       <lb facs="#facs_2_region_1709376084970_1783_tl_3" n="N003"/>eingehen wollen, wonach „nur die specifisch musica¬
@@ -955,7 +960,8 @@
       <lb facs="#facs_2_region_1709376084970_1783_tl_47" n="N047"/>wendige Folge.“ — Dann müsst ihr, um Gluck total zu
       <lb facs="#facs_2_region_1709376084970_1783_tl_48" n="N048"/>schlagen, Göthe's Iphigenie componiren, d. h. das Gedicht</p>
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-            <p facs="#facs_3_region_1709376095850_1789">
+            <cb n="5"/>
+            <p>
                <lb facs="#facs_3_region_1709376095850_1789_tl_1" n="N001"/>sich selbst musicalisch wiedererzeugen lassen, etwa à la
       <lb facs="#facs_3_region_1709376095850_1789_tl_2" n="N002"/>Louis Köhler. —
       <lb facs="#facs_3_region_1709376095850_1789_tl_3" n="N003"/>Das geht zu weit, das ist ein Missverständniss. Um
