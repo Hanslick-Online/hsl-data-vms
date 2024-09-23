@@ -104,12 +104,12 @@
             <listBibl xmlns="http://www.tei-c.org/ns/1.0">
                 <biblStruct xmlns="http://www.tei-c.org/ns/1.0">
                     <analytic xmlns="http://www.tei-c.org/ns/1.0">
-                        <title xmlns="http://www.tei-c.org/ns/1.0"><xsl:value-of select="//tei:body/tei:div/tei:ab[2]//text()"/></title>
+                        <title xmlns="http://www.tei-c.org/ns/1.0"><xsl:value-of select="//tei:body/tei:div/tei:p[2]//text()"/></title>
                         <author xmlns="http://www.tei-c.org/ns/1.0" ref="#hsl_person_id_1">Hanslick, Eduard</author>
                     </analytic>
                     <monogr xmlns="http://www.tei-c.org/ns/1.0">
                         <title type="main">Neue Freie Presse</title>
-                        <title type="sub"><xsl:value-of select="//tei:body/tei:div/tei:ab[1]//text()"/></title>
+                        <title type="sub"><xsl:value-of select="//tei:body/tei:div/tei:p[1]//text()"/></title>
                         <respStmt>
                             <resp>Herausgegeben von</resp>
                             <name type="person">Etienne, Michael</name>
@@ -117,7 +117,7 @@
                         </respStmt>
                         <imprint>
                             <pubPlace><xsl:value-of select="//tei:body/tei:div/tei:ab[2]/tei:rs[@type='place']"/></pubPlace>
-                            <date when="{//tei:body/tei:div/tei:ab[2]/tei:date}"><xsl:value-of select="//tei:body/tei:div/tei:ab[2]/tei:date"/></date>
+                            <date><xsl:value-of select="//tei:body/tei:div/tei:p[2]/tei:date"/></date>
                         </imprint>
                     </monogr>
                 </biblStruct>
@@ -128,7 +128,7 @@
     <xsl:template match="tei:titleStmt">
         <xsl:copy>
             <title xmlns="http://www.tei-c.org/ns/1.0" level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
-            <title xmlns="http://www.tei-c.org/ns/1.0" level="a"><xsl:value-of select="//tei:body/tei:div/tei:ab[2]//text()"/></title>
+            <title xmlns="http://www.tei-c.org/ns/1.0" level="a"><xsl:value-of select="//tei:body/tei:div/tei:p[2]//text()"/></title>
             <author xmlns="http://www.tei-c.org/ns/1.0" ref="#hsl_person_id_1">Hanslick, Eduard</author>
             <editor xmlns="http://www.tei-c.org/ns/1.0">
                 <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
@@ -174,8 +174,8 @@
         </xsl:copy>
     </xsl:template>
     
-    <xsl:template match="tei:body/tei:div/tei:ab[1]"/>
-    <xsl:template match="tei:body/tei:div/tei:ab[2]"/>
+    <xsl:template match="tei:body/tei:div/tei:p[1]"/>
+    <xsl:template match="tei:body/tei:div/tei:p[2]"/>
     
     <xsl:template match="tei:body/tei:div">
         <div xmlns="http://www.tei-c.org/ns/1.0">
@@ -184,9 +184,9 @@
             </xsl:for-each-group>
         </div>
     </xsl:template>
-    <xsl:variable name="ab" select="//tei:ab"/>
-    <xsl:template match="tei:ab">
-        <xsl:variable name="pos" select="index-of($ab/@facs, @facs)"/>
+    <xsl:variable name="p" select="//tei:p"/>
+    <xsl:template match="tei:p">
+        <xsl:variable name="pos" select="index-of($p/@facs, @facs)"/>
         <cb xmlns="http://www.tei-c.org/ns/1.0" n="{$pos - 2}"/>
         <p xmlns="http://www.tei-c.org/ns/1.0"><xsl:apply-templates/></p>
     </xsl:template>
