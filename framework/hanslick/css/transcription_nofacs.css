@@ -1,0 +1,216 @@
+/*  @import "css-tei-framework/tei_oxygen.css"; */
+
+/* Transkriptionsansicht */
+
+TEI {
+    background-color: #f1f1f1;
+}
+
+teiHeader {
+    display:block;
+    background-color: azure;
+    margin: 0 20%;
+    padding: 4em;
+}
+
+titleStmt title {
+    display:block;
+    font-weight:bold;
+    font-size:x-large;
+    margin-bottom:20px;
+}
+
+sourceDesc, encodingDesc {
+    display:none;
+}
+
+listWit witness {
+    display: none;
+}
+
+respStmt, profileDesc, revisionDesc, seriesStmt, sourceDesc listBibl, msDesc, editor, author, funder, editionStmt {
+    display:none;
+}
+
+publisher, pubPlace, licence {
+    display:none;
+}
+
+publicationStmt {
+    display:none;
+}
+
+availability {
+    display:none;
+}
+
+
+publicationStmt {
+    display:none;
+}
+
+/* publicationStmt idno[subtype='legalkraus']:after {
+    display:inline-block;
+    content:' [ansehen]'; 
+    link:oxy_xpath("concat('https://legalkraus.acdh-dev.oeaw.ac.at/manage.html?id=',substring-after(./text(),'https://legalkraus.acdh.oeaw.ac.at/id/'))");
+}
+
+publicationStmt idno[subtype='krausonline']:after {
+    display:inline-block;
+    content:' [ansehen]'; 
+    link:oxy_xpath("./text()");
+} */
+
+/* publicationStmt idno[subtype='transkribus'] {
+    display:none;
+} */
+
+text {
+    display:block;
+    margin: 0 20%;
+    padding: 4em;
+    border: 1px solid #f1f1f1;
+    background-color: #fff;
+}
+
+facsimile {
+    display:none;
+    background-color: #f1f1f1;
+    margin: 0 20%;
+    padding: 4em;
+}
+
+
+/* Facsimiles */
+graphic {
+    content: attr(url);
+}
+
+
+/*  Transkription */
+
+lb {
+    display: block;
+}
+
+pb {
+   display: none;
+}
+
+/* lb {
+    content: "\A";
+} */
+
+
+/* lb:after {
+    display:inline-block;
+    content:oxy_xpath("count(./preceding::lb)+1");
+    font-size:xx-small;
+    padding-right:30px;
+    color:gray;
+}
+
+lb[break='no']:before {
+    display:inline-block;
+    content:"-";
+    background-color:orange;
+} */
+
+/* pb {
+    display:block;
+    content:oxy_xpath("concat('[Seite ',./@n,']')");
+    color:gray;
+    margin-top:16px;
+    margin-bottom:12px;
+    
+} */
+
+fw[type="pageNum"] {
+    display: block;
+    margin-bottom:0;
+    text-align: right;
+    position: absolute;
+    margin-right: -15em;
+}
+
+p {
+    display:block;
+    margin-top:1em;
+    margin-bottom:1em;
+    text-align: justify;
+}
+
+rs[type='person'] {
+    background-color: #BBFBA8;
+}
+
+rs[type='place'] {
+    background-color: #FBE1A8;
+}
+
+rs[type='bibl'] {
+    background-color: #f1f1f1; 
+}
+
+hi[rendition="#smallcaps"] {
+    letter-spacing: 3pt;
+}
+
+hi[rendition="uppercase"] {
+    text-transform: uppercase;
+}
+
+hi[rendition='#spaced'] {
+    letter-spacing: 3pt;
+}
+
+hi[rendition='spaced'] {
+    letter-spacing: 3pt;
+}
+
+hi[rendition='#em'] {
+    font-style: italic;
+}
+
+hi[rendition='italic'] {
+    font-style: italic;
+}
+
+hi[rendition='#bold'] {
+    font-weight: bold;
+}
+
+hi[rendition='bold'] {
+    font-weight: bold;
+}
+
+hi[rendition='#underlined'] {
+    text-decoration: underline;
+}
+
+hi[rendition='underlined'] {
+    text-decoration: underline;
+}
+
+note {
+    padding: .5em;
+    background-color: #f1f1f1;    
+    display: inline-block;
+}
+
+term {
+    background-color: #f6efb4;
+}
+
+note[type="footnote-index"] {
+    vertical-align: sub;
+    font-size: smaller;
+}
+
+note[type="inlinequote"] {
+    font-style: italic;
+}
+
+date {
+    text-decoration: underline;
+}
