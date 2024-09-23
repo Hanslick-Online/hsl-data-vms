@@ -8,7 +8,7 @@
     <xsl:output encoding="UTF-8" media-type="text/xml" method="xml" indent="yes" omit-xml-declaration="yes"/>
     
     <xsl:template match="/">
-        <xsl:variable name="file" select="replace(translate(replace(//tei:titleStmt/tei:title[1]/text(), '[\s,']', '_'), '.', ''), '[()]', '')"/>
+        <xsl:variable name="file" select="replace(replace(string-join(//tei:titleStmt/tei:title[1], ''), '[^a-zA-Z\däöü()]', '_'), '[()]', '')"/>
         <xsl:result-document href="{$file}.xml" method="xml">
             <xsl:text disable-output-escaping='yes'>&lt;?xml version="1.0" encoding="UTF-8"?&gt;</xsl:text>
             <xsl:copy>
