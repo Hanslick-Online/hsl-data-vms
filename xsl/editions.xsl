@@ -8,7 +8,7 @@
     <xsl:output encoding="UTF-8" media-type="text/xml" method="xml" indent="yes" omit-xml-declaration="yes"/>
     
     <xsl:template match="/">
-        <xsl:variable name="file" select="//tei:titleStmt/tei:title[1]/text()"/>
+        <xsl:variable name="file" select="translate(//tei:titleStmt/tei:title[1]/text(), ' ', '_')"/>
         <xsl:result-document href="{$file}.xml" method="xml">
             <xsl:text disable-output-escaping='yes'>&lt;?xml version="1.0" encoding="UTF-8"?&gt;</xsl:text>
             <xsl:copy>
