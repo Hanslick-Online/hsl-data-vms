@@ -128,7 +128,7 @@
     <xsl:template match="tei:titleStmt">
         <xsl:copy>
             <title xmlns="http://www.tei-c.org/ns/1.0" level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
-            <title xmlns="http://www.tei-c.org/ns/1.0" level="a"><xsl:value-of select="//tei:body/tei:div/tei:p[2]//text()"/></title>
+            <title xmlns="http://www.tei-c.org/ns/1.0" level="a"><xsl:value-of select="//tei:titleStmt/tei:title[1]"/></title>
             <author xmlns="http://www.tei-c.org/ns/1.0" ref="#hsl_person_id_1">Hanslick, Eduard</author>
             <editor xmlns="http://www.tei-c.org/ns/1.0">
                 <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
