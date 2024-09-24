@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
             <title level="a">
-      No. 599. Erscheint jeden Sonnabend. — Leipzig, 23. December 1854. — Vierteljährlicher Preis 2 Thlr. XXIII. Band.</title>
+               No. 599. Erscheint jeden Sonnabend. — Leipzig, 23. December 1854. — Vierteljährlicher Preis 2 Thlr. XXIII. Band.</title>
             <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
@@ -74,13 +74,13 @@
                <biblStruct>
                   <analytic>
                      <title>
-      No. 599. Erscheint jeden Sonnabend. — Leipzig, 23. December 1854. — Vierteljährlicher Preis 2 Thlr. XXIII. Band.</title>
+               No. 599. Erscheint jeden Sonnabend. — Leipzig, 23. December 1854. — Vierteljährlicher Preis 2 Thlr. XXIII. Band.</title>
                      <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
                   </analytic>
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
                      <title type="sub">
-      Illustrirte Zeitung</title>
+               Illustrirte Zeitung</title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person">Etienne, Michael</name>
@@ -113,7 +113,7 @@
    </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
-         <graphic url="1854 Illustrirte Zeitung (Ausschnitt)-0001.jpeg"
+         <graphic url="1854IllustrirteZeitungAusschnitt-0001.jpeg"
                   width="2479px"
                   height="3508px"/>
          <zone points="0,81 2181,81 2181,419 0,419"
@@ -134,7 +134,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
-         <graphic url="1854 Illustrirte Zeitung (Ausschnitt)-0002.jpeg"
+         <graphic url="1854IllustrirteZeitungAusschnitt-0002.jpeg"
                   width="2479px"
                   height="3508px"/>
          <zone points="28,1003 783,1003 783,2547 28,2547"
@@ -340,6 +340,12 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <cb n="-1"/>
+            <p>
+               <lb facs="#facs_1_line_1709372479597_296" n="N001"/>Illustrirte Zeitung</p>
+            <cb n="0"/>
+            <p>
+               <lb facs="#facs_1_line_1709372493380_304" n="N001"/>No. 599. Erscheint jeden Sonnabend. — Leipzig, 23. December 1854. — Vierteljährlicher Preis 2 Thlr. XXIII. Band.</p>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <cb n="1"/>
             <p>

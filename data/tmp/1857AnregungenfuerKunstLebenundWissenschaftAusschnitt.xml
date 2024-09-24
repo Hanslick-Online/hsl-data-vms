@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
             <title level="a">
-      Ueber das musikalisch Schöne
+               Ueber das musikalisch Schöne
       von
       Dr. Adolf Kullak.
       Die Untersuchungen über das musikalisch Schöne sind mit den ver¬
@@ -103,7 +103,7 @@
                <biblStruct>
                   <analytic>
                      <title>
-      Ueber das musikalisch Schöne
+               Ueber das musikalisch Schöne
       von
       Dr. Adolf Kullak.
       Die Untersuchungen über das musikalisch Schöne sind mit den ver¬
@@ -138,7 +138,7 @@
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
                      <title type="sub">
-      Anregungen
+               Anregungen
       Kunst, Leben
       und Win¬
       enschaft.
@@ -186,7 +186,7 @@
    </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="6916" lry="10366" xml:id="facs_1">
-         <graphic url="1857 Anregungen für Kunst, Leben und Wissenschaft (Ausschnitt)-0001.jpeg"
+         <graphic url="1857AnregungenfuerKunstLebenundWissenschaftAusschnitt-0001.jpeg"
                   width="6916px"
                   height="10366px"/>
          <zone points="820,899 6022,899 6022,9276 820,9276"
@@ -244,7 +244,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="6908" lry="10408" xml:id="facs_2">
-         <graphic url="1857 Anregungen für Kunst, Leben und Wissenschaft (Ausschnitt)-0002.jpeg"
+         <graphic url="1857AnregungenfuerKunstLebenundWissenschaftAusschnitt-0002.jpeg"
                   width="6908px"
                   height="10408px"/>
          <zone points="716,2166 6100,2166 6100,9433 716,9433"
@@ -344,7 +344,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="6787" lry="10458" xml:id="facs_3">
-         <graphic url="1857 Anregungen für Kunst, Leben und Wissenschaft (Ausschnitt)-0003.jpeg"
+         <graphic url="1857AnregungenfuerKunstLebenundWissenschaftAusschnitt-0003.jpeg"
                   width="6787px"
                   height="10458px"/>
          <zone points="899,860 6205,860 6205,9276 899,9276"
@@ -468,7 +468,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="6899" lry="10420" xml:id="facs_4">
-         <graphic url="1857 Anregungen für Kunst, Leben und Wissenschaft (Ausschnitt)-0004.jpeg"
+         <graphic url="1857AnregungenfuerKunstLebenundWissenschaftAusschnitt-0004.jpeg"
                   width="6899px"
                   height="10420px"/>
          <zone points="624,977 6035,977 6035,9394 624,9394"
@@ -592,7 +592,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="6883" lry="10433" xml:id="facs_5">
-         <graphic url="1857 Anregungen für Kunst, Leben und Wissenschaft (Ausschnitt)-0005.jpeg"
+         <graphic url="1857AnregungenfuerKunstLebenundWissenschaftAusschnitt-0005.jpeg"
                   width="6883px"
                   height="10433px"/>
          <zone points="938,847 6309,847 6309,9341 938,9341"
@@ -719,7 +719,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="6929" lry="10425" xml:id="facs_6">
-         <graphic url="1857 Anregungen für Kunst, Leben und Wissenschaft (Ausschnitt)-0006.jpeg"
+         <graphic url="1857AnregungenfuerKunstLebenundWissenschaftAusschnitt-0006.jpeg"
                   width="6929px"
                   height="10425px"/>
          <zone points="690,847 5996,847 5996,9315 690,9315"
@@ -846,7 +846,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="6933" lry="10454" xml:id="facs_7">
-         <graphic url="1857 Anregungen für Kunst, Leben und Wissenschaft (Ausschnitt)-0007.jpeg"
+         <graphic url="1857AnregungenfuerKunstLebenundWissenschaftAusschnitt-0007.jpeg"
                   width="6933px"
                   height="10454px"/>
          <zone points="1016,899 6388,899 6388,8348 1016,8348"
@@ -965,7 +965,57 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <cb n="-1"/>
+            <p>
+               <lb facs="#facs_1_region_1709376494471_1917_tl_1" n="N001"/>Anregungen
+      <lb facs="#facs_1_region_1709376494471_1917_tl_2" n="N002"/>Kunst, Leben
+      <lb facs="#facs_1_region_1709376494471_1917_tl_3" n="N003"/>und Win¬
+      <lb facs="#facs_1_region_1709376494471_1917_tl_4" n="N004"/>enschaft.
+      <lb facs="#facs_1_region_1709376494471_1917_tl_5" n="N005"/>Unter Mitwirkung von Schriftstellern und Künstlern
+      <lb facs="#facs_1_region_1709376494471_1917_tl_6" n="N006"/>herausgegeben
+      <lb facs="#facs_1_region_1709376494471_1917_tl_7" n="N007"/>tynä
+      <lb facs="#facs_1_region_1709376494471_1917_tl_8" n="N008"/>Joida
+      <lb facs="#facs_1_region_1709376494471_1917_tl_9" n="N009"/>11
+      <lb facs="#facs_1_region_1709376494471_1917_tl_10" n="N010"/>Pohl.
+      <lb facs="#facs_1_region_1709376494471_1917_tl_11" n="N011"/>Franz Brendel und Richard
+      <lb facs="#facs_1_region_1709376494471_1917_tl_12" n="N012"/>Zweiter Band.
+      <lb facs="#facs_1_region_1709376494471_1917_tl_13" n="N013"/>(Jahrgang 1857.
+      <lb facs="#facs_1_region_1709376494471_1917_tl_14" n="N014"/>Leipzig,
+      <lb facs="#facs_1_region_1709376494471_1917_tl_15" n="N015"/>Verlag von C. Merseburger.
+      <lb facs="#facs_1_region_1709376494471_1917_tl_16" n="N016"/>1857.</p>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+            <cb n="0"/>
+            <p>
+               <lb facs="#facs_2_region_1709376529138_1923_tl_1" n="N001"/>Ueber das musikalisch Schöne
+      <lb facs="#facs_2_region_1709376529138_1923_tl_2" n="N002"/>von
+      <lb facs="#facs_2_region_1709376529138_1923_tl_3" n="N003"/>Dr. Adolf Kullak.
+      <lb facs="#facs_2_region_1709376529138_1923_tl_4" n="N004"/>Die Untersuchungen über das musikalisch Schöne sind mit den ver¬
+      <lb facs="#facs_2_region_1709376529138_1923_tl_5" n="N005"/>dienstlichen Bemühungen der letzten Zeit keineswegs erledigt. Die Par¬
+      <lb facs="#facs_2_region_1709376529138_1923_tl_6" n="N006"/>teiungen der Gegenwart, die Zerklüftung jetziger Kunstrichtungen beweisen
+      <lb facs="#facs_2_region_1709376529138_1923_tl_7" n="N007"/>dies am besten. Der junge Komponist ist nicht minder übel daran, als
+      <lb facs="#facs_2_region_1709376529138_1923_tl_8" n="N008"/>der begeisterte Dilettant. Dieser steht mit seinem Enthusiasmus in der
+      <lb facs="#facs_2_region_1709376529138_1923_tl_9" n="N009"/>Schwebe zwischen alter und neuer Anschauung, jener gewiß empfänglich
+      <lb facs="#facs_2_region_1709376529138_1923_tl_10" n="N010"/>und erfüllt von dem Gesammtumfange der Kunst, weiß nicht, ob Zopfmusik
+      <lb facs="#facs_2_region_1709376529138_1923_tl_11" n="N011"/>oder Zukunftsmusik in den entscheidenden Erstlingen seiner Production
+      <lb facs="#facs_2_region_1709376529138_1923_tl_12" n="N012"/>ihm günstiger eine Laufbahn eröffnen. Die Aesthetik der Tonkunst selbst
+      <lb facs="#facs_2_region_1709376529138_1923_tl_13" n="N013"/>aber ist eigentlich in dem Bewußtsein, daß sie noch am Anfange ihrer
+      <lb facs="#facs_2_region_1709376529138_1923_tl_14" n="N014"/>Forschung stehe, zu ihrem höchsten Resultat gelangt.
+      <lb facs="#facs_2_region_1709376529138_1923_tl_15" n="N015"/>Die Musik hat in den Theorien der allgemeinen Kunstlehre von jeher
+      <lb facs="#facs_2_region_1709376529138_1923_tl_16" n="N016"/>Unglück gehabt. Hegel's Genie für das Allgemeine ästhetischer Er¬
+      <lb facs="#facs_2_region_1709376529138_1923_tl_17" n="N017"/>kenntniß und sein reiches Wissen in den anderen Kunstgebieten wiegen die
+      <lb facs="#facs_2_region_1709376529138_1923_tl_18" n="N018"/>Lücken und das Unvollkommne nicht auf, das sich in dem speciellen Theile
+      <lb facs="#facs_2_region_1709376529138_1923_tl_19" n="N019"/>der Musik bei ihm vorfindet. Er mag sich wol mit Recht darüber be¬
+      <lb facs="#facs_2_region_1709376529138_1923_tl_20" n="N020"/>klagen, daß die Unbildung der praktischen Musiker damaliger Zeit ihm jede
+      <lb facs="#facs_2_region_1709376529138_1923_tl_21" n="N021"/>tiefere Aufklärung versagt hat. Sein fleißiger und genialer Schüler
+      <lb facs="#facs_2_region_1709376529138_1923_tl_22" n="N022"/>Vischer steht in einem ähnlichen Falle. Reicher, kritischer und fleißiger hat
+      <lb facs="#facs_2_region_1709376529138_1923_tl_23" n="N023"/>er das Hegelsche Material gesichtet, verbessert und ergänzt. Aber gerade
+      <lb facs="#facs_2_region_1709376529138_1923_tl_24" n="N024"/>die Musik hat der treffliche Autor zum größeren Theile fremden Händen
+      <lb facs="#facs_2_region_1709376529138_1923_tl_25" n="N025"/>überlassen müssen und in den wenigen Auseinandersetzungen, die aus seinem
+      <lb facs="#facs_2_region_1709376529138_1923_tl_26" n="N026"/>eigenen Geiste geflossen sind, bewegt er sich einestheils befangener als
+      <lb facs="#facs_2_region_1709376529138_1923_tl_27" n="N027"/>sonst, anderentheils verweist er auf das, was gerade noch zu thun sei,
+      <lb facs="#facs_2_region_1709376529138_1923_tl_28" n="N028"/>wozu er nichts weiter gebe als Andeutungen und Anfänge.
+      <lb facs="#facs_2_region_1709376529138_1923_tl_29" n="N029"/>Wenn es nun nicht recht logisch erscheint, den allgemeinen Schön¬
+      <lb facs="#facs_2_region_1709376529138_1923_tl_30" n="N030"/>heitsbegriff in einer ausführlichen Wissenschaft zu behandeln, während doch</p>
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
             <cb n="1"/>
             <p>

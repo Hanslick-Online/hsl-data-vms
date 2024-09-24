@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
             <title level="a">
-      Montag um 8.</title>
+               Montag um 8.</title>
             <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
@@ -74,13 +74,13 @@
                <biblStruct>
                   <analytic>
                      <title>
-      Montag um 8.</title>
+               Montag um 8.</title>
                      <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
                   </analytic>
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
                      <title type="sub">
-      Blätter für Literatur und Kunst</title>
+               Blätter für Literatur und Kunst</title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person">Etienne, Michael</name>
@@ -113,7 +113,7 @@
    </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
-         <graphic url="1854 Österreichische Blätter für Literatur und Kunst (Ausschnitt)-0001.jpeg"
+         <graphic url="1854OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt-0001.jpeg"
                   width="2479px"
                   height="3508px"/>
          <zone points="73,190 2328,190 2328,558 73,558"
@@ -644,7 +644,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
-         <graphic url="1854 Österreichische Blätter für Literatur und Kunst (Ausschnitt)-0002.jpeg"
+         <graphic url="1854OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt-0002.jpeg"
                   width="2479px"
                   height="3508px"/>
          <zone points="162,261 910,261 910,3317 162,3317"
@@ -1324,7 +1324,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_3">
-         <graphic url="1854 Österreichische Blätter für Literatur und Kunst (Ausschnitt)-0003.jpeg"
+         <graphic url="1854OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt-0003.jpeg"
                   width="2479px"
                   height="3508px"/>
          <zone points="59,229 835,229 835,3282 59,3282"
@@ -1906,6 +1906,12 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <cb n="-1"/>
+            <p>
+               <lb facs="#facs_1_line_1709378724074_2145" n="N001"/>Blätter für Literatur und Kunst</p>
+            <cb n="0"/>
+            <p>
+               <lb facs="#facs_1_region_1709373959291_1081_tl_1" n="N001"/>Montag um 8.</p>
             <cb n="1"/>
             <p>
                <lb facs="#facs_1_region_1709373986218_1090_tl_1" n="N001"/>se on

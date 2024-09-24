@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
             <title level="a">
-      4. Juni 1857.
+               4. Juni 1857.
       Nr. 23.
       Erscheint wöchentlich.</title>
             <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
@@ -76,7 +76,7 @@
                <biblStruct>
                   <analytic>
                      <title>
-      4. Juni 1857.
+               4. Juni 1857.
       Nr. 23.
       Erscheint wöchentlich.</title>
                      <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
@@ -84,7 +84,7 @@
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
                      <title type="sub">
-      Blätter
+               Blätter
       literarische Unterhaltung.</title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
@@ -118,7 +118,7 @@
    </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="4166" lry="5237" xml:id="facs_1">
-         <graphic url="1857 Blätter für literarische Unterhaltung (Ausschnitt)-0001.jpeg"
+         <graphic url="1857BlaetterfuerliterarischeUnterhaltungAusschnitt-0001.jpeg"
                   width="4166px"
                   height="5237px"/>
          <zone points="250,258 3378,258 3378,918 250,918"
@@ -148,7 +148,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="4166" lry="5237" xml:id="facs_2">
-         <graphic url="1857 Blätter für literarische Unterhaltung (Ausschnitt)-0002.jpeg"
+         <graphic url="1857BlaetterfuerliterarischeUnterhaltungAusschnitt-0002.jpeg"
                   width="4166px"
                   height="5237px"/>
          <zone points="1796,2550 3326,2550 3326,4387 1796,4387"
@@ -251,7 +251,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="4166" lry="5233" xml:id="facs_3">
-         <graphic url="1857 Blätter für literarische Unterhaltung (Ausschnitt)-0003.jpeg"
+         <graphic url="1857BlaetterfuerliterarischeUnterhaltungAusschnitt-0003.jpeg"
                   width="4166px"
                   height="5233px"/>
          <zone points="835,491 2369,491 2369,4449 835,4449"
@@ -680,7 +680,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="4166" lry="5237" xml:id="facs_4">
-         <graphic url="1857 Blätter für literarische Unterhaltung (Ausschnitt)-0004.jpeg"
+         <graphic url="1857BlaetterfuerliterarischeUnterhaltungAusschnitt-0004.jpeg"
                   width="4166px"
                   height="5237px"/>
          <zone points="237,440 1807,440 1807,4423 237,4423"
@@ -1127,7 +1127,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="4166" lry="5233" xml:id="facs_5">
-         <graphic url="1857 Blätter für literarische Unterhaltung (Ausschnitt)-0005.jpeg"
+         <graphic url="1857BlaetterfuerliterarischeUnterhaltungAusschnitt-0005.jpeg"
                   width="4166px"
                   height="5233px"/>
          <zone points="687,465 2226,465 2226,4433 687,4433"
@@ -1556,7 +1556,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="4166" lry="5237" xml:id="facs_6">
-         <graphic url="1857 Blätter für literarische Unterhaltung (Ausschnitt)-0006.jpeg"
+         <graphic url="1857BlaetterfuerliterarischeUnterhaltungAusschnitt-0006.jpeg"
                   width="4166px"
                   height="5237px"/>
          <zone points="319,404 1930,404 1930,4346 319,4346"
@@ -1893,6 +1893,15 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <cb n="-1"/>
+            <p>
+               <lb facs="#facs_1_region_1709376645130_1960_tl_1" n="N001"/>Blätter
+      <lb facs="#facs_1_region_1709376645130_1960_tl_2" n="N002"/>literarische Unterhaltung.</p>
+            <cb n="0"/>
+            <p>
+               <lb facs="#facs_1_region_1709376647618_1963_tl_1" n="N001"/>4. Juni 1857.
+      <lb facs="#facs_1_region_1709376647618_1963_tl_2" n="N002"/>Nr. 23.
+      <lb facs="#facs_1_region_1709376647618_1963_tl_3" n="N003"/>Erscheint wöchentlich.</p>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <cb n="1"/>
             <p>

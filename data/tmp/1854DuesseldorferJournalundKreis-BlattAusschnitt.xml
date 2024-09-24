@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
             <title level="a">
-      No 265. Mittwoch den 8. November 1854. (Gottfried.) 16. Jahrg.</title>
+               No 265. Mittwoch den 8. November 1854. (Gottfried.) 16. Jahrg.</title>
             <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
@@ -74,13 +74,13 @@
                <biblStruct>
                   <analytic>
                      <title>
-      No 265. Mittwoch den 8. November 1854. (Gottfried.) 16. Jahrg.</title>
+               No 265. Mittwoch den 8. November 1854. (Gottfried.) 16. Jahrg.</title>
                      <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
                   </analytic>
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
                      <title type="sub">
-      Düsseldorfer Journal und Kreis-Blatt</title>
+               Düsseldorfer Journal und Kreis-Blatt</title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person">Etienne, Michael</name>
@@ -113,7 +113,7 @@
    </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="3600" lry="4560" xml:id="facs_1">
-         <graphic url="1854 Düsseldorfer Journal und Kreis-Blatt (Ausschnitt)-0001.jpeg"
+         <graphic url="1854DuesseldorferJournalundKreis-BlattAusschnitt-0001.jpeg"
                   width="3600px"
                   height="4560px"/>
          <zone points="100,162 3096,162 3096,826 100,826"
@@ -134,7 +134,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="3600" lry="4560" xml:id="facs_2">
-         <graphic url="1854 Düsseldorfer Journal und Kreis-Blatt (Ausschnitt)-0002.jpeg"
+         <graphic url="1854DuesseldorferJournalundKreis-BlattAusschnitt-0002.jpeg"
                   width="3600px"
                   height="4560px"/>
          <zone points="1546,1106 2519,1106 2519,3468 1546,3468"
@@ -307,6 +307,12 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <cb n="-1"/>
+            <p>
+               <lb facs="#facs_1_line_1709365782657_90" n="N001"/>Düsseldorfer Journal und Kreis-Blatt</p>
+            <cb n="0"/>
+            <p>
+               <lb facs="#facs_1_line_1709365802727_96" n="N001"/>No 265. Mittwoch den 8. November 1854. (Gottfried.) 16. Jahrg.</p>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <cb n="1"/>
             <p>

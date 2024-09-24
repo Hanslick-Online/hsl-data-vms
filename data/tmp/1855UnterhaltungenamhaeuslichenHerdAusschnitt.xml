@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
             <title level="a">
-      Wöchentlich ein Bogen.
+               Wöchentlich ein Bogen.
       Nr. 43.
       Preis vierteljährlich 16 Nr.</title>
             <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
@@ -76,7 +76,7 @@
                <biblStruct>
                   <analytic>
                      <title>
-      Wöchentlich ein Bogen.
+               Wöchentlich ein Bogen.
       Nr. 43.
       Preis vierteljährlich 16 Nr.</title>
                      <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
@@ -84,13 +84,13 @@
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
                      <title type="sub">
+               
+               1
       
-      1
-      
-      
-      
-      
-      am häuslichen Berg /</title>
+               
+               
+               
+               am häuslichen Berg /</title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person">Etienne, Michael</name>
@@ -123,7 +123,7 @@
    </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="6250" lry="9958" xml:id="facs_1">
-         <graphic url="1855 Unterhaltungen am häuslichen Herd (Ausschnitt)-0001.jpeg"
+         <graphic url="1855UnterhaltungenamhaeuslichenHerdAusschnitt-0001.jpeg"
                   width="6250px"
                   height="9958px"/>
          <zone points="239,369 5722,369 5722,2671 239,2671"
@@ -168,7 +168,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="6250" lry="9941" xml:id="facs_2">
-         <graphic url="1855 Unterhaltungen am häuslichen Herd (Ausschnitt)-0002.jpeg"
+         <graphic url="1855UnterhaltungenamhaeuslichenHerdAusschnitt-0002.jpeg"
                   width="6250px"
                   height="9941px"/>
          <zone points="3328,3465 6111,3465 6111,9241 3328,9241"
@@ -293,6 +293,20 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <cb n="-1"/>
+            <p>
+               <lb facs="#facs_1_region_1709376140090_1799_tl_1" n="N001"/>
+               <lb facs="#facs_1_region_1709376140090_1799_tl_2" n="N002"/>1
+      <lb facs="#facs_1_region_1709376140090_1799_tl_3" n="N003"/>
+               <lb facs="#facs_1_region_1709376140090_1799_tl_4" n="N004"/>
+               <lb facs="#facs_1_region_1709376140090_1799_tl_5" n="N005"/>
+               <lb facs="#facs_1_region_1709376140090_1799_tl_6" n="N006"/>
+               <lb facs="#facs_1_region_1709376140090_1799_tl_7" n="N007"/>am häuslichen Berg /</p>
+            <cb n="0"/>
+            <p>
+               <lb facs="#facs_1_region_1709376144154_1802_tl_1" n="N001"/>Wöchentlich ein Bogen.
+      <lb facs="#facs_1_region_1709376144154_1802_tl_2" n="N002"/>Nr. 43.
+      <lb facs="#facs_1_region_1709376144154_1802_tl_3" n="N003"/>Preis vierteljährlich 16 Nr.</p>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <cb n="1"/>
             <p>

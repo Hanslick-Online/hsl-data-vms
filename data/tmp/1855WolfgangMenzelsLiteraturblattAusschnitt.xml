@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
             <title level="a">
-      25. April 1855.
+               25. April 1855.
       Mittwoch,
       N° 33.</title>
             <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
@@ -76,7 +76,7 @@
                <biblStruct>
                   <analytic>
                      <title>
-      25. April 1855.
+               25. April 1855.
       Mittwoch,
       N° 33.</title>
                      <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
@@ -84,7 +84,7 @@
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
                      <title type="sub">
-      Wolfgang Menzels
+               Wolfgang Menzels
       Literaturblatt.</title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
@@ -118,7 +118,7 @@
    </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2282" lry="2807" xml:id="facs_1">
-         <graphic url="1855 Wolfgang Menzels Literaturblatt (Ausschnitt)-0001.jpeg"
+         <graphic url="1855WolfgangMenzelsLiteraturblattAusschnitt-0001.jpeg"
                   width="2282px"
                   height="2807px"/>
          <zone points="348,256 1814,256 1814,586 348,586"
@@ -368,7 +368,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2282" lry="2807" xml:id="facs_2">
-         <graphic url="1855 Wolfgang Menzels Literaturblatt (Ausschnitt)-0002.jpeg"
+         <graphic url="1855WolfgangMenzelsLiteraturblattAusschnitt-0002.jpeg"
                   width="2282px"
                   height="2807px"/>
          <zone points="217,288 1160,288 1160,2541 217,2541"
@@ -683,7 +683,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2282" lry="2807" xml:id="facs_3">
-         <graphic url="1855 Wolfgang Menzels Literaturblatt (Ausschnitt)-0003.jpeg"
+         <graphic url="1855WolfgangMenzelsLiteraturblattAusschnitt-0003.jpeg"
                   width="2282px"
                   height="2807px"/>
          <zone points="133,288 1076,288 1076,2560 133,2560"
@@ -998,7 +998,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2282" lry="2807" xml:id="facs_4">
-         <graphic url="1855 Wolfgang Menzels Literaturblatt (Ausschnitt)-0004.jpeg"
+         <graphic url="1855WolfgangMenzelsLiteraturblattAusschnitt-0004.jpeg"
                   width="2282px"
                   height="2807px"/>
          <zone points="264,282 1176,282 1176,2448 264,2448"
@@ -1293,6 +1293,15 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <cb n="-1"/>
+            <p>
+               <lb facs="#facs_1_region_1709376183858_1815_tl_1" n="N001"/>Wolfgang Menzels
+      <lb facs="#facs_1_region_1709376183858_1815_tl_2" n="N002"/>Literaturblatt.</p>
+            <cb n="0"/>
+            <p>
+               <lb facs="#facs_1_region_1709376187052_1818_tl_1" n="N001"/>25. April 1855.
+      <lb facs="#facs_1_region_1709376187052_1818_tl_2" n="N002"/>Mittwoch,
+      <lb facs="#facs_1_region_1709376187052_1818_tl_3" n="N003"/>N° 33.</p>
             <cb n="1"/>
             <p>
                <lb facs="#facs_1_region_1709376192650_1821_tl_1" n="N001"/>Ueber Musik.

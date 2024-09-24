@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
             <title level="a">
-      21 Vom Musikalisch-Schönen. Ein Beitrag zur Revision der Aesthetik
+               21 Vom Musikalisch-Schönen. Ein Beitrag zur Revision der Aesthetik
       der Tonkunst. Von Dr. Ed. Hanslick. Leipzig, R. Weigel. 1854.
       VIII
       u. 104 S. gr. 8. (15 gr.
@@ -112,7 +112,7 @@
                <biblStruct>
                   <analytic>
                      <title>
-      21 Vom Musikalisch-Schönen. Ein Beitrag zur Revision der Aesthetik
+               21 Vom Musikalisch-Schönen. Ein Beitrag zur Revision der Aesthetik
       der Tonkunst. Von Dr. Ed. Hanslick. Leipzig, R. Weigel. 1854.
       VIII
       u. 104 S. gr. 8. (15 gr.
@@ -156,7 +156,7 @@
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
                      <title type="sub">
-      LEPICER REPERTORION
+               LEPICER REPERTORION
       der
       COURRURE LA GUERRE
       1
@@ -207,7 +207,7 @@
    </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="5875" lry="10229" xml:id="facs_1">
-         <graphic url="1855 Leipziger Repertorium (Ausschnitt)-0001.jpeg"
+         <graphic url="1855LeipzigerRepertoriumAusschnitt-0001.jpeg"
                   width="5875px"
                   height="10229px"/>
          <zone points="234,493 5613,493 5613,8919 234,8919"
@@ -274,7 +274,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="6095" lry="10337" xml:id="facs_2">
-         <graphic url="1855 Leipziger Repertorium (Ausschnitt)-0002.jpeg"
+         <graphic url="1855LeipzigerRepertoriumAusschnitt-0002.jpeg"
                   width="6095px"
                   height="10337px"/>
          <zone points="620,2512 5746,2512 5746,9499 620,9499"
@@ -401,7 +401,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="6045" lry="10287" xml:id="facs_3">
-         <graphic url="1855 Leipziger Repertorium (Ausschnitt)-0003.jpeg"
+         <graphic url="1855LeipzigerRepertoriumAusschnitt-0003.jpeg"
                   width="6045px"
                   height="10287px"/>
          <zone points="258,613 5360,613 5360,9366 258,9366"
@@ -555,7 +555,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="6100" lry="10283" xml:id="facs_4">
-         <graphic url="1855 Leipziger Repertorium (Ausschnitt)-0004.jpeg"
+         <graphic url="1855LeipzigerRepertoriumAusschnitt-0004.jpeg"
                   width="6100px"
                   height="10283px"/>
          <zone points="633,601 5710,601 5710,9318 633,9318"
@@ -709,7 +709,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="5995" lry="10283" xml:id="facs_5">
-         <graphic url="1855 Leipziger Repertorium (Ausschnitt)-0005.jpeg"
+         <graphic url="1855LeipzigerRepertoriumAusschnitt-0005.jpeg"
                   width="5995px"
                   height="10283px"/>
          <zone points="258,589 5299,589 5299,1339 258,1339"
@@ -732,7 +732,69 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <cb n="-1"/>
+            <p>
+               <lb facs="#facs_1_line_1709381846728_2319" n="N001"/>LEPICER REPERTORION
+      <lb facs="#facs_1_line_1709381847862_2322" n="N002"/>der
+      <lb facs="#facs_1_region_1709374797667_1395_tl_1" n="N003"/>COURRURE LA GUERRE
+      <lb facs="#facs_1_region_1709374797667_1395_tl_2" n="N004"/>1
+      <lb facs="#facs_1_region_1709374797667_1395_tl_3" n="N005"/>O
+      <lb facs="#facs_1_region_1709374797667_1395_tl_4" n="N006"/>H
+      <lb facs="#facs_1_region_1709374797667_1395_tl_5" n="N007"/>Unter Mitwirkung der Universität Le
+      <lb facs="#facs_1_region_1709374797667_1395_tl_6" n="N008"/>Heraus:
+      <lb facs="#facs_1_region_1709374797667_1395_tl_7" n="N009"/>eben
+      <lb facs="#facs_1_region_1709374797667_1395_tl_8" n="N010"/>VII
+      <lb facs="#facs_1_region_1709374797667_1395_tl_9" n="N011"/>TEARS -
+      <lb facs="#facs_1_region_1709374797667_1395_tl_10" n="N012"/>Hofrath und Oberbibliothekar, des k. sächs. Albrechts - des k. griech. Erlöser und des
+      <lb facs="#facs_1_region_1709374797667_1395_tl_11" n="N013"/>Ernestin. Hausordens Ritter.
+      <lb facs="#facs_1_region_1709374797667_1395_tl_12" n="N014"/>Herz. Sachse
+      <lb facs="#facs_1_region_1709374797667_1395_tl_13" n="N015"/>DICTEURS ET
+      <lb facs="#facs_1_region_1709374797667_1395_tl_14" n="N016"/>ster Bund.
+      <lb facs="#facs_1_region_1709374797667_1395_tl_15" n="N017"/>Leipzig,
+      <lb facs="#facs_1_region_1709374797667_1395_tl_16" n="N018"/>K. U. T.
+      <lb facs="#facs_1_region_1709374797667_1395_tl_17" n="N019"/>1000.</p>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+            <cb n="0"/>
+            <p>
+               <lb facs="#facs_2_region_1709374833827_1401_tl_1" n="N001"/>21 Vom Musikalisch-Schönen. Ein Beitrag zur Revision der Aesthetik
+      <lb facs="#facs_2_region_1709374833827_1401_tl_2" n="N002"/>der Tonkunst. Von Dr. Ed. Hanslick. Leipzig, R. Weigel. 1854.
+      <lb facs="#facs_2_region_1709374833827_1401_tl_3" n="N003"/>VIII
+      <lb facs="#facs_2_region_1709374833827_1401_tl_4" n="N004"/>u. 104 S. gr. 8. (15 gr.
+      <lb facs="#facs_2_region_1709374833827_1401_tl_5" n="N005"/>Die Frage, könnte man sagen, gehört zu der Natur des Men¬
+      <lb facs="#facs_2_region_1709374833827_1401_tl_6" n="N006"/>schen. Er ist immer mit Fragen: Was wir, warum ist dieses oder
+      <lb facs="#facs_2_region_1709374833827_1401_tl_7" n="N007"/>jenes beschäftiget. Das Fragen ist leicht, das Antworten aber oft
+      <lb facs="#facs_2_region_1709374833827_1401_tl_8" n="N008"/>sehr schwer. Zu den schwierigsten Antworten dürfte aber wohl die
+      <lb facs="#facs_2_region_1709374833827_1401_tl_9" n="N009"/>auf die Frage gehören: „Was ist eigentlich die Musik in Beziehung
+      <lb facs="#facs_2_region_1709374833827_1401_tl_10" n="N010"/>auf den fühlenden und denkenden Menschen?“ Die Beantwortung
+      <lb facs="#facs_2_region_1709374833827_1401_tl_11" n="N011"/>dieser Frage würde leichter sein als sie ist, wenn Fühlen und De¬
+      <lb facs="#facs_2_region_1709374833827_1401_tl_12" n="N012"/>ken anders als in der Reflexion von einander getrennt, wenn sie im
+      <lb facs="#facs_2_region_1709374833827_1401_tl_13" n="N013"/>lebendigen Dasein nicht auf das Innigste verschmolzen wären. Aber
+      <lb facs="#facs_2_region_1709374833827_1401_tl_14" n="N014"/>des Streites über die Musik, seit die Frage sich erhoben, was sie
+      <lb facs="#facs_2_region_1709374833827_1401_tl_15" n="N015"/>eigentlich bedeute und welchen Inhalt sie auszudrücken vermöge,
+      <lb facs="#facs_2_region_1709374833827_1401_tl_16" n="N016"/>ist schon viel in der Welt gewesen und wird auch in aller Zukunft
+      <lb facs="#facs_2_region_1709374833827_1401_tl_17" n="N017"/>noch sein, denn man tritt hier in ein flüchtiges, ätherisches Gebiet
+      <lb facs="#facs_2_region_1709374833827_1401_tl_18" n="N018"/>das sich dem Begriffe und dem Beweise durchaus entzieht. Es ist
+      <lb facs="#facs_2_region_1709374833827_1401_tl_19" n="N019"/>bekannt, dass schon Nagel sich dahin ausgesprochen, die Musik sei
+      <lb facs="#facs_2_region_1709374833827_1401_tl_20" n="N020"/>nur ein Spiel mit angenehmen Tönen und könne etwas Anderes
+      <lb facs="#facs_2_region_1709374833827_1401_tl_21" n="N021"/>durchaus nicht sein; auch der Verfasser der Musikalischen Briefe
+      <lb facs="#facs_2_region_1709374833827_1401_tl_22" n="N022"/>(Leipzig, 1852) sprach sich, wenn auch nicht mit derselben Be¬
+      <lb facs="#facs_2_region_1709374833827_1401_tl_23" n="N023"/>stimmtheit, in ähnlicher Weise aus, und es ist vielfach Wider¬
+      <lb facs="#facs_2_region_1709374833827_1401_tl_24" n="N024"/>spruch dagegen erhoben worden. Der Vf. des vorlieg. Schriftchens,
+      <lb facs="#facs_2_region_1709374833827_1401_tl_25" n="N025"/>welches jedenfalls einen neuen, interessanten Beitrag für die ganze
+      <lb facs="#facs_2_region_1709374833827_1401_tl_26" n="N026"/>Streitfrage giebt, geht nicht so weit als Nageli, indem sein Streben
+      <lb facs="#facs_2_region_1709374833827_1401_tl_27" n="N027"/>ist, schärfer in die Tiefen der Sache einzudringen, schliesst sich
+      <lb facs="#facs_2_region_1709374833827_1401_tl_28" n="N028"/>deshalb nur gewissermassen an ihn an, und will seinen eigenen
+      <lb facs="#facs_2_region_1709374833827_1401_tl_29" n="N029"/>Weg einschlagen. Er hebt mit der Behauptung an, dass die Musik
+      <lb facs="#facs_2_region_1709374833827_1401_tl_30" n="N030"/>nur auf die Phantasie und nicht auf die Gefühle des Menschen ein¬
+      <lb facs="#facs_2_region_1709374833827_1401_tl_31" n="N031"/>wirke. Eine besondere Eigenthümlichkeit der Musik ist dies aber
+      <lb facs="#facs_2_region_1709374833827_1401_tl_32" n="N032"/>durchaus nicht, wie der Vf. meint, denn auch die Poesie kann nur
+      <lb facs="#facs_2_region_1709374833827_1401_tl_33" n="N033"/>die Phantasie des Hörers oder Lesers anregen wollen, dass sie sich
+      <lb facs="#facs_2_region_1709374833827_1401_tl_34" n="N034"/>dasselbe Bild entwürfe, welches vor des Dichters Seele schwebte.
+      <lb facs="#facs_2_region_1709374833827_1401_tl_35" n="N035"/>Ueberhaupt hätte der Vf. sich deutlicher darüber aussprechen sollen,
+      <lb facs="#facs_2_region_1709374833827_1401_tl_36" n="N036"/>was er unter Gefühl verstehe und in welchem Verhältniss er sich
+      <lb facs="#facs_2_region_1709374833827_1401_tl_37" n="N037"/>Gefühl und Phantasie denke. Die Musik, fährt er fort, könne wohl
+      <lb facs="#facs_2_region_1709374833827_1401_tl_38" n="N038"/>einen Kreis von Ideen darstellen, aber nur solche, welche sich auf
+      <lb facs="#facs_2_region_1709374833827_1401_tl_39" n="N039"/>das Hörbare bezogen. Sie könne das Anschwellende, Absterbende,</p>
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
             <cb n="1"/>
             <p>

@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
             <title level="a">
-      No. 7. Montag, den 12. Februar 1855. II. Jahrg.</title>
+               No. 7. Montag, den 12. Februar 1855. II. Jahrg.</title>
             <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
@@ -74,13 +74,13 @@
                <biblStruct>
                   <analytic>
                      <title>
-      No. 7. Montag, den 12. Februar 1855. II. Jahrg.</title>
+               No. 7. Montag, den 12. Februar 1855. II. Jahrg.</title>
                      <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
                   </analytic>
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
                      <title type="sub">
-      Katholische Literatur-Zeitung</title>
+               Katholische Literatur-Zeitung</title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person">Etienne, Michael</name>
@@ -113,7 +113,7 @@
    </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2767" lry="3843" xml:id="facs_1">
-         <graphic url="1855 Katholische Literatur-Zeitung (Ausschnitt)-0001.jpeg"
+         <graphic url="1855KatholischeLiteratur-ZeitungAusschnitt-0001.jpeg"
                   width="2767px"
                   height="3843px"/>
          <zone points="130,201 2524,201 2524,633 130,633"
@@ -134,7 +134,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2807" lry="3845" xml:id="facs_2">
-         <graphic url="1855 Katholische Literatur-Zeitung (Ausschnitt)-0002.jpeg"
+         <graphic url="1855KatholischeLiteratur-ZeitungAusschnitt-0002.jpeg"
                   width="2807px"
                   height="3845px"/>
          <zone points="1362,2127 2562,2127 2562,3569 1362,3569"
@@ -240,7 +240,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2813" lry="3853" xml:id="facs_3">
-         <graphic url="1855 Katholische Literatur-Zeitung (Ausschnitt)-0003.jpeg"
+         <graphic url="1855KatholischeLiteratur-ZeitungAusschnitt-0003.jpeg"
                   width="2813px"
                   height="3853px"/>
          <zone points="225,244 1422,244 1422,1027 225,1027"
@@ -308,6 +308,12 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <cb n="-1"/>
+            <p>
+               <lb facs="#facs_1_line_1709381725722_2296" n="N001"/>Katholische Literatur-Zeitung</p>
+            <cb n="0"/>
+            <p>
+               <lb facs="#facs_1_line_1709381739913_2302" n="N001"/>No. 7. Montag, den 12. Februar 1855. II. Jahrg.</p>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <cb n="1"/>
             <p>

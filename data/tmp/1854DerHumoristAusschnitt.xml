@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
             <title level="a">
-      No 305. Samstag den 25. November 1854. 18. Jahrgang</title>
+               No 305. Samstag den 25. November 1854. 18. Jahrgang</title>
             <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
@@ -74,13 +74,13 @@
                <biblStruct>
                   <analytic>
                      <title>
-      No 305. Samstag den 25. November 1854. 18. Jahrgang</title>
+               No 305. Samstag den 25. November 1854. 18. Jahrgang</title>
                      <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
                   </analytic>
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
                      <title type="sub">
-      Humorist. Eigentümer, Redakteur und Verleger M. G. Saphir</title>
+               Humorist. Eigentümer, Redakteur und Verleger M. G. Saphir</title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person">Etienne, Michael</name>
@@ -113,7 +113,7 @@
    </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
-         <graphic url="1854 Der Humorist (Ausschnitt)-0001.jpeg"
+         <graphic url="1854DerHumoristAusschnitt-0001.jpeg"
                   width="2479px"
                   height="3508px"/>
          <zone points="405,31 1880,31 1880,437 405,437"
@@ -134,7 +134,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
-         <graphic url="1854 Der Humorist (Ausschnitt)-0002.jpeg"
+         <graphic url="1854DerHumoristAusschnitt-0002.jpeg"
                   width="2479px"
                   height="3508px"/>
          <zone points="50,35 1147,35 1147,2336 50,2336"
@@ -315,7 +315,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_3">
-         <graphic url="1854 Der Humorist (Ausschnitt)-0003.jpeg"
+         <graphic url="1854DerHumoristAusschnitt-0003.jpeg"
                   width="2479px"
                   height="3508px"/>
          <zone points="397,11 1883,11 1883,423 397,423"
@@ -336,7 +336,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_4">
-         <graphic url="1854 Der Humorist (Ausschnitt)-0004.jpeg"
+         <graphic url="1854DerHumoristAusschnitt-0004.jpeg"
                   width="2479px"
                   height="3508px"/>
          <zone points="11,1168 1097,1168 1097,3324 11,3324"
@@ -531,7 +531,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_5">
-         <graphic url="1854 Der Humorist (Ausschnitt)-0005.jpeg"
+         <graphic url="1854DerHumoristAusschnitt-0005.jpeg"
                   width="2479px"
                   height="3508px"/>
          <zone points="403,26 1852,26 1852,453 403,453"
@@ -552,7 +552,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_6">
-         <graphic url="1854 Der Humorist (Ausschnitt)-0006.jpeg"
+         <graphic url="1854DerHumoristAusschnitt-0006.jpeg"
                   width="2479px"
                   height="3508px"/>
          <zone points="62,656 1146,656 1146,3336 62,3336"
@@ -761,6 +761,12 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <cb n="-1"/>
+            <p>
+               <lb facs="#facs_1_line_1709371946302_62" n="N001"/>Humorist. Eigentümer, Redakteur und Verleger M. G. Saphir</p>
+            <cb n="0"/>
+            <p>
+               <lb facs="#facs_1_line_1709371979004_69" n="N001"/>No 305. Samstag den 25. November 1854. 18. Jahrgang</p>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <cb n="1"/>
             <p>

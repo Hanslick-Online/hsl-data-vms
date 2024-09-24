@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
             <title level="a">
-      N.
+               N.
       Den 16. Februar 1855.
       Zweiundvierzigster Band.</title>
             <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
@@ -76,7 +76,7 @@
                <biblStruct>
                   <analytic>
                      <title>
-      N.
+               N.
       Den 16. Februar 1855.
       Zweiundvierzigster Band.</title>
                      <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
@@ -84,7 +84,7 @@
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
                      <title type="sub">
-      eu
+               eu
       4
       5</title>
                      <respStmt>
@@ -119,7 +119,7 @@
    </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="9945" lry="12441" xml:id="facs_1">
-         <graphic url="1855 Neue Zeitschrift für Musik (Ausschnitt)-0001.jpeg"
+         <graphic url="1855NeueZeitschriftfuerMusikAusschnitt-0001.jpeg"
                   width="9945px"
                   height="12441px"/>
          <zone points="773,783 8574,783 8574,2564 773,2564"
@@ -297,7 +297,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="9833" lry="12462" xml:id="facs_2">
-         <graphic url="1855 Neue Zeitschrift für Musik (Ausschnitt)-0002.jpeg"
+         <graphic url="1855NeueZeitschriftfuerMusikAusschnitt-0002.jpeg"
                   width="9833px"
                   height="12462px"/>
          <zone points="1390,982 5388,982 5388,10575 1390,10575"
@@ -630,7 +630,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="10000" lry="12375" xml:id="facs_3">
-         <graphic url="1855 Neue Zeitschrift für Musik (Ausschnitt)-0003.jpeg"
+         <graphic url="1855NeueZeitschriftfuerMusikAusschnitt-0003.jpeg"
                   width="10000px"
                   height="12375px"/>
          <zone points="614,1056 4568,1056 4568,10649 614,10649"
@@ -966,7 +966,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="9870" lry="12466" xml:id="facs_4">
-         <graphic url="1855 Neue Zeitschrift für Musik (Ausschnitt)-0004.jpeg"
+         <graphic url="1855NeueZeitschriftfuerMusikAusschnitt-0004.jpeg"
                   width="9870px"
                   height="12466px"/>
          <zone points="1405,1101 5418,1101 5418,10634 1405,10634"
@@ -1299,7 +1299,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="9962" lry="12429" xml:id="facs_5">
-         <graphic url="1855 Neue Zeitschrift für Musik (Ausschnitt)-0005.jpeg"
+         <graphic url="1855NeueZeitschriftfuerMusikAusschnitt-0005.jpeg"
                   width="9962px"
                   height="12429px"/>
          <zone points="734,1012 4717,1012 4717,10664 734,10664"
@@ -1632,7 +1632,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="9837" lry="12458" xml:id="facs_6">
-         <graphic url="1855 Neue Zeitschrift für Musik (Ausschnitt)-0006.jpeg"
+         <graphic url="1855NeueZeitschriftfuerMusikAusschnitt-0006.jpeg"
                   width="9837px"
                   height="12458px"/>
          <zone points="1271,1086 5209,1086 5209,9769 1271,9769"
@@ -1935,7 +1935,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="10083" lry="12537" xml:id="facs_7">
-         <graphic url="1855 Neue Zeitschrift für Musik (Ausschnitt)-0007.jpeg"
+         <graphic url="1855NeueZeitschriftfuerMusikAusschnitt-0007.jpeg"
                   width="10083px"
                   height="12537px"/>
          <zone points="525,788 8402,788 8402,2727 525,2727"
@@ -2119,7 +2119,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="9845" lry="12441" xml:id="facs_8">
-         <graphic url="1855 Neue Zeitschrift für Musik (Ausschnitt)-0008.jpeg"
+         <graphic url="1855NeueZeitschriftfuerMusikAusschnitt-0008.jpeg"
                   width="9845px"
                   height="12441px"/>
          <zone points="1748,1116 5612,1116 5612,10694 1748,10694"
@@ -2452,7 +2452,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="9912" lry="12450" xml:id="facs_9">
-         <graphic url="1855 Neue Zeitschrift für Musik (Ausschnitt)-0009.jpeg"
+         <graphic url="1855NeueZeitschriftfuerMusikAusschnitt-0009.jpeg"
                   width="9912px"
                   height="12450px"/>
          <zone points="510,967 4493,967 4493,10545 510,10545"
@@ -2641,7 +2641,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="9900" lry="12395" xml:id="facs_10">
-         <graphic url="1855 Neue Zeitschrift für Musik (Ausschnitt)-0010.jpeg"
+         <graphic url="1855NeueZeitschriftfuerMusikAusschnitt-0010.jpeg"
                   width="9900px"
                   height="12395px"/>
          <zone points="599,803 8447,803 8447,2757 599,2757"
@@ -2822,7 +2822,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="9862" lry="12454" xml:id="facs_11">
-         <graphic url="1855 Neue Zeitschrift für Musik (Ausschnitt)-0011.jpeg"
+         <graphic url="1855NeueZeitschriftfuerMusikAusschnitt-0011.jpeg"
                   width="9862px"
                   height="12454px"/>
          <zone points="1375,1041 5374,1041 5374,10649 1375,10649"
@@ -3155,7 +3155,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="9937" lry="12545" xml:id="facs_12">
-         <graphic url="1855 Neue Zeitschrift für Musik (Ausschnitt)-0012.jpeg"
+         <graphic url="1855NeueZeitschriftfuerMusikAusschnitt-0012.jpeg"
                   width="9937px"
                   height="12545px"/>
          <zone points="555,1235 4478,1235 4478,10769 555,10769"
@@ -3488,7 +3488,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="9816" lry="12450" xml:id="facs_13">
-         <graphic url="1855 Neue Zeitschrift für Musik (Ausschnitt)-0013.jpeg"
+         <graphic url="1855NeueZeitschriftfuerMusikAusschnitt-0013.jpeg"
                   width="9816px"
                   height="12450px"/>
          <zone points="1420,1131 5403,1131 5403,10694 1420,10694"
@@ -3744,6 +3744,16 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <cb n="-1"/>
+            <p>
+               <lb facs="#facs_1_region_1709375107611_1481_tl_1" n="N001"/>eu
+      <lb facs="#facs_1_region_1709375107611_1481_tl_2" n="N002"/>4
+      <lb facs="#facs_1_region_1709375107611_1481_tl_3" n="N003"/>5</p>
+            <cb n="0"/>
+            <p>
+               <lb facs="#facs_1_region_1709375112562_1484_tl_1" n="N001"/>N.
+      <lb facs="#facs_1_region_1709375112562_1484_tl_2" n="N002"/>Den 16. Februar 1855.
+      <lb facs="#facs_1_region_1709375112562_1484_tl_3" n="N003"/>Zweiundvierzigster Band.</p>
             <cb n="1"/>
             <p>
                <lb facs="#facs_1_region_1709375117595_1487_tl_1" n="N001"/>Dr. Eduard Hanslick, vom Musikalisch-Schönen.

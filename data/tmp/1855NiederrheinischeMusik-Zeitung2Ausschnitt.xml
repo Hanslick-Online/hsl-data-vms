@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
             <title level="a">
-      III. Jahrgang.
+               III. Jahrgang.
       KÖLN, 24. März 1855.
       Nr. 12.</title>
             <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
@@ -76,7 +76,7 @@
                <biblStruct>
                   <analytic>
                      <title>
-      III. Jahrgang.
+               III. Jahrgang.
       KÖLN, 24. März 1855.
       Nr. 12.</title>
                      <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
@@ -84,7 +84,7 @@
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
                      <title type="sub">
-      Niederrheinische Musik-Zeitung
+               Niederrheinische Musik-Zeitung
       für Kunstfreunde und Künstler.</title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
@@ -118,7 +118,7 @@
    </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
-         <graphic url="1855 Niederrheinische Musik-Zeitung 2 (Ausschnitt)-0001.jpeg"
+         <graphic url="1855NiederrheinischeMusik-Zeitung2Ausschnitt-0001.jpeg"
                   width="2479px"
                   height="3508px"/>
          <zone points="226,592 2137,592 2137,897 226,897"
@@ -380,7 +380,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
-         <graphic url="1855 Niederrheinische Musik-Zeitung 2 (Ausschnitt)-0002.jpeg"
+         <graphic url="1855NiederrheinischeMusik-Zeitung2Ausschnitt-0002.jpeg"
                   width="2479px"
                   height="3508px"/>
          <zone points="174,660 1257,660 1257,3297 174,3297"
@@ -680,7 +680,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_3">
-         <graphic url="1855 Niederrheinische Musik-Zeitung 2 (Ausschnitt)-0003.jpeg"
+         <graphic url="1855NiederrheinischeMusik-Zeitung2Ausschnitt-0003.jpeg"
                   width="2479px"
                   height="3508px"/>
          <zone points="120,722 1174,722 1174,2301 120,2301"
@@ -781,6 +781,15 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <cb n="-1"/>
+            <p>
+               <lb facs="#facs_1_region_1709376053701_1765_tl_1" n="N001"/>Niederrheinische Musik-Zeitung
+      <lb facs="#facs_1_region_1709376053701_1765_tl_2" n="N002"/>für Kunstfreunde und Künstler.</p>
+            <cb n="0"/>
+            <p>
+               <lb facs="#facs_1_region_1709376057002_1768_tl_1" n="N001"/>III. Jahrgang.
+      <lb facs="#facs_1_region_1709376057002_1768_tl_2" n="N002"/>KÖLN, 24. März 1855.
+      <lb facs="#facs_1_region_1709376057002_1768_tl_3" n="N003"/>Nr. 12.</p>
             <cb n="1"/>
             <p>
                <lb facs="#facs_1_region_1709376061810_1771_tl_1" n="N001"/>Stimmen der Kritik über Richard Wagner.

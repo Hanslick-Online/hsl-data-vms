@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
             <title level="a">
-      Zwölfter Jahrgang</title>
+               Zwölfter Jahrgang</title>
             <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
@@ -74,13 +74,13 @@
                <biblStruct>
                   <analytic>
                      <title>
-      Zwölfter Jahrgang</title>
+               Zwölfter Jahrgang</title>
                      <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
                   </analytic>
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
                      <title type="sub">
-      Signale für die Musikalische Welt</title>
+               Signale für die Musikalische Welt</title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person">Etienne, Michael</name>
@@ -113,7 +113,7 @@
    </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
-         <graphic url="1854 Signale für die Musikalische Welt (Ausschnitt)-0001.jpeg"
+         <graphic url="1854SignalefuerdieMusikalischeWeltAusschnitt-0001.jpeg"
                   width="2479px"
                   height="3508px"/>
          <zone points="175,387 2049,387 2049,960 175,960"
@@ -134,12 +134,12 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
-         <graphic url="1854 Signale für die Musikalische Welt (Ausschnitt)-0002.jpeg"
+         <graphic url="1854SignalefuerdieMusikalischeWeltAusschnitt-0002.jpeg"
                   width="2479px"
                   height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_3">
-         <graphic url="1854 Signale für die Musikalische Welt (Ausschnitt)-0003.jpeg"
+         <graphic url="1854SignalefuerdieMusikalischeWeltAusschnitt-0003.jpeg"
                   width="2479px"
                   height="3508px"/>
          <zone points="161,1072 1976,1072 1976,3302 161,3302"
@@ -257,7 +257,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_4">
-         <graphic url="1854 Signale für die Musikalische Welt (Ausschnitt)-0004.jpeg"
+         <graphic url="1854SignalefuerdieMusikalischeWeltAusschnitt-0004.jpeg"
                   width="2479px"
                   height="3508px"/>
          <zone points="221,276 2074,276 2074,2859 221,2859"
@@ -400,6 +400,12 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <cb n="-1"/>
+            <p>
+               <lb facs="#facs_1_line_1709373795251_933" n="N001"/>Signale für die Musikalische Welt</p>
+            <cb n="0"/>
+            <p>
+               <lb facs="#facs_1_line_1709373787739_924" n="N001"/>Zwölfter Jahrgang</p>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
             <cb n="1"/>

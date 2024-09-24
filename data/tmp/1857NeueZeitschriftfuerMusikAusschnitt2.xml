@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
             <title level="a">
-      Nr. 18.
+               Nr. 18.
       Siebenundvierzigster Band.
       Den 30. October 1857.</title>
             <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
@@ -76,7 +76,7 @@
                <biblStruct>
                   <analytic>
                      <title>
-      Nr. 18.
+               Nr. 18.
       Siebenundvierzigster Band.
       Den 30. October 1857.</title>
                      <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
@@ -84,17 +84,18 @@
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
                      <title type="sub">
-      Neue
+               Neue
       des Bandes von 26 Nummern 21 Thlr.
       Musikallen= und Kunst=Handlungen an.
       
+               
+               
+               
+               
+               
+               K.
       
-      
-      
-      
-      
-      K.
-      </title>
+            </title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person">Etienne, Michael</name>
@@ -127,7 +128,7 @@
    </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="10208" lry="12833" xml:id="facs_1">
-         <graphic url="1857 Neue Zeitschrift für Musik (Ausschnitt) 2-0001.jpeg"
+         <graphic url="1857NeueZeitschriftfuerMusikAusschnitt2-0001.jpeg"
                   width="10208px"
                   height="12833px"/>
          <zone points="984,1657 4531,894 5777,894 9233,1657 9233,2501 984,2501"
@@ -184,7 +185,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="9866" lry="12466" xml:id="facs_2">
-         <graphic url="1857 Neue Zeitschrift für Musik (Ausschnitt) 2-0002.jpeg"
+         <graphic url="1857NeueZeitschriftfuerMusikAusschnitt2-0002.jpeg"
                   width="9866px"
                   height="12466px"/>
          <zone points="1354,5917 5433,5917 5433,10830 1354,10830"
@@ -445,7 +446,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="10158" lry="12833" xml:id="facs_3">
-         <graphic url="1857 Neue Zeitschrift für Musik (Ausschnitt) 2-0003.jpeg"
+         <graphic url="1857NeueZeitschriftfuerMusikAusschnitt2-0003.jpeg"
                   width="10158px"
                   height="12833px"/>
          <zone points="1038,1463 5127,1463 5127,7405 1038,7405"
@@ -659,6 +660,25 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <cb n="-1"/>
+            <p>
+               <lb facs="#facs_1_TextRegion_1709376952579_2064_tl_1" n="N001"/>Neue
+      <lb facs="#facs_1_TextRegion_1709376952579_2064_tl_2" n="N002"/>des Bandes von 26 Nummern 21 Thlr.
+      <lb facs="#facs_1_TextRegion_1709376952579_2064_tl_3" n="N003"/>Musikallen= und Kunst=Handlungen an.
+      <lb facs="#facs_1_TextRegion_1709376952579_2064_tl_4" n="N004"/>
+               <lb facs="#facs_1_TextRegion_1709376952579_2064_tl_5" n="N005"/>
+               <lb facs="#facs_1_TextRegion_1709376952579_2064_tl_6" n="N006"/>
+               <lb facs="#facs_1_TextRegion_1709376952579_2064_tl_7" n="N007"/>
+               <lb facs="#facs_1_TextRegion_1709376952579_2064_tl_8" n="N008"/>
+               <lb facs="#facs_1_TextRegion_1709376952579_2064_tl_9" n="N009"/>
+               <lb facs="#facs_1_TextRegion_1709376952579_2064_tl_10" n="N010"/>K.
+      <lb facs="#facs_1_TextRegion_1709376952579_2064_tl_11" n="N011"/>
+            </p>
+            <cb n="0"/>
+            <p>
+               <lb facs="#facs_1_region_1709376947762_2059_tl_1" n="N001"/>Nr. 18.
+      <lb facs="#facs_1_region_1709376947762_2059_tl_2" n="N002"/>Siebenundvierzigster Band.
+      <lb facs="#facs_1_region_1709376947762_2059_tl_3" n="N003"/>Den 30. October 1857.</p>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <cb n="1"/>
             <p>

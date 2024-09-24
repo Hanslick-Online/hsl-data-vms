@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
             <title level="a">
-      Wissenschaft und Kunst.
+               Wissenschaft und Kunst.
       Zur musikalischen Literatur. Die kleine Schrift von Dr. Ed. Hanslick:
       „Vom Musikalisch=Schönen" (Leipzig, R. Weigel 1854) haben wir mit Vergnügen
       gelesen und empfehlen sie unsern Lesern als eine geistreiche und selbstständige Ab¬
@@ -99,7 +99,7 @@
                <biblStruct>
                   <analytic>
                      <title>
-      Wissenschaft und Kunst.
+               Wissenschaft und Kunst.
       Zur musikalischen Literatur. Die kleine Schrift von Dr. Ed. Hanslick:
       „Vom Musikalisch=Schönen" (Leipzig, R. Weigel 1854) haben wir mit Vergnügen
       gelesen und empfehlen sie unsern Lesern als eine geistreiche und selbstständige Ab¬
@@ -130,7 +130,7 @@
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
                      <title type="sub">
-      Die
+               Die
       renzboten.
       Zeitschrift für Politik und Literatur,
       redigirt von
@@ -172,7 +172,7 @@
    </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="1871" lry="2912" xml:id="facs_1">
-         <graphic url="1855 Grenzboten (Ausschnitt)-0001.jpeg"
+         <graphic url="1855GrenzbotenAusschnitt-0001.jpeg"
                   width="1871px"
                   height="2912px"/>
          <zone points="99,181 1638,181 1638,2463 99,2463"
@@ -212,7 +212,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="1871" lry="2912" xml:id="facs_2">
-         <graphic url="1855 Grenzboten (Ausschnitt)-0002.jpeg"
+         <graphic url="1855GrenzbotenAusschnitt-0002.jpeg"
                   width="1871px"
                   height="2912px"/>
          <zone points="77,247 1625,247 1625,1670 77,1670"
@@ -304,7 +304,47 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <cb n="-1"/>
+            <p>
+               <lb facs="#facs_1_region_1709374382934_1224_tl_1" n="N001"/>Die
+      <lb facs="#facs_1_line_1709381552753_2250" n="N002"/>renzboten.
+      <lb facs="#facs_1_region_1709374382934_1224_tl_5" n="N003"/>Zeitschrift für Politik und Literatur,
+      <lb facs="#facs_1_region_1709374382934_1224_tl_6" n="N004"/>redigirt von
+      <lb facs="#facs_1_region_1709374382934_1224_tl_7" n="N005"/>Oustad Freytag und Dallion Schmidt.
+      <lb facs="#facs_1_region_1709374382934_1224_tl_9" n="N006"/>14. Jahrgang.
+      <lb facs="#facs_1_region_1709374382934_1224_tl_10" n="N007"/>I. Semester. I. Band.
+      <lb facs="#facs_1_region_1709374382934_1224_tl_11" n="N008"/>Leipzig,
+      <lb facs="#facs_1_region_1709374382934_1224_tl_12" n="N009"/>Verlag von Friedrich Ludwig Herbig.
+      <lb facs="#facs_1_region_1709374382934_1224_tl_13" n="N010"/>1855.</p>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+            <cb n="0"/>
+            <p>
+               <lb facs="#facs_2_region_1709374399555_1230_tl_1" n="N001"/>Wissenschaft und Kunst.
+      <lb facs="#facs_2_region_1709374399555_1230_tl_2" n="N002"/>Zur musikalischen Literatur. Die kleine Schrift von Dr. Ed. Hanslick:
+      <lb facs="#facs_2_region_1709374399555_1230_tl_3" n="N003"/>„Vom Musikalisch=Schönen" (Leipzig, R. Weigel 1854) haben wir mit Vergnügen
+      <lb facs="#facs_2_region_1709374399555_1230_tl_4" n="N004"/>gelesen und empfehlen sie unsern Lesern als eine geistreiche und selbstständige Ab¬
+      <lb facs="#facs_2_region_1709374399555_1230_tl_5" n="N005"/>handlung. Nicht „Gefühle, nicht „Empfindungen", sondern „tönend bewegte
+      <lb facs="#facs_2_region_1709374399555_1230_tl_6" n="N006"/>Formen sind einzig und allein Inhalt und Gegenstand der Musik:" um diesen
+      <lb facs="#facs_2_region_1709374399555_1230_tl_7" n="N007"/>Satz dreht sich des Verfassers Untersuchung. Obwol wir auch seinem Endergebniß
+      <lb facs="#facs_2_region_1709374399555_1230_tl_8" n="N008"/>im allgemeinen beistimmen müssen, so ist es doch nicht dieses, welches unser Inter¬
+      <lb facs="#facs_2_region_1709374399555_1230_tl_9" n="N009"/>esse vornehmlich in Anspruch nimmt, sondern vielmehr die freie, behende Art, wie
+      <lb facs="#facs_2_region_1709374399555_1230_tl_10" n="N010"/>er dahin gelangt. Der Verfasser ist einer der ersten musikalischen Schriftsteller,
+      <lb facs="#facs_2_region_1709374399555_1230_tl_11" n="N011"/>welcher Fischers Aesthetik mit Verstand benutzt hat, nämlich durch Aneignung
+      <lb facs="#facs_2_region_1709374399555_1230_tl_12" n="N012"/>ihrer gesunden Principien ohne ihre Form nachzuahmen. Auch zeigt er eine recht
+      <lb facs="#facs_2_region_1709374399555_1230_tl_13" n="N013"/>gute Belesenheit in der älteren musikalischen Literatur; doch sind wir überzeugt,
+      <lb facs="#facs_2_region_1709374399555_1230_tl_14" n="N014"/>daß eine eingehendere Prüfung, besonders der Werke von 1650—1750, einen etwas
+      <lb facs="#facs_2_region_1709374399555_1230_tl_15" n="N015"/>abweichenden Sinn ergibt und zur Lösung der von Hanslick behandelten Fragen
+      <lb facs="#facs_2_region_1709374399555_1230_tl_16" n="N016"/>noch ohne Bedeutung ist. Das Verhalten zu den praktischen Bestrebungen der je¬
+      <lb facs="#facs_2_region_1709374399555_1230_tl_17" n="N017"/>weiligen Gegenwart pflegt immer der Prüfstein theoretischer Untersuchungen zu
+      <lb facs="#facs_2_region_1709374399555_1230_tl_18" n="N018"/>sein: der Verfasser konnte kein günstigeres Vorurtheil für seine Schrift erwecken,
+      <lb facs="#facs_2_region_1709374399555_1230_tl_19" n="N019"/>als durch die Art, wie er sich über dieselben ausgesprochen. Ebenfalls über Gluck
+      <lb facs="#facs_2_region_1709374399555_1230_tl_20" n="N020"/>hat er sich eine unbefangene, historisch wohlbegründete Ansicht zueigengemacht.
+      <lb facs="#facs_2_region_1709374399555_1230_tl_21" n="N021"/>Das alles bemerken wir um so lieber, als in jüngster Zeit von Wien aus durch
+      <lb facs="#facs_2_region_1709374399555_1230_tl_22" n="N022"/>dicke Bücher und neuauftauchende musikalische Zeitschriften viel Unnützes in die
+      <lb facs="#facs_2_region_1709374399555_1230_tl_23" n="N023"/>Welt hineingeredet wird. Vor einem Abwege möge er auf der Hut sein, nämlich
+      <lb facs="#facs_2_region_1709374399555_1230_tl_24" n="N024"/>vor der Ansicht, als sei nur in der Instrumentalmusik die „reine Musik zu finden.
+      <lb facs="#facs_2_region_1709374399555_1230_tl_25" n="N025"/>So hört man zwar überall, es ist aber nicht richtig und schreibt sich von der zu
+      <lb facs="#facs_2_region_1709374399555_1230_tl_26" n="N026"/>einseitigen Beschäftigung mit Beethovens Werken her.</p>
          </div>
       </body>
    </text>

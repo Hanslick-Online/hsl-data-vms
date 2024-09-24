@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
             <title level="a">
-      AMSTERDAM, Then a con¬
+               AMSTERDAM, Then a con¬
       S PATERSURS. Bernard, Bande a Con¬
       STOCKHOLM. R. Rylander.
       MATLAND. Ricord.
@@ -81,7 +81,7 @@
                <biblStruct>
                   <analytic>
                      <title>
-      AMSTERDAM, Then a con¬
+               AMSTERDAM, Then a con¬
       S PATERSURS. Bernard, Bande a Con¬
       STOCKHOLM. R. Rylander.
       MATLAND. Ricord.
@@ -94,12 +94,13 @@
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
                      <title type="sub">
-      Von dieser Zeitung erscheint wöchentlich
+               Von dieser Zeitung erscheint wöchentlich
       Zehnter Jahrgang Nr. 50.
       10. December 1856.
       eine Nummer.
       
-      </title>
+               
+            </title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person">Etienne, Michael</name>
@@ -132,7 +133,7 @@
    </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
-         <graphic url="1856 Neuer Berliner Musikzeitung (Ausschnitt)-0001.jpeg"
+         <graphic url="1856NeuerBerlinerMusikzeitungAusschnitt-0001.jpeg"
                   width="2479px"
                   height="3508px"/>
          <zone points="109,339 2325,339 2325,473 109,473"
@@ -189,7 +190,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
-         <graphic url="1856 Neuer Berliner Musikzeitung (Ausschnitt)-0002.jpeg"
+         <graphic url="1856NeuerBerlinerMusikzeitungAusschnitt-0002.jpeg"
                   width="2479px"
                   height="3508px"/>
          <zone points="1235,2779 2326,2779 2326,3433 1235,3433"
@@ -244,7 +245,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_3">
-         <graphic url="1856 Neuer Berliner Musikzeitung (Ausschnitt)-0003.jpeg"
+         <graphic url="1856NeuerBerlinerMusikzeitungAusschnitt-0003.jpeg"
                   width="2479px"
                   height="3508px"/>
          <zone points="146,396 1237,396 1237,1266 146,1266"
@@ -315,6 +316,25 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <cb n="-1"/>
+            <p>
+               <lb facs="#facs_1_region_1709376381895_1886_tl_1" n="N001"/>Von dieser Zeitung erscheint wöchentlich
+      <lb facs="#facs_1_region_1709376381895_1886_tl_2" n="N002"/>Zehnter Jahrgang Nr. 50.
+      <lb facs="#facs_1_region_1709376381895_1886_tl_3" n="N003"/>10. December 1856.
+      <lb facs="#facs_1_region_1709376381895_1886_tl_4" n="N004"/>eine Nummer.
+      <lb facs="#facs_1_region_1709376381895_1886_tl_5" n="N005"/>
+               <lb facs="#facs_1_region_1709376381895_1886_tl_6" n="N006"/>
+            </p>
+            <cb n="0"/>
+            <p>
+               <lb facs="#facs_1_TextRegion_1709376392958_1892_tl_1" n="N001"/>AMSTERDAM, Then a con¬
+      <lb facs="#facs_1_TextRegion_1709376392958_1892_tl_2" n="N002"/>S PATERSURS. Bernard, Bande a Con¬
+      <lb facs="#facs_1_TextRegion_1709376392958_1892_tl_3" n="N003"/>STOCKHOLM. R. Rylander.
+      <lb facs="#facs_1_TextRegion_1709376392958_1892_tl_4" n="N004"/>MATLAND. Ricord.
+      <lb facs="#facs_1_TextRegion_1709376392958_1892_tl_5" n="N005"/>an
+      <lb facs="#facs_1_TextRegion_1709376392958_1892_tl_6" n="N006"/>Die
+      <lb facs="#facs_1_TextRegion_1709376392958_1892_tl_7" n="N007"/>SALE
+      <lb facs="#facs_1_TextRegion_1709376392958_1892_tl_8" n="N008"/>ne</p>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <cb n="1"/>
             <p>
