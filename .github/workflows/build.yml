@@ -21,9 +21,20 @@ jobs:
     - name: Fetch data
       run: |
         ./scripts/sh/fetch_data.sh
+    - name: rename files
+      run: |
+        pip install -U pip
+        pip install -r requirements.txt
+        python ./scripts/py/renameGraphicNames.py
+    - name: Add tei graphic url
+      run: |
+        ant add-graphic-url -f scripts/ant/build.xml
     - name: Build
       run: |
-        ant -f scripts/ant/build.xml
+        ant build-editions -f scripts/ant/build.xml
+    - name: rename files
+      run: |
+        python ./scripts/py/renameFiles.py
     - name: Commit data
       uses: stefanzweifel/git-auto-commit-action@v4
       with:

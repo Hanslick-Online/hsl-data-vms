@@ -8,7 +8,7 @@
     <xsl:output encoding="UTF-8" media-type="text/xml" method="xml" indent="yes" omit-xml-declaration="yes"/>
     
     <xsl:template match="/">
-        <xsl:variable name="file" select="replace(replace(string-join(//tei:titleStmt/tei:title[1], ''), '[^a-zA-Z\däöü()]', '_'), '[()]', '')"/>
+        <xsl:variable name="file" select="//tei:titleStmt/tei:title[1]"/>
         <xsl:result-document href="{$file}.xml" method="xml">
             <xsl:text disable-output-escaping='yes'>&lt;?xml version="1.0" encoding="UTF-8"?&gt;</xsl:text>
             <xsl:copy>
@@ -162,7 +162,7 @@
     
     <xsl:template match="tei:principal"/>
     
-    <xsl:template match="tei:graphic">
+    <!-- <xsl:template match="tei:graphic">
         <xsl:variable name="base" select="replace(tokenize(base-uri(/), '/')[last()], '_tei.xml', '_image_name.xml')"/>
         <xsl:variable name="items" select="doc(concat('../data/facs/', $base))"/>
         <xsl:variable name="pos" select="number(tokenize(parent::tei:surface/@xml:id, '_')[last()])"/>
@@ -175,7 +175,7 @@
     </xsl:template>
     
     <xsl:template match="tei:body/tei:div/tei:p[1]"/>
-    <xsl:template match="tei:body/tei:div/tei:p[2]"/>
+    <xsl:template match="tei:body/tei:div/tei:p[2]"/> -->
     
     <xsl:template match="tei:body/tei:div">
         <div xmlns="http://www.tei-c.org/ns/1.0">

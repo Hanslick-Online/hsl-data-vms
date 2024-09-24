@@ -53,6 +53,6 @@ echo "OK"
 echo "= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = ="
 echo
 echo "moving transkribus export jpg to facs dir"
-mv ./trnskrbs_162553/col/*/*.jpg ./data/facs
+cp ./trnskrbs_284592/col/*/*.jpeg ./data/facs
 echo "done"
 #---------------------------------------------------

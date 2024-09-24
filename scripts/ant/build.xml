@@ -1,22 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project basedir="../.." name="tei2html">
+    <property name="pre_target" value="${basedir}/data/pre_tmp"/>
     <property name="target" value="${basedir}/data/tmp"/>
     <property name="facs" value="${basedir}/data/facs"/>
     <property name="editions" value="${basedir}/data/pre-process"/>
     <property name="xsl_editions" value="${basedir}/xsl/editions.xsl"/>
+    <property name="xsl_graphic" value="${basedir}/xsl/add-graphic-url.xsl"/>
 
-    <xslt style="${xsl_editions}" extension=".xml"  basedir="${editions}" destdir="${target}" includes="*.xml">
-        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
-        <classpath location="${basedir}/saxon/saxon9he.jar"/>
-    </xslt>
-    <delete>
-        <fileset dir="${editions}" includes="*.xml"/>
-    </delete>
-    <delete>
-        <fileset dir="${facs}" includes="*.xml"/>
-    </delete>
-    <delete>
-        <fileset dir="${target}" includes="*_tei.xml"/>
-    </delete>
+    <target name="build-editions">
+        <mkdir dir="${target}"/>
+        <xslt style="${xsl_editions}" extension=".xml"  basedir="${pre_target}" destdir="${target}" includes="*.xml">
+            <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+            <classpath location="${basedir}/saxon/saxon9he.jar"/>
+        </xslt>
+        <delete>
+            <fileset dir="${editions}" includes="*.xml"/>
+        </delete>
+        <delete>
+            <fileset dir="${target}" includes="*_tei.xml"/>
+        </delete>
+        <delete>
+            <fileset dir="${pre_target}" includes="*_tei.xml"/>
+        </delete>
+    </target>
+    <target name="add-graphic-url">
+        <xslt style="${xsl_graphic}" extension=".xml"  basedir="${editions}" destdir="${pre_target}" includes="*.xml">
+            <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+            <classpath location="${basedir}/saxon/saxon9he.jar"/>
+        </xslt>
+        <delete>
+            <fileset dir="${facs}" includes="*.xml"/>
+        </delete>
+    </target>
 
 </project>

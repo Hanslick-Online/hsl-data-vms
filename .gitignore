@@ -7,7 +7,12 @@
 /TranskribusPyClient
 .secret
 /trnskrbs_162553
+*.jpeg
 *.jpg
+*.png
+*_tei.xml
+*.csv
+/trnskrbs_284592
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
