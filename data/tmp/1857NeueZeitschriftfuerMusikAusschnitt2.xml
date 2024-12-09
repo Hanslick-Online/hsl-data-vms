@@ -104,7 +104,7 @@
       <revisionDesc status="draft">
          <change who="ampfiel" when="2024-12-09">Transkribus OCR und Lektorat.</change>
          <change who="delsner" when="2024-12-09">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
-         <change who="ampfiel" when="2024-12-09">header, Absätze, Zeilenumbrüche, space</change>
+         <change who="ampfiel" when="2024-12-09">header, Absätze, Zeilenumbrüche, space, rs ref</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
