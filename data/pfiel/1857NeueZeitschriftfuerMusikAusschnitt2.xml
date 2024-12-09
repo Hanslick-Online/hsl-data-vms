@@ -82,8 +82,8 @@
                         <name type="person" ref="#hsl_person_id_1745">Brendel, Franz</name>
                      </respStmt>
                      <imprint>
-                        <pubPlace/>
-                        <date>1857</date>
+                        <pubPlace>Leipzig</pubPlace>
+                        <date when="1857-10-30">30.10.1857</date>
                      </imprint>
                   </monogr>
                </biblStruct>
