@@ -87,7 +87,7 @@
                         <name type="person">Friedländer, Max</name>
                      </respStmt>
                      <imprint>
-                        <pubPlace/>
+                        <pubPlace>Wien</pubPlace>
                         <date>1857</date>
                      </imprint>
                   </monogr>
@@ -142,8 +142,7 @@
                   height="12466px"/>
          <zone points="1354,5917 5433,5917 5433,10830 1354,10830"
                rendition="TextRegion"
-               xml:id="facs_2_region_1709376989041_2071"
-               subtype="paragraph">
+               xml:id="facs_2_region_1709376989041_2071">
             <zone points="1713,6253 1946,6285 2025,6225 2244,6304 2328,6239 2548,6285 2594,6248 2697,6281 3028,6248 3117,6295 3187,6239 3467,6276 3556,6234 3714,6295 4050,6248 4181,6337 4372,6257 4484,6290 4685,6243 4811,6281 4811,6089 4582,6029 4438,6080 3952,6043 3854,6089 3752,6052 3570,6103 3509,6057 3364,6089 3271,6052 3168,6103 3019,6038 2739,6015 2496,6089 2328,6029 1922,6075 1866,6019 1713,6024"
                   rendition="Line"
                   xml:id="facs_2_region_1709376989041_2071_tl_1"/>
@@ -225,8 +224,7 @@
          </zone>
          <zone points="5081,1279 9414,1279 9414,10865 5081,10865"
                rendition="TextRegion"
-               xml:id="facs_2_region_1709376995266_2074"
-               subtype="paragraph">
+               xml:id="facs_2_region_1709376995266_2074">
             <zone points="5180,1545 5324,1507 5707,1535 5758,1498 6323,1545 6397,1498 6668,1531 6724,1489 6841,1531 7144,1498 7438,1540 7839,1493 7937,1535 8147,1489 8292,1549 8376,1493 8754,1545 8885,1517 8885,1339 8703,1349 8614,1293 8395,1279 8329,1213 8143,1325 8031,1265 7830,1246 7615,1325 7424,1232 7065,1302 6995,1246 6883,1241 6761,1325 6570,1297 6486,1349 6281,1232 6169,1302 6089,1279 5977,1344 5856,1325 5781,1363 5618,1372 5432,1283 5180,1321"
                   rendition="Line"
                   xml:id="facs_2_region_1709376995266_2074_tl_1"/>
@@ -614,8 +612,7 @@
             <p>
                <lb facs="#facs_1_line_1733220429154_19" n="N001"/>Siebenundvierzigster Band. Nr. 18. Den 30. October <date month="0" day="0" year="0">1857</date>.</p>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <cb n="1"/>
-            <p>
+            <ab facs="#facs_2_region_1709376989041_2071" type="">
                <lb facs="#facs_2_region_1709376989041_2071_tl_1" n="N001"/>Dr. <rs type="person">Hanslick</rs> und der „<rs type="bibl">Tannhäuser</rs>“.
       <lb facs="#facs_2_region_1709376989041_2071_tl_2" n="N002"/>Bei Gelegenheit der ersten Aufführung des „<rs type="bibl">Tann¬</rs>
                <lb facs="#facs_2_region_1709376989041_2071_tl_3" n="N003"/>
@@ -649,9 +646,8 @@
       <lb facs="#facs_2_region_1709376989041_2071_tl_25" n="N023"/>der Kritik der Erkenntniß, der Kritik des Mißverstandes
       <lb facs="#facs_2_region_1709376989041_2071_tl_26" n="N024"/>und der Kritik des Unverstandes. Damit nun das Ton¬
       <lb facs="#facs_2_region_1709376989041_2071_tl_27" n="N025"/>werk <rs type="person">Wagner</rs>’s weder mißverstanden werde, noch unver¬
-      <lb facs="#facs_2_region_1709376989041_2071_tl_28" n="N026"/>standen bliebe, hat Dr. <rs type="person">Hanslick</rs> ein „Vorwort“ voran¬</p>
-            <cb n="2"/>
-            <p>
+      <lb facs="#facs_2_region_1709376989041_2071_tl_28" n="N026"/>standen bliebe, hat Dr. <rs type="person">Hanslick</rs> ein „Vorwort“ voran¬</ab>
+            <ab facs="#facs_2_region_1709376995266_2074" type="">
                <lb facs="#facs_2_region_1709376995266_2074_tl_1" n="N001"/>gesendet, wahrscheinlich in der Absicht, um das Publicum
       <lb facs="#facs_2_region_1709376995266_2074_tl_2" n="N002"/>mit der Idee der Dichtung und mit dem Charakter der
       <lb facs="#facs_2_region_1709376995266_2074_tl_3" n="N003"/>Musik der neuen Oper bekannt zu machen. <hi rendition="#em">Diesen</hi>
@@ -715,9 +711,9 @@
       <lb facs="#facs_2_region_1709376995266_2074_tl_51" n="N051"/>freien Genusse der Kunstwerke hat er sein System <hi rendition="#em">nicht</hi>
                <lb facs="#facs_2_region_1709376995266_2074_tl_52" n="N052"/>gefunden, denn auf <hi rendition="#em">diese</hi> Weise wäre er unmöglich zu
       <lb facs="#facs_2_region_1709376995266_2074_tl_53" n="N053"/>Resultaten gekommen, die — wie sie eben wirklich in
-      <lb facs="#facs_2_region_1709376995266_2074_tl_54" n="N054"/>seinem Werke vorliegen — mit dem ganzen historischen</p>
+      <lb facs="#facs_2_region_1709376995266_2074_tl_54" n="N054"/>seinem Werke vorliegen — mit dem ganzen historischen</ab>
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-            <cb n="3"/>
+            <cb n="1"/>
             <p>
                <lb facs="#facs_3_region_1709377018081_2080_tl_1" n="N001"/>Gange der Musik und ihrer Praxis in diamentralem
       <lb facs="#facs_3_region_1709377018081_2080_tl_2" n="N002"/>Gegensatze stehen. Als Theoretiker „mit Zopf und
@@ -754,7 +750,7 @@
       <lb facs="#facs_3_region_1709377018081_2080_tl_30" n="N030"/>kritiklosen Wirrwarr <rs type="person">Hanslick</rs>’s zu vertiefen und einzelne
       <lb facs="#facs_3_region_1709377018081_2080_tl_31" n="N031"/>Belege für das eben Ausgesprochene zutage zu fördern,
       <lb facs="#facs_3_region_1709377018081_2080_tl_32" n="N032"/>es möge eine Hindeutung auf den zweiten Artikel genü¬</p>
-            <cb n="4"/>
+            <cb n="2"/>
             <p>
                <lb facs="#facs_3_region_1709377021295_2083_tl_1" n="N001"/>gen. Der höhnische, sarkastisch sein sollende Ton, der in
       <lb facs="#facs_3_region_1709377021295_2083_tl_2" n="N002"/>demselben angeschlagen wird, die Selbstüberschätzung,
