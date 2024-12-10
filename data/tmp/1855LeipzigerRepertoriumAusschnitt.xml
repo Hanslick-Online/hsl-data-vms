@@ -72,70 +72,12 @@
             <listBibl>
                <biblStruct>
                   <analytic>
-                     <title>
-               21 Vom Musikalisch-Schönen. Ein Beitrag zur Revision der Aesthetik
-      der Tonkunst. Von Dr. Ed. Hanslick. Leipzig, R. Weigel. 1854.
-      VIII
-      u. 104 S. gr. 8. (15 gr.
-      Die Frage, könnte man sagen, gehört zu der Natur des Men¬
-      schen. Er ist immer mit Fragen: Was wir, warum ist dieses oder
-      jenes beschäftiget. Das Fragen ist leicht, das Antworten aber oft
-      sehr schwer. Zu den schwierigsten Antworten dürfte aber wohl die
-      auf die Frage gehören: „Was ist eigentlich die Musik in Beziehung
-      auf den fühlenden und denkenden Menschen?“ Die Beantwortung
-      dieser Frage würde leichter sein als sie ist, wenn Fühlen und De¬
-      ken anders als in der Reflexion von einander getrennt, wenn sie im
-      lebendigen Dasein nicht auf das Innigste verschmolzen wären. Aber
-      des Streites über die Musik, seit die Frage sich erhoben, was sie
-      eigentlich bedeute und welchen Inhalt sie auszudrücken vermöge,
-      ist schon viel in der Welt gewesen und wird auch in aller Zukunft
-      noch sein, denn man tritt hier in ein flüchtiges, ätherisches Gebiet
-      das sich dem Begriffe und dem Beweise durchaus entzieht. Es ist
-      bekannt, dass schon Nagel sich dahin ausgesprochen, die Musik sei
-      nur ein Spiel mit angenehmen Tönen und könne etwas Anderes
-      durchaus nicht sein; auch der Verfasser der Musikalischen Briefe
-      (Leipzig, 1852) sprach sich, wenn auch nicht mit derselben Be¬
-      stimmtheit, in ähnlicher Weise aus, und es ist vielfach Wider¬
-      spruch dagegen erhoben worden. Der Vf. des vorlieg. Schriftchens,
-      welches jedenfalls einen neuen, interessanten Beitrag für die ganze
-      Streitfrage giebt, geht nicht so weit als Nageli, indem sein Streben
-      ist, schärfer in die Tiefen der Sache einzudringen, schliesst sich
-      deshalb nur gewissermassen an ihn an, und will seinen eigenen
-      Weg einschlagen. Er hebt mit der Behauptung an, dass die Musik
-      nur auf die Phantasie und nicht auf die Gefühle des Menschen ein¬
-      wirke. Eine besondere Eigenthümlichkeit der Musik ist dies aber
-      durchaus nicht, wie der Vf. meint, denn auch die Poesie kann nur
-      die Phantasie des Hörers oder Lesers anregen wollen, dass sie sich
-      dasselbe Bild entwürfe, welches vor des Dichters Seele schwebte.
-      Ueberhaupt hätte der Vf. sich deutlicher darüber aussprechen sollen,
-      was er unter Gefühl verstehe und in welchem Verhältniss er sich
-      Gefühl und Phantasie denke. Die Musik, fährt er fort, könne wohl
-      einen Kreis von Ideen darstellen, aber nur solche, welche sich auf
-      das Hörbare bezogen. Sie könne das Anschwellende, Absterbende,</title>
+                     <title/>
                      <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
                   </analytic>
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
-                     <title type="sub">
-               LEPICER REPERTORION
-      der
-      COURRURE LA GUERRE
-      1
-      O
-      H
-      Unter Mitwirkung der Universität Le
-      Heraus:
-      eben
-      VII
-      TEARS -
-      Hofrath und Oberbibliothekar, des k. sächs. Albrechts - des k. griech. Erlöser und des
-      Ernestin. Hausordens Ritter.
-      Herz. Sachse
-      DICTEURS ET
-      ster Bund.
-      Leipzig,
-      K. U. T.
-      1000.</title>
+                     <title type="sub"/>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person">Etienne, Michael</name>
@@ -173,8 +115,7 @@
                   height="10229px"/>
          <zone points="234,493 5613,493 5613,8919 234,8919"
                rendition="TextRegion"
-               xml:id="facs_1_region_1709374797667_1395"
-               subtype="paragraph">
+               xml:id="facs_1_region_1709374797667_1395">
             <zone points="820,589 5096,589 5096,1086 820,1086"
                   rendition="Line"
                   xml:id="facs_1_line_1709381846728_2319"/>
@@ -240,8 +181,7 @@
                   height="10337px"/>
          <zone points="620,2512 5746,2512 5746,9499 620,9499"
                rendition="TextRegion"
-               xml:id="facs_2_region_1709374833827_1401"
-               subtype="paragraph">
+               xml:id="facs_2_region_1709374833827_1401">
             <zone points="814,2825 887,2788 1045,2825 1191,2764 1300,2807 2078,2776 2163,2819 2217,2770 2959,2788 3062,2752 3402,2807 3718,2776 3839,2831 4119,2770 4210,2819 4338,2770 4465,2813 4751,2770 5121,2807 5619,2782 5619,2606 5559,2588 5486,2637 5407,2594 5000,2649 4939,2606 4860,2661 4793,2600 4368,2661 4271,2606 3791,2600 3718,2545 3584,2624 3487,2588 3159,2618 3123,2582 3038,2655 2922,2643 2849,2570 2703,2637 2539,2558 2272,2606 2066,2552 1883,2618 1756,2552 1622,2643 1543,2582 1343,2624 1160,2600 1075,2643 1039,2606 814,2600"
                   rendition="Line"
                   xml:id="facs_2_region_1709374833827_1401_tl_1"/>
@@ -367,8 +307,7 @@
                   height="10287px"/>
          <zone points="258,613 5360,613 5360,9366 258,9366"
                rendition="TextRegion"
-               xml:id="facs_3_region_1709374851651_1407"
-               subtype="paragraph">
+               xml:id="facs_3_region_1709374851651_1407">
             <zone points="373,923 1229,880 1357,947 1455,880 1773,917 1852,868 2029,911 2127,874 2182,923 2286,874 2482,874 2573,923 3087,868 3142,905 4101,892 4156,941 4334,874 4432,911 4597,880 4688,935 4804,892 4859,929 4969,880 5263,886 5263,727 5171,678 5037,709 4921,617 4859,660 4713,623 4603,685 4499,611 4401,660 4046,642 3796,715 3674,666 3337,703 3221,642 3130,721 2818,709 2726,642 2433,715 2194,666 2048,691 1980,623 1901,666 1748,593 1528,703 1339,611 1271,660 1094,587 819,642 715,581 495,581 373,636"
                   rendition="Line"
                   xml:id="facs_3_region_1709374851651_1407_tl_1"/>
@@ -521,8 +460,7 @@
                   height="10283px"/>
          <zone points="633,601 5710,601 5710,9318 633,9318"
                rendition="TextRegion"
-               xml:id="facs_4_region_1709374866114_1413"
-               subtype="paragraph">
+               xml:id="facs_4_region_1709374866114_1413">
             <zone points="761,882 960,858 1093,912 1341,846 1468,882 1540,840 1727,894 1806,852 1909,894 2108,846 2501,888 2730,840 3485,882 3570,840 4113,870 4300,834 4741,894 4820,840 5086,882 5225,834 5430,900 5617,888 5617,640 5472,538 5327,598 5122,580 5043,616 4584,556 4246,689 4077,676 3914,580 3781,664 3727,634 3388,689 3183,622 3014,689 2742,646 2615,695 2531,658 2422,683 2265,586 2048,616 1987,670 1878,634 1788,683 1727,646 1661,683 1323,676 1208,616 1075,676 761,634"
                   rendition="Line"
                   xml:id="facs_4_region_1709374866114_1413_tl_1"/>
@@ -675,8 +613,7 @@
                   height="10283px"/>
          <zone points="258,589 5299,589 5299,1339 258,1339"
                rendition="TextRegion"
-               xml:id="facs_5_region_1709374879787_1419"
-               subtype="paragraph">
+               xml:id="facs_5_region_1709374879787_1419">
             <zone points="348,898 623,867 806,934 873,885 971,922 1270,885 1612,934 1777,892 1850,940 1972,892 2272,885 2467,892 2528,940 2601,892 2852,940 3157,892 3249,940 3609,892 3792,946 4061,892 4195,934 4470,898 4519,940 4567,892 5032,928 5257,892 5257,690 4946,653 4879,696 4793,629 4738,666 4598,623 4433,641 4348,702 4177,586 4140,623 3981,611 3786,721 3652,647 3474,653 3395,592 3065,714 2943,678 2870,714 2772,666 2607,696 2497,629 2394,708 2326,678 2125,721 1881,647 1807,666 1716,598 1484,696 1270,623 1142,635 1087,690 946,617 757,684 653,592 562,653 501,605 348,672"
                   rendition="Line"
                   xml:id="facs_5_region_1709374879787_1419_tl_1"/>
@@ -693,8 +630,7 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <cb n="-1"/>
-            <p>
+            <ab facs="#facs_1_region_1709374797667_1395" type="">
                <lb facs="#facs_1_line_1709381846728_2319" n="N001"/>LEPICER REPERTORION
       <lb facs="#facs_1_line_1709381847862_2322" n="N002"/>der
       <lb facs="#facs_1_region_1709374797667_1395_tl_1" n="N003"/>COURRURE LA GUERRE
@@ -713,10 +649,9 @@
       <lb facs="#facs_1_region_1709374797667_1395_tl_14" n="N016"/>ster Bund.
       <lb facs="#facs_1_region_1709374797667_1395_tl_15" n="N017"/>Leipzig,
       <lb facs="#facs_1_region_1709374797667_1395_tl_16" n="N018"/>K. U. T.
-      <lb facs="#facs_1_region_1709374797667_1395_tl_17" n="N019"/>1000.</p>
+      <lb facs="#facs_1_region_1709374797667_1395_tl_17" n="N019"/>1000.</ab>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <cb n="0"/>
-            <p>
+            <ab facs="#facs_2_region_1709374833827_1401" type="">
                <lb facs="#facs_2_region_1709374833827_1401_tl_1" n="N001"/>21 Vom Musikalisch-Schönen. Ein Beitrag zur Revision der Aesthetik
       <lb facs="#facs_2_region_1709374833827_1401_tl_2" n="N002"/>der Tonkunst. Von Dr. Ed. Hanslick. Leipzig, R. Weigel. 1854.
       <lb facs="#facs_2_region_1709374833827_1401_tl_3" n="N003"/>VIII
@@ -755,10 +690,9 @@
       <lb facs="#facs_2_region_1709374833827_1401_tl_36" n="N036"/>was er unter Gefühl verstehe und in welchem Verhältniss er sich
       <lb facs="#facs_2_region_1709374833827_1401_tl_37" n="N037"/>Gefühl und Phantasie denke. Die Musik, fährt er fort, könne wohl
       <lb facs="#facs_2_region_1709374833827_1401_tl_38" n="N038"/>einen Kreis von Ideen darstellen, aber nur solche, welche sich auf
-      <lb facs="#facs_2_region_1709374833827_1401_tl_39" n="N039"/>das Hörbare bezogen. Sie könne das Anschwellende, Absterbende,</p>
+      <lb facs="#facs_2_region_1709374833827_1401_tl_39" n="N039"/>das Hörbare bezogen. Sie könne das Anschwellende, Absterbende,</ab>
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-            <cb n="1"/>
-            <p>
+            <ab facs="#facs_3_region_1709374851651_1407" type="">
                <lb facs="#facs_3_region_1709374851651_1407_tl_1" n="N001"/>Eilende Zögern, Gleitende, Schwellende, Lauschende, Stürmende
       <lb facs="#facs_3_region_1709374851651_1407_tl_2" n="N002"/>aussprechen, sonst aber nichts. Die Musik könne somit nur das
       <lb facs="#facs_3_region_1709374851651_1407_tl_3" n="N003"/>Dynamische des Gefühls, nur die Bewegung darstellen. Die Bewe¬
@@ -806,10 +740,9 @@
       <lb facs="#facs_3_region_1709374851651_1407_tl_45" n="N045"/>der Töne seien nicht leer, nicht blosse Linearbegränzungen, son¬
       <lb facs="#facs_3_region_1709374851651_1407_tl_46" n="N046"/>dern erfüllt. Sie seien von Innen heraus gestalteter Geist, dem
       <lb facs="#facs_3_region_1709374851651_1407_tl_47" n="N047"/>ein Sinn, aber nur ein musikalischer beiwohne. Deshalb könne die
-      <lb facs="#facs_3_region_1709374851651_1407_tl_48" n="N048"/>Musik die Bedeutsamkeit der Weltgesetze, des Rhythmus insbeson¬</p>
+      <lb facs="#facs_3_region_1709374851651_1407_tl_48" n="N048"/>Musik die Bedeutsamkeit der Weltgesetze, des Rhythmus insbeson¬</ab>
             <pb facs="#facs_4" n="4" xml:id="img_0004"/>
-            <cb n="2"/>
-            <p>
+            <ab facs="#facs_4_region_1709374866114_1413" type="">
                <lb facs="#facs_4_region_1709374866114_1413_tl_1" n="N001"/>dere, der Melodie und der Harmonie darstellen und zur Erscheinung
       <lb facs="#facs_4_region_1709374866114_1413_tl_2" n="N002"/>bringen. Und so hätte man bei dem Vf. allerdings einen gewissen
       <lb facs="#facs_4_region_1709374866114_1413_tl_3" n="N003"/>Inhalt für die Musik gewonnen, da sie ihm nicht ein blosses Spiel
@@ -857,13 +790,12 @@
       <lb facs="#facs_4_region_1709374866114_1413_tl_45" n="N045"/>angesehen werden muss. Dieses aber kann nur das Sichaussprechen
       <lb facs="#facs_4_region_1709374866114_1413_tl_46" n="N046"/>eines Gefühls- und Gemüthslebens sein, welches dadurch keinesweges
       <lb facs="#facs_4_region_1709374866114_1413_tl_47" n="N047"/>ein unbestimmtes wird, dass es nicht in Wort und Begriff zusammen¬
-      <lb facs="#facs_4_region_1709374866114_1413_tl_48" n="N048"/>gepresst werden kann. Dieses Gefühls- und Gemüthsleben ist in</p>
+      <lb facs="#facs_4_region_1709374866114_1413_tl_48" n="N048"/>gepresst werden kann. Dieses Gefühls- und Gemüthsleben ist in</ab>
             <pb facs="#facs_5" n="5" xml:id="img_0005"/>
-            <cb n="3"/>
-            <p>
+            <ab facs="#facs_5_region_1709374879787_1419" type="">
                <lb facs="#facs_5_region_1709374879787_1419_tl_1" n="N001"/>der Musik der gemeinen Wirklichkeit entnommen, in seine wahre
       <lb facs="#facs_5_region_1709374879787_1419_tl_2" n="N002"/>Heimath, in die ideale Tonwelt versetzt und wirkt von dieser aus
-      <lb facs="#facs_5_region_1709374879787_1419_tl_3" n="N003"/>mit zauberischer Kraft in die menschliche Brust hinein.</p>
+      <lb facs="#facs_5_region_1709374879787_1419_tl_3" n="N003"/>mit zauberischer Kraft in die menschliche Brust hinein.</ab>
          </div>
       </body>
    </text>
