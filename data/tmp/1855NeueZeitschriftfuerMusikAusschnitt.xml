@@ -72,18 +72,12 @@
             <listBibl>
                <biblStruct>
                   <analytic>
-                     <title>
-               N.
-      Den 16. Februar 1855.
-      Zweiundvierzigster Band.</title>
+                     <title/>
                      <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
                   </analytic>
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
-                     <title type="sub">
-               eu
-      4
-      5</title>
+                     <title type="sub"/>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person">Etienne, Michael</name>
@@ -121,8 +115,7 @@
                   height="12441px"/>
          <zone points="773,783 8574,783 8574,2564 773,2564"
                rendition="TextRegion"
-               xml:id="facs_1_region_1709375107611_1481"
-               subtype="paragraph">
+               xml:id="facs_1_region_1709375107611_1481">
             <zone points="4253,1101 4357,1125 4466,1068 4632,1115 4751,1082 4969,1111 5045,1073 5226,1120 5340,1101 5340,864 5211,807 5150,845 5003,802 4647,840 4571,907 4490,859 4376,911 4253,873"
                   rendition="Line"
                   xml:id="facs_1_region_1709375107611_1481_tl_1"/>
@@ -135,8 +128,7 @@
          </zone>
          <zone points="1037,4062 8212,4062 8212,4483 1037,4483"
                rendition="TextRegion"
-               xml:id="facs_1_region_1709375112562_1484"
-               subtype="paragraph">
+               xml:id="facs_1_region_1709375112562_1484">
             <zone points="4186,4405 4253,4409 4338,4376 4395,4409 4424,4386 4542,4376 4523,3854 4442,3849 4400,3868 4371,3854 4248,3882 4167,3863"
                   rendition="Line"
                   xml:id="facs_1_region_1709375112562_1484_tl_1"/>
@@ -149,8 +141,7 @@
          </zone>
          <zone points="788,6448 4586,6448 4586,10481 788,10481"
                rendition="TextRegion"
-               xml:id="facs_1_region_1709375117595_1487"
-               subtype="paragraph">
+               xml:id="facs_1_region_1709375117595_1487">
             <zone points="769,6706 845,6749 1096,6687 1196,6735 1462,6706 1581,6721 1661,6787 1974,6706 2463,6749 2549,6683 2682,6754 3232,6697 3318,6778 3488,6697 3788,6744 3868,6697 4101,6759 4224,6702 4390,6754 4537,6706 4537,6526 4485,6512 4314,6569 4181,6502 3887,6526 3669,6483 3284,6531 3175,6498 2867,6564 2411,6507 2226,6550 2117,6502 1970,6531 1804,6469 1552,6559 1258,6469 1115,6545 1039,6479 902,6531 769,6483"
                   rendition="Line"
                   xml:id="facs_1_region_1709375117595_1487_tl_1"/>
@@ -217,8 +208,7 @@
          </zone>
          <zone points="4683,6096 8491,6096 8491,10491 4683,10491"
                rendition="TextRegion"
-               xml:id="facs_1_region_1709375124066_1490"
-               subtype="paragraph">
+               xml:id="facs_1_region_1709375124066_1490">
             <zone points="4708,6298 4931,6379 5292,6322 5506,6355 5586,6298 5781,6374 6089,6289 6460,6374 6692,6313 6816,6374 6939,6341 7020,6379 7115,6308 7323,6374 7452,6317 7646,6374 7770,6317 8088,6360 8344,6298 8482,6313 8482,6018 8230,6080 8126,6032 7860,6075 7798,6032 7641,6066 7485,6013 7172,6013 7015,6085 6958,6032 6868,6061 6578,6013 6445,6085 6317,6085 6070,6009 6009,6070 5928,6023 5724,6032 5420,6170 5245,6156 5150,6203 4965,6156 4860,6199 4708,6165"
                   rendition="Line"
                   xml:id="facs_1_region_1709375124066_1490_tl_1"/>
@@ -299,8 +289,7 @@
                   height="12462px"/>
          <zone points="1390,982 5388,982 5388,10575 1390,10575"
                rendition="TextRegion"
-               xml:id="facs_2_region_1709375152043_1496"
-               subtype="paragraph">
+               xml:id="facs_2_region_1709375152043_1496">
             <zone points="1538,1229 1690,1286 1927,1286 2065,1229 2164,1296 2383,1272 2425,1229 2516,1277 2625,1239 2800,1305 2933,1239 3057,1286 3313,1220 3427,1277 3588,1229 3650,1281 3887,1229 4077,1263 4210,1210 4395,1300 4495,1229 4585,1272 4685,1225 4779,1296 4936,1220 5097,1281 5297,1225 5297,1115 5112,1120 5007,1073 4789,1125 4623,1020 4409,1063 4310,1020 3939,1087 3707,1001 3531,1054 3408,992 3294,1063 3099,1020 2947,1082 2786,1016 2691,1077 2435,1073 2212,987 2107,1054 1775,1068 1666,1016 1538,1058"
                   rendition="Line"
                   xml:id="facs_2_region_1709375152043_1496_tl_1"/>
@@ -463,8 +452,7 @@
          </zone>
          <zone points="5478,952 9327,952 9327,10560 5478,10560"
                rendition="TextRegion"
-               xml:id="facs_2_region_1709375155754_1499"
-               subtype="paragraph">
+               xml:id="facs_2_region_1709375155754_1499">
             <zone points="5520,1272 5653,1229 6161,1272 6835,1225 6986,1277 7081,1225 7414,1296 7608,1234 7760,1291 8069,1239 8230,1296 8600,1253 8776,1291 8861,1248 9094,1343 9265,1277 9260,963 8928,1020 8852,1087 8652,1025 8448,1101 8211,963 8140,997 8059,959 7903,1030 7836,1016 7765,1092 7490,1011 7409,1073 7257,1063 7214,1101 6925,1011 6787,1101 6616,1025 6346,1139 6113,1020 5957,1020 5890,959 5515,1001"
                   rendition="Line"
                   xml:id="facs_2_region_1709375155754_1499_tl_1"/>
@@ -632,8 +620,7 @@
                   height="12375px"/>
          <zone points="614,1056 4568,1056 4568,10649 614,10649"
                rendition="TextRegion"
-               xml:id="facs_3_region_1709375186115_1505"
-               subtype="paragraph">
+               xml:id="facs_3_region_1709375186115_1505">
             <zone points="704,1346 883,1384 964,1337 1195,1337 1290,1389 1403,1327 1743,1375 1904,1318 1956,1360 2083,1323 2154,1370 2239,1337 2305,1389 2442,1394 2527,1342 2763,1360 2863,1318 3141,1384 3292,1332 3595,1389 3699,1332 3897,1323 4025,1394 4100,1332 4294,1323 4355,1384 4478,1365 4478,1091 4379,1086 4228,1157 4072,1049 3911,1143 3760,1058 3377,1044 3240,1101 3047,1030 2924,1063 2811,1030 2678,1129 2574,1086 2456,1120 2385,1053 2258,1096 2078,1053 2022,1096 1894,1030 1786,1086 1696,1030 1540,1105 1365,1039 1209,1077 1101,1030 926,1039 704,1120"
                   rendition="Line"
                   xml:id="facs_3_region_1709375186115_1505_tl_1"/>
@@ -796,8 +783,7 @@
          </zone>
          <zone points="4628,1026 8477,1026 8477,10664 4628,10664"
                rendition="TextRegion"
-               xml:id="facs_3_region_1709375190642_1508"
-               subtype="paragraph">
+               xml:id="facs_3_region_1709375190642_1508">
             <zone points="4686,1332 4965,1360 5376,1323 5498,1370 5900,1323 5980,1365 6727,1332 6916,1394 7005,1342 7185,1384 7355,1308 7421,1365 7520,1342 7577,1384 7917,1346 7997,1389 8196,1323 8328,1379 8441,1346 8441,1049 8366,1039 8167,1101 7960,1035 7893,1072 7704,1030 7482,1082 7199,1030 6746,1153 6627,1053 6557,1096 6382,1039 6146,1035 6051,1096 5820,1068 5787,1101 5692,1039 5522,1030 5465,1072 5177,1058 4955,1153 4809,1077 4686,1120"
                   rendition="Line"
                   xml:id="facs_3_region_1709375190642_1508_tl_1"/>
@@ -968,8 +954,7 @@
                   height="12466px"/>
          <zone points="1405,1101 5418,1101 5418,10634 1405,10634"
                rendition="TextRegion"
-               xml:id="facs_4_region_1709375220490_1514"
-               subtype="paragraph">
+               xml:id="facs_4_region_1709375220490_1514">
             <zone points="1581,1387 2125,1363 2352,1429 2461,1363 2574,1406 2787,1353 2868,1420 3010,1382 3109,1415 3152,1372 3346,1382 3388,1344 3483,1396 3810,1349 3876,1382 4146,1353 4236,1410 4297,1372 4425,1401 4467,1358 4638,1396 4751,1353 4870,1391 5073,1368 5116,1410 5343,1387 5343,1145 5253,1122 5154,1174 4903,1159 4794,1107 4638,1159 4505,1084 4231,1159 4113,1079 3952,1079 3800,1141 3696,1088 3540,1136 3355,1079 2759,1216 2489,1155 2428,1197 2096,1145 2026,1183 1869,1084 1779,1169 1647,1136 1581,1169"
                   rendition="Line"
                   xml:id="facs_4_region_1709375220490_1514_tl_1"/>
@@ -1132,8 +1117,7 @@
          </zone>
          <zone points="5448,1086 9372,1086 9372,10664 5448,10664"
                rendition="TextRegion"
-               xml:id="facs_4_region_1709375223762_1517"
-               subtype="paragraph">
+               xml:id="facs_4_region_1709375223762_1517">
             <zone points="5518,1396 5802,1368 5953,1382 6006,1434 6190,1368 6327,1372 6441,1434 6626,1382 6796,1391 6848,1434 6990,1372 7080,1415 7198,1377 7544,1429 7922,1387 8012,1420 8097,1377 8220,1420 8301,1387 8518,1420 8968,1396 9299,1458 9299,1093 9266,1088 8982,1093 8845,1141 8656,1126 8604,1079 8514,1136 8055,1112 7988,1159 7846,1112 7766,1164 7648,1107 7492,1122 7439,1074 7302,1159 7141,1103 7028,1136 6928,1074 6801,1079 6644,1159 6559,1084 6474,1079 6162,1150 6020,1079 5859,1117 5816,1079 5674,1155 5518,1122"
                   rendition="Line"
                   xml:id="facs_4_region_1709375223762_1517_tl_1"/>
@@ -1301,8 +1285,7 @@
                   height="12429px"/>
          <zone points="734,1012 4717,1012 4717,10664 734,10664"
                rendition="TextRegion"
-               xml:id="facs_5_region_1709375260052_1523"
-               subtype="paragraph">
+               xml:id="facs_5_region_1709375260052_1523">
             <zone points="855,1366 969,1403 1082,1361 1266,1384 1304,1347 1370,1394 1422,1351 1484,1394 1635,1389 1838,1337 2008,1375 2311,1342 2457,1389 2580,1337 2863,1337 2967,1384 3246,1328 3638,1394 3832,1337 4012,1380 4645,1356 4645,1115 4588,1110 4342,1186 4286,1134 4115,1172 4030,1120 3685,1172 3293,1106 3076,1148 2896,1068 2372,1087 2282,1167 1984,1068 1772,1115 1611,1077 1484,1167 1214,1158 1091,1101 855,1139"
                   rendition="Line"
                   xml:id="facs_5_region_1709375260052_1523_tl_1"/>
@@ -1465,8 +1448,7 @@
          </zone>
          <zone points="4747,1026 8671,1026 8671,10694 4747,10694"
                rendition="TextRegion"
-               xml:id="facs_5_region_1709375264370_1526"
-               subtype="paragraph">
+               xml:id="facs_5_region_1709375264370_1526">
             <zone points="4838,1351 5032,1380 5226,1337 5363,1394 5443,1342 5557,1384 5665,1347 5760,1394 5958,1337 6204,1399 6317,1337 6473,1394 6624,1328 6752,1394 6832,1347 6993,1384 7078,1323 7272,1394 7395,1347 7456,1389 7706,1342 8037,1399 8273,1347 8458,1399 8571,1356 8571,1125 8359,1224 8259,1167 8155,1191 7971,1125 7848,1134 7773,1073 7730,1106 7650,1040 7551,1115 7414,1106 7347,1158 7083,1125 6993,1058 6823,1077 6733,1158 6629,1129 6549,1162 6360,1091 6109,1158 5679,1148 5566,1077 5410,1101 5330,1058 5056,1153 4838,1049"
                   rendition="Line"
                   xml:id="facs_5_region_1709375264370_1526_tl_1"/>
@@ -1634,8 +1616,7 @@
                   height="12458px"/>
          <zone points="1271,1086 5209,1086 5209,9769 1271,9769"
                rendition="TextRegion"
-               xml:id="facs_6_region_1709375289306_1532"
-               subtype="paragraph">
+               xml:id="facs_6_region_1709375289306_1532">
             <zone points="1400,1400 1673,1343 1883,1348 1959,1395 2265,1338 2346,1376 2509,1333 2576,1376 2619,1333 3082,1405 3168,1333 3288,1381 3369,1319 3637,1391 3727,1357 3799,1391 3856,1348 3985,1372 4052,1319 4258,1381 4573,1338 4664,1395 5171,1319 5171,1152 5037,1152 4850,1047 4631,1070 4530,1152 4172,1047 4019,1123 3971,1094 3890,1156 3737,1166 3598,1090 3541,1147 3259,1171 3192,1113 3106,1133 2896,1047 2710,1118 2504,1066 2318,1133 2084,1090 1955,1128 1888,1080 1773,1161 1658,1176 1400,1123"
                   rendition="Line"
                   xml:id="facs_6_region_1709375289306_1532_tl_1"/>
@@ -1786,8 +1767,7 @@
          </zone>
          <zone points="5314,1101 9163,1101 9163,9709 5314,9709"
                rendition="TextRegion"
-               xml:id="facs_6_region_1709375295546_1535"
-               subtype="paragraph">
+               xml:id="facs_6_region_1709375295546_1535">
             <zone points="5324,1395 5438,1348 5601,1376 5844,1333 5978,1376 6136,1333 6294,1367 6647,1343 6695,1381 6795,1324 6939,1381 7307,1324 7527,1376 8305,1338 8573,1410 8740,1357 9027,1395 9166,1367 9166,1080 8941,1180 8888,1137 8736,1147 8544,1090 8372,1142 8258,1061 8124,1118 8028,1070 7923,1133 7828,1056 7660,1190 7402,1070 7101,1142 6786,1090 6590,1109 6504,1056 6423,1128 6284,1090 6179,1152 6040,1113 5821,1147 5778,1104 5682,1171 5591,1133 5539,1180 5324,1094"
                   rendition="Line"
                   xml:id="facs_6_region_1709375295546_1535_tl_1"/>
@@ -1937,8 +1917,7 @@
                   height="12537px"/>
          <zone points="525,788 8402,788 8402,2727 525,2727"
                rendition="TextRegion"
-               xml:id="facs_7_region_1709375324250_1541"
-               subtype="paragraph">
+               xml:id="facs_7_region_1709375324250_1541">
             <zone points="3997,1294 4169,1361 4308,1294 4471,1342 4610,1270 4802,1356 4994,1284 5157,1342 5157,992 5032,997 4917,1097 4831,1050 4577,1126 4486,1054 4400,1054 4246,925 4107,954 3992,891"
                   rendition="Line"
                   xml:id="facs_7_region_1709375324250_1541_tl_1"/>
@@ -1957,8 +1936,7 @@
          </zone>
          <zone points="883,4159 8253,4159 8253,4697 883,4697"
                rendition="TextRegion"
-               xml:id="facs_7_region_1709375328266_1544"
-               subtype="paragraph">
+               xml:id="facs_7_region_1709375328266_1544">
             <zone points="4088,4606 4179,4591 4237,4610 4270,4582 4342,4606 4433,4596 4433,4102 4318,4107 4251,4064 4088,4083"
                   rendition="Line"
                   xml:id="facs_7_region_1709375328266_1544_tl_1"/>
@@ -1971,8 +1949,7 @@
          </zone>
          <zone points="450,6576 4449,6576 4449,10619 450,10619"
                rendition="TextRegion"
-               xml:id="facs_7_region_1709375336162_1547"
-               subtype="paragraph">
+               xml:id="facs_7_region_1709375336162_1547">
             <zone points="594,6901 887,6916 1121,6853 1318,6911 1414,6872 1821,6906 1883,6863 1946,6896 2262,6872 2320,6911 2363,6872 2574,6868 2650,6906 2746,6848 2808,6896 2880,6853 2957,6872 3019,6925 3580,6863 3681,6920 3805,6887 3925,6940 4366,6858 4366,6566 3963,6609 3896,6566 3767,6599 3647,6561 3599,6599 3494,6561 3403,6604 3249,6561 3077,6710 2813,6729 2502,6686 2344,6724 2238,6633 2161,6686 1869,6724 1740,6671 1217,6724 1030,6676 863,6729 594,6657"
                   rendition="Line"
                   xml:id="facs_7_region_1709375336162_1547_tl_1"/>
@@ -2039,8 +2016,7 @@
          </zone>
          <zone points="4493,6293 8357,6293 8357,10619 4493,10619"
                rendition="TextRegion"
-               xml:id="facs_7_region_1709375342907_1550"
-               subtype="paragraph">
+               xml:id="facs_7_region_1709375342907_1550">
             <zone points="4538,6537 4630,6494 4740,6556 4946,6508 5080,6571 5171,6494 5272,6537 5550,6489 5636,6551 5717,6503 5804,6551 5880,6499 6034,6508 6106,6571 6173,6508 6360,6537 6408,6489 6700,6508 6767,6566 7122,6470 7361,6561 7563,6494 7697,6503 7793,6571 7903,6503 7960,6537 8286,6503 8286,6254 8128,6221 8027,6297 7965,6249 7759,6307 7620,6235 7548,6264 7409,6225 7227,6293 6992,6235 6710,6288 6446,6216 6317,6254 6240,6216 6173,6273 5976,6225 5574,6225 5468,6269 5353,6211 5248,6269 5027,6273 4908,6211 4759,6249 4538,6216"
                   rendition="Line"
                   xml:id="facs_7_region_1709375342907_1550_tl_1"/>
@@ -2121,8 +2097,7 @@
                   height="12441px"/>
          <zone points="1748,1116 5612,1116 5612,10694 1748,10694"
                rendition="TextRegion"
-               xml:id="facs_8_region_1709375379842_1565"
-               subtype="paragraph">
+               xml:id="facs_8_region_1709375379842_1565">
             <zone points="2150,1356 2410,1361 2481,1408 2585,1366 2849,1403 3005,1347 3170,1384 3350,1351 3435,1413 3553,1380 3671,1413 3719,1370 3903,1384 4007,1290 4106,1380 4205,1361 4323,1418 4442,1375 4522,1422 4593,1380 4824,1403 4928,1351 4999,1408 5231,1375 5320,1418 5509,1342 5571,1375 5571,1177 5533,1162 5467,1205 5301,1139 5221,1219 5037,1228 4739,1087 4404,1125 4290,1087 4068,1238 3737,1125 3648,1177 3515,1139 3274,1214 3029,1172 2854,1214 2670,1167 2570,1238 2471,1153 2405,1200 2320,1172 2150,1210"
                   rendition="Line"
                   xml:id="facs_8_region_1709375379842_1565_tl_1"/>
@@ -2285,8 +2260,7 @@
          </zone>
          <zone points="5687,1116 9521,1116 9521,10664 5687,10664"
                rendition="TextRegion"
-               xml:id="facs_8_region_1709375369026_1559"
-               subtype="paragraph">
+               xml:id="facs_8_region_1709375369026_1559">
             <zone points="5746,1347 5897,1394 6081,1356 6251,1399 6341,1342 6492,1380 6695,1342 6932,1422 7225,1366 7404,1418 7532,1356 8075,1399 8136,1347 8273,1399 8420,1299 8614,1408 8784,1370 9351,1418 9502,1380 9497,1148 9171,1082 8822,1167 8514,1120 8359,1162 8245,1120 8103,1177 7839,1073 7607,1153 7428,1096 7295,1125 7121,1073 7031,1125 6946,1063 6582,1063 6473,1125 6336,1096 6062,1153 5883,1101 5741,1153"
                   rendition="Line"
                   xml:id="facs_8_region_1709375369026_1559_tl_1"/>
@@ -2454,8 +2428,7 @@
                   height="12450px"/>
          <zone points="510,967 4493,967 4493,10545 510,10545"
                rendition="TextRegion"
-               xml:id="facs_9_region_1709375404914_1571"
-               subtype="paragraph">
+               xml:id="facs_9_region_1709375404914_1571">
             <zone points="646,1283 830,1255 1089,1316 1188,1245 1278,1306 1589,1292 1627,1325 1726,1264 2099,1311 2335,1255 2495,1288 2754,1255 2797,1297 2990,1259 3084,1325 3339,1240 3396,1288 3466,1255 3683,1321 3910,1250 4117,1297 4414,1273 4414,1014 4339,976 4183,1033 4108,1005 3933,1085 3707,986 3561,1028 3466,995 3292,1104 3240,1066 3169,1104 2976,1085 2816,976 2627,1080 2566,1052 2415,1113 2165,1085 2037,1005 1745,1089 1434,1071 1377,1014 1179,976 1000,1066 877,1014 646,1052"
                   rendition="Line"
                   xml:id="facs_9_region_1709375404914_1571_tl_1"/>
@@ -2618,8 +2591,7 @@
          </zone>
          <zone points="4538,952 8432,952 8432,1847 4538,1847"
                rendition="TextRegion"
-               xml:id="facs_9_region_1709375408472_1574"
-               subtype="paragraph">
+               xml:id="facs_9_region_1709375408472_1574">
             <zone points="4612,1297 4867,1269 4943,1325 5381,1264 5424,1302 5876,1283 6042,1321 6254,1269 6438,1335 6494,1283 6796,1311 7018,1297 7079,1250 7136,1306 7343,1335 7442,1269 7513,1316 7645,1273 7716,1316 7768,1273 7919,1316 8117,1250 8197,1316 8367,1321 8371,1042 8055,1099 8008,1061 7933,1089 7848,1014 7735,1038 7588,990 7324,1099 6886,1108 6768,1009 6584,1033 6532,981 6452,1038 6145,1094 5801,976 5565,1033 5494,976 5391,1028 5051,995 4801,1066 4726,1009 4617,1023"
                   rendition="Line"
                   xml:id="facs_9_region_1709375408472_1574_tl_1"/>
@@ -2643,8 +2615,7 @@
                   height="12395px"/>
          <zone points="599,803 8447,803 8447,2757 599,2757"
                rendition="TextRegion"
-               xml:id="facs_10_region_1709375435242_1580"
-               subtype="paragraph">
+               xml:id="facs_10_region_1709375435242_1580">
             <zone points="3998,1219 4334,1267 4424,1205 4537,1252 4665,1205 4835,1300 5010,1215 5156,1248 5256,1205 5251,898 5180,870 5038,912 4925,889 4655,1035 4480,988 4296,855 3994,855"
                   rendition="Line"
                   xml:id="facs_10_region_1709375435242_1580_tl_1"/>
@@ -2666,8 +2637,7 @@
          </zone>
          <zone points="838,4100 8149,4100 8149,4622 838,4622"
                rendition="TextRegion"
-               xml:id="facs_10_region_1709375438394_1583"
-               subtype="paragraph">
+               xml:id="facs_10_region_1709375438394_1583">
             <zone points="4126,4551 4679,4570 4892,4528 4996,4556 4991,4055 4707,4013 4480,4074 4424,4031 4287,4055 4121,3989"
                   rendition="Line"
                   xml:id="facs_10_region_1709375438394_1583_tl_1"/>
@@ -2680,8 +2650,7 @@
          </zone>
          <zone points="540,6666 4523,6666 4523,10619 540,10619"
                rendition="TextRegion"
-               xml:id="facs_10_region_1709375441946_1586"
-               subtype="paragraph">
+               xml:id="facs_10_region_1709375441946_1586">
             <zone points="652,7023 1248,7009 1352,7047 1588,6995 1758,7066 1834,7009 1928,7056 2132,7056 2283,6990 2373,7042 2571,6990 2736,7042 2902,6995 3105,7037 3209,6995 3379,7066 3450,7009 3521,7047 3762,7000 3956,7056 4017,7014 4117,7042 4206,7000 4310,7042 4428,7000 4428,6858 4225,6863 4079,6806 4003,6844 3781,6806 3389,6863 3308,6806 3181,6848 3077,6815 2935,6867 2633,6787 2458,6863 2344,6801 2004,6811 1909,6863 1772,6801 1512,6811 1475,6848 1385,6806 1295,6848 1219,6792 993,6834 652,6820"
                   rendition="Line"
                   xml:id="facs_10_region_1709375441946_1586_tl_1"/>
@@ -2745,8 +2714,7 @@
          </zone>
          <zone points="4523,6457 8417,6457 8417,10634 4523,10634"
                rendition="TextRegion"
-               xml:id="facs_10_region_1709375445754_1589"
-               subtype="paragraph">
+               xml:id="facs_10_region_1709375445754_1589">
             <zone points="4613,6702 4792,6636 4958,6636 5038,6688 5137,6645 5251,6692 5393,6640 5846,6640 5884,6673 5969,6636 6522,6645 6565,6607 7018,6683 7080,6640 7288,6631 7571,6673 7666,6626 7737,6669 7907,6631 8276,6683 8399,6650 8399,6489 8261,6517 8139,6470 7893,6499 7808,6466 7675,6513 7562,6442 7278,6508 7104,6475 7023,6532 6886,6475 6763,6499 6522,6437 6258,6484 6187,6423 6064,6513 5823,6470 5681,6517 5421,6404 5256,6532 5128,6480 5057,6517 4972,6461 4925,6508 4698,6480 4618,6522"
                   rendition="Line"
                   xml:id="facs_10_region_1709375445754_1589_tl_1"/>
@@ -2824,8 +2792,7 @@
                   height="12454px"/>
          <zone points="1375,1041 5374,1041 5374,10649 1375,10649"
                rendition="TextRegion"
-               xml:id="facs_11_region_1709375465922_1595"
-               subtype="paragraph">
+               xml:id="facs_11_region_1709375465922_1595">
             <zone points="1531,1388 1736,1336 1888,1369 1954,1312 2054,1360 2401,1336 2544,1412 2682,1350 2905,1398 3067,1308 3191,1360 3704,1327 3856,1398 4042,1403 4218,1331 4351,1393 4489,1350 4622,1398 4850,1341 4912,1379 5045,1336 5183,1379 5297,1336 5297,1113 5083,1060 4807,1236 4517,1179 4341,1075 4184,1094 4142,1051 4013,1117 3975,1079 3733,1065 3595,1098 3476,1065 3381,1108 3276,1065 3124,1113 2948,1037 2748,1041 2373,1165 1988,1056 1531,1079"
                   rendition="Line"
                   xml:id="facs_11_region_1709375465922_1595_tl_1"/>
@@ -2988,8 +2955,7 @@
          </zone>
          <zone points="5448,1026 9312,1026 9312,10649 5448,10649"
                rendition="TextRegion"
-               xml:id="facs_11_region_1709375469922_1598"
-               subtype="paragraph">
+               xml:id="facs_11_region_1709375469922_1598">
             <zone points="5478,1360 5825,1393 5958,1346 6048,1398 6105,1355 6258,1417 6419,1341 6614,1360 6676,1407 6776,1350 6852,1393 7028,1341 7128,1393 7213,1360 7332,1393 7423,1336 7494,1384 7827,1341 7898,1379 8150,1350 8250,1393 8350,1346 8673,1336 8768,1412 8901,1350 9025,1403 9130,1355 9277,1365 9277,1160 9187,1174 9049,1070 8939,1103 8849,1060 8716,1122 8630,1060 8545,1103 8440,1046 8093,1122 7955,1065 7855,1136 7770,1075 7342,1136 7185,1089 7023,1122 6895,1208 6757,1098 6652,1141 6595,1103 6505,1127 6419,1051 6286,1098 6044,1056 5853,1222 5478,1146"
                   rendition="Line"
                   xml:id="facs_11_region_1709375469922_1598_tl_1"/>
@@ -3157,8 +3123,7 @@
                   height="12545px"/>
          <zone points="555,1235 4478,1235 4478,10769 555,10769"
                rendition="TextRegion"
-               xml:id="facs_12_region_1709375510626_1604"
-               subtype="paragraph">
+               xml:id="facs_12_region_1709375510626_1604">
             <zone points="660,1519 1172,1495 1248,1528 1414,1481 1647,1514 1737,1471 1865,1543 1927,1500 2193,1481 2516,1519 2615,1471 2701,1514 3004,1486 3128,1533 3242,1476 3598,1519 3769,1476 4305,1486 4428,1543 4428,1253 4096,1239 3977,1182 3773,1182 3602,1244 3526,1206 3422,1258 3218,1225 3042,1267 3000,1229 2786,1296 2720,1248 2639,1277 2582,1220 2463,1229 2406,1177 2288,1191 2188,1267 1856,1229 1704,1300 1590,1201 1452,1191 1130,1329 897,1239 793,1291 660,1229"
                   rendition="Line"
                   xml:id="facs_12_region_1709375510626_1604_tl_1"/>
@@ -3321,8 +3286,7 @@
          </zone>
          <zone points="4538,1235 8462,1235 8462,10798 4538,10798"
                rendition="TextRegion"
-               xml:id="facs_12_region_1709375513914_1607"
-               subtype="paragraph">
+               xml:id="facs_12_region_1709375513914_1607">
             <zone points="4585,1476 4784,1519 4879,1476 5354,1514 5425,1476 5501,1524 5567,1476 5643,1509 5881,1481 5952,1538 6142,1481 6298,1547 6474,1471 6697,1524 6863,1481 6911,1528 7124,1471 7290,1481 7352,1528 7589,1481 7779,1538 7841,1486 8159,1528 8377,1476 8377,1272 7988,1187 7603,1272 7395,1206 7233,1253 7034,1206 6967,1258 6892,1191 6626,1225 6464,1187 6275,1296 6080,1263 5966,1191 5895,1244 5757,1229 5724,1263 5620,1263 5553,1196 5477,1263 5335,1239 5226,1300 5036,1229 4955,1263 4779,1210 4585,1239"
                   rendition="Line"
                   xml:id="facs_12_region_1709375513914_1607_tl_1"/>
@@ -3490,8 +3454,7 @@
                   height="12450px"/>
          <zone points="1420,1131 5403,1131 5403,10694 1420,10694"
                rendition="TextRegion"
-               xml:id="facs_13_region_1709375549834_1613"
-               subtype="paragraph">
+               xml:id="facs_13_region_1709375549834_1613">
             <zone points="1533,1410 1694,1443 1864,1391 1921,1434 2134,1391 2224,1434 2309,1386 2536,1419 2697,1386 2768,1429 2839,1386 2938,1434 3028,1382 3515,1434 3629,1386 3719,1419 3988,1377 4424,1443 4727,1386 4845,1386 4887,1429 5001,1377 5114,1434 5304,1396 5304,1150 5072,1164 5025,1206 4968,1150 4850,1221 4613,1093 4462,1093 4324,1169 4102,1169 3946,1117 3733,1188 3582,1112 3473,1159 3108,1131 3014,1178 2597,1136 2432,1202 2247,1112 2129,1145 2034,1093 1911,1126 1689,1093 1533,1154"
                   rendition="Line"
                   xml:id="facs_13_region_1709375549834_1613_tl_1"/>
@@ -3651,8 +3614,7 @@
          </zone>
          <zone points="5478,1131 9327,1131 9327,6069 5478,6069"
                rendition="TextRegion"
-               xml:id="facs_13_region_1709375553042_1616"
-               subtype="paragraph">
+               xml:id="facs_13_region_1709375553042_1616">
             <zone points="5663,1405 6165,1382 6477,1438 6600,1372 6733,1452 6908,1386 7040,1457 7286,1363 7499,1434 7698,1372 7911,1391 8001,1443 8100,1367 8758,1424 8994,1382 9264,1448 9264,1159 9164,1131 9103,1173 8980,1140 8881,1183 8819,1126 8578,1159 8521,1102 8076,1206 7948,1154 7783,1197 7707,1140 7603,1178 7513,1131 7352,1136 7201,1216 6889,1169 6804,1093 6643,1173 6453,1150 6335,1192 6089,1107 5966,1117 5819,1206 5663,1150"
                   rendition="Line"
                   xml:id="facs_13_region_1709375553042_1616_tl_1"/>
@@ -3741,18 +3703,15 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <cb n="-1"/>
-            <p>
+            <ab facs="#facs_1_region_1709375107611_1481" type="">
                <lb facs="#facs_1_region_1709375107611_1481_tl_1" n="N001"/>eu
       <lb facs="#facs_1_region_1709375107611_1481_tl_2" n="N002"/>4
-      <lb facs="#facs_1_region_1709375107611_1481_tl_3" n="N003"/>5</p>
-            <cb n="0"/>
-            <p>
+      <lb facs="#facs_1_region_1709375107611_1481_tl_3" n="N003"/>5</ab>
+            <ab facs="#facs_1_region_1709375112562_1484" type="">
                <lb facs="#facs_1_region_1709375112562_1484_tl_1" n="N001"/>N.
       <lb facs="#facs_1_region_1709375112562_1484_tl_2" n="N002"/>Den 16. Februar 1855.
-      <lb facs="#facs_1_region_1709375112562_1484_tl_3" n="N003"/>Zweiundvierzigster Band.</p>
-            <cb n="1"/>
-            <p>
+      <lb facs="#facs_1_region_1709375112562_1484_tl_3" n="N003"/>Zweiundvierzigster Band.</ab>
+            <ab facs="#facs_1_region_1709375117595_1487" type="">
                <lb facs="#facs_1_region_1709375117595_1487_tl_1" n="N001"/>Dr. Eduard Hanslick, vom Musikalisch-Schönen.
       <lb facs="#facs_1_region_1709375117595_1487_tl_2" n="N002"/>Ein Beitrag zur Revision der Aesthetik der Ton¬
       <lb facs="#facs_1_region_1709375117595_1487_tl_3" n="N003"/>Leipzig, R. Weigel, 1854.
@@ -3773,9 +3732,8 @@
       <lb facs="#facs_1_region_1709375117595_1487_tl_18" n="N018"/>der Verf. der hier angezeigten Schrift nun auch einen
       <lb facs="#facs_1_region_1709375117595_1487_tl_19" n="N019"/>Beitrag nach dieser Seite hin gegeben, und zwar einen
       <lb facs="#facs_1_region_1709375117595_1487_tl_20" n="N020"/>beachtenswerthen, einen Fortschritt, wenn auch noch
-      <lb facs="#facs_1_region_1709375117595_1487_tl_21" n="N021"/>nicht begründenden, so doch anregenden, so daß nun</p>
-            <cb n="2"/>
-            <p>
+      <lb facs="#facs_1_region_1709375117595_1487_tl_21" n="N021"/>nicht begründenden, so doch anregenden, so daß nun</ab>
+            <ab facs="#facs_1_region_1709375124066_1490" type="">
                <lb facs="#facs_1_region_1709375124066_1490_tl_1" n="N001"/>auch, was Aesthetik betrifft, ein erneuter, dem wissen¬
       <lb facs="#facs_1_region_1709375124066_1490_tl_2" n="N002"/>schaftlichen Standpunkt der Neuzeit entsprechender An¬
       <lb facs="#facs_1_region_1709375124066_1490_tl_3" n="N003"/>fang gemacht worden ist.
@@ -3799,10 +3757,9 @@
       <lb facs="#facs_1_region_1709375124066_1490_tl_21" n="N021"/>schöne Object, nicht das empfindende Sub¬
       <lb facs="#facs_1_region_1709375124066_1490_tl_22" n="N022"/>ject zu erforschen. Näher ist man diesem Prin¬
       <lb facs="#facs_1_region_1709375124066_1490_tl_23" n="N023"/>cip schon in den anderen Künsten gekommen, nur in
-      <lb facs="#facs_1_region_1709375124066_1490_tl_24" n="N024"/>der Musik treiben die „Empfindungen" noch den alten</p>
+      <lb facs="#facs_1_region_1709375124066_1490_tl_24" n="N024"/>der Musik treiben die „Empfindungen" noch den alten</ab>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <cb n="3"/>
-            <p>
+            <ab facs="#facs_2_region_1709375152043_1496" type="">
                <lb facs="#facs_2_region_1709375152043_1496_tl_1" n="N001"/>Spuk. Die Musik habe es mit dem Gefühl zu thun.
       <lb facs="#facs_2_region_1709375152043_1496_tl_2" n="N002"/>so werde gelehrt; Zweck und Bestimmung der Musik
       <lb facs="#facs_2_region_1709375152043_1496_tl_3" n="N003"/>sei, schöne Gefühle zu erwecken, auch als Inhalt der
@@ -3855,9 +3812,8 @@
       <lb facs="#facs_2_region_1709375152043_1496_tl_50" n="N050"/>der Tonkunst. Sie vermag die Bewegung eines
       <lb facs="#facs_2_region_1709375152043_1496_tl_51" n="N051"/>psychischen Vorgangs nach den Momenten: schnell,
       <lb facs="#facs_2_region_1709375152043_1496_tl_52" n="N052"/>langsam, stark, schwach, steigend, fallend nachzubilden.
-      <lb facs="#facs_2_region_1709375152043_1496_tl_53" n="N053"/>Was uns außerdem in der Musik bestimmte Seelen¬</p>
-            <cb n="4"/>
-            <p>
+      <lb facs="#facs_2_region_1709375152043_1496_tl_53" n="N053"/>Was uns außerdem in der Musik bestimmte Seelen¬</ab>
+            <ab facs="#facs_2_region_1709375155754_1499" type="">
                <lb facs="#facs_2_region_1709375155754_1499_tl_1" n="N001"/>zustände zu malen scheint, ist durchaus symbolisch.
       <lb facs="#facs_2_region_1709375155754_1499_tl_2" n="N002"/>Wie die Farben, so besitzen die Töne von Natur aus
       <lb facs="#facs_2_region_1709375155754_1499_tl_3" n="N003"/>und in ihrer Vereinzelung symbolische Bedeutung.
@@ -3910,10 +3866,9 @@
       <lb facs="#facs_2_region_1709375155754_1499_tl_50" n="N050"/>die Darstellung bestimmter Gefühle für die Musik
       <lb facs="#facs_2_region_1709375155754_1499_tl_51" n="N051"/>zwar ein Ideal sei, das sie niemals ganz erreichen,
       <lb facs="#facs_2_region_1709375155754_1499_tl_52" n="N052"/>dem sie sich aber immer mehr nähern könne und solle.
-      <lb facs="#facs_2_region_1709375155754_1499_tl_53" n="N053"/>Das Schöne in der Musik aber würde mit der</p>
+      <lb facs="#facs_2_region_1709375155754_1499_tl_53" n="N053"/>Das Schöne in der Musik aber würde mit der</ab>
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-            <cb n="5"/>
-            <p>
+            <ab facs="#facs_3_region_1709375186115_1505" type="">
                <lb facs="#facs_3_region_1709375186115_1505_tl_1" n="N001"/>Genauigkeit der Gefühlsdarstellung auch dann nicht
       <lb facs="#facs_3_region_1709375186115_1505_tl_2" n="N002"/>congruiren, wenn diese möglich wäre. Diese Mög¬
       <lb facs="#facs_3_region_1709375186115_1505_tl_3" n="N003"/>lichkeit ist aber nicht einmal in der Vocalmusik vor¬
@@ -3966,9 +3921,8 @@
       <lb facs="#facs_3_region_1709375186115_1505_tl_50" n="N050"/>so behaupten doch die affirmativen Aeußerungen des
       <lb facs="#facs_3_region_1709375186115_1505_tl_51" n="N051"/>Fühlens im praktischen Musikleben eine zu auffallende
       <lb facs="#facs_3_region_1709375186115_1505_tl_52" n="N052"/>und wichtige Rolle, um durch bloße Unterordnung ab¬
-      <lb facs="#facs_3_region_1709375186115_1505_tl_53" n="N053"/>gethan zu werden. Der Verf. giebt daher im vierten</p>
-            <cb n="6"/>
-            <p>
+      <lb facs="#facs_3_region_1709375186115_1505_tl_53" n="N053"/>gethan zu werden. Der Verf. giebt daher im vierten</ab>
+            <ab facs="#facs_3_region_1709375190642_1508" type="">
                <lb facs="#facs_3_region_1709375190642_1508_tl_1" n="N001"/>Kapitel eine Analyse des subjectiven Eindruckes der
       <lb facs="#facs_3_region_1709375190642_1508_tl_2" n="N002"/>Musik. In der Wirklichkeit erweist sich das begrifflich
       <lb facs="#facs_3_region_1709375190642_1508_tl_3" n="N003"/>von unserem Fühlen unabhängige, selbstständige Kunst¬
@@ -4022,10 +3976,9 @@
       <lb facs="#facs_3_region_1709375190642_1508_tl_51" n="N051"/>in
       <lb facs="#facs_3_region_1709375190642_1508_tl_52" n="N052"/>Der Verf. wird auf diese Weise zur Beschreibung
       <lb facs="#facs_3_region_1709375190642_1508_tl_53" n="N053"/>des wahren Kunstgenusses geführt, der ästhetischen
-      <lb facs="#facs_3_region_1709375190642_1508_tl_54" n="N054"/>Wirkung gegenüber der pathologischen, die er im</p>
+      <lb facs="#facs_3_region_1709375190642_1508_tl_54" n="N054"/>Wirkung gegenüber der pathologischen, die er im</ab>
             <pb facs="#facs_4" n="4" xml:id="img_0004"/>
-            <cb n="7"/>
-            <p>
+            <ab facs="#facs_4_region_1709375220490_1514" type="">
                <lb facs="#facs_4_region_1709375220490_1514_tl_1" n="N001"/>fünften Kapitel darlegt. Er betont hier das bewußte
       <lb facs="#facs_4_region_1709375220490_1514_tl_2" n="N002"/>Genießen, die Kunst des Hörens, gegenüber falschen
       <lb facs="#facs_4_region_1709375220490_1514_tl_3" n="N003"/>Aeußerungen des Enthusiasmus, der Berauschung.
@@ -4078,9 +4031,8 @@
       <lb facs="#facs_4_region_1709375220490_1514_tl_50" n="N050"/>arbeitung zu Trennendes, sondern in diese Combina¬
       <lb facs="#facs_4_region_1709375220490_1514_tl_51" n="N051"/>tionen hineingebannt und hier, so zu sagen, mit Hän¬
       <lb facs="#facs_4_region_1709375220490_1514_tl_52" n="N052"/>den zu greifen und zu erfassen. Beide Seiten sind
-      <lb facs="#facs_4_region_1709375220490_1514_tl_53" n="N053"/>nur vereint vorzustellen und aus der technischen Ge¬</p>
-            <cb n="8"/>
-            <p>
+      <lb facs="#facs_4_region_1709375220490_1514_tl_53" n="N053"/>nur vereint vorzustellen und aus der technischen Ge¬</ab>
+            <ab facs="#facs_4_region_1709375223762_1517" type="">
                <lb facs="#facs_4_region_1709375223762_1517_tl_1" n="N001"/>staltung heraus ist der Geist zu begreifen. Der bis¬
       <lb facs="#facs_4_region_1709375223762_1517_tl_2" n="N002"/>herige Irrthum lag darin, daß zwei Seiten,
       <lb facs="#facs_4_region_1709375223762_1517_tl_3" n="N003"/>die wesentlich eins sind, die nur die verschiedenen
@@ -4133,10 +4085,9 @@
       <lb facs="#facs_4_region_1709375223762_1517_tl_50" n="N050"/>ein künstlerisches Schaffen anerkennen lernte, während
       <lb facs="#facs_4_region_1709375223762_1517_tl_51" n="N051"/>früher nur die Arbeit des Verstandes als das Wesent¬
       <lb facs="#facs_4_region_1709375223762_1517_tl_52" n="N052"/>liche erschien. Der Verf. stellt den Standpunkt der
-      <lb facs="#facs_4_region_1709375223762_1517_tl_53" n="N053"/>psychologischen Beschreibung zu sehr als Irrthum dar,</p>
+      <lb facs="#facs_4_region_1709375223762_1517_tl_53" n="N053"/>psychologischen Beschreibung zu sehr als Irrthum dar,</ab>
             <pb facs="#facs_5" n="5" xml:id="img_0005"/>
-            <cb n="9"/>
-            <p>
+            <ab facs="#facs_5_region_1709375260052_1523" type="">
                <lb facs="#facs_5_region_1709375260052_1523_tl_1" n="N001"/>während er nur eine Einseitigkeit war. Unsere Auf¬
       <lb facs="#facs_5_region_1709375260052_1523_tl_2" n="N002"/>gabe kann nicht darin bestehen, das auf diese Weise
       <lb facs="#facs_5_region_1709375260052_1523_tl_3" n="N003"/>Gewonnene als etwas Unbrauchbares bei Seite zu
@@ -4189,9 +4140,8 @@
       <lb facs="#facs_5_region_1709375260052_1523_tl_50" n="N050"/>Seite accentuirt, kommt er dahin, die subjective ganz
       <lb facs="#facs_5_region_1709375260052_1523_tl_51" n="N051"/>zu übersehen. Der Geist, der dem Verf. zufolge in
       <lb facs="#facs_5_region_1709375260052_1523_tl_52" n="N052"/>dem Tonwerk enthalten sein soll, ist fast nicht mehr
-      <lb facs="#facs_5_region_1709375260052_1523_tl_53" n="N053"/>als ein ganz willkührliches Spiel der Phantasie, jeden¬</p>
-            <cb n="10"/>
-            <p>
+      <lb facs="#facs_5_region_1709375260052_1523_tl_53" n="N053"/>als ein ganz willkührliches Spiel der Phantasie, jeden¬</ab>
+            <ab facs="#facs_5_region_1709375264370_1526" type="">
                <lb facs="#facs_5_region_1709375264370_1526_tl_1" n="N001"/>falls ein Geist, den er gar nicht näher bestimmen kann.
       <lb facs="#facs_5_region_1709375264370_1526_tl_2" n="N002"/>Richtig ist, daß der Tonsetzer nicht mit einem Inhalt
       <lb facs="#facs_5_region_1709375264370_1526_tl_3" n="N003"/>zu thun hat, den er gewissermaßen in Töne übersetzt,
@@ -4244,10 +4194,9 @@
       <lb facs="#facs_5_region_1709375264370_1526_tl_50" n="N050"/>rischen Gestaltungen nach den Gesetzen der Naturver¬
       <lb facs="#facs_5_region_1709375264370_1526_tl_51" n="N051"/>wandtschaft der Accorde, Ausweichungen in die nächst¬
       <lb facs="#facs_5_region_1709375264370_1526_tl_52" n="N052"/>verwandten Tonarten. Eine solche unmittelbare Einheit
-      <lb facs="#facs_5_region_1709375264370_1526_tl_53" n="N053"/>aber kam nur für kurze Zeit genügen. Der Geist</p>
+      <lb facs="#facs_5_region_1709375264370_1526_tl_53" n="N053"/>aber kam nur für kurze Zeit genügen. Der Geist</ab>
             <pb facs="#facs_6" n="6" xml:id="img_0006"/>
-            <cb n="11"/>
-            <p>
+            <ab facs="#facs_6_region_1709375289306_1532" type="">
                <lb facs="#facs_6_region_1709375289306_1532_tl_1" n="N001"/>schreitet weiter, indem er die nächsten, natürlichen Be¬
       <lb facs="#facs_6_region_1709375289306_1532_tl_2" n="N002"/>ziehungen der Accorde negirt und aus diesen fortgesetzten
       <lb facs="#facs_6_region_1709375289306_1532_tl_3" n="N003"/>Negationen sein reicher gestaltetes Gebäude auferbaut.
@@ -4296,9 +4245,8 @@
       <lb facs="#facs_6_region_1709375289306_1532_tl_46" n="N046"/>schreibung glaubte, die Erkenntniß wird gewonnen
       <lb facs="#facs_6_region_1709375289306_1532_tl_47" n="N047"/>durch objective Betrachtung, welche dann rückwärts auf
       <lb facs="#facs_6_region_1709375289306_1532_tl_48" n="N048"/>das Gefühl zu schließen erlaubt, indem sie die Iden¬
-      <lb facs="#facs_6_region_1709375289306_1532_tl_49" n="N049"/>dität von Gedanke und Gefühl begreift. Dieser Stein,</p>
-            <cb n="12"/>
-            <p>
+      <lb facs="#facs_6_region_1709375289306_1532_tl_49" n="N049"/>dität von Gedanke und Gefühl begreift. Dieser Stein,</ab>
+            <ab facs="#facs_6_region_1709375295546_1535" type="">
                <lb facs="#facs_6_region_1709375295546_1535_tl_1" n="N001"/>dieser Krystall macht diesen bestimmten Eindruck auf
       <lb facs="#facs_6_region_1709375295546_1535_tl_2" n="N002"/>unser Gefühl. Dieses Gefühl ist dasselbe, was im
       <lb facs="#facs_6_region_1709375295546_1535_tl_3" n="N003"/>Reiche des Gedankens das mathematische Gesetz seiner
@@ -4345,23 +4293,20 @@
       <lb facs="#facs_6_region_1709375295546_1535_tl_44" n="N044"/>zu sehr von einer einseitigen Theorie aus auf die Er¬
       <lb facs="#facs_6_region_1709375295546_1535_tl_45" n="N045"/>fahrung, statt seine Theorie der Erfahrung gemäß zu
       <lb facs="#facs_6_region_1709375295546_1535_tl_46" n="N046"/>gestalten.
-      <lb facs="#facs_6_region_1709375295546_1535_tl_47" n="N047"/>(Fortsetzung folgt.</p>
+      <lb facs="#facs_6_region_1709375295546_1535_tl_47" n="N047"/>(Fortsetzung folgt.</ab>
             <pb facs="#facs_7" n="7" xml:id="img_0007"/>
-            <cb n="13"/>
-            <p>
+            <ab facs="#facs_7_region_1709375324250_1541" type="">
                <lb facs="#facs_7_region_1709375324250_1541_tl_1" n="N001"/>Neue
       <lb facs="#facs_7_region_1709375324250_1541_tl_2" n="N002"/>
                <lb facs="#facs_7_region_1709375324250_1541_tl_3" n="N003"/>es
       <lb facs="#facs_7_region_1709375324250_1541_tl_4" n="N004"/>k.
       <lb facs="#facs_7_region_1709375324250_1541_tl_5" n="N005"/>
-            </p>
-            <cb n="14"/>
-            <p>
+            </ab>
+            <ab facs="#facs_7_region_1709375328266_1544" type="">
                <lb facs="#facs_7_region_1709375328266_1544_tl_1" n="N001"/>M.
       <lb facs="#facs_7_region_1709375328266_1544_tl_2" n="N002"/>Den 23. Februar 1855
-      <lb facs="#facs_7_region_1709375328266_1544_tl_3" n="N003"/>Zweiundvierzigster Band.</p>
-            <cb n="15"/>
-            <p>
+      <lb facs="#facs_7_region_1709375328266_1544_tl_3" n="N003"/>Zweiundvierzigster Band.</ab>
+            <ab facs="#facs_7_region_1709375336162_1547" type="">
                <lb facs="#facs_7_region_1709375336162_1547_tl_1" n="N001"/>Dr. Eduard Hanslick, vom Musikalisch-Schönen.
       <lb facs="#facs_7_region_1709375336162_1547_tl_2" n="N002"/>(Fortsetzung.)
       <lb facs="#facs_7_region_1709375336162_1547_tl_3" n="N003"/>Der Verf. tritt (S. 6) jener Ansicht gegenüber
@@ -4382,9 +4327,8 @@
       <lb facs="#facs_7_region_1709375336162_1547_tl_18" n="N018"/>aus nicht gemeint, daß die Tonkunst allein das Ge¬
       <lb facs="#facs_7_region_1709375336162_1547_tl_19" n="N019"/>fühl beschäftige, es ist eben so wenig gesagt, daß hier
       <lb facs="#facs_7_region_1709375336162_1547_tl_20" n="N020"/>das Gefühl unmittelbar in Anspruch genommen
-      <lb facs="#facs_7_region_1709375336162_1547_tl_21" n="N021"/>werde, in anderen Künsten aber nur durch Vermitt¬</p>
-            <cb n="16"/>
-            <p>
+      <lb facs="#facs_7_region_1709375336162_1547_tl_21" n="N021"/>werde, in anderen Künsten aber nur durch Vermitt¬</ab>
+            <ab facs="#facs_7_region_1709375342907_1550" type="">
                <lb facs="#facs_7_region_1709375342907_1550_tl_1" n="N001"/>lung anderer Seelenthätigkeiten; die Bedeutung jenes
       <lb facs="#facs_7_region_1709375342907_1550_tl_2" n="N002"/>Satzes ist diese: Die ästhetische Wirkung der Künste
       <lb facs="#facs_7_region_1709375342907_1550_tl_3" n="N003"/>ist bei allen wesentlich dieselbe, für alle Künste ist die
@@ -4408,10 +4352,9 @@
       <lb facs="#facs_7_region_1709375342907_1550_tl_21" n="N021"/>wähnte „Mehr oder Minder", auf das sich, nach des
       <lb facs="#facs_7_region_1709375342907_1550_tl_22" n="N022"/>Verf.'s Ansicht, der Unterschied in der Wirkung der
       <lb facs="#facs_7_region_1709375342907_1550_tl_23" n="N023"/>Künste der gewöhnlichen Ansicht nach reduciren soll,
-      <lb facs="#facs_7_region_1709375342907_1550_tl_24" n="N024"/>eine sehr bestimmte Stellung.</p>
+      <lb facs="#facs_7_region_1709375342907_1550_tl_24" n="N024"/>eine sehr bestimmte Stellung.</ab>
             <pb facs="#facs_8" n="8" xml:id="img_0008"/>
-            <cb n="17"/>
-            <p>
+            <ab facs="#facs_8_region_1709375379842_1565" type="">
                <lb facs="#facs_8_region_1709375379842_1565_tl_1" n="N001"/>S. 8 wird die Thatsache, daß ein und dasselbe
       <lb facs="#facs_8_region_1709375379842_1565_tl_2" n="N002"/>Tonstück auf verschiedene Hörer einen ganz entgegen¬
       <lb facs="#facs_8_region_1709375379842_1565_tl_3" n="N003"/>gesetzten Eindruck macht, benutzt, um darzuthun, daß
@@ -4464,9 +4407,8 @@
       <lb facs="#facs_8_region_1709375379842_1565_tl_50" n="N050"/>Endlich ist noch zu sagen, — und dies ist der dritte
       <lb facs="#facs_8_region_1709375379842_1565_tl_51" n="N051"/>Irrthum — daß der Versuch einer Fassung in Worte
       <lb facs="#facs_8_region_1709375379842_1565_tl_52" n="N052"/>gesetzt auch, die eben bezeichneten Schwierigkeiten
-      <lb facs="#facs_8_region_1709375379842_1565_tl_53" n="N053"/>seien beseitigt — um so schwieriger wird, je unent¬</p>
-            <cb n="18"/>
-            <p>
+      <lb facs="#facs_8_region_1709375379842_1565_tl_53" n="N053"/>seien beseitigt — um so schwieriger wird, je unent¬</ab>
+            <ab facs="#facs_8_region_1709375369026_1559" type="">
                <lb facs="#facs_8_region_1709375369026_1559_tl_1" n="N001"/>wickelter der musikalische Gedanke ist der uns vor¬
       <lb facs="#facs_8_region_1709375369026_1559_tl_2" n="N002"/>liegt. Will man einen solchen Versuch machen, so
       <lb facs="#facs_8_region_1709375369026_1559_tl_3" n="N003"/>hält man sich natürlich lieber an die ganze Compo¬
@@ -4519,10 +4461,9 @@
       <lb facs="#facs_8_region_1709375369026_1559_tl_50" n="N050"/>hier das Beispiel des Verf.'s falsch gewählt. Eine
       <lb facs="#facs_8_region_1709375369026_1559_tl_51" n="N051"/>so kurze Figur kann mit gleichem Rechte bei der Dar¬
       <lb facs="#facs_8_region_1709375369026_1559_tl_52" n="N052"/>stellung ganz verschiedenartiger Afferte vorkommen.
-      <lb facs="#facs_8_region_1709375369026_1559_tl_53" n="N053"/>Es ist dies derselbe Irrthum, wie oben bei der Ouver¬</p>
+      <lb facs="#facs_8_region_1709375369026_1559_tl_53" n="N053"/>Es ist dies derselbe Irrthum, wie oben bei der Ouver¬</ab>
             <pb facs="#facs_9" n="9" xml:id="img_0009"/>
-            <cb n="19"/>
-            <p>
+            <ab facs="#facs_9_region_1709375404914_1571" type="">
                <lb facs="#facs_9_region_1709375404914_1571_tl_1" n="N001"/>türe zu Prometheus, wo auch schon das Thema ge¬
       <lb facs="#facs_9_region_1709375404914_1571_tl_2" n="N002"/>nügen sollte. Daraus, daß die ausdrucksvollsten Ge¬
       <lb facs="#facs_9_region_1709375404914_1571_tl_3" n="N003"/>sangsstellen, wie der Verf. sagt, uns höchstens rathen
@@ -4575,30 +4516,26 @@
       <lb facs="#facs_9_region_1709375404914_1571_tl_50" n="N050"/>saischer Vorkommnisse geliefert hat. Man fand mit
       <lb facs="#facs_9_region_1709375404914_1571_tl_51" n="N051"/>Recht, daß das keine Kunstwerke seien, und erkannte
       <lb facs="#facs_9_region_1709375404914_1571_tl_52" n="N052"/>in der Mitwirkung des Gefühls, d. h. in der künst¬
-      <lb facs="#facs_9_region_1709375404914_1571_tl_53" n="N053"/>lerischen Erfassung das Wahre, indem man dabei, wie</p>
-            <cb n="20"/>
-            <p>
+      <lb facs="#facs_9_region_1709375404914_1571_tl_53" n="N053"/>lerischen Erfassung das Wahre, indem man dabei, wie</ab>
+            <ab facs="#facs_9_region_1709375408472_1574" type="">
                <lb facs="#facs_9_region_1709375408472_1574_tl_1" n="N001"/>gesagt, stillschweigend voraussetzte, was schon erreicht
       <lb facs="#facs_9_region_1709375408472_1574_tl_2" n="N002"/>und vorhanden war,
       <lb facs="#facs_9_region_1709375408472_1574_tl_3" n="N003"/>die Nachbildung des Aeußeren
       <lb facs="#facs_9_region_1709375408472_1574_tl_4" n="N004"/>nämlich.
-      <lb facs="#facs_9_region_1709375408472_1574_tl_5" n="N005"/>(Schluß folgt.)</p>
+      <lb facs="#facs_9_region_1709375408472_1574_tl_5" n="N005"/>(Schluß folgt.)</ab>
             <pb facs="#facs_10" n="10" xml:id="img_0010"/>
-            <cb n="21"/>
-            <p>
+            <ab facs="#facs_10_region_1709375435242_1580" type="">
                <lb facs="#facs_10_region_1709375435242_1580_tl_1" n="N001"/>Neue
       <lb facs="#facs_10_region_1709375435242_1580_tl_2" n="N002"/>2
       <lb facs="#facs_10_region_1709375435242_1580_tl_3" n="N003"/>
                <lb facs="#facs_10_region_1709375435242_1580_tl_4" n="N004"/>-
       <lb facs="#facs_10_region_1709375435242_1580_tl_5" n="N005"/>se
-      <lb facs="#facs_10_region_1709375435242_1580_tl_6" n="N006"/>-</p>
-            <cb n="22"/>
-            <p>
+      <lb facs="#facs_10_region_1709375435242_1580_tl_6" n="N006"/>-</ab>
+            <ab facs="#facs_10_region_1709375438394_1583" type="">
                <lb facs="#facs_10_region_1709375438394_1583_tl_1" n="N001"/>10
       <lb facs="#facs_10_region_1709375438394_1583_tl_2" n="N002"/>Zweiundvierzigster Band.
-      <lb facs="#facs_10_region_1709375438394_1583_tl_3" n="N003"/>Den 2. März 1855.</p>
-            <cb n="23"/>
-            <p>
+      <lb facs="#facs_10_region_1709375438394_1583_tl_3" n="N003"/>Den 2. März 1855.</ab>
+            <ab facs="#facs_10_region_1709375441946_1586" type="">
                <lb facs="#facs_10_region_1709375441946_1586_tl_1" n="N001"/>Dr. Eduard Hanslick, vom Musikalisch-Schönen.
       <lb facs="#facs_10_region_1709375441946_1586_tl_2" n="N002"/>(Schluß.)
       <lb facs="#facs_10_region_1709375441946_1586_tl_3" n="N003"/>Noch entschiedener, als der Verf. die Möglich¬
@@ -4618,9 +4555,8 @@
       <lb facs="#facs_10_region_1709375441946_1586_tl_17" n="N017"/>nen, welche ein bestimmtes Gefühl auf das Genaueste
       <lb facs="#facs_10_region_1709375441946_1586_tl_18" n="N018"/>abzuconterfeien suchen. Diese rücksichtslose Wahrheit
       <lb facs="#facs_10_region_1709375441946_1586_tl_19" n="N019"/>steht indeß meist in umgekehrtem Verhältniß zu ihrer
-      <lb facs="#facs_10_region_1709375441946_1586_tl_20" n="N020"/>Schönheit. Die musikalische Schönheit ist stets</p>
-            <cb n="24"/>
-            <p>
+      <lb facs="#facs_10_region_1709375441946_1586_tl_20" n="N020"/>Schönheit. Die musikalische Schönheit ist stets</ab>
+            <ab facs="#facs_10_region_1709375445754_1589" type="">
                <lb facs="#facs_10_region_1709375445754_1589_tl_1" n="N001"/>geneigt, dem speciell Auszudrückenden zu
       <lb facs="#facs_10_region_1709375445754_1589_tl_2" n="N002"/>weichen, weil jene ein selbstständiges Entfalten, dieses
       <lb facs="#facs_10_region_1709375445754_1589_tl_3" n="N003"/>ein dienendes Verleugnen erheischt. — Das drama¬
@@ -4643,10 +4579,9 @@
       <lb facs="#facs_10_region_1709375445754_1589_tl_20" n="N020"/>nen Drama zurückkommen, wenn man nicht dem
       <lb facs="#facs_10_region_1709375445754_1589_tl_21" n="N021"/>musikalischen Princip in der Oper die Oberherrschaft
       <lb facs="#facs_10_region_1709375445754_1589_tl_22" n="N022"/>gestatten will. In der Wirklichkeit ist dies auch nie¬
-      <lb facs="#facs_10_region_1709375445754_1589_tl_23" n="N023"/>mals geleugnet worden, und oft genug bricht bei</p>
+      <lb facs="#facs_10_region_1709375445754_1589_tl_23" n="N023"/>mals geleugnet worden, und oft genug bricht bei</ab>
             <pb facs="#facs_11" n="11" xml:id="img_0011"/>
-            <cb n="25"/>
-            <p>
+            <ab facs="#facs_11_region_1709375465922_1595" type="">
                <lb facs="#facs_11_region_1709375465922_1595_tl_1" n="N001"/>Gluck die musikalische Natur durch, seine Theorie Li¬
       <lb facs="#facs_11_region_1709375465922_1595_tl_2" n="N002"/>gen strafend. Dasselbe gilt von Wagner. Auch
       <lb facs="#facs_11_region_1709375465922_1595_tl_3" n="N003"/>Wagner hätte sich manche Mühe ersparen können,
@@ -4699,9 +4634,8 @@
       <lb facs="#facs_11_region_1709375465922_1595_tl_50" n="N050"/>der Sprache sich unterordnen, das Wesen derselben in
       <lb facs="#facs_11_region_1709375465922_1595_tl_51" n="N051"/>sich aufnehmen mit Hintanstellung ihrer Eigenthüm¬
       <lb facs="#facs_11_region_1709375465922_1595_tl_52" n="N052"/>lichkeit; es heißt: die Musik soll auf der Grund¬
-      <lb facs="#facs_11_region_1709375465922_1595_tl_53" n="N053"/>lage ihres Wesens, mit Bewahrung ihrer</p>
-            <cb n="26"/>
-            <p>
+      <lb facs="#facs_11_region_1709375465922_1595_tl_53" n="N053"/>lage ihres Wesens, mit Bewahrung ihrer</ab>
+            <ab facs="#facs_11_region_1709375469922_1598" type="">
                <lb facs="#facs_11_region_1709375469922_1598_tl_1" n="N001"/>Eigenthümlichkeit, so daß dies immer in erster
       <lb facs="#facs_11_region_1709375469922_1598_tl_2" n="N002"/>Linie steht, sich nach Seite der Bestimmtheit
       <lb facs="#facs_11_region_1709375469922_1598_tl_3" n="N003"/>der Sprache hin möglichst erweitern, damit
@@ -4754,10 +4688,9 @@
       <lb facs="#facs_11_region_1709375469922_1598_tl_50" n="N050"/>die Absicht nur darauf gerichtet, höchste Bestimmtheit
       <lb facs="#facs_11_region_1709375469922_1598_tl_51" n="N051"/>des Ausdrucks und dramatische Bewegung auf Kosten
       <lb facs="#facs_11_region_1709375469922_1598_tl_52" n="N052"/>der Schönheit zu erreichen, so müßte das etwas sehr
-      <lb facs="#facs_11_region_1709375469922_1598_tl_53" n="N053"/>Trostloses genannt werden. Das aber denkt sich der</p>
+      <lb facs="#facs_11_region_1709375469922_1598_tl_53" n="N053"/>Trostloses genannt werden. Das aber denkt sich der</ab>
             <pb facs="#facs_12" n="12" xml:id="img_0012"/>
-            <cb n="27"/>
-            <p>
+            <ab facs="#facs_12_region_1709375510626_1604" type="">
                <lb facs="#facs_12_region_1709375510626_1604_tl_1" n="N001"/>Verf. Er hat in Wien keine Gelegenheit gehabt, sich
       <lb facs="#facs_12_region_1709375510626_1604_tl_2" n="N002"/>eine unmittelbare Anschauung, vom Lohengrin z. B.,
       <lb facs="#facs_12_region_1709375510626_1604_tl_3" n="N003"/>zu verschaffen und sieht darum die Wahrheit nur wie
@@ -4810,9 +4743,8 @@
       <lb facs="#facs_12_region_1709375510626_1604_tl_50" n="N050"/>schief aufgefaßt die Parteistellung in Bezug auf die
       <lb facs="#facs_12_region_1709375510626_1604_tl_51" n="N051"/>9te Symphonie (S. 50). In Bezug auf erstgenannten
       <lb facs="#facs_12_region_1709375510626_1604_tl_52" n="N052"/>Punkt gedenke ich ein anderes Mal mich ausführlicher
-      <lb facs="#facs_12_region_1709375510626_1604_tl_53" n="N053"/>auszusprechen. Zur Rechtfertigung Becher's ist zu</p>
-            <cb n="28"/>
-            <p>
+      <lb facs="#facs_12_region_1709375510626_1604_tl_53" n="N053"/>auszusprechen. Zur Rechtfertigung Becher's ist zu</ab>
+            <ab facs="#facs_12_region_1709375513914_1607" type="">
                <lb facs="#facs_12_region_1709375513914_1607_tl_1" n="N001"/>sagen, daß man nicht eher von einem höheren Stand¬
       <lb facs="#facs_12_region_1709375513914_1607_tl_2" n="N002"/>punkt aus operiren kann, bevor nicht dieser Stand¬
       <lb facs="#facs_12_region_1709375513914_1607_tl_3" n="N003"/>punkt selbst begründet und entwickelt ist. Damals
@@ -4865,10 +4797,9 @@
       <lb facs="#facs_12_region_1709375513914_1607_tl_50" n="N050"/>ist natürlich aber nicht so zu fassen, wie ihn der Verf.
       <lb facs="#facs_12_region_1709375513914_1607_tl_51" n="N051"/>vorstellt, als ein Uebersetzen der Stimmung in die
       <lb facs="#facs_12_region_1709375513914_1607_tl_52" n="N052"/>Sprache der Töne. Der ganze Vorgang ist ein über¬
-      <lb facs="#facs_12_region_1709375513914_1607_tl_53" n="N053"/>wiegend bewußtloser, die Tonreihen sind der unmit¬</p>
+      <lb facs="#facs_12_region_1709375513914_1607_tl_53" n="N053"/>wiegend bewußtloser, die Tonreihen sind der unmit¬</ab>
             <pb facs="#facs_13" n="13" xml:id="img_0013"/>
-            <cb n="29"/>
-            <p>
+            <ab facs="#facs_13_region_1709375549834_1613" type="">
                <lb facs="#facs_13_region_1709375549834_1613_tl_1" n="N001"/>telbare, instinktmäßig, mit bald größerer, bald
       <lb facs="#facs_13_region_1709375549834_1613_tl_2" n="N002"/>geringerer Naturnothwendigkeit gefundene Ausdruck
       <lb facs="#facs_13_region_1709375549834_1613_tl_3" n="N003"/>dafür. Trennung von Form und Inhalt ist daher
@@ -4920,9 +4851,8 @@
       <lb facs="#facs_13_region_1709375549834_1613_tl_49" n="N049"/>einem sehr reellen psychologischen Grunde ruht, daß
       <lb facs="#facs_13_region_1709375549834_1613_tl_50" n="N050"/>ein bestimmter geistiger Gehalt den Tonverbindungen
       <lb facs="#facs_13_region_1709375549834_1613_tl_51" n="N051"/>in der Weise immanent ist, daß die verschiedenartige
-      <lb facs="#facs_13_region_1709375549834_1613_tl_52" n="N052"/>Verwendung der Mittel des Ausdruckes der Geist</p>
-            <cb n="30"/>
-            <p>
+      <lb facs="#facs_13_region_1709375549834_1613_tl_52" n="N052"/>Verwendung der Mittel des Ausdruckes der Geist</ab>
+            <ab facs="#facs_13_region_1709375553042_1616" type="">
                <lb facs="#facs_13_region_1709375553042_1616_tl_1" n="N001"/>selbst, eine bestimmte Gestaltung dieser bestimmte
       <lb facs="#facs_13_region_1709375553042_1616_tl_2" n="N002"/>Geist ist.
       <lb facs="#facs_13_region_1709375553042_1616_tl_3" n="N003"/>Indem ich so meine Auffassung der des Verf.'s
@@ -4949,7 +4879,7 @@
       <lb facs="#facs_13_region_1709375553042_1616_tl_24" n="N024"/>zu viele Mißverständnisse mitbringt. Jetzt ist derselbe
       <lb facs="#facs_13_region_1709375553042_1616_tl_25" n="N025"/>in der That unser Gegner. Hoffen und wünschen wir,
       <lb facs="#facs_13_region_1709375553042_1616_tl_26" n="N026"/>daß eine Annäherung stattfinden möge.
-      <lb facs="#facs_13_region_1709375553042_1616_tl_27" n="N027"/>Fr. Br.</p>
+      <lb facs="#facs_13_region_1709375553042_1616_tl_27" n="N027"/>Fr. Br.</ab>
          </div>
       </body>
    </text>

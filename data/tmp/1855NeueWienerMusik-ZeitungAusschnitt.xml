@@ -72,14 +72,12 @@
             <listBibl>
                <biblStruct>
                   <analytic>
-                     <title>
-               osit-Zeitung,</title>
+                     <title/>
                      <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
                   </analytic>
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
-                     <title type="sub">
-               Vierter Jahrgang Nr. 21. dies auch ein gere og 24. Mai 1855.</title>
+                     <title type="sub"/>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person">Etienne, Michael</name>
@@ -117,24 +115,21 @@
                   height="3508px"/>
          <zone points="119,209 2271,209 2271,317 119,317"
                rendition="TextRegion"
-               xml:id="facs_1_region_1709375017978_1457"
-               subtype="paragraph">
+               xml:id="facs_1_region_1709375017978_1457">
             <zone points="111,311 566,329 1021,274 1438,315 1651,260 1804,264 1851,311 2250,311 2250,213 803,260 761,223 111,227"
                   rendition="Line"
                   xml:id="facs_1_line_1709382154153_2407"/>
          </zone>
          <zone points="104,622 714,422 1566,422 2169,622 2169,893 104,893"
                rendition="TextRegion"
-               xml:id="facs_1_TextRegion_1709375025193_1462"
-               subtype="paragraph">
+               xml:id="facs_1_TextRegion_1709375025193_1462">
             <zone points="246,858 529,849 663,909 733,835 965,844 1058,789 1118,849 1322,807 1415,844 1466,807 1503,844 1962,844 2018,900 2241,877 2236,728 2106,659 2027,696 1777,673 1531,455 872,464 719,622 584,682 422,612 241,612"
                   rendition="Line"
                   xml:id="facs_1_line_1709382187608_2435"/>
          </zone>
          <zone points="96,1439 1191,1439 1191,3280 96,3280"
                rendition="TextRegion"
-               xml:id="facs_1_region_1709375039906_1465"
-               subtype="paragraph">
+               xml:id="facs_1_region_1709375039906_1465">
             <zone points="816,1517 863,1508 914,1522 932,1512 942,1522 965,1512 1030,1522 1048,1508 1160,1517 1160,1457 1081,1466 1053,1438 974,1452 923,1447 905,1461 816,1461"
                   rendition="Line"
                   xml:id="facs_1_region_1709375039906_1465_tl_1"/>
@@ -249,8 +244,7 @@
          </zone>
          <zone points="1185,1353 2271,1353 2271,3280 1185,3280"
                rendition="TextRegion"
-               xml:id="facs_1_region_1709375043722_1468"
-               subtype="paragraph">
+               xml:id="facs_1_region_1709375043722_1468">
             <zone points="1192,1415 2245,1410 2245,1355 2171,1345 1192,1341"
                   rendition="Line"
                   xml:id="facs_1_region_1709375043722_1468_tl_1"/>
@@ -373,8 +367,7 @@
                   height="3508px"/>
          <zone points="140,275 1238,275 1238,522 140,522"
                rendition="TextRegion"
-               xml:id="facs_2_region_1709375060715_1474"
-               subtype="paragraph">
+               xml:id="facs_2_region_1709375060715_1474">
             <zone points="171,356 1223,348 1211,303 1003,280 171,320"
                   rendition="Line"
                   xml:id="facs_2_region_1709375060715_1474_tl_1"/>
@@ -394,14 +387,11 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <cb n="-1"/>
-            <p>
-               <lb facs="#facs_1_line_1709382154153_2407" n="N001"/>Vierter Jahrgang Nr. 21. dies auch ein gere og 24. Mai 1855.</p>
-            <cb n="0"/>
-            <p>
-               <lb facs="#facs_1_line_1709382187608_2435" n="N001"/>osit-Zeitung,</p>
-            <cb n="1"/>
-            <p>
+            <ab facs="#facs_1_region_1709375017978_1457" type="">
+               <lb facs="#facs_1_line_1709382154153_2407" n="N001"/>Vierter Jahrgang Nr. 21. dies auch ein gere og 24. Mai 1855.</ab>
+            <ab facs="#facs_1_TextRegion_1709375025193_1462" type="">
+               <lb facs="#facs_1_line_1709382187608_2435" n="N001"/>osit-Zeitung,</ab>
+            <ab facs="#facs_1_region_1709375039906_1465" type="">
                <lb facs="#facs_1_region_1709375039906_1465_tl_1" n="N001"/>Ein Beitrag zu
       <lb facs="#facs_1_region_1709375039906_1465_tl_2" n="N002"/>„Vom Musikalisch=Schönen“.
       <lb facs="#facs_1_region_1709375039906_1465_tl_3" n="N003"/>Revision der Aesthetik der Tonkunst. Von Dr. Eduard
@@ -438,9 +428,8 @@
       <lb facs="#facs_1_region_1709375039906_1465_tl_34" n="N034"/>und höchst anregende Werkchen der Aufmerksamkeit des musi¬
       <lb facs="#facs_1_region_1709375039906_1465_tl_35" n="N035"/>freundlichen Publikums zu empfehlen.
       <lb facs="#facs_1_region_1709375039906_1465_tl_36" n="N036"/>Inwieferne es vor allem die objektive Erkenntniß des mu¬
-      <lb facs="#facs_1_region_1709375039906_1465_tl_37" n="N037"/>sikalisch=Schönen als Produkt der schaffenden Phantasie gegen</p>
-            <cb n="2"/>
-            <p>
+      <lb facs="#facs_1_region_1709375039906_1465_tl_37" n="N037"/>sikalisch=Schönen als Produkt der schaffenden Phantasie gegen</ab>
+            <ab facs="#facs_1_region_1709375043722_1468" type="">
                <lb facs="#facs_1_region_1709375043722_1468_tl_1" n="N001"/>über der bisherigen Gefühlsästhetik zu vermitteln sucht, tritt e¬
       <lb facs="#facs_1_region_1709375043722_1468_tl_2" n="N002"/>mit Schärfe manchem eingewurzelten Irrthume über das Weser
       <lb facs="#facs_1_region_1709375043722_1468_tl_3" n="N003"/>der Tonkunst entgegen; inwieferne es die neu auftauchende An¬
@@ -478,14 +467,13 @@
       <lb facs="#facs_1_region_1709375043722_1468_tl_35" n="N035"/>Kunstsphäre vorfinden — dann: „Dem Hörer wirkt die Musik
       <lb facs="#facs_1_region_1709375043722_1468_tl_36" n="N036"/>nicht blos und absolut durch ihre eigenste Schönheit, sondern
       <lb facs="#facs_1_region_1709375043722_1468_tl_37" n="N037"/>zugleich als tönendes Abbild der großen Bewegun¬
-      <lb facs="#facs_1_region_1709375043722_1468_tl_38" n="N038"/>gen im Weltall“ — dann: „Durch tiefe und geheim¬</p>
+      <lb facs="#facs_1_region_1709375043722_1468_tl_38" n="N038"/>gen im Weltall“ — dann: „Durch tiefe und geheim¬</ab>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <cb n="3"/>
-            <p>
+            <ab facs="#facs_2_region_1709375060715_1474" type="">
                <lb facs="#facs_2_region_1709375060715_1474_tl_1" n="N001"/>Naturbeziehungen steigert sich die Bedeutung der
       <lb facs="#facs_2_region_1709375060715_1474_tl_2" n="N002"/>Töne hoch über sie selbst hinaus und läßt uns in dem
       <lb facs="#facs_2_region_1709375060715_1474_tl_3" n="N003"/>Werke menschlichen Talents immer zugleich das Unendliche
-      <lb facs="#facs_2_region_1709375060715_1474_tl_4" n="N004"/>fühlen.</p>
+      <lb facs="#facs_2_region_1709375060715_1474_tl_4" n="N004"/>fühlen.</ab>
          </div>
       </body>
    </text>
