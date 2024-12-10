@@ -3,8 +3,8 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
-            <title level="a">Die Aesthetik der Tonkunst.</title>
-            <author ref="#hsl_person_id_1745">Brendel, Franz</author>
+            <title level="a">1857 Neue Zeitschrift für Musik (Ausschnitt) 1</title>
+            <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
             </editor>
@@ -72,18 +72,23 @@
             <listBibl>
                <biblStruct>
                   <analytic>
-                     <title>Die Aesthetik der Tonkunst.</title>
-                     <author ref="#hsl_person_id_1745">Brendel, Franz</author>
+                     <title>
+               Sechsundvierzigster Band. Nr. 18. Den 1. Mai 1857.</title>
+                     <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
                   </analytic>
                   <monogr>
-                     <title type="main">Neue Zeitschrift für Musik</title>
+                     <title type="main">Neue Freie Presse</title>
+                     <title type="sub">
+               Neue
+      Zeitschrift für Musik.</title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#hsl_person_id_1745">Brendel, Franz</name>
+                        <name type="person">Etienne, Michael</name>
+                        <name type="person">Friedländer, Max</name>
                      </respStmt>
                      <imprint>
                         <pubPlace/>
-                        <date when="1857-05-01">1. Mai 1857</date>
+                        <date>1857</date>
                      </imprint>
                   </monogr>
                </biblStruct>
@@ -102,9 +107,8 @@
          </langUsage>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="kbamer ampfiel" when="2024-12-09">Transkribus OCR und Lektorat.</change>
-         <change who="delsner" when="2024-12-09">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
-         <change who="ampfiel" when="2024-12-09">header, Absätze, Zeilenumbrüche, space, rs ref</change>
+         <change who="kbamer ampfiel" when="2023-02-20">Transkribus OCR und Lektorat.</change>
+         <change who="delsner" when="2023-02-20">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -573,161 +577,198 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <cb n="-1"/>
+            <p>
+               <lb facs="#facs_1_TextRegion_1709376862328_2037_tl_2" n="N001"/>Neue
+      <lb facs="#facs_1_line_1733224117891_819" n="N002"/>Zeitschrift für Musik.</p>
             <cb n="0"/>
-      <head type="h2">
-            <lb facs="#facs_1_line_1733224459051_862" n="N001"/>Sechsundvierzigster Band. Nr. 18. Den 1. Mai <date when="1857">1857</date>.</head>
+            <p>
+               <lb facs="#facs_1_line_1733224459051_862" n="N001"/>Sechsundvierzigster Band. Nr. 18. Den 1. Mai <date month="0" day="0" year="0">1857</date>.</p>
             <cb n="1"/>
-      <head type="h1">
-            <lb facs="#facs_1_region_1709376849201_2027_tl_1" n="N001"/>Die Aesthetik der Tonkunst.</head>
-           <p>
+            <p>
+               <lb facs="#facs_1_region_1709376849201_2027_tl_1" n="N001"/>Die Aesthetik der Tonkunst.
       <lb facs="#facs_1_region_1709376849201_2027_tl_2" n="N002"/>Wir haben bis jetzt fünf Briefe, Referate über die
-      <lb facs="#facs_1_region_1709376849201_2027_tl_3" n="N003"/><hi rendition="#em"><rs type="person" ref="#hsl_person_id_379">Vischer</rs></hi>’sche <rs type="bibl" ref="#hsl_work_id_319">Aesthetik</rs> aus der Feder des Hrn. E. v. <hi rendition="#em"><rs type="person" ref="#hsl_person_id_6125">El
-      <lb facs="#facs_1_region_1709376849201_2027_tl_4" n="N004" break="no"/>terlein</rs></hi> enthaltend, veröffentlicht, und es werden noch
-      <lb facs="#facs_1_region_1709376849201_2027_tl_5" n="N005"/>zwei oder drei derselben folgen, bevor das Ganze vor
-      <lb facs="#facs_1_region_1709376849201_2027_tl_6" n="N006" break="no"/>läufig zum Abschluß gebracht, d. h. bis zum Beginn der
+      <lb facs="#facs_1_region_1709376849201_2027_tl_3" n="N003"/>
+               <hi rendition="#em">
+                  <rs type="person">Vischer</rs>
+               </hi>’sche <rs type="bibl">Aesthetik</rs> aus der Feder des Hrn. E. v. <hi rendition="#em">
+                  <rs type="person" continued="true">El¬</rs>
+               </hi>
+               <lb facs="#facs_1_region_1709376849201_2027_tl_4" n="N004"/>
+               <hi rendition="#em">
+                  <rs type="person" continued="true">terlein</rs>
+               </hi> enthaltend, veröffentlicht, und es werden noch
+      <lb facs="#facs_1_region_1709376849201_2027_tl_5" n="N005"/>zwei oder drei derselben folgen, bevor das Ganze vor¬
+      <lb facs="#facs_1_region_1709376849201_2027_tl_6" n="N006"/>läufig zum Abschluß gebracht, d. h. bis zum Beginn der
       <lb facs="#facs_1_region_1709376849201_2027_tl_7" n="N007"/>Aesthetik der Tonkunst fortgeführt ist. Doch ist mit dem
       <lb facs="#facs_1_region_1709376849201_2027_tl_8" n="N008"/>bereits Gegebenen das Abstracte beseitigt und alles
-      <lb facs="#facs_1_region_1709376849201_2027_tl_9" n="N009"/>Spätere bewegt sich auf concreterem Boden.</p>
-               <p>
-      <lb facs="#facs_1_region_1709376849201_2027_tl_10" n="N010"/>Entsteht die Frage nach dem Zweck dieser Mitthei
-      <lb facs="#facs_1_region_1709376849201_2027_tl_11" n="N011" break="no"/>lungen, so bemerke ich zunächst, daß diese Auszüge nicht
+      <lb facs="#facs_1_region_1709376849201_2027_tl_9" n="N009"/>Spätere bewegt sich auf concreterem Boden.
+      <lb facs="#facs_1_region_1709376849201_2027_tl_10" n="N010"/>Entsteht die Frage nach dem Zweck dieser Mitthei¬
+      <lb facs="#facs_1_region_1709376849201_2027_tl_11" n="N011"/>lungen, so bemerke ich zunächst, daß diese Auszüge nicht
       <lb facs="#facs_1_region_1709376849201_2027_tl_12" n="N012"/>auf flüchtiges Lesen berechnet, sondern zu wiederholter
       <lb facs="#facs_1_region_1709376849201_2027_tl_13" n="N013"/>genauer Lecture bestimmt sind. Geschieht dies, so ist der
-      <lb facs="#facs_1_region_1709376849201_2027_tl_14" n="N014"/>Vorschub, der damit dem Studium des Werkes selbst ge
-      <lb facs="#facs_1_region_1709376849201_2027_tl_15" n="N015" break="no"/>leistet wird, die Erleichterung des Verständnisses für den
-      <lb facs="#facs_1_region_1709376849201_2027_tl_16" n="N016"/>Ungeübteren, sehr bedeutend, und wenn auch zuerst da
-      <lb facs="#facs_1_region_1709376849201_2027_tl_17" n="N017" break="no"/>durch nur eine Uebersicht des Gedankenganges mehr äu
-      <lb facs="#facs_1_region_1709376849201_2027_tl_18" n="N018" break="no"/>ßerlicher Natur, zunächst für das Gedächtniß, gewonnen
-      <lb facs="#facs_1_region_1709376849201_2027_tl_19" n="N019"/>würde. Ein zweiter Vortheil erwächst aus solchen Mit
-      <lb facs="#facs_1_region_1709376849201_2027_tl_20" n="N020" break="no"/>theilungen für diejenigen, die sich sofort mit dem Werke
+      <lb facs="#facs_1_region_1709376849201_2027_tl_14" n="N014"/>Vorschub, der damit dem Studium des Werkes selbst ge¬
+      <lb facs="#facs_1_region_1709376849201_2027_tl_15" n="N015"/>leistet wird, die Erleichterung des Verständnisses für den
+      <lb facs="#facs_1_region_1709376849201_2027_tl_16" n="N016"/>Ungeübteren, sehr bedeutend, und wenn auch zuerst da¬
+      <lb facs="#facs_1_region_1709376849201_2027_tl_17" n="N017"/>durch nur eine Uebersicht des Gedankenganges mehr äu¬
+      <lb facs="#facs_1_region_1709376849201_2027_tl_18" n="N018"/>ßerlicher Natur, zunächst für das Gedächtniß, gewonnen
+      <lb facs="#facs_1_region_1709376849201_2027_tl_19" n="N019"/>würde. Ein zweiter Vortheil erwächst aus solchen Mit¬
+      <lb facs="#facs_1_region_1709376849201_2027_tl_20" n="N020"/>theilungen für diejenigen, die sich sofort mit dem Werke
       <lb facs="#facs_1_region_1709376849201_2027_tl_21" n="N021"/>selbst noch nicht befassen können oder mögen, und dies ist
       <lb facs="#facs_1_region_1709376849201_2027_tl_22" n="N022"/>die Mehrzahl. Jene großen wissenschaftlichen Resultate,
-      <lb facs="#facs_1_region_1709376849201_2027_tl_23" n="N023"/>welche bisher nur das Eigenthum der in sich abgeschlos
-      <lb facs="#facs_1_region_1709376849201_2027_tl_24" n="N024" break="no"/>senen Wissenschaft waren, werden dadurch einem größeren
+      <lb facs="#facs_1_region_1709376849201_2027_tl_23" n="N023"/>welche bisher nur das Eigenthum der in sich abgeschlos¬
+      <lb facs="#facs_1_region_1709376849201_2027_tl_24" n="N024"/>senen Wissenschaft waren, werden dadurch einem größeren
       <lb facs="#facs_1_region_1709376849201_2027_tl_25" n="N025"/>Kreise mindestens zugänglich und in etwas geläufig, und
-      <lb facs="#facs_1_region_1709376849201_2027_tl_26" n="N026"/>es ist an sich selbst schon ein Gewinn, auch wenn den
-      <lb facs="#facs_1_region_1709376849201_2027_tl_27" n="N027" break="no"/>selben unmittelbar weiter keine Folge gegeben werden
-      <lb facs="#facs_1_region_1709376849201_2027_tl_28" n="N028"/>könnte. Gehören doch die Leistungen der Deutschen auf<space quantity="1" unit="char"/></p>
+      <lb facs="#facs_1_region_1709376849201_2027_tl_26" n="N026"/>es ist an sich selbst schon ein Gewinn, auch wenn den¬
+      <lb facs="#facs_1_region_1709376849201_2027_tl_27" n="N027"/>selben unmittelbar weiter keine Folge gegeben werden
+      <lb facs="#facs_1_region_1709376849201_2027_tl_28" n="N028"/>könnte. Gehören doch die Leistungen der Deutschen auf</p>
             <cb n="2"/>
-            <p prev="true">
-      <lb facs="#facs_1_region_1709376852695_2030_tl_1" n="N001"/>dem Gebiete der Aesthetik zu den größten geistigen Thaten
-      <lb facs="#facs_1_region_1709376852695_2030_tl_2" n="N002"/>derselben.</p>
-               <p>
+            <p>
+               <lb facs="#facs_1_region_1709376852695_2030_tl_1" n="N001"/>dem Gebiete der Aesthetik zu den größten geistigen Thaten
+      <lb facs="#facs_1_region_1709376852695_2030_tl_2" n="N002"/>derselben.
       <lb facs="#facs_1_region_1709376852695_2030_tl_3" n="N003"/>So wichtig indeß die hier angegebenen Zwecke sind,
       <lb facs="#facs_1_region_1709376852695_2030_tl_4" n="N004"/>so erscheinen dieselben doch nur von secundärer Natur im
-      <lb facs="#facs_1_region_1709376852695_2030_tl_5" n="N005"/>Vergleich mit dem Nachstehenden:</p>
-               <p>
-      <lb facs="#facs_1_region_1709376852695_2030_tl_6" n="N006"/>Nicht blos um <hi rendition="#em"><rs type="person" ref="#hsl_person_id_379">Vischer</rs>’s</hi> Werk handelt es sich. Ich
+      <lb facs="#facs_1_region_1709376852695_2030_tl_5" n="N005"/>Vergleich mit dem Nachstehenden:
+      <lb facs="#facs_1_region_1709376852695_2030_tl_6" n="N006"/>Nicht blos um <hi rendition="#em">
+                  <rs type="person">Vischer</rs>’s</hi> Werk handelt es sich. Ich
       <lb facs="#facs_1_region_1709376852695_2030_tl_7" n="N007"/>glaube, daß die Zeit gekommen ist, wo die Aesthetik der
       <lb facs="#facs_1_region_1709376852695_2030_tl_8" n="N008"/>Tonkunst alles Ernstes in Angriff genommen werden
-      <lb facs="#facs_1_region_1709376852695_2030_tl_9" n="N009"/>muß, und nicht blos streng wissenschaftlich und in Bü
-      <lb facs="#facs_1_region_1709376852695_2030_tl_10" n="N010" break="no"/>chern, sondern mehr erfahrungsmäßig und in der Tages
-      <lb facs="#facs_1_region_1709376852695_2030_tl_11" n="N011" break="no"/>presse, mit der Bestimmung einerseits, damit das was
-      <lb facs="#facs_1_region_1709376852695_2030_tl_12" n="N012"/>bisher schon festgestellt wurde, in das allgemeine Bewußt
-      <lb facs="#facs_1_region_1709376852695_2030_tl_13" n="N013" break="no"/>sein übergehe, und anderseits, um Neues zu gewinnen,
+      <lb facs="#facs_1_region_1709376852695_2030_tl_9" n="N009"/>muß, und nicht blos streng wissenschaftlich und in Bü¬
+      <lb facs="#facs_1_region_1709376852695_2030_tl_10" n="N010"/>chern, sondern mehr erfahrungsmäßig und in der Tages¬
+      <lb facs="#facs_1_region_1709376852695_2030_tl_11" n="N011"/>presse, mit der Bestimmung einerseits, damit das was
+      <lb facs="#facs_1_region_1709376852695_2030_tl_12" n="N012"/>bisher schon festgestellt wurde, in das allgemeine Bewußt¬
+      <lb facs="#facs_1_region_1709376852695_2030_tl_13" n="N013"/>sein übergehe, und anderseits, um Neues zu gewinnen,
       <lb facs="#facs_1_region_1709376852695_2030_tl_14" n="N014"/>und späteren vollständigeren Leistungen vorzuarbeiten.
       <lb facs="#facs_1_region_1709376852695_2030_tl_15" n="N015"/>Zwei Stufen in der Auffassung der Tonkunst sind in
       <lb facs="#facs_1_region_1709376852695_2030_tl_16" n="N016"/>neuerer Zeit durchlaufen worden. Die erste ist die der
-      <lb facs="#facs_1_region_1709376852695_2030_tl_17" n="N017"/><hi rendition="#em">psychologischen Beschreibung des künstlerischen
-      <lb facs="#facs_1_region_1709376852695_2030_tl_18" n="N018"/>Eindrucks</hi>, zur Geltung gebracht insbesondere durch
-      <lb facs="#facs_1_region_1709376852695_2030_tl_19" n="N019"/>Fr. <hi rendition="#em"><rs type="person" ref="#hsl_person_id_822">Rochlitz</rs></hi>, und fortgesetzt bis herein in die dreißiger
-      <lb facs="#facs_1_region_1709376852695_2030_tl_20" n="N020"/>Jahre. Auf der zweiten Stufe war das Bestreben vor
-      <lb facs="#facs_1_region_1709376852695_2030_tl_21" n="N021" break="no"/>zugsweise darauf gerichtet, das was früher nur als un
-      <lb facs="#facs_1_region_1709376852695_2030_tl_22" n="N022" break="no"/>bestimmtes Gefühl zum Bewußtsein kam, auf <hi rendition="#em">bestimmte 
-      <lb facs="#facs_1_region_1709376852695_2030_tl_23" n="N023"/>Vorstellungen</hi> zurückzuführen, den Inhalt nicht blos
-      <lb facs="#facs_1_region_1709376852695_2030_tl_24" n="N024"/>als Gefühl zu erfassen, sondern als <hi rendition="#em">Gedanken</hi>-Be
-      <lb facs="#facs_1_region_1709376852695_2030_tl_25" n="N025" break="no"/>stimmung, und damit zugleich dem Zusammenhange der
+      <lb facs="#facs_1_region_1709376852695_2030_tl_17" n="N017"/>
+               <hi rendition="#em">psychologischen Beschreibung des künstlerischen</hi>
+               <lb facs="#facs_1_region_1709376852695_2030_tl_18" n="N018"/>
+               <hi rendition="#em">Eindrucks</hi>, zur Geltung gebracht insbesondere durch
+      <lb facs="#facs_1_region_1709376852695_2030_tl_19" n="N019"/>Fr. <hi rendition="#em">
+                  <rs type="person">Rochlitz</rs>
+               </hi>, und fortgesetzt bis herein in die dreißiger
+      <lb facs="#facs_1_region_1709376852695_2030_tl_20" n="N020"/>Jahre. Auf der zweiten Stufe war das Bestreben vor¬
+      <lb facs="#facs_1_region_1709376852695_2030_tl_21" n="N021"/>zugsweise darauf gerichtet, das was früher nur als un¬
+      <lb facs="#facs_1_region_1709376852695_2030_tl_22" n="N022"/>bestimmtes Gefühl zum Bewußtsein kam, auf <hi rendition="#em">bestimmte</hi>
+               <lb facs="#facs_1_region_1709376852695_2030_tl_23" n="N023"/>
+               <hi rendition="#em">Vorstellungen</hi> zurückzuführen, den Inhalt nicht blos
+      <lb facs="#facs_1_region_1709376852695_2030_tl_24" n="N024"/>als Gefühl zu erfassen, sondern als <hi rendition="#em">Gedanken</hi>-Be¬
+      <lb facs="#facs_1_region_1709376852695_2030_tl_25" n="N025"/>stimmung, und damit zugleich dem Zusammenhange der
       <lb facs="#facs_1_region_1709376852695_2030_tl_26" n="N026"/>Erscheinungen näher zu treten. Dies war die Aufgabe,
       <lb facs="#facs_1_region_1709376852695_2030_tl_27" n="N027"/>die ich mir vorzugsweise stellte, in dies. Bl. sowol, als
-      <lb facs="#facs_1_region_1709376852695_2030_tl_28" n="N028"/>auch in meiner „<rs type="bibl" ref="#hsl_work_id_4241">Geschichte der Musik</rs>“. Der neue Schritt,
+      <lb facs="#facs_1_region_1709376852695_2030_tl_28" n="N028"/>auch in meiner „<rs type="bibl">Geschichte der Musik</rs>“. Der neue Schritt,
       <lb facs="#facs_1_region_1709376852695_2030_tl_29" n="N029"/>der nun zu thun nothwendig wird, — und die Zeit drängt
       <lb facs="#facs_1_region_1709376852695_2030_tl_30" n="N030"/>mit Macht darauf hin, — besteht darin, nicht blos durch
-      <lb facs="#facs_1_region_1709376852695_2030_tl_31" n="N031"/><hi rendition="#em">subjective innere Erfahrung</hi> den künstlerischen Geist
+      <lb facs="#facs_1_region_1709376852695_2030_tl_31" n="N031"/>
+               <hi rendition="#em">subjective innere Erfahrung</hi> den künstlerischen Geist
       <lb facs="#facs_1_region_1709376852695_2030_tl_32" n="N032"/>zu erfassen, sondern aus der <hi rendition="#em">objectiven</hi> Gestalt des
-      <lb facs="#facs_1_region_1709376852695_2030_tl_33" n="N033"/>Tonstücks heraus ihn zu erkennen, aus der <hi rendition="#em">äußeren 
-      <lb facs="#facs_1_region_1709376852695_2030_tl_34" n="N034"/>technischen Gestaltung heraus das Innere, den
-      <lb facs="#facs_1_region_1709376852695_2030_tl_35" n="N035"/>geistigen Gehalt zu begreifen</hi>. Das Princip selbst
-      <lb facs="#facs_1_region_1709376852695_2030_tl_36" n="N036"/>habe ich vor langen Jahren schon einmal ausgesprochen,<space quantity="1" unit="char"/></p>
+      <lb facs="#facs_1_region_1709376852695_2030_tl_33" n="N033"/>Tonstücks heraus ihn zu erkennen, aus der <hi rendition="#em">äußeren</hi>
+               <lb facs="#facs_1_region_1709376852695_2030_tl_34" n="N034"/>
+               <hi rendition="#em">technischen Gestaltung heraus das Innere, den</hi>
+               <lb facs="#facs_1_region_1709376852695_2030_tl_35" n="N035"/>
+               <hi rendition="#em">geistigen Gehalt zu begreifen</hi>. Das Princip selbst
+      <lb facs="#facs_1_region_1709376852695_2030_tl_36" n="N036"/>habe ich vor langen Jahren schon einmal ausgesprochen,</p>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <cb n="3"/>
-            <p prev="true">
-      <lb facs="#facs_2_region_1709376886985_2043_tl_1" n="N001"/>und <hi rendition="#em"><rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi> hat neuerdings dasselbe gethan, nur daß
-      <lb facs="#facs_2_region_1709376886985_2043_tl_2" n="N002"/>dieser falsche Consequenzen gezogen hat, so daß, streng ge
-      <lb facs="#facs_2_region_1709376886985_2043_tl_3" n="N003" break="no"/>nommen, kein einziger seiner Sätze stichhaltig ist. Es
+            <p>
+               <lb facs="#facs_2_region_1709376886985_2043_tl_1" n="N001"/>und <hi rendition="#em">
+                  <rs type="person">Hanslick</rs>
+               </hi> hat neuerdings dasselbe gethan, nur daß
+      <lb facs="#facs_2_region_1709376886985_2043_tl_2" n="N002"/>dieser falsche Consequenzen gezogen hat, so daß, streng ge¬
+      <lb facs="#facs_2_region_1709376886985_2043_tl_3" n="N003"/>nommen, kein einziger seiner Sätze stichhaltig ist. Es
       <lb facs="#facs_2_region_1709376886985_2043_tl_4" n="N004"/>thut dies — beiläufig erwähnt — der schon früher von
-      <lb facs="#facs_2_region_1709376886985_2043_tl_5" n="N005"/>mir anerkannten Trefflichkeit seiner Leistung, der wissen
-      <lb facs="#facs_2_region_1709376886985_2043_tl_6" n="N006" break="no"/>schaftlichen Klarheit, mit der er seinen Gegenstand er
-      <lb facs="#facs_2_region_1709376886985_2043_tl_7" n="N007" break="no"/>faßt, durchaus keinen Eintrag. Auf wissenschaftlichem
+      <lb facs="#facs_2_region_1709376886985_2043_tl_5" n="N005"/>mir anerkannten Trefflichkeit seiner Leistung, der wissen¬
+      <lb facs="#facs_2_region_1709376886985_2043_tl_6" n="N006"/>schaftlichen Klarheit, mit der er seinen Gegenstand er¬
+      <lb facs="#facs_2_region_1709376886985_2043_tl_7" n="N007"/>faßt, durchaus keinen Eintrag. Auf wissenschaftlichem
       <lb facs="#facs_2_region_1709376886985_2043_tl_8" n="N008"/>Gebiete kommt es nicht ausschließlich darauf an, daß
-      <lb facs="#facs_2_region_1709376886985_2043_tl_9" n="N009"/><hi rendition="#em">einer</hi> allein schon unmittelbar das Wahre erfaßt, es ist
-      <lb facs="#facs_2_region_1709376886985_2043_tl_10" n="N010"/>schon ein großes Verdienst, wenn jemand so zu fragen ver
-      <lb facs="#facs_2_region_1709376886985_2043_tl_11" n="N011" break="no"/>steht, daß eine bessere Antwort, als bis dahin möglich
-      <lb facs="#facs_2_region_1709376886985_2043_tl_12" n="N012"/>war, auf die Frage folgen kann, oder wenn er ausschließ
-      <lb facs="#facs_2_region_1709376886985_2043_tl_13" n="N013" break="no"/>lich auf negative Weise seinen Gegenstand fördert. Beides
-      <lb facs="#facs_2_region_1709376886985_2043_tl_14" n="N014"/>thut <hi rendition="#em"><rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi>, das Letztere, indem er glücklich gegen
+      <lb facs="#facs_2_region_1709376886985_2043_tl_9" n="N009"/>
+               <hi rendition="#em">einer</hi> allein schon unmittelbar das Wahre erfaßt, es ist
+      <lb facs="#facs_2_region_1709376886985_2043_tl_10" n="N010"/>schon ein großes Verdienst, wenn jemand so zu fragen ver¬
+      <lb facs="#facs_2_region_1709376886985_2043_tl_11" n="N011"/>steht, daß eine bessere Antwort, als bis dahin möglich
+      <lb facs="#facs_2_region_1709376886985_2043_tl_12" n="N012"/>war, auf die Frage folgen kann, oder wenn er ausschließ¬
+      <lb facs="#facs_2_region_1709376886985_2043_tl_13" n="N013"/>lich auf negative Weise seinen Gegenstand fördert. Beides
+      <lb facs="#facs_2_region_1709376886985_2043_tl_14" n="N014"/>thut <hi rendition="#em">
+                  <rs type="person">Hanslick</rs>
+               </hi>, das Letztere, indem er glücklich gegen
       <lb facs="#facs_2_region_1709376886985_2043_tl_15" n="N015"/>frühere Träumereien ankämpft. Nun aber kommt es
-      <lb facs="#facs_2_region_1709376886985_2043_tl_16" n="N016"/>darauf an, auf dem jetzt gefundenen richtigen Wege wirk
-      <lb facs="#facs_2_region_1709376886985_2043_tl_17" n="N017" break="no"/>lich weiter zu gehen, und nicht sofort wieder abzuirren,
+      <lb facs="#facs_2_region_1709376886985_2043_tl_16" n="N016"/>darauf an, auf dem jetzt gefundenen richtigen Wege wirk¬
+      <lb facs="#facs_2_region_1709376886985_2043_tl_17" n="N017"/>lich weiter zu gehen, und nicht sofort wieder abzuirren,
       <lb facs="#facs_2_region_1709376886985_2043_tl_18" n="N018"/>auf einem Wege, dessen Verfolgung dem Musiker in der
-      <lb facs="#facs_2_region_1709376886985_2043_tl_19" n="N019"/>That eine neue Welt zu öffnen verspricht, und ich be
-      <lb facs="#facs_2_region_1709376886985_2043_tl_20" n="N020" break="no"/>trachte dies, nachdem manches Bisherige vorläufig und
-      <lb facs="#facs_2_region_1709376886985_2043_tl_21" n="N021"/>bis auf einen gewissen Grad erledigt ist, <hi rendition="#em">als eine der
-      <lb facs="#facs_2_region_1709376886985_2043_tl_22" n="N022"/>weiteren Aufgaben, welche sich diese Bl. zu stel
-      <lb facs="#facs_2_region_1709376886985_2043_tl_23" n="N023" break="no"/>len haben</hi>. In diesem Sinne haben die Auszüge aus
-      <lb facs="#facs_2_region_1709376886985_2043_tl_24" n="N024"/><hi rendition="#em"><rs type="person" ref="#hsl_person_id_379">Vischer</rs>’s</hi><space quantity="1" unit="char"/><rs type="bibl" ref="#hsl_work_id_319">Aesthetik</rs> die Bedeutung, den Gegenstand ein
-      <lb facs="#facs_2_region_1709376886985_2043_tl_25" n="N025" break="no"/>zuleiten, ihn vorzubereiten, soweit möglich, eine Orienti
-      <lb facs="#facs_2_region_1709376886985_2043_tl_26" n="N026" break="no"/>rung darüber anzubahnen; mit diesem Bewußtsein wurden
-      <lb facs="#facs_2_region_1709376886985_2043_tl_27" n="N027"/>jene Referate aufgenommen.</p>
-               <p>
+      <lb facs="#facs_2_region_1709376886985_2043_tl_19" n="N019"/>That eine neue Welt zu öffnen verspricht, und ich be¬
+      <lb facs="#facs_2_region_1709376886985_2043_tl_20" n="N020"/>trachte dies, nachdem manches Bisherige vorläufig und
+      <lb facs="#facs_2_region_1709376886985_2043_tl_21" n="N021"/>bis auf einen gewissen Grad erledigt ist, <hi rendition="#em">als eine der</hi>
+               <lb facs="#facs_2_region_1709376886985_2043_tl_22" n="N022"/>
+               <hi rendition="#em">weiteren Aufgaben, welche sich diese Bl. zu stel¬</hi>
+               <lb facs="#facs_2_region_1709376886985_2043_tl_23" n="N023"/>
+               <hi rendition="#em">len haben</hi>. In diesem Sinne haben die Auszüge aus
+      <lb facs="#facs_2_region_1709376886985_2043_tl_24" n="N024"/>
+               <hi rendition="#em">
+                  <rs type="person">Vischer</rs>’s</hi>
+               <rs type="bibl">Aesthetik</rs> die Bedeutung, den Gegenstand ein¬
+      <lb facs="#facs_2_region_1709376886985_2043_tl_25" n="N025"/>zuleiten, ihn vorzubereiten, soweit möglich, eine Orienti¬
+      <lb facs="#facs_2_region_1709376886985_2043_tl_26" n="N026"/>rung darüber anzubahnen; mit diesem Bewußtsein wurden
+      <lb facs="#facs_2_region_1709376886985_2043_tl_27" n="N027"/>jene Referate aufgenommen.
       <lb facs="#facs_2_region_1709376886985_2043_tl_28" n="N028"/>Der Werth der Aesthetik der Tonkunst ist nicht blos
-      <lb facs="#facs_2_region_1709376886985_2043_tl_29" n="N029"/>ein streng wissenschaftlicher, sie befriedigt nicht ausschließ
-      <lb facs="#facs_2_region_1709376886985_2043_tl_30" n="N030" break="no"/>lich nur das Interesse des Erkennens, <hi rendition="#em">auch die prak
-      <lb facs="#facs_2_region_1709376886985_2043_tl_31" n="N031" break="no"/>tische Bedeutung derselben kann eine außeror
-      <lb facs="#facs_2_region_1709376886985_2043_tl_32" n="N032" break="no"/>dentliche sein</hi>, sobald sie selbst nur erst zu einiger Reife
+      <lb facs="#facs_2_region_1709376886985_2043_tl_29" n="N029"/>ein streng wissenschaftlicher, sie befriedigt nicht ausschließ¬
+      <lb facs="#facs_2_region_1709376886985_2043_tl_30" n="N030"/>lich nur das Interesse des Erkennens, <hi rendition="#em">auch die prak¬</hi>
+               <lb facs="#facs_2_region_1709376886985_2043_tl_31" n="N031"/>
+               <hi rendition="#em">tische Bedeutung derselben kann eine außeror¬</hi>
+               <lb facs="#facs_2_region_1709376886985_2043_tl_32" n="N032"/>
+               <hi rendition="#em">dentliche sein</hi>, sobald sie selbst nur erst zu einiger Reife
       <lb facs="#facs_2_region_1709376886985_2043_tl_33" n="N033"/>gediehen ist. Oder zweifelt man daran, daß eine große
       <lb facs="#facs_2_region_1709376886985_2043_tl_34" n="N034"/>Menge der gegenwärtigen Streitigkeiten plötzlich von
       <lb facs="#facs_2_region_1709376886985_2043_tl_35" n="N035"/>selbst aufhören müßte, wenn die ästhetischen Sätze,
-      <lb facs="#facs_2_region_1709376886985_2043_tl_36" n="N036"/>welche dieselben zur Voraussetzung haben, bereits fest
-      <lb facs="#facs_2_region_1709376886985_2043_tl_37" n="N037" break="no"/>gestellt oder allgemeiner bekannt wären? Nur ein Bei
-      <lb facs="#facs_2_region_1709376886985_2043_tl_38" n="N038" break="no"/>spiel zum Beleg. Eine Hauptfrage ist die nach der Form
+      <lb facs="#facs_2_region_1709376886985_2043_tl_36" n="N036"/>welche dieselben zur Voraussetzung haben, bereits fest¬
+      <lb facs="#facs_2_region_1709376886985_2043_tl_37" n="N037"/>gestellt oder allgemeiner bekannt wären? Nur ein Bei¬
+      <lb facs="#facs_2_region_1709376886985_2043_tl_38" n="N038"/>spiel zum Beleg. Eine Hauptfrage ist die nach der Form
       <lb facs="#facs_2_region_1709376886985_2043_tl_39" n="N039"/>zum Inhalt, und in der Tonkunst ist dieselbe von ganz
       <lb facs="#facs_2_region_1709376886985_2043_tl_40" n="N040"/>besonders großer Schwierigkeit. Ist dieselbe entsprechend
       <lb facs="#facs_2_region_1709376886985_2043_tl_41" n="N041"/>gelöst, ist zur Klarheit entwickelt, wie in der Tonkunst sich
-      <lb facs="#facs_2_region_1709376886985_2043_tl_42" n="N042"/><hi rendition="#em">der Inhalt die Form schafft, sonach das Primi
-      <lb facs="#facs_2_region_1709376886985_2043_tl_43" n="N043" break="no"/>tive ist, und dann doch nur an der Form und so
-      <lb facs="#facs_2_region_1709376886985_2043_tl_44" n="N044" break="no"/>mit als ein blos Secundäres erscheint</hi>, — <hi rendition="#em"><rs type="person" ref="#hsl_person_id_1">Hans
-      <lb facs="#facs_2_region_1709376886985_2043_tl_45" n="N045" break="no"/>lick</rs></hi> giebt darüber durchaus Unzulässiges, wie spätere
+      <lb facs="#facs_2_region_1709376886985_2043_tl_42" n="N042"/>
+               <hi rendition="#em">der Inhalt die Form schafft, sonach das Primi¬</hi>
+               <lb facs="#facs_2_region_1709376886985_2043_tl_43" n="N043"/>
+               <hi rendition="#em">tive ist, und dann doch nur an der Form und so¬</hi>
+               <lb facs="#facs_2_region_1709376886985_2043_tl_44" n="N044"/>
+               <hi rendition="#em">mit als ein blos Secundäres erscheint</hi>, — <hi rendition="#em">
+                  <rs type="person" continued="true">Hans¬</rs>
+               </hi>
+               <lb facs="#facs_2_region_1709376886985_2043_tl_45" n="N045"/>
+               <hi rendition="#em">
+                  <rs type="person" continued="true">lick</rs>
+               </hi> giebt darüber durchaus Unzulässiges, wie spätere
       <lb facs="#facs_2_region_1709376886985_2043_tl_46" n="N046"/>Untersuchungen nachweisen müssen, — so sind mit einem
       <lb facs="#facs_2_region_1709376886985_2043_tl_47" n="N047"/>Schlage auch alle Zweifel über Zu- oder Unzulässigkeit
-      <lb facs="#facs_2_region_1709376886985_2043_tl_48" n="N048"/>von Formveränderungen, z. B. bei <hi rendition="#em"><rs type="person" ref="#hsl_person_id_164">Liszt</rs>’s</hi> Symphoni
-      <lb facs="#facs_2_region_1709376886985_2043_tl_49" n="N049" break="no"/>schen Dichtungen, beseitigt. Sie sind nicht blos zulässig,
+      <lb facs="#facs_2_region_1709376886985_2043_tl_48" n="N048"/>von Formveränderungen, z. B. bei <hi rendition="#em">
+                  <rs type="person">Liszt</rs>’s</hi> Symphoni¬
+      <lb facs="#facs_2_region_1709376886985_2043_tl_49" n="N049"/>schen Dichtungen, beseitigt. Sie sind nicht blos zulässig,
       <lb facs="#facs_2_region_1709376886985_2043_tl_50" n="N050"/>sie sind nothwendig, in einem Grade, daß wir jede neue
       <lb facs="#facs_2_region_1709376886985_2043_tl_51" n="N051"/>Form willkommen heißen müssen, vorausgesetzt, daß sie
-      <lb facs="#facs_2_region_1709376886985_2043_tl_52" n="N052"/><hi rendition="#em">schön</hi> sei, und nicht <hi rendition="#em">willkürlich gemacht</hi>, sondern aus
+      <lb facs="#facs_2_region_1709376886985_2043_tl_52" n="N052"/>
+               <hi rendition="#em">schön</hi> sei, und nicht <hi rendition="#em">willkürlich gemacht</hi>, sondern aus
       <lb facs="#facs_2_region_1709376886985_2043_tl_53" n="N053"/>den bisherigen Gestaltungen naturgemäß hervorwachsend.
-      <lb facs="#facs_2_region_1709376886985_2043_tl_54" n="N054"/>Es geht demnach hier mit dem bezeichneten Fortschritt<space quantity="1" unit="char"/></p>
+      <lb facs="#facs_2_region_1709376886985_2043_tl_54" n="N054"/>Es geht demnach hier mit dem bezeichneten Fortschritt</p>
             <cb n="4"/>
-            <p prev="true">
-      <lb facs="#facs_2_region_1709376890177_2046_tl_1" n="N001"/>wie in allen menschlichen Dingen. Ein Zeitalter ist in
-      <lb facs="#facs_2_region_1709376890177_2046_tl_2" n="N002"/>Zweifeln und Irrthümern befangen, und spannt vergeb
-      <lb facs="#facs_2_region_1709376890177_2046_tl_3" n="N003" break="no"/>lich alle Kräfte an, sich daraus emporzuringen. Ist das
-      <lb facs="#facs_2_region_1709376890177_2046_tl_4" n="N004"/>Wort des Räthsels gefunden, so blickt man lächelnd zu
-      <lb facs="#facs_2_region_1709376890177_2046_tl_5" n="N005" break="no"/>rück auf eine solche Epoche, die mit einemmal zur Bedeu
-      <lb facs="#facs_2_region_1709376890177_2046_tl_6" n="N006" break="no"/>tungslosigkeit zusammenschrumpft. Jetzt ist insbesondere
+            <p>
+               <lb facs="#facs_2_region_1709376890177_2046_tl_1" n="N001"/>wie in allen menschlichen Dingen. Ein Zeitalter ist in
+      <lb facs="#facs_2_region_1709376890177_2046_tl_2" n="N002"/>Zweifeln und Irrthümern befangen, und spannt vergeb¬
+      <lb facs="#facs_2_region_1709376890177_2046_tl_3" n="N003"/>lich alle Kräfte an, sich daraus emporzuringen. Ist das
+      <lb facs="#facs_2_region_1709376890177_2046_tl_4" n="N004"/>Wort des Räthsels gefunden, so blickt man lächelnd zu¬
+      <lb facs="#facs_2_region_1709376890177_2046_tl_5" n="N005"/>rück auf eine solche Epoche, die mit einemmal zur Bedeu¬
+      <lb facs="#facs_2_region_1709376890177_2046_tl_6" n="N006"/>tungslosigkeit zusammenschrumpft. Jetzt ist insbesondere
       <lb facs="#facs_2_region_1709376890177_2046_tl_7" n="N007"/>die Möglichkeit zum weitern Vordringen gegeben, da die
       <lb facs="#facs_2_region_1709376890177_2046_tl_8" n="N008"/>beiden bezeichneten Stufen erst ihre Erfüllung gefunden
-      <lb facs="#facs_2_region_1709376890177_2046_tl_9" n="N009"/>haben mußten, bevor weiter fortgegangen werden konnte.</p>
-               <p>
+      <lb facs="#facs_2_region_1709376890177_2046_tl_9" n="N009"/>haben mußten, bevor weiter fortgegangen werden konnte.
       <lb facs="#facs_2_region_1709376890177_2046_tl_10" n="N010"/>Natürlich handelt es sich hier zunächst nicht um
       <lb facs="#facs_2_region_1709376890177_2046_tl_11" n="N011"/>philosophische Untersuchungen; im Gegentheil, die Praxis
       <lb facs="#facs_2_region_1709376890177_2046_tl_12" n="N012"/>muß den Ausgangspunct darbieten, und von ihr aus ist
       <lb facs="#facs_2_region_1709376890177_2046_tl_13" n="N013"/>erst weiterhin zur strengeren Wissenschaft vorzugehen.
-      <lb facs="#facs_2_region_1709376890177_2046_tl_14" n="N014"/>Dies ist der Weg, den jetzt alle Wissenschaften einschla
-      <lb facs="#facs_2_region_1709376890177_2046_tl_15" n="N015" break="no"/>gen, und der auf dem Gebiete der Naturwissenschaften
+      <lb facs="#facs_2_region_1709376890177_2046_tl_14" n="N014"/>Dies ist der Weg, den jetzt alle Wissenschaften einschla¬
+      <lb facs="#facs_2_region_1709376890177_2046_tl_15" n="N015"/>gen, und der auf dem Gebiete der Naturwissenschaften
       <lb facs="#facs_2_region_1709376890177_2046_tl_16" n="N016"/>bereits zu großen Resultaten geführt hat. Auch für die
       <lb facs="#facs_2_region_1709376890177_2046_tl_17" n="N017"/>Aesthetik der Tonkunst verspricht ein solches Verfahren
       <lb facs="#facs_2_region_1709376890177_2046_tl_18" n="N018"/>eine endliche Lösung des so lange vergeblich Ersehnten.
-      <lb facs="#facs_2_region_1709376890177_2046_tl_19" n="N019"/>Fr. <rs type="person" ref="#hsl_person_id_1745">Br.</rs>
+      <lb facs="#facs_2_region_1709376890177_2046_tl_19" n="N019"/>Fr. <rs type="person">Br.</rs>
             </p>
          </div>
       </body>
