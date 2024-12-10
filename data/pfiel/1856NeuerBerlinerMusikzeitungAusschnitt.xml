@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
+            <title level="a">1856 Neuer Berliner Musikzeitung (Ausschnitt)</title>
+            <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
+            <editor>
+               <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Georg-Coch-Platz 2</street>
+                  <postCode>1010 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
+            </respStmt>
+            <respStmt>
+               <resp>Projektmitarbeiterinnen</resp>
+               <name ref="https://orcid.org/0009-0006-9062-5902">Bamer, Katharina</name>
+               <name ref="https://orcid.org/0000-0002-7722-4091">Pfiel, Anna-Maria</name>
+               <name ref="https://orcid.org/0000-0002-0636-4476">Elsner, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2025">2025</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+                        vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für
+                        beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                        Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                        Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
+                        Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
+                        nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
+                        oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder
+                        technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen,
+                        was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                        Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
+                        Ausnahmen und Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                        verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                        jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                        Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des
+                        Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Maschinenlesbares Transkript der Kritiken von Eduard Hanslick.</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listBibl>
+               <biblStruct>
+                  <analytic>
+                     <title>
+               NEUE 
+      BERLINER MUSIKZEITUNG,</title>
+                     <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
+                  </analytic>
+                  <monogr>
+                     <title type="main">Neue Freie Presse</title>
+                     <title type="sub">
+               Zehnter Jahrgang No. 50. 10. December 1856.</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person">Etienne, Michael</name>
+                        <name type="person">Friedländer, Max</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace/>
+                        <date/>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="draft">
+         <change who="kbamer ampfiel" when="2023-02-20">Transkribus OCR und Lektorat.</change>
+         <change who="delsner" when="2023-02-20">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
+         <graphic url="1856NeuerBerlinerMusikzeitungAusschnitt-0001.jpeg"
+                  width="2479px"
+                  height="3508px"/>
+         <zone points="109,339 2325,339 2325,473 109,473"
+               rendition="TextRegion"
+               xml:id="facs_1_region_1709376381895_1886"
+               subtype="paragraph">
+            <zone points="133,361 1821,349 2216,351 2295,359 2296,440 2256,450 2085,455 132,460"
+                  rendition="Line"
+                  xml:id="facs_1_line_1733824131012_394"/>
+         </zone>
+         <zone points="131,783 1019,636 1420,636 2315,783 2315,1000 131,1000"
+               rendition="TextRegion"
+               xml:id="facs_1_TextRegion_1709376392958_1892"
+               subtype="paragraph">
+            <zone points="1423,758 1024,758 1024,668 1423,668"
+                  rendition="Line"
+                  xml:id="facs_1_line_1733824200484_429"/>
+            <zone points="153,792 2297,792 2297,997 153,997"
+                  rendition="Line"
+                  xml:id="facs_1_line_1733824195144_426"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
+         <graphic url="1856NeuerBerlinerMusikzeitungAusschnitt-0002.jpeg"
+                  width="2479px"
+                  height="3508px"/>
+         <zone points="1235,2779 2326,2779 2326,3433 1235,3433"
+               rendition="TextRegion"
+               xml:id="facs_2_region_1709376443874_1904"
+               subtype="paragraph">
+            <zone points="1259,2847 2210,2858 2288,2851 2287,2790 1258,2808"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709376443874_1904_tl_1"/>
+            <zone points="1248,2888 2292,2903 2291,2849 1246,2843"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709376443874_1904_tl_2"/>
+            <zone points="1250,2932 2292,2954 2291,2903 1249,2889"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709376443874_1904_tl_3"/>
+            <zone points="1242,2978 2285,2995 2285,2952 2218,2937 1242,2937"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709376443874_1904_tl_4"/>
+            <zone points="1249,3033 2292,3040 2265,2988 1248,2984"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709376443874_1904_tl_5"/>
+            <zone points="1246,3072 2275,3090 2291,3040 1245,3033"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709376443874_1904_tl_6"/>
+            <zone points="1254,3130 2285,3129 2249,3079 1254,3076"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709376443874_1904_tl_7"/>
+            <zone points="1249,3171 2202,3185 2292,3179 2291,3125 1248,3128"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709376443874_1904_tl_8"/>
+            <zone points="1240,3214 2283,3225 2283,3171 1240,3188"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709376443874_1904_tl_9"/>
+            <zone points="1240,3271 2291,3269 2291,3224 2159,3219 1240,3227"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709376443874_1904_tl_10"/>
+            <zone points="1242,3270 1941,3271 2285,3272 2285,3314 2212,3326 1242,3313"
+                  rendition="Line"
+                  xml:id="facs_2_line_1733824276447_453"/>
+            <zone points="1240,3361 2302,3359 2287,3313 1240,3312"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709376443874_1904_tl_13"/>
+            <zone points="1240,3362 2081,3362 2186,3362 2255,3365 2276,3366 2278,3421 2226,3430 1456,3437 1240,3411"
+                  rendition="Line"
+                  xml:id="facs_2_line_1733824291615_459"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_3">
+         <graphic url="1856NeuerBerlinerMusikzeitungAusschnitt-0003.jpeg"
+                  width="2479px"
+                  height="3508px"/>
+         <zone points="146,396 1237,396 1237,1266 146,1266"
+               rendition="TextRegion"
+               xml:id="facs_3_region_1709376457801_1910"
+               subtype="paragraph">
+            <zone points="168,409 1233,409 1233,453 168,453"
+                  rendition="Line"
+                  xml:id="facs_3_line_1733824553454_488"/>
+            <zone points="161,509 1222,504 1222,458 1152,453 161,472"
+                  rendition="Line"
+                  xml:id="facs_3_region_1709376457801_1910_tl_2"/>
+            <zone points="161,563 1219,555 1219,504 1150,501 161,512"
+                  rendition="Line"
+                  xml:id="facs_3_region_1709376457801_1910_tl_3"/>
+            <zone points="161,606 1222,600 1222,552 1139,549 161,563"
+                  rendition="Line"
+                  xml:id="facs_3_region_1709376457801_1910_tl_4"/>
+            <zone points="158,657 1222,643 1222,600 1134,595 158,606"
+                  rendition="Line"
+                  xml:id="facs_3_region_1709376457801_1910_tl_5"/>
+            <zone points="161,708 1230,699 1203,643 161,659"
+                  rendition="Line"
+                  xml:id="facs_3_region_1709376457801_1910_tl_6"/>
+            <zone points="166,748 1222,737 1222,699 1120,689 166,702"
+                  rendition="Line"
+                  xml:id="facs_3_region_1709376457801_1910_tl_7"/>
+            <zone points="161,801 1222,791 1222,737 161,753"
+                  rendition="Line"
+                  xml:id="facs_3_region_1709376457801_1910_tl_8"/>
+            <zone points="166,842 1222,831 1222,791 1107,785 166,799"
+                  rendition="Line"
+                  xml:id="facs_3_region_1709376457801_1910_tl_9"/>
+            <zone points="166,892 1222,887 1222,833 166,842"
+                  rendition="Line"
+                  xml:id="facs_3_region_1709376457801_1910_tl_10"/>
+            <zone points="166,941 1222,933 1222,887 1187,884 166,892"
+                  rendition="Line"
+                  xml:id="facs_3_region_1709376457801_1910_tl_11"/>
+            <zone points="166,986 1222,981 1222,933 1166,927 166,941"
+                  rendition="Line"
+                  xml:id="facs_3_region_1709376457801_1910_tl_12"/>
+            <zone points="172,1029 1214,1026 1187,976 172,989"
+                  rendition="Line"
+                  xml:id="facs_3_region_1709376457801_1910_tl_13"/>
+            <zone points="166,1083 1222,1069 1222,1029 1158,1021 166,1032"
+                  rendition="Line"
+                  xml:id="facs_3_region_1709376457801_1910_tl_14"/>
+            <zone points="166,1134 1217,1123 1217,1072 1185,1069 166,1088"
+                  rendition="Line"
+                  xml:id="facs_3_region_1709376457801_1910_tl_15"/>
+            <zone points="158,1187 1219,1168 1219,1123 1168,1115 158,1134"
+                  rendition="Line"
+                  xml:id="facs_3_region_1709376457801_1910_tl_16"/>
+            <zone points="163,1227 1219,1222 1219,1168 163,1174"
+                  rendition="Line"
+                  xml:id="facs_3_region_1709376457801_1910_tl_17"/>
+            <zone points="166,1262 847,1265 847,1219 772,1211 166,1222"
+                  rendition="Line"
+                  xml:id="facs_3_region_1709376457801_1910_tl_18"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <cb n="-1"/>
+            <p>
+               <lb facs="#facs_1_line_1733824131012_394" n="N001"/>Zehnter Jahrgang No. 50. <date month="0" day="0" year="0">10. December 1856</date>.</p>
+            <cb n="0"/>
+            <p>
+               <lb facs="#facs_1_line_1733824200484_429" n="N001"/>NEUE 
+      <lb facs="#facs_1_line_1733824195144_426" n="N002"/>BERLINER MUSIKZEITUNG,</p>
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+            <cb n="1"/>
+            <p>
+               <lb facs="#facs_2_region_1709376443874_1904_tl_1" n="N001"/>
+               <rs type="place">Berlin</rs>. „Der gegenwärtige Principienstreit über den ästheti¬
+      <lb facs="#facs_2_region_1709376443874_1904_tl_2" n="N002"/>schen Standpunkt in der Tonkunst“ war die Bezeichnung eines
+      <lb facs="#facs_2_region_1709376443874_1904_tl_3" n="N003"/>Vortrags, den der Dr. Ad. <hi rendition="#em">
+                  <rs type="person">Kullak</rs>
+               </hi> in der letzten Versammlung
+      <lb facs="#facs_2_region_1709376443874_1904_tl_4" n="N004"/>des Tonkünstlervereines hielt. Die leitende Idee war hierbei fol¬
+      <lb facs="#facs_2_region_1709376443874_1904_tl_5" n="N005"/>gende: <hi rendition="#em">Realismus</hi> und <hi rendition="#em">Idealismus</hi> sind zwei entgegengesetzte
+      <lb facs="#facs_2_region_1709376443874_1904_tl_6" n="N006"/>Anschauungen ein und derselben Sphäre homophoner Erscheinun¬
+      <lb facs="#facs_2_region_1709376443874_1904_tl_7" n="N007"/>gen. Sie sind zwei verschiedene Auffassungen des auch von der
+      <lb facs="#facs_2_region_1709376443874_1904_tl_8" n="N008"/>gegenwärtigen Philosophie noch nicht gelösten Räthsels von der
+      <lb facs="#facs_2_region_1709376443874_1904_tl_9" n="N009"/>Ableitung des Uebersinnlichen aus dem Sinnlichen, der des letz¬
+      <lb facs="#facs_2_region_1709376443874_1904_tl_10" n="N010"/>teren aus jenem. Sie lassen sich geschichtlich verfolgen bis auf
+      <lb facs="#facs_2_line_1733824276447_453" n="N011"/>die neueste Zeit, und in ganzen Zeitepochen und Culturzuständen,
+      <lb facs="#facs_2_region_1709376443874_1904_tl_13" n="N012"/>in der Religion, Wissenschaft und Kunst nachweisen. Sie haben
+      <lb facs="#facs_2_line_1733824291615_459" n="N013"/>sich in der Philosophie überhaupt, wie in der Aesthetik geltend</p>
+            <pb facs="#facs_3" n="3" xml:id="img_0003"/>
+            <cb n="2"/>
+            <p>
+               <lb facs="#facs_3_line_1733824553454_488" n="N001"/>gemacht, und haben aus der allgemeinen Aesthetik auch in die
+      <lb facs="#facs_3_region_1709376457801_1910_tl_2" n="N002"/>specielle der Tonkunst einen Uebergang gewonnen. In der Ton¬
+      <lb facs="#facs_3_region_1709376457801_1910_tl_3" n="N003"/>kunst ist der Vertreter des Realismus Dr. <hi rendition="#em">
+                  <rs type="person">Hanslick</rs>
+               </hi>. Auf der
+      <lb facs="#facs_3_region_1709376457801_1910_tl_4" n="N004"/>idealistischen Seite sind Prof. <hi rendition="#em">
+                  <rs type="person">Marx</rs>
+               </hi> und <hi rendition="#em">
+                  <rs type="person">Brendel</rs>
+               </hi> zu nennen.
+      <lb facs="#facs_3_region_1709376457801_1910_tl_5" n="N005"/>
+               <rs type="person">Hanslick</rs> weist nach, dass die Musik weder den Zweck habe, auf
+      <lb facs="#facs_3_region_1709376457801_1910_tl_6" n="N006"/>das Gefühl zu wirken, noch dass sie das letztere zu ihrem Inhalte
+      <lb facs="#facs_3_region_1709376457801_1910_tl_7" n="N007"/>habe. Ihr Wesen sei das specifisch musikalische. Von Seiten des
+      <lb facs="#facs_3_region_1709376457801_1910_tl_8" n="N008"/>Idealismus hat <hi rendition="#em">
+                  <rs type="person">Ambros</rs>
+               </hi> dagegen Einspruch gethan, und <rs type="person">Hanslick</rs>
+               <lb facs="#facs_3_region_1709376457801_1910_tl_9" n="N009"/>1) durch den Standpunkt der Musik unter den Künsten, 2) durch
+      <lb facs="#facs_3_region_1709376457801_1910_tl_10" n="N010"/>die historische Entwicklung der Tonkunst zu widerlegen gestrebt.
+      <lb facs="#facs_3_region_1709376457801_1910_tl_11" n="N011"/>Seine Beweisführung ist jedoch nicht genügend. Vielmehr müs¬
+      <lb facs="#facs_3_region_1709376457801_1910_tl_12" n="N012"/>sen die <rs type="person">Hegel</rs>’schen Prämissen, auf denen <rs type="person">Hanslick</rs> ruht, widerlegt
+      <lb facs="#facs_3_region_1709376457801_1910_tl_13" n="N013"/>werden. Der Redner deutete den Weg an, auf welchem dies mög¬
+      <lb facs="#facs_3_region_1709376457801_1910_tl_14" n="N014"/>lich sei, und fügte hinzu, dass auch die Betrachtung des Materials,
+      <lb facs="#facs_3_region_1709376457801_1910_tl_15" n="N015"/>die bei <rs type="person">Hanslick</rs> übersehen sei, auf ein ihm entgegengesetztes Re¬
+      <lb facs="#facs_3_region_1709376457801_1910_tl_16" n="N016"/>sultat führe. Er schloss mit dem Versprechen, eine genaue Dar¬
+      <lb facs="#facs_3_region_1709376457801_1910_tl_17" n="N017"/>stellung dieses Gegenstandes, mit der er von <rs type="place">Leipzig</rs> aus beauf¬
+      <lb facs="#facs_3_region_1709376457801_1910_tl_18" n="N018"/>tragt sei, gelegentlich geben zu wollen.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
