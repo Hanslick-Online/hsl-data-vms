@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
-            <title level="a">Dr. Hanslick und der „Tannhäuser“.</title>
+               <title level="a">Siebenundvierzigster Band. Nr. 18. Den 30. October 1857</title>
             <author ref="#hsl_person_id_6122">Gerstenkorn, Franz</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
@@ -104,7 +104,7 @@
       <revisionDesc status="draft">
          <change who="ampfiel" when="2024-12-09">Transkribus OCR und Lektorat.</change>
          <change who="delsner" when="2024-12-09">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
-         <change who="ampfiel" when="2024-12-09">Absätze, Zeilenumbrüche, space</change>
+         <change who="ampfiel" when="2024-12-09">Absätze, Zeilenumbrüche, space, rs ref, header</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -601,10 +601,6 @@
    <text>
       <body>
          <div>
-            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <cb n="0"/>
-      <head type="h2">
-            <lb facs="#facs_1_line_1733220429154_19" n="N001"/>Siebenundvierzigster Band. Nr. 18. Den 30. October <date when="1857">1857</date>.</head>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <cb n="1"/>
       <head type="h1">
@@ -684,7 +680,7 @@
       <lb facs="#facs_2_region_1709376995266_2074_tl_42" n="N042"/>liebevollen negotiorum gestor des Componisten betrach
       <lb facs="#facs_2_region_1709376995266_2074_tl_43" n="N043" break="no"/>tet, wir wollen nun den „Kritiker“ näher ins Auge fassen.</p>
                <p>
-      <lb facs="#facs_2_region_1709376995266_2074_tl_44" n="N044"/><rs type="person" ref="#hsl_person_id_1">Hanslick</rs> ist der Verfasser einer Schrift: „<rs type="bibl">Ueber das
+      <lb facs="#facs_2_region_1709376995266_2074_tl_44" n="N044"/><rs type="person" ref="#hsl_person_id_1">Hanslick</rs> ist der Verfasser einer Schrift: „<rs type="bibl" ref="#hsl_work_id_1083">Ueber das
       <lb facs="#facs_2_region_1709376995266_2074_tl_45" n="N045"/>musikalisch Schöne</rs>“. De mortuis nil nisi bene! Er ist
       <lb facs="#facs_2_region_1709376995266_2074_tl_46" n="N046"/>ein theoretischer Doctrinär, der sich ein System der mu
       <lb facs="#facs_2_region_1709376995266_2074_tl_47" n="N047" break="no"/>sikalischen Aesthetik auf der Basis eines zum großen Theil
@@ -694,7 +690,7 @@
       <lb facs="#facs_2_region_1709376995266_2074_tl_51" n="N051" break="no"/>freien Genusse der Kunstwerke hat er sein System <hi rendition="#em">nicht</hi><space quantity="1" unit="char"/>
       <lb facs="#facs_2_region_1709376995266_2074_tl_52" n="N052"/>gefunden, denn auf <hi rendition="#em">diese</hi> Weise wäre er unmöglich zu
       <lb facs="#facs_2_region_1709376995266_2074_tl_53" n="N053"/>Resultaten gekommen, die — wie sie eben wirklich in
-      <lb facs="#facs_2_region_1709376995266_2074_tl_54" n="N054"/>seinem Werke vorliegen — mit dem ganzen historischen</p>
+      <lb facs="#facs_2_region_1709376995266_2074_tl_54" n="N054"/>seinem Werke vorliegen — mit dem ganzen historischen<space quantity="1" unit="char"/></p>
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
             <cb n="3"/>
             <p prev="true">

@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
-            <title level="a">Populäre Aesthetik.</title>
+            <title level="a">Erscheint wöchentlich. — Nr. 23. — 4. Juni 1857.</title>
             <author ref="#hsl_person_id_6123">Carriere, Moritz</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
@@ -102,9 +102,9 @@
          </langUsage>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="kbamer ampfiel" when="2024-12-09">Transkribus OCR und Lektorat.</change>
+         <change who="ampfiel" when="2024-12-09">Transkribus OCR und Lektorat.</change>
          <change who="delsner" when="2024-12-09">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
-         <change who="ampfiel" when="2024-12-09">header, Absätze, Zeilenumbrüche, space, Liste</change>
+         <change who="ampfiel" when="2024-12-10">header, Absätze, Zeilenumbrüche, space, Liste, rs ref, header</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -1868,7 +1868,7 @@
                               <lb facs="#facs_2_region_1709376667962_1969_tl_5" n="N005"/>1 Thlr. 26 Ngr.
                         </item>
                         <item n="2">
-                              <lb facs="#facs_2_region_1709376667962_1969_tl_6" n="N006"/><rs type="bibl">A-B-C der Aesthetik</rs>. Fünf Vorlesungen, gehalten zu
+                              <lb facs="#facs_2_region_1709376667962_1969_tl_6" n="N006"/><rs type="bibl" ref="#hsl_work_id_4270">A-B-C der Aesthetik</rs>. Fünf Vorlesungen, gehalten zu
                               <lb facs="#facs_2_region_1709376667962_1969_tl_7" n="N007"/><rs type="place" ref="#hsl_place_id_71">Strasburg</rs> von <hi rendition="#em">Albert <rs type="person" ref="#hsl_person_id_6127">Grün</rs></hi>. <rs type="place" ref="#hsl_place_id_71">Strasburg</rs>, Treuttel u.
                               <lb facs="#facs_2_region_1709376667962_1969_tl_8" n="N008"/>Würtz. <date when="1856">1856</date>. 8. 1 Thlr. 2 Ngr.
                         </item>
@@ -1878,7 +1878,7 @@
                               <lb facs="#facs_2_region_1709376667962_1969_tl_11" n="N011"/><rs type="place" ref="#hsl_place_id_45">Prag</rs>, Mercy. <date when="1856">1856</date>. 8. 24 Ngr.
                         </item>
                         <item n="4">
-                              <lb facs="#facs_2_region_1709376667962_1969_tl_12" n="N012"/><rs type="bibl">Zur Reform der modernen Kunst</rs>. Eine Studie zur neue
+                              <lb facs="#facs_2_region_1709376667962_1969_tl_12" n="N012"/><rs type="bibl" ref="#hsl_work_id_4271">Zur Reform der modernen Kunst</rs>. Eine Studie zur neue
                               <lb facs="#facs_2_region_1709376667962_1969_tl_13" n="N013" break="no"/>sten Kunstgeschichte. <rs type="place" ref="#hsl_place_id_374">Halle</rs>, Schroedel u. Simon. <date when="1856">1856</date>.
                               <lb facs="#facs_2_region_1709376667962_1969_tl_14" n="N014"/>Gr. 8. 15 Ngr.
                         </item>
@@ -1894,10 +1894,9 @@
       <lb facs="#facs_2_region_1709376667962_1969_tl_22" n="N022"/>Kunst rege, wiewol es immer besser wäre, wenn auch die selb
       <lb facs="#facs_2_region_1709376667962_1969_tl_23" n="N023" break="no"/>ständigen Denker und Forscher von Haus aus weniger für die
       <lb facs="#facs_2_region_1709376667962_1969_tl_24" n="N024"/>Schule und mehr für das Leben schrieben. Der Ton, den
-      <lb facs="#facs_2_region_1709376667962_1969_tl_25" n="N025"/><rs type="person" ref="#hsl_person_id_248">Schiller</rs> in den „<rs type="bibl">Briefen über die ästhetische Erziehung des
-      <lb facs="#facs_2_region_1709376667962_1969_tl_26" n="N026"/>Menschen</rs>“, den <rs type="person" ref="#hsl_person_id_697">Lessing</rs> im „<rs type="bibl">Laokoon</rs>“, den 
-                     <rs type="person" ref="#hsl_person_id_677">Schelling</rs> in seiner
-      <lb facs="#facs_2_region_1709376667962_1969_tl_27" n="N027"/>Rede „<rs type="bibl">Ueber das Verhältniß der bildenden Künste zur Natur</rs>“
+      <lb facs="#facs_2_region_1709376667962_1969_tl_25" n="N025"/><rs type="person" ref="#hsl_person_id_248">Schiller</rs> in den „<rs type="bibl" ref="#hsl_work_id_4272">Briefen über die ästhetische Erziehung des
+      <lb facs="#facs_2_region_1709376667962_1969_tl_26" n="N026"/>Menschen</rs>“, den <rs type="person" ref="#hsl_person_id_697">Lessing</rs> im „<rs type="bibl" ref="#hsl_work_id_3364">Laokoon</rs>“, den <rs type="person" ref="#hsl_person_id_677">Schelling</rs> in seiner
+      <lb facs="#facs_2_region_1709376667962_1969_tl_27" n="N027"/>Rede „<rs type="bibl" ref="#hsl_work_id_398">Ueber das Verhältniß der bildenden Künste zur Natur</rs>“
       <lb facs="#facs_2_region_1709376667962_1969_tl_28" n="N028"/>angeschlagen, sollte maßgebend sein; denn diese Werke bewei
       <lb facs="#facs_2_region_1709376667962_1969_tl_29" n="N029" break="no"/>sen, daß man zugleich die Wissenschaft weiterführen und zugleich
       <lb facs="#facs_2_region_1709376667962_1969_tl_30" n="N030"/>auf die Nationalbildung einwirken, daß man tief und klar,
@@ -1917,15 +1916,14 @@
       <lb facs="#facs_3_region_1709376684138_1975_tl_10" n="N010"/>sie mehr ins Enge zu ziehen, und die Form der abstract gehal
       <lb facs="#facs_3_region_1709376684138_1975_tl_11" n="N011" break="no"/>tenen Paragraphen und der erläuternden Anmerkungen veran
       <lb facs="#facs_3_region_1709376684138_1975_tl_12" n="N012" break="no"/>laßt dazu, beide ineinander zu arbeiten. Das scheint sich denn
-      <lb facs="#facs_3_region_1709376684138_1975_tl_13" n="N013"/>
-                  <rs type="person" ref="#hsl_person_id_4660">Bayer</rs> zur Aufgabe gemacht zu haben. Er und A. <rs type="person" ref="#hsl_person_id_6127">Grün</rs><space quantity="1" unit="char"/>
-               <lb facs="#facs_3_region_1709376684138_1975_tl_14" n="N014"/>nehmen im Wesentlichen den <rs type="person" ref="#hsl_person_id_379">Vischer</rs>’schen Standpunkt ein,
+      <lb facs="#facs_3_region_1709376684138_1975_tl_13" n="N013"/><rs type="person" ref="#hsl_person_id_4660">Bayer</rs> zur Aufgabe gemacht zu haben. Er und A. <rs type="person" ref="#hsl_person_id_6127">Grün</rs><space quantity="1" unit="char"/>
+      <lb facs="#facs_3_region_1709376684138_1975_tl_14" n="N014"/>nehmen im Wesentlichen den <rs type="person" ref="#hsl_person_id_379">Vischer</rs>’schen Standpunkt ein,
       <lb facs="#facs_3_region_1709376684138_1975_tl_15" n="N015"/><rs type="person" ref="#hsl_person_id_4660">Bayer</rs> zeigt sich aber überall von ihm abhängig. Er kennt
       <lb facs="#facs_3_region_1709376684138_1975_tl_16" n="N016"/>kaum etwas Anderes oder Neueres. So sind ihm z. B. <rs type="person" ref="#hsl_person_id_6126">Zei
-      <lb facs="#facs_3_region_1709376684138_1975_tl_17" n="N017" break="no"/>sing</rs>’s „<rs type="bibl">Proportionslehre</rs>“ und „<rs type="bibl" ref="#hsl_work_id_4246">Aesthetische Forschungen</rs>“ fremd
+      <lb facs="#facs_3_region_1709376684138_1975_tl_17" n="N017" break="no"/>sing</rs>’s „<rs type="bibl" ref="#hsl_work_id_4273">Proportionslehre</rs>“ und „<rs type="bibl" ref="#hsl_work_id_4246">Aesthetische Forschungen</rs>“ fremd
       <lb facs="#facs_3_region_1709376684138_1975_tl_18" n="N018"/>geblieben, und was ich über das Ungenügende von <rs type="person" ref="#hsl_person_id_379">Vischer</rs>’s,
-      <lb facs="#facs_3_region_1709376684138_1975_tl_19" n="N019"/>d. h. <rs type="person" ref="#hsl_person_id_378">Hegel</rs>’s philosophischen Principien in <rs type="person">Fichte</rs>’s <rs type="bibl">Zeitschrift</rs>,
-      <lb facs="#facs_3_region_1709376684138_1975_tl_20" n="N020"/>was ich selbständig darstellend in meiner „<rs type="bibl">Poetik</rs>“, namentlich in
+      <lb facs="#facs_3_region_1709376684138_1975_tl_19" n="N019"/>d. h. <rs type="person" ref="#hsl_person_id_378">Hegel</rs>’s philosophischen Principien in <rs type="person" ref="#hsl_person_id_6140">Fichte</rs>’s <rs type="bibl" ref="#hsl_work_id_4275">Zeitschrift</rs>,
+      <lb facs="#facs_3_region_1709376684138_1975_tl_20" n="N020"/>was ich selbständig darstellend in meiner „<rs type="bibl" ref="#hsl_work_id_4274">Poetik</rs>“, namentlich in
       <lb facs="#facs_3_region_1709376684138_1975_tl_21" n="N021"/>den einleitenden Abschnitten veröffentlichte, ist für ihn nicht
       <lb facs="#facs_3_region_1709376684138_1975_tl_22" n="N022"/>geschrieben gewesen. Er will das Schwierige durch einen blü
       <lb facs="#facs_3_region_1709376684138_1975_tl_23" n="N023" break="no"/>henden Stil leicht machen und setzt Metaphern an die Stelle
@@ -1973,8 +1971,7 @@
       <lb facs="#facs_3_region_1709376684138_1975_tl_63" n="N063"/>und so gut wie gar nicht vorhanden sein. Ohne <rs type="person" ref="#hsl_person_id_142">Kant</rs>’s „<rs type="bibl" ref="'#hsl_work_id_4243">Kri
       <lb facs="#facs_3_region_1709376684138_1975_tl_64" n="N064" break="no"/>tik der reinen Vernunft</rs>“ studirt zu haben, sollte Niemand in
       <lb facs="#facs_3_region_1709376684138_1975_tl_65" n="N065"/>ästhetischen Dingen ein Wort mitreden wollen, aber weder bei
-      <lb facs="#facs_3_region_1709376684138_1975_tl_66" n="N066"/>
-               <rs type="person" ref="#hsl_person_id_4660">Bayer</rs> noch bei <rs type="person" ref="#hsl_person_id_6127">Grün</rs> sind die Spuren eines Verständnisses
+      <lb facs="#facs_3_region_1709376684138_1975_tl_66" n="N066"/><rs type="person" ref="#hsl_person_id_4660">Bayer</rs> noch bei <rs type="person" ref="#hsl_person_id_6127">Grün</rs> sind die Spuren eines Verständnisses
       <lb facs="#facs_3_region_1709376684138_1975_tl_67" n="N067"/>dieses Buchs. Mit diesem aber stimmt die Naturwissen
       <lb facs="#facs_3_region_1709376684138_1975_tl_68" n="N068" break="no"/>schaft überein, wenn sie lehrt, daß Ton und Farbe außer uns
       <lb facs="#facs_3_region_1709376684138_1975_tl_69" n="N069"/>als solche nicht erfunden, daß sie erst in uns und durch uns<space quantity="1" unit="char"/></p>
@@ -2180,7 +2177,7 @@
       <lb facs="#facs_4_region_1709376720274_1987_tl_49" n="N049"/>Eingebung und als eigener Kraft Erzeugniß, als Werk der
       <lb facs="#facs_4_region_1709376720274_1987_tl_50" n="N050"/>Begeisterung und besonnenen Erwägung zugleich stehen nach
       <lb facs="#facs_4_region_1709376720274_1987_tl_51" n="N051"/>der Aussage der Künstler selbst ihre Schöpfungen da. Ich
-      <lb facs="#facs_4_region_1709376720274_1987_tl_52" n="N052"/>habe in einem Abschnitte meiner „<rs type="bibl">Poetik</rs>“ das Problem aufgestellt
+      <lb facs="#facs_4_region_1709376720274_1987_tl_52" n="N052"/>habe in einem Abschnitte meiner „<rs type="bibl" ref="#hsl_work_id_4274">Poetik</rs>“ das Problem aufgestellt
       <lb facs="#facs_4_region_1709376720274_1987_tl_53" n="N053"/>und das Wort ausgesprochen, welches die Thatsache nicht leug
       <lb facs="#facs_4_region_1709376720274_1987_tl_54" n="N054" break="no"/>net, sondern begreift und damit das Räthsel löst, für mich
       <lb facs="#facs_4_region_1709376720274_1987_tl_55" n="N055"/>nämlich, und ich hätte gern erfahren, ob auch für Andere;
@@ -2244,7 +2241,7 @@
       <lb facs="#facs_5_region_1709376764026_2002_tl_39" n="N039"/>bedürfen.</p>
                <p>
       <lb facs="#facs_5_region_1709376764026_2002_tl_40" n="N040"/>Mit Fug erklärt sich <rs type="person" ref="#hsl_person_id_717">Ambros</rs> gegen selche Musiker, welche
-      <lb facs="#facs_5_region_1709376764026_2002_tl_41" n="N041"/>(wie Félicien <rs type="person" ref="#hsl_person_id_969">David</rs> im „<rs type="bibl">L’avant d’homme</rs>“) den Zustand des
+      <lb facs="#facs_5_region_1709376764026_2002_tl_41" n="N041"/>(wie Félicien <rs type="person" ref="#hsl_person_id_969">David</rs> im „<rs type="bibl" ref="#hsl_work_id_4276">L’avant d’homme</rs>“) den Zustand des
       <lb facs="#facs_5_region_1709376764026_2002_tl_42" n="N042"/>Planeten in der Lias- oder Keuperperiode malen, welche, wie
       <lb facs="#facs_5_region_1709376764026_2002_tl_43" n="N043"/><rs type="person" ref="#hsl_person_id_28">Berlioz</rs>, einzelne Scenen aus <rs type="person" ref="#hsl_person_id_287">Shakspeare</rs>’s „<rs type="bibl" ref="#hsl_work_id_57">Romeo und Julie</rs>“
       <lb facs="#facs_5_region_1709376764026_2002_tl_44" n="N044"/>nacherzählen wollen, und nennt solche Tonstücke Programmen
@@ -2422,7 +2419,7 @@
       <lb facs="#facs_6_region_1709376794962_2008_tl_68" n="N067"/>Würdigung.</p>
                <p>
       <lb facs="#facs_6_region_1709376794962_2008_tl_69" n="N068"/>Dies führt uns zu dem Schriftchen, in welchem ein Un
-      <lb facs="#facs_6_region_1709376794962_2008_tl_70" n="N069" break="no"/>genannter seinen Beitrag „<rs type="bibl">Zur Reform der modernen Kunst</rs>“<space quantity="1" unit="char"/></p>
+      <lb facs="#facs_6_region_1709376794962_2008_tl_70" n="N069" break="no"/>genannter seinen Beitrag „<rs type="bibl" ref="#hsl_work_id_4271">Zur Reform der modernen Kunst</rs>“<space quantity="1" unit="char"/></p>
             <cb n="9"/>
             <p prev="true">
       <lb facs="#facs_6_region_1709376799537_2011_tl_1" n="N001"/>gegeben hat. Da heißt es, daß ein vollendetes Werk niemals

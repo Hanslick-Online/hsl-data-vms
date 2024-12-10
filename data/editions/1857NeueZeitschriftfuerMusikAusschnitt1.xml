@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
-            <title level="a">Die Aesthetik der Tonkunst.</title>
+            <title level="a">Sechsundvierzigster Band. Nr. 18. Den 1. Mai 1857</title>
             <author ref="#hsl_person_id_1745">Brendel, Franz</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
@@ -102,9 +102,9 @@
          </langUsage>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="kbamer ampfiel" when="2024-12-09">Transkribus OCR und Lektorat.</change>
+         <change who="ampfiel" when="2024-12-09">Transkribus OCR und Lektorat.</change>
          <change who="delsner" when="2024-12-09">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
-         <change who="ampfiel" when="2024-12-09">header, Absätze, Zeilenumbrüche, space, rs ref</change>
+         <change who="ampfiel" when="2024-12-09">header, Absätze, Zeilenumbrüche, space, rs ref, header</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -573,9 +573,6 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <cb n="0"/>
-      <head type="h2">
-            <lb facs="#facs_1_line_1733224459051_862" n="N001"/>Sechsundvierzigster Band. Nr. 18. Den 1. Mai <date when="1857">1857</date>.</head>
             <cb n="1"/>
       <head type="h1">
             <lb facs="#facs_1_region_1709376849201_2027_tl_1" n="N001"/>Die Aesthetik der Tonkunst.</head>
