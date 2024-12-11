@@ -106,7 +106,7 @@
       <revisionDesc status="draft">
          <change who="ampfiel" when="2024-12-10">Transkribus OCR und Lektorat.</change>
          <change who="delsner" when="2023-12-10">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
-         <change who="ampfiel" when="2024-12-11">header, Zeilenumbrüche, Absätze</change>
+         <change who="ampfiel" when="2024-12-11">header, Zeilenumbrüche, Absätze, rs ref, space</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -873,7 +873,7 @@
             <lb facs="#facs_2_region_1709376529138_1923_tl_1" n="N001"/>Ueber das musikalisch Schöne</head>
       <head type="h2">
             <lb facs="#facs_2_region_1709376529138_1923_tl_2" n="N002"/>von
-            <lb facs="#facs_2_region_1709376529138_1923_tl_3" n="N003"/>Dr. Adolf <rs type="person" ref="">Kullak</rs>.</head>
+            <lb facs="#facs_2_region_1709376529138_1923_tl_3" n="N003"/>Dr. Adolf <rs type="person" ref="#hsl_person_id_6142">Kullak</rs>.</head>
                <p>
       <lb facs="#facs_2_region_1709376529138_1923_tl_4" n="N004"/>Die Untersuchungen über das musikalisch Schöne sind mit den ver
       <lb facs="#facs_2_region_1709376529138_1923_tl_5" n="N005" break="no"/>dienstlichen Bemühungen der letzten Zeit keineswegs erledigt. Die Par
@@ -888,17 +888,14 @@
       <lb facs="#facs_2_region_1709376529138_1923_tl_14" n="N014"/>Forschung stehe, zu ihrem höchsten Resultat gelangt.</p>
                <p>
       <lb facs="#facs_2_region_1709376529138_1923_tl_15" n="N015"/>Die Musik hat in den Theorien der allgemeinen Kunstlehre von jeher
-      <lb facs="#facs_2_region_1709376529138_1923_tl_16" n="N016"/>Unglück gehabt. <hi rendition="#em">
-                  <rs type="person" ref="">Hegel</rs>’s</hi> Genie für das Allgemeine ästhetischer Er
+      <lb facs="#facs_2_region_1709376529138_1923_tl_16" n="N016"/>Unglück gehabt. <hi rendition="#em"><rs type="person" ref="#hsl_person_id_378">Hegel</rs>’s</hi> Genie für das Allgemeine ästhetischer Er
       <lb facs="#facs_2_region_1709376529138_1923_tl_17" n="N017" break="no"/>kenntniß und sein reiches Wissen in den anderen Kunstgebieten wiegen die
       <lb facs="#facs_2_region_1709376529138_1923_tl_18" n="N018"/>Lücken und das Unvollkommne nicht auf, das sich in dem speciellen Theile
       <lb facs="#facs_2_region_1709376529138_1923_tl_19" n="N019"/>der Musik bei ihm vorfindet. Er mag sich wol mit Recht darüber be
       <lb facs="#facs_2_region_1709376529138_1923_tl_20" n="N020" break="no"/>klagen, daß die Unbildung der praktischen Musiker damaliger Zeit ihm jede
       <lb facs="#facs_2_region_1709376529138_1923_tl_21" n="N021"/>tiefere Aufklärung versagt hat. Sein fleißiger und genialer Schüler
-      <lb facs="#facs_2_region_1709376529138_1923_tl_22" n="N022"/><hi rendition="#em">
-                  <rs type="person" ref="">Vischer</rs></hi> steht in einem ähnlichen Falle. Reicher, kritischer und fleißiger hat
-      <lb facs="#facs_2_region_1709376529138_1923_tl_23" n="N023"/>er das <hi rendition="#em">
-                  <rs type="person" ref="">Hegel</rs></hi>’sche Material gesichtet, verbessert und ergänzt. Aber gerade
+      <lb facs="#facs_2_region_1709376529138_1923_tl_22" n="N022"/><hi rendition="#em"><rs type="person" ref="#hsl_person_id_379">Vischer</rs></hi> steht in einem ähnlichen Falle. Reicher, kritischer und fleißiger hat
+      <lb facs="#facs_2_region_1709376529138_1923_tl_23" n="N023"/>er das <hi rendition="#em"><rs type="person" ref="#hsl_person_id_378">Hegel</rs></hi>’sche Material gesichtet, verbessert und ergänzt. Aber gerade
       <lb facs="#facs_2_region_1709376529138_1923_tl_24" n="N024"/>die Musik hat der treffliche Autor zum größeren Theile fremden Händen
       <lb facs="#facs_2_region_1709376529138_1923_tl_25" n="N025"/>überlassen müssen und in den wenigen Auseinandersetzungen, die aus seinem
       <lb facs="#facs_2_region_1709376529138_1923_tl_26" n="N026"/>eigenen Geiste geflossen sind, bewegt er sich einestheils befangener als
@@ -916,10 +913,9 @@
       <lb facs="#facs_3_region_1709376541146_1929_tl_5" n="N005"/>Wenigstens müßten sie anerkennen, daß die Gefahr eines solchen in der
       <lb facs="#facs_3_region_1709376541146_1929_tl_6" n="N006"/>allgemeinen Aesthetik vorliegen könne, da das Allgemeine in dem Beson
       <lb facs="#facs_3_region_1709376541146_1929_tl_7" n="N007" break="no"/>deren seine Wahrheit hat, und dies Besondere nicht genügend erkannt war.
-      <lb facs="#facs_3_region_1709376541146_1929_tl_8" n="N008"/>— Diese Erwartung wird indeß getäuscht. Die <rs type="bibl" ref="">Aesthetik der Tonkunst</rs><space quantity="1" unit="char"/>
-      <lb facs="#facs_3_region_1709376541146_1929_tl_9" n="N009"/>von <hi rendition="#em"><rs type="person" ref="">Hand</rs></hi> sowol, wie die Broschüre von <hi rendition="#em">
-            <rs type="person" ref="">Hanslick</rs></hi><space quantity="1" unit="char"/><rs type="bibl" ref="">über das musikalisch
-      <lb facs="#facs_3_region_1709376541146_1929_tl_10" n="N010"/>Schöne</rs> stellen sich von Anfang an auf die allgemeinen Vorarbeiten, wäh
+      <lb facs="#facs_3_region_1709376541146_1929_tl_8" n="N008"/>— Diese Erwartung wird indeß getäuscht. Die <rs type="bibl" ref="#hsl_work_id_337">Aesthetik der Tonkunst</rs><space quantity="1" unit="char"/>
+      <lb facs="#facs_3_region_1709376541146_1929_tl_9" n="N009"/>von <hi rendition="#em"><rs type="person" ref="#hsl_person_id_399">Hand</rs></hi> sowol, wie die <rs type="bibl" ref="#hsl_work_id_1083">Broschüre</rs> von <hi rendition="#em"><rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi> über das musikalisch
+      <lb facs="#facs_3_region_1709376541146_1929_tl_10" n="N010"/>Schöne stellen sich von Anfang an auf die allgemeinen Vorarbeiten, wäh
       <lb facs="#facs_3_region_1709376541146_1929_tl_11" n="N011" break="no"/>rend sie ihre Resultate vielmehr mit jenen hätten vergleichen sollen. Man
       <lb facs="#facs_3_region_1709376541146_1929_tl_12" n="N012"/>kann nicht eher eine specielle Aesthetik schreiben, bevor mit der allgemeinen
       <lb facs="#facs_3_region_1709376541146_1929_tl_13" n="N013"/>nicht Alles in Ordnung ist. Eine specielle Musikaesthetik kann daher in
@@ -930,24 +926,18 @@
       <lb facs="#facs_3_region_1709376541146_1929_tl_18" n="N018"/>selbst von diesen allgemeinen Ideen noch einmal anfangen.</p>
                <p>
       <lb facs="#facs_3_region_1709376541146_1929_tl_19" n="N019"/>Dies Letztere ist um so eher nöthig, da bis jetzt noch keine Einheit
-      <lb facs="#facs_3_region_1709376541146_1929_tl_20" n="N020"/>in den Anschauungen dieser Begriffe erreicht ist. <hi rendition="#em">
-                  <rs type="person" ref="">Zeising</rs>’s</hi> geistvolle
-      <lb facs="#facs_3_region_1709376541146_1929_tl_21" n="N021"/>Forschungen stehen in vielem der <hi rendition="#em">
-                  <rs type="person" ref="">Hegel</rs></hi> — <hi rendition="#em"><rs type="person" ref="">Vischer</rs></hi>’schen Theorie schroff
+      <lb facs="#facs_3_region_1709376541146_1929_tl_20" n="N020"/>in den Anschauungen dieser Begriffe erreicht ist. <hi rendition="#em"><rs type="person" ref="#hsl_person_id_6126">Zeising</rs>’s</hi> geistvolle
+      <lb facs="#facs_3_region_1709376541146_1929_tl_21" n="N021"/>Forschungen stehen in vielem der <hi rendition="#em"><rs type="person" ref="#hsl_person_id_378">Hegel</rs></hi> — <hi rendition="#em"><rs type="person" ref="#hsl_person_id_379">Vischer</rs></hi>’schen Theorie schroff
       <lb facs="#facs_3_region_1709376541146_1929_tl_22" n="N022"/>entgegen. Neigt sich die Letztere mehr der Idee, als dem Schwerpunkt der
-      <lb facs="#facs_3_region_1709376541146_1929_tl_23" n="N023"/>Wahrheit und Wirklichkeit zu, so verweilt <hi rendition="#em">
-                  <rs type="person" ref="">Zeising</rs></hi> mit einer gewissen
+      <lb facs="#facs_3_region_1709376541146_1929_tl_23" n="N023"/>Wahrheit und Wirklichkeit zu, so verweilt <hi rendition="#em"><rs type="person" ref="#hsl_person_id_6126">Zeising</rs></hi> mit einer gewissen
       <lb facs="#facs_3_region_1709376541146_1929_tl_24" n="N024"/>Vorliebe in den sinnlichen Forschungen. Und Niemand wird verkennen, daß
-      <lb facs="#facs_3_region_1709376541146_1929_tl_25" n="N025"/>z. B. sein Proportionalitätsgesetz ein epochemachendes Resultat ist. <hi rendition="#em">
-                  <rs type="person" ref="">Zei
+      <lb facs="#facs_3_region_1709376541146_1929_tl_25" n="N025"/>z. B. sein Proportionalitätsgesetz ein epochemachendes Resultat ist. <hi rendition="#em"><rs type="person" ref="#hsl_person_id_6126">Zei
       <lb facs="#facs_3_region_1709376541146_1929_tl_26" n="N026" break="no"/>sing</rs>’s</hi> Begriffe haben eine wunderbare Logik und sein Standpunkt ist in
       <lb facs="#facs_3_region_1709376541146_1929_tl_27" n="N027"/>vielem so klar und scharf, daß man durch die Deutlichkeit und Schnellig
       <lb facs="#facs_3_region_1709376541146_1929_tl_28" n="N028" break="no"/>keit seiner Resultate überrascht wird. — Nur ist sein Buch so sehr viel
-      <lb facs="#facs_3_region_1709376541146_1929_tl_29" n="N029"/>ärmer an Material als <hi rendition="#em">
-            <rs type="person" ref="">Vischer</rs>’s</hi><space quantity="1" unit="char"/><rs type="bibl" ref="">Aesthetik</rs>, auch vermengt er Fortschritts-
+      <lb facs="#facs_3_region_1709376541146_1929_tl_29" n="N029"/>ärmer an Material als <hi rendition="#em"><rs type="person" ref="#hsl_person_id_379">Vischer</rs>’s</hi><space quantity="1" unit="char"/><rs type="bibl" ref="#hsl_work_id_319">Aesthetik</rs>, auch vermengt er Fortschritts-
       <lb facs="#facs_3_region_1709376541146_1929_tl_30" n="N030"/>und Rückschrittsgedanken in dem eigentlichen Fundament seines Stand
-      <lb facs="#facs_3_region_1709376541146_1929_tl_31" n="N031" break="no"/>puncts so sehr, daß man sich mehr an <hi rendition="#em">
-                  <rs type="person" ref="">Vischer</rs>’s</hi> Autorität anlehnen möchte.</p>
+      <lb facs="#facs_3_region_1709376541146_1929_tl_31" n="N031" break="no"/>puncts so sehr, daß man sich mehr an <hi rendition="#em"><rs type="person" ref="#hsl_person_id_379">Vischer</rs>’s</hi> Autorität anlehnen möchte.</p>
                <p>
       <lb facs="#facs_3_region_1709376541146_1929_tl_32" n="N032"/>Das Alles ergiebt aber für die Musik ein recht übles Resultat. Wo
       <lb facs="#facs_3_region_1709376541146_1929_tl_33" n="N033"/>ist das Wahre und Richtige? Wird der Musiker bei all seinen speciellen
@@ -965,39 +955,26 @@
       <lb facs="#facs_4_region_1709376564042_1935_tl_4" n="N004"/>musikalischen Gegenwart nur vorüberstreifend ein. Der Letztere dreht sich
       <lb facs="#facs_4_region_1709376564042_1935_tl_5" n="N005"/>um die Frage, ob die Musik zu ihrem Inhalt und ihrer Idee nur die formelle
       <lb facs="#facs_4_region_1709376564042_1935_tl_6" n="N006"/>oder die poetische Schönheit haben müsse. Es ist seltsam, daß sich zwei
-      <lb facs="#facs_4_region_1709376564042_1935_tl_7" n="N007"/>entgegengesetzte Ansichten auf der Grundlage der <hi rendition="#em">
-            <rs type="person" ref="">Vischer</rs></hi>’schen <rs type="bibl" ref="">Aesthetik</rs><space quantity="1" unit="char"/>
+      <lb facs="#facs_4_region_1709376564042_1935_tl_7" n="N007"/>entgegengesetzte Ansichten auf der Grundlage der <hi rendition="#em"><rs type="person" ref="#hsl_person_id_379">Vischer</rs></hi>’schen <rs type="bibl" ref="#hsl_work_id_319">Aesthetik</rs><space quantity="1" unit="char"/>
       <lb facs="#facs_4_region_1709376564042_1935_tl_8" n="N008"/>so weit sie vor dem Erscheinen des speciellen Musiktheiles vor kurzem nur
-      <lb facs="#facs_4_region_1709376564042_1935_tl_9" n="N009"/>vorhanden war, geltend gemacht haben: <hi rendition="#em">
-            <rs type="person" ref="">Hanslick</rs>’s</hi><space quantity="1" unit="char"/><rs type="bibl" ref="">Broschüre</rs> erblickt in
+      <lb facs="#facs_4_region_1709376564042_1935_tl_9" n="N009"/>vorhanden war, geltend gemacht haben: <hi rendition="#em"><rs type="person" ref="#hsl_person_id_1">Hanslick</rs>’s</hi><space quantity="1" unit="char"/><rs type="bibl" ref="#hsl_work_id_1083">Broschüre</rs> erblickt in
       <lb facs="#facs_4_region_1709376564042_1935_tl_10" n="N010"/>der Form die Schönheitside; weniger ausführlich, nur andeutend, ertheilt
-      <lb facs="#facs_4_region_1709376564042_1935_tl_11" n="N011"/>mein Aufsatz „<rs type="bibl" ref="">die Tonkunst und ihre Factoren</rs>“ der poetischen oder
+      <lb facs="#facs_4_region_1709376564042_1935_tl_11" n="N011"/>mein Aufsatz „<rs type="bibl" ref="#hsl_work_id_4282">die Tonkunst und ihre Factoren</rs>“ der poetischen oder
       <lb facs="#facs_4_region_1709376564042_1935_tl_12" n="N012"/>ideellen Seite das ästhetische Hauptgewicht. Es bedarf kaum der Er
-      <lb facs="#facs_4_region_1709376564042_1935_tl_13" n="N013" break="no"/>wähnung, daß außer <hi rendition="#em">
-                  <rs type="person" ref="">Vischer</rs>’s</hi> allgemeinen Forschungen, die besonderen
-      <lb facs="#facs_4_region_1709376564042_1935_tl_14" n="N014"/>unschätzbaren Verdienste <hi rendition="#em">
-                  <rs type="person" ref="">Brendel</rs>’s</hi>, sowie zum Theil die Richtung von
-      <lb facs="#facs_4_region_1709376564042_1935_tl_15" n="N015"/><hi rendition="#em">
-                  <rs type="person" ref="">Marx</rs></hi> wesentlich zu meinem Anhaltepuncte dienten. <hi rendition="#em">
-                  <rs type="person" ref="">Hanslick</rs>’s</hi> Partei
-      <lb facs="#facs_4_region_1709376564042_1935_tl_16" n="N016"/>ist eigentlich mehr nach dem Erscheinen seiner <rs type="bibl" ref="">Broschüre</rs> mit literarischen
+      <lb facs="#facs_4_region_1709376564042_1935_tl_13" n="N013" break="no"/>wähnung, daß außer <hi rendition="#em"><rs type="person" ref="#hsl_person_id_379">Vischer</rs>’s</hi> allgemeinen Forschungen, die besonderen
+      <lb facs="#facs_4_region_1709376564042_1935_tl_14" n="N014"/>unschätzbaren Verdienste <hi rendition="#em"><rs type="person" ref="#hsl_person_id_1745">Brendel</rs>’s</hi>, sowie zum Theil die Richtung von
+      <lb facs="#facs_4_region_1709376564042_1935_tl_15" n="N015"/><hi rendition="#em"><rs type="person" ref="#hsl_person_id_175">Marx</rs></hi> wesentlich zu meinem Anhaltepuncte dienten. <hi rendition="#em"><rs type="person" ref="#hsl_person_id_1">Hanslick</rs>’s</hi> Partei
+      <lb facs="#facs_4_region_1709376564042_1935_tl_16" n="N016"/>ist eigentlich mehr nach dem Erscheinen seiner <rs type="bibl" ref="#hsl_work_id_1083">Broschüre</rs> mit literarischen
       <lb facs="#facs_4_region_1709376564042_1935_tl_17" n="N017"/>Namen hervorgetreten, obwol sie vorher in Zeitschriften genugsam ihren
       <lb facs="#facs_4_region_1709376564042_1935_tl_18" n="N018"/>Gegenton behauptet hat. Es scheint als sei sie zu ihrem Selbstbewußt
-      <lb facs="#facs_4_region_1709376564042_1935_tl_19" n="N019" break="no"/>sein erst durch seine Abhandlung herangereift. — <hi rendition="#em">
-                  <rs type="person" ref="">Zamminer</rs></hi> schließt sich
-      <lb facs="#facs_4_region_1709376564042_1935_tl_20" n="N020"/>in seinem Buche „<rs type="bibl" ref="">die Musik und die musikalischen Instrumente</rs>" ganz
-      <lb facs="#facs_4_region_1709376564042_1935_tl_21" n="N021"/><hi rendition="#em">
-                  <rs type="person" ref="">Hanslick</rs>’s</hi> Ansicht an, nicht minder <hi rendition="#em">
-                  <rs type="person" ref="">Zeising</rs></hi> in seinen obengenannten
-      <lb facs="#facs_4_region_1709376564042_1935_tl_22" n="N022"/>Forschungen, um die Richtung der <hi rendition="#em">
-                  <rs type="bibl" ref="">niederrheinischen Zeitung</rs></hi> hier
+      <lb facs="#facs_4_region_1709376564042_1935_tl_19" n="N019" break="no"/>sein erst durch seine Abhandlung herangereift. — <hi rendition="#em"><rs type="person" ref="#hsl_person_id_6147">Zamminer</rs></hi> schließt sich
+      <lb facs="#facs_4_region_1709376564042_1935_tl_20" n="N020"/>in seinem Buche „<rs type="bibl" ref="#hsl_work_id_4283">die Musik und die musikalischen Instrumente</rs>" ganz
+      <lb facs="#facs_4_region_1709376564042_1935_tl_21" n="N021"/><hi rendition="#em"><rs type="person" ref="#hsl_person_id_1">Hanslick</rs>’s</hi> Ansicht an, nicht minder <hi rendition="#em"><rs type="person" ref="#hsl_person_id_6126">Zeising</rs></hi> in seinen obengenannten
+      <lb facs="#facs_4_region_1709376564042_1935_tl_22" n="N022"/>Forschungen, um die Richtung der <hi rendition="#em"><rs type="bibl" ref="#hsl_work_id_4281">niederrheinischen Zeitung</rs></hi> hier
       <lb facs="#facs_4_region_1709376564042_1935_tl_23" n="N023"/>nur kurz zu berühren.</p>
                <p>
-      <lb facs="#facs_4_region_1709376564042_1935_tl_24" n="N024"/>In der Praxis stehen die Richtungen von <hi rendition="#em">
-                  <rs type="person" ref="">Wagner</rs></hi>, <hi rendition="#em">
-                  <rs type="person" ref="">Berlioz</rs></hi>,
-      <lb facs="#facs_4_region_1709376564042_1935_tl_25" n="N025"/><hi rendition="#em">
-                  <rs type="person" ref="">Liszt</rs></hi>, der großen Zahl der Komponisten alten Styls gegenüber. In
+      <lb facs="#facs_4_region_1709376564042_1935_tl_24" n="N024"/>In der Praxis stehen die Richtungen von <hi rendition="#em"><rs type="person" ref="#hsl_person_id_319">Wagner</rs></hi>, <hi rendition="#em"><rs type="person" ref="#hsl_person_id_28">Berlioz</rs></hi>,
+      <lb facs="#facs_4_region_1709376564042_1935_tl_25" n="N025"/><hi rendition="#em"><rs type="person" ref="#hsl_person_id_164">Liszt</rs></hi>, der großen Zahl der Komponisten alten Styls gegenüber. In
       <lb facs="#facs_4_region_1709376564042_1935_tl_26" n="N026"/>der Theorie nicht minder wie in der Praxis herrscht also Gegensatz,
       <lb facs="#facs_4_region_1709376564042_1935_tl_27" n="N027"/>Streit, Uneinigkeit. Es treibt, es gährt, es drängt einer Entwickelung
       <lb facs="#facs_4_region_1709376564042_1935_tl_28" n="N028"/>entgegen, kurz, wir leben in der unbehaglichen Atmosphäre einer Ueber
@@ -1005,30 +982,23 @@
       <lb facs="#facs_4_region_1709376564042_1935_tl_30" n="N030" break="no"/>mag hier zu behaupten, daß sein Ueberblick frei und sicher in dem Wirr
       <lb facs="#facs_4_region_1709376564042_1935_tl_31" n="N031" break="no"/>warr der Ideen das Wahre scheide?</p>
                <p>
-      <lb facs="#facs_4_region_1709376564042_1935_tl_32" n="N032"/>Der specielle Theil der <hi rendition="#em">
-                  <rs type="person" ref="">Vischer</rs></hi>’schen <rs type="bibl" ref="">Musiklehre</rs> hat ebenfalls die
-      <lb facs="#facs_4_region_1709376564042_1935_tl_33" n="N033"/>Frage nicht gelöst. Er hat sie eigentlich noch mehr verwickelt. <hi rendition="#em">
-            <rs type="person" ref="">Vischer</rs></hi><space quantity="1" unit="char"/>
-      <lb facs="#facs_4_region_1709376564042_1935_tl_34" n="N034"/>widerlegt <hi rendition="#em"><rs type="person" ref="">Hanslick</rs></hi> zum Theil nur. Er macht auf die widersinnige
+      <lb facs="#facs_4_region_1709376564042_1935_tl_32" n="N032"/>Der specielle Theil der <hi rendition="#em"><rs type="person" ref="#hsl_person_id_379">Vischer</rs></hi>’schen Musiklehre hat ebenfalls die
+      <lb facs="#facs_4_region_1709376564042_1935_tl_33" n="N033"/>Frage nicht gelöst. Er hat sie eigentlich noch mehr verwickelt. <hi rendition="#em"><rs type="person" ref="#hsl_person_id_379">Vischer</rs></hi><space quantity="1" unit="char"/>
+      <lb facs="#facs_4_region_1709376564042_1935_tl_34" n="N034"/>widerlegt <hi rendition="#em"><rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi> zum Theil nur. Er macht auf die widersinnige
       <lb facs="#facs_4_region_1709376564042_1935_tl_35" n="N035"/>Tautologie des Letztern aufmerksam, die das musikalisch Schöne in der
       <lb facs="#facs_4_region_1709376564042_1935_tl_36" n="N036"/>Form sucht, mit derselben den Inhalt aber identificirt, so daß ein Wider
       <lb facs="#facs_4_region_1709376564042_1935_tl_37" n="N037" break="no"/>spruch entsteht. „Die Musik solle keinen Inhalt haben, aber die Form sei
-      <lb facs="#facs_4_region_1709376564042_1935_tl_38" n="N038"/>am letzten Ende doch ihr Inhalt.“ An anderen Stellen giebt aber <hi rendition="#em">
-                  <rs type="person" ref="">Vi</rs></hi></p>
+      <lb facs="#facs_4_region_1709376564042_1935_tl_38" n="N038"/>am letzten Ende doch ihr Inhalt.“ An anderen Stellen giebt aber <hi rendition="#em"><rs type="person" ref="#hsl_person_id_379">Vi</rs></hi></p>
             <pb facs="#facs_5" n="5" xml:id="img_0005"/>
             <p prev="true">
-     <lb facs="#facs_5_region_1709376587650_1941_tl_1" n="N001" break="no"/><hi rendition="#em">
-           <rs type="person" prev="true" ref="">scher</rs></hi><space quantity="1" unit="char"/>
-               <hi rendition="#em"><rs type="person" ref="">Hanslick</rs></hi> wieder Recht, ja neigt sich in gewissem Sinne ihm ein
+     <lb facs="#facs_5_region_1709376587650_1941_tl_1" n="N001" break="no"/><hi rendition="#em"><rs type="person" prev="true" ref="#hsl_person_id_379">scher</rs></hi><space quantity="1" unit="char"/><hi rendition="#em"><rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi> wieder Recht, ja neigt sich in gewissem Sinne ihm ein
       <lb facs="#facs_5_region_1709376587650_1941_tl_2" n="N002"/>wenig entgegen.</p>
                <p>
-      <lb facs="#facs_5_region_1709376587650_1941_tl_3" n="N003"/>Sehr richtig hat <hi rendition="#em">
-                  <rs type="person" ref="">Vischer</rs></hi> erkannt, daß die Schönheitsidee der Musik
+      <lb facs="#facs_5_region_1709376587650_1941_tl_3" n="N003"/>Sehr richtig hat <hi rendition="#em"><rs type="person" ref="#hsl_person_id_379">Vischer</rs></hi> erkannt, daß die Schönheitsidee der Musik
       <lb facs="#facs_5_region_1709376587650_1941_tl_4" n="N004"/>von der Erkenntniß der inneren Unendlichkeit des Gefühles abhängt, daß
       <lb facs="#facs_5_region_1709376587650_1941_tl_5" n="N005"/>die Musik eine Ergänzung der Psychologie zu übernehmen habe, ja, daß
       <lb facs="#facs_5_region_1709376587650_1941_tl_6" n="N006"/>diese letztere Wissenschaft sogar die Theorie der Gefühle zum Theil nicht
-      <lb facs="#facs_5_region_1709376587650_1941_tl_7" n="N007"/>anders als mit Hülfe der Musik geben könne. So schickt denn <hi rendition="#em">
-            <rs type="person" ref="">Vischer</rs></hi><space quantity="1" unit="char"/>
+      <lb facs="#facs_5_region_1709376587650_1941_tl_7" n="N007"/>anders als mit Hülfe der Musik geben könne. So schickt denn <hi rendition="#em"><rs type="person" ref="#hsl_person_id_379">Vischer</rs></hi><space quantity="1" unit="char"/>
       <lb facs="#facs_5_region_1709376587650_1941_tl_8" n="N008"/>eine umfassende Erörterung über das Gefühlsleben voraus, bemerkt aber
       <lb facs="#facs_5_region_1709376587650_1941_tl_9" n="N009"/>gleich dabei, dies sei mehr eine Angabe des Terrains, auf welchem der mu
       <lb facs="#facs_5_region_1709376587650_1941_tl_10" n="N010" break="no"/>sikalische Schönheitsforscher nunmehr fleißige Nachgrabungen vorzunehmen
@@ -1039,23 +1009,19 @@
       <lb facs="#facs_5_region_1709376587650_1941_tl_14" n="N014"/>Diesen Standpunct habe ich mich bemüht in einer Broschüre festzu
       <lb facs="#facs_5_region_1709376587650_1941_tl_15" n="N015" break="no"/>halten, welche die allgemeine Schönheitsidee der Musik in ausführlicher
       <lb facs="#facs_5_region_1709376587650_1941_tl_16" n="N016"/>Weise zu ihrem Gegenstande genommen hat. Dieselbe ist noch nicht ganz
-      <lb facs="#facs_5_region_1709376587650_1941_tl_17" n="N017"/>vollendet, eilt aber ihrem Abschlusse entgegen. Das <hi rendition="#em">
-                  <rs type="person" ref="">Vischer</rs></hi>’sche Werk über
+      <lb facs="#facs_5_region_1709376587650_1941_tl_17" n="N017"/>vollendet, eilt aber ihrem Abschlusse entgegen. Das <hi rendition="#em"><rs type="person" ref="#hsl_person_id_379">Vischer</rs></hi>’sche Werk über
       <lb facs="#facs_5_region_1709376587650_1941_tl_18" n="N018"/>den speciellen Theil der Musik gelangte dabei gerade als ich die Theorie
       <lb facs="#facs_5_region_1709376587650_1941_tl_19" n="N019"/>über das Gefühlsleben beedet hatte, in meine Hände. Anfangs glaubte ich
       <lb facs="#facs_5_region_1709376587650_1941_tl_20" n="N020"/>meine Untersuchungen seien dadurch völlig überflüssig geworden. Indeß
-      <lb facs="#facs_5_region_1709376587650_1941_tl_21" n="N021"/>die <hi rendition="#em">
-                  <rs type="person" ref="">Vischer</rs></hi>’sche Theorie über denselben psychologischen Gegenstand scheint
+      <lb facs="#facs_5_region_1709376587650_1941_tl_21" n="N021"/>die <hi rendition="#em"><rs type="person" ref="#hsl_person_id_379">Vischer</rs></hi>’sche Theorie über denselben psychologischen Gegenstand scheint
       <lb facs="#facs_5_region_1709376587650_1941_tl_22" n="N022"/>mir nicht ausreichend, und da das Gefühl den einen Hauptfactor der
       <lb facs="#facs_5_region_1709376587650_1941_tl_23" n="N023"/>Musik bildet, so müssen nothwendig auch die darauf gebauten Resultate
       <lb facs="#facs_5_region_1709376587650_1941_tl_24" n="N024"/>anders werden, wenn die Grundlage verschieden ist. Aus diesem Grunde
       <lb facs="#facs_5_region_1709376587650_1941_tl_25" n="N025"/>wird meine Abhandlung meiner wissenschaftlichen Ueberzeugung gemäß
       <lb facs="#facs_5_region_1709376587650_1941_tl_26" n="N026"/>bis zu ihrem Abschluß fortgesetzt werden müssen.</p>
                <p>
-      <lb facs="#facs_5_region_1709376587650_1941_tl_27" n="N027"/>Wie es mir scheint ist die <hi rendition="#em">
-                  <rs type="person" ref="">Vischer</rs></hi>’sche Gefühlslehre mit Bezug auf
-      <lb facs="#facs_5_region_1709376587650_1941_tl_28" n="N028"/>die Musik von vorn herein entworfen. <hi rendition="#em">
-                  <rs type="person" ref="">Vischer</rs></hi> macht wie <hi rendition="#em"><rs type="person" ref="">Carus</rs></hi> das
+      <lb facs="#facs_5_region_1709376587650_1941_tl_27" n="N027"/>Wie es mir scheint ist die <hi rendition="#em"><rs type="person" ref="#hsl_person_id_379">Vischer</rs></hi>’sche Gefühlslehre mit Bezug auf
+      <lb facs="#facs_5_region_1709376587650_1941_tl_28" n="N028"/>die Musik von vorn herein entworfen. <hi rendition="#em"><rs type="person" ref="#hsl_person_id_379">Vischer</rs></hi> macht wie <hi rendition="#em"><rs type="person" ref="#hsl_person_id_572">Carus</rs></hi> das
       <lb facs="#facs_5_region_1709376587650_1941_tl_29" n="N029"/>unerklärliche Etwas, das <hi rendition="#em">Dynamische</hi> zum Hauptfactor des Gefühles,
       <lb facs="#facs_5_region_1709376587650_1941_tl_30" n="N030"/>und läßt diese Kraft an dem Inhalt möglichst nah vorbeistreifen, ohne ihn
       <lb facs="#facs_5_region_1709376587650_1941_tl_31" n="N031"/>aber zu berühren. Dies würde der Instrumentalmust allerdings ent
@@ -1066,21 +1032,16 @@
       <lb facs="#facs_5_region_1709376587650_1941_tl_36" n="N036"/>sei. Dies Resultat erzielt den wichtigen Inhalt der Musik. Eine mit
       <lb facs="#facs_5_region_1709376587650_1941_tl_37" n="N037"/>Bezug auf die letztere eingeleitete Untersuchung des Gefühles führt zu einer
       <lb facs="#facs_5_region_1709376587650_1941_tl_38" n="N038"/>Kreis-Bewegung des Gedankens, die mit einer Selbsttäuschung sehr nah
-      <lb facs="#facs_5_region_1709376587650_1941_tl_39" n="N039"/>zusammenhängt. Außerdem ist die <hi rendition="#em">
-                  <rs type="person" ref="">Vischer</rs></hi>’sche Theorie nur zum Theil<space quantity="1" unit="char"/></p>
+      <lb facs="#facs_5_region_1709376587650_1941_tl_39" n="N039"/>zusammenhängt. Außerdem ist die <hi rendition="#em"><rs type="person" ref="#hsl_person_id_379">Vischer</rs></hi>’sche Theorie nur zum Theil<space quantity="1" unit="char"/></p>
             <pb facs="#facs_6" n="6" xml:id="img_0006"/>
             <p prev="true">
       <lb facs="#facs_6_region_1709376602290_1947_tl_1" n="N001"/>richtig. Das Gefühl ist nur in einem sehr weit vorgerückten, krankhaft ro
       <lb facs="#facs_6_region_1709376602290_1947_tl_2" n="N002" break="no"/>mantischen Zustande zu solcher Inhaltsunsicherheit oder Inhaltslosigkeit
-      <lb facs="#facs_6_region_1709376602290_1947_tl_3" n="N003"/>gelangt. <hi rendition="#em">
-                  <rs type="person" ref="">Vischer</rs></hi> giebt nur einen speciellen Fall der Gefühlserscheinungen.
-      <lb facs="#facs_6_region_1709376602290_1947_tl_4" n="N004"/>Ihm steht die <hi rendition="#em">
-                  <rs type="person" ref="">Hegel</rs></hi>’sche Ansicht (<rs type="bibl" ref="">Aesthet. I.</rs> S. 83) gerade entgegegen.
-      <lb facs="#facs_6_region_1709376602290_1947_tl_5" n="N005"/><hi rendition="#em">
-                  <rs type="person" ref="">Hegel</rs></hi> sagt, das Gefühl beruhe wesentlich in seinem Inhalte. Alles
+      <lb facs="#facs_6_region_1709376602290_1947_tl_3" n="N003"/>gelangt. <hi rendition="#em"><rs type="person" ref="#hsl_person_id_379">Vischer</rs></hi> giebt nur einen speciellen Fall der Gefühlserscheinungen.
+      <lb facs="#facs_6_region_1709376602290_1947_tl_4" n="N004"/>Ihm steht die <hi rendition="#em"><rs type="person" ref="#hsl_person_id_378">Hegel</rs></hi>’sche Ansicht (<rs type="bibl" ref="#hsl_work_id_319">Aesthet.</rs> I. S. 83) gerade entgegegen.
+      <lb facs="#facs_6_region_1709376602290_1947_tl_5" n="N005"/><hi rendition="#em"><rs type="person" ref="#hsl_person_id_378">Hegel</rs></hi> sagt, das Gefühl beruhe wesentlich in seinem Inhalte. Alles
       <lb facs="#facs_6_region_1709376602290_1947_tl_6" n="N006"/>Uebrige sei Nebensache. Dies ist falsch von der entgegengesetzten Seite.
-      <lb facs="#facs_6_region_1709376602290_1947_tl_7" n="N007"/>Zu welcher Widersinnigkeit dies führt hat am besten die <hi rendition="#em">
-                  <rs type="person" ref="">Hanslick</rs></hi>’sche
+      <lb facs="#facs_6_region_1709376602290_1947_tl_7" n="N007"/>Zu welcher Widersinnigkeit dies führt hat am besten die <hi rendition="#em"><rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi>’sche
       <lb facs="#facs_6_region_1709376602290_1947_tl_8" n="N008"/>Schrift bewiesen, die sich wesentlich darauf stützt.</p>
                <p>
       <lb facs="#facs_6_region_1709376602290_1947_tl_9" n="N009"/>Das Gefühl besteht vielmehr aus zwei Factoren, aus der inneren
@@ -1088,17 +1049,13 @@
       <lb facs="#facs_6_region_1709376602290_1947_tl_11" n="N011"/>Verhältnisse dieser beiden Elemente ergiebt die Verschiedenheit der Gefühle.
       <lb facs="#facs_6_region_1709376602290_1947_tl_12" n="N012"/>Die Bewegung ist allerdings der überwiegende Factor. Es ist dem Ge
       <lb facs="#facs_6_region_1709376602290_1947_tl_13" n="N013" break="no"/>fühl immer mehr um die Bewegung als um den Inhalt zu thun. Was
-      <lb facs="#facs_6_region_1709376602290_1947_tl_14" n="N014"/>die Charakteristik der ersteren betrifft, so ist <hi rendition="#em">
-                  <rs type="person" ref="">Vischer</rs>’s</hi> Darstellung sehr
+      <lb facs="#facs_6_region_1709376602290_1947_tl_14" n="N014"/>die Charakteristik der ersteren betrifft, so ist <hi rendition="#em"><rs type="person" ref="#hsl_person_id_379">Vischer</rs>’s</hi> Darstellung sehr
       <lb facs="#facs_6_region_1709376602290_1947_tl_15" n="N015"/>treffend. Die Specialität des Inhaltes aber läßt er unberührt. Ein
-      <lb facs="#facs_6_region_1709376602290_1947_tl_16" n="N016"/>Buch von <hi rendition="#em">
-                  <rs type="person" ref="">Wittmaack</rs></hi>, „<rs type="bibl" ref="">Geschichte der Seelengefühle</rs>“, vor kurzem er
+      <lb facs="#facs_6_region_1709376602290_1947_tl_16" n="N016"/>Buch von <hi rendition="#em"><rs type="person" ref="#hsl_person_id_6146">Wittmaack</rs></hi>, „<rs type="bibl" ref="#hsl_work_id_4280">Geschichte der Seelengefühle</rs>“, vor kurzem er
       <lb facs="#facs_6_region_1709376602290_1947_tl_17" n="N017" break="no"/>schienen, behandelt einen Theil der Gefühle ausführlich, und geht gleich
-      <lb facs="#facs_6_region_1709376602290_1947_tl_18" n="N018" break="no"/>falls im Gegensatze zu <hi rendition="#em">
-                  <rs type="person" ref="">Carus</rs></hi> auf die Inhaltlichkeit des Gefühls ein.
+      <lb facs="#facs_6_region_1709376602290_1947_tl_18" n="N018" break="no"/>falls im Gegensatze zu <hi rendition="#em"><rs type="person" ref="#hsl_person_id_572">Carus</rs></hi> auf die Inhaltlichkeit des Gefühls ein.
       <lb facs="#facs_6_region_1709376602290_1947_tl_19" n="N019"/>Meine Darstellung macht den ersten Versuch die gegenseitigen Beziehungen
-      <lb facs="#facs_6_region_1709376602290_1947_tl_20" n="N020"/>beider Factoren genauer zu untersuchen. — <hi rendition="#em">
-            <rs type="person" ref="">Hand</rs>’s</hi><space quantity="1" unit="char"/><rs type="bibl" ref="">Aesthetik</rs> geht auch
+      <lb facs="#facs_6_region_1709376602290_1947_tl_20" n="N020"/>beider Factoren genauer zu untersuchen. — <hi rendition="#em"><rs type="person" ref="#hsl_person_id_399">Hand</rs>’s</hi><space quantity="1" unit="char"/><rs type="bibl" ref="#hsl_work_id_337">Aesthetik</rs> geht auch
       <lb facs="#facs_6_region_1709376602290_1947_tl_21" n="N021"/>auf beides ein, scheidet es aber nicht scharf genug und hält sich zu allgemein.</p>
                <p>
       <lb facs="#facs_6_region_1709376602290_1947_tl_22" n="N022"/>Nach der Betrachtung des Gefühles muß das Material, <hi rendition="#em">der Ton</hi>, un
@@ -1106,14 +1063,13 @@
       <lb facs="#facs_6_region_1709376602290_1947_tl_24" n="N024"/>und eine inhaltlichgeistige. Die bisherigen Theorien untersuchen die
       <lb facs="#facs_6_region_1709376602290_1947_tl_25" n="N025"/>ersteren gewöhnlich sehr genau, gehen über die letzteren aber leichter hinweg.
       <lb facs="#facs_6_region_1709376602290_1947_tl_26" n="N026"/>Sie führen den Zusammenhang des Tones mit dem Gefühl auf seine sinn
-      <lb facs="#facs_6_region_1709376602290_1947_tl_27" n="N027" break="no"/>liche Natur zurück. <hi rendition="#em">
-                  <rs type="person" ref="">Vischer</rs></hi> stellt die Vermuthung auf, die Nerven müß
+      <lb facs="#facs_6_region_1709376602290_1947_tl_27" n="N027" break="no"/>liche Natur zurück. <hi rendition="#em"><rs type="person" ref="#hsl_person_id_379">Vischer</rs></hi> stellt die Vermuthung auf, die Nerven müß
       <lb facs="#facs_6_region_1709376602290_1947_tl_28" n="N028" break="no"/>ten gleichfalls Schwingungen machen, und die specifische Natur derselben
       <lb facs="#facs_6_region_1709376602290_1947_tl_29" n="N029"/>begründe den physisch pathologischen Zusammenhang mit den Eindrücken
       <lb facs="#facs_6_region_1709376602290_1947_tl_30" n="N030"/>der Tonerscheinungen, die ähnliche Schwingungen hätten. — Vermuthungen
       <lb facs="#facs_6_region_1709376602290_1947_tl_31" n="N031"/>führen zu nichts. Vielmehr muß die inhaltliche Bedeutung des Tones
-      <lb facs="#facs_6_region_1709376602290_1947_tl_32" n="N032"/>hervorgehoben werden. — Diesen Gegenstand hat mein in der <rs type="bibl" ref="">neuen Zeit
-      <lb facs="#facs_6_region_1709376602290_1947_tl_33" n="N033" break="no"/>schrift</rs> erschienener Aufsatz: „<rs type="bibl" ref="">die Tonkunst und ihre Factoren</rs>“, der bereits
+      <lb facs="#facs_6_region_1709376602290_1947_tl_32" n="N032"/>hervorgehoben werden. — Diesen Gegenstand hat mein in der <rs type="bibl" ref="#hsl_work_id_553">neuen Zeit
+      <lb facs="#facs_6_region_1709376602290_1947_tl_33" n="N033" break="no"/>schrift</rs> erschienener Aufsatz: „<rs type="bibl" ref="#hsl_work_id_4282">die Tonkunst und ihre Factoren</rs>“, der bereits
       <lb facs="#facs_6_region_1709376602290_1947_tl_34" n="N034"/>oben erwähnt ist, eingeleitet. — Meine gegenwärtige Abhandlung geht
       <lb facs="#facs_6_region_1709376602290_1947_tl_35" n="N035"/>noch einmal wesentlich darauf ein, und weist nach, wie die Natur (im wei
       <lb facs="#facs_6_region_1709376602290_1947_tl_36" n="N036" break="no"/>testen Sinne) dem Tone Bedeutung und Inhalt verleiht. Zwar ist der
