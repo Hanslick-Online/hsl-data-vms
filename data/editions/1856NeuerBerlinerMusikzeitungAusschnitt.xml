@@ -3,8 +3,8 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
-            <title level="a">1856 Neuer Berliner Musikzeitung (Ausschnitt)</title>
-            <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
+            <title level="a">Zehnter Jahrgang No. 50. 10. December 1856</title>
+            <author ref="#hsl_person_id_6139">N. P. Z.</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
             </editor>
@@ -72,16 +72,15 @@
             <listBibl>
                <biblStruct>
                   <analytic>
-                     <title/>
-                     <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
+                     <title>Nachrichten.</title>
+                     <author ref="#hsl_person_id_6139">N. P. Z.</author>
                   </analytic>
                   <monogr>
-                     <title type="main">Neue Freie Presse</title>
+                     <title type="main">Neue Berliner Musikzeitung</title>
                      <title type="sub"/>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
-                        <name type="person">Etienne, Michael</name>
-                        <name type="person">Friedländer, Max</name>
+                        <name type="person" ref="#hsl_person_id_1947">Bock, Gustav</name>
                      </respStmt>
                      <imprint>
                         <pubPlace/>
@@ -104,8 +103,9 @@
          </langUsage>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="kbamer ampfiel" when="2023-02-20">Transkribus OCR und Lektorat.</change>
-         <change who="delsner" when="2023-02-20">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
+         <change who="ampfiel" when="2024-12-10">Transkribus OCR und Lektorat.</change>
+         <change who="delsner" when="2024-12-10">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
+         <change who="ampfiel" when="2024-12-11">header, Zeilenumbrüche, Absätze, rs ref, space</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -247,58 +247,43 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <ab facs="#facs_1_region_1709376381895_1886" type="">
-               <lb facs="#facs_1_line_1733824131012_394" n="N001"/>Zehnter Jahrgang No. 50. <date month="0" day="0" year="0">10. December 1856</date>.</ab>
-            <ab facs="#facs_1_TextRegion_1709376392958_1892" type="">
-               <lb facs="#facs_1_line_1733824200484_429" n="N001"/>NEUE 
-      <lb facs="#facs_1_line_1733824195144_426" n="N002"/>BERLINER MUSIKZEITUNG,</ab>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <ab facs="#facs_2_region_1709376443874_1904" type="">
-               <lb facs="#facs_2_region_1709376443874_1904_tl_1" n="N001"/>
-               <rs type="place">Berlin</rs>. „Der gegenwärtige Principienstreit über den ästheti¬
-      <lb facs="#facs_2_region_1709376443874_1904_tl_2" n="N002"/>schen Standpunkt in der Tonkunst“ war die Bezeichnung eines
-      <lb facs="#facs_2_region_1709376443874_1904_tl_3" n="N003"/>Vortrags, den der Dr. Ad. <hi rendition="#em">
-                  <rs type="person">Kullak</rs>
-               </hi> in der letzten Versammlung
-      <lb facs="#facs_2_region_1709376443874_1904_tl_4" n="N004"/>des Tonkünstlervereines hielt. Die leitende Idee war hierbei fol¬
-      <lb facs="#facs_2_region_1709376443874_1904_tl_5" n="N005"/>gende: <hi rendition="#em">Realismus</hi> und <hi rendition="#em">Idealismus</hi> sind zwei entgegengesetzte
-      <lb facs="#facs_2_region_1709376443874_1904_tl_6" n="N006"/>Anschauungen ein und derselben Sphäre homophoner Erscheinun¬
-      <lb facs="#facs_2_region_1709376443874_1904_tl_7" n="N007"/>gen. Sie sind zwei verschiedene Auffassungen des auch von der
+      <head type="h1">
+            <lb n="N000"/><hi rendition="#em">Nachrichten</hi>.</head>
+            <p>     
+      <lb facs="#facs_2_region_1709376443874_1904_tl_1" n="N001"/><rs type="place" ref="#hsl_place_id_9">Berlin</rs>. „Der gegenwärtige Principienstreit über den ästheti
+      <lb facs="#facs_2_region_1709376443874_1904_tl_2" n="N002" break="no"/>schen Standpunkt in der Tonkunst“ war die Bezeichnung eines
+      <lb facs="#facs_2_region_1709376443874_1904_tl_3" n="N003"/>Vortrags, den der Dr. Ad. <hi rendition="#em"><rs type="person" ref="#hsl_person_id_6142">Kullak</rs></hi> in der letzten Versammlung
+      <lb facs="#facs_2_region_1709376443874_1904_tl_4" n="N004"/>des Tonkünstlervereines hielt. Die leitende Idee war hierbei fol
+      <lb facs="#facs_2_region_1709376443874_1904_tl_5" n="N005" break="no"/>gende: <hi rendition="#em">Realismus</hi> und <hi rendition="#em">Idealismus</hi> sind zwei entgegengesetzte
+      <lb facs="#facs_2_region_1709376443874_1904_tl_6" n="N006"/>Anschauungen ein und derselben Sphäre homophoner Erscheinun
+      <lb facs="#facs_2_region_1709376443874_1904_tl_7" n="N007" break="no"/>gen. Sie sind zwei verschiedene Auffassungen des auch von der
       <lb facs="#facs_2_region_1709376443874_1904_tl_8" n="N008"/>gegenwärtigen Philosophie noch nicht gelösten Räthsels von der
-      <lb facs="#facs_2_region_1709376443874_1904_tl_9" n="N009"/>Ableitung des Uebersinnlichen aus dem Sinnlichen, der des letz¬
-      <lb facs="#facs_2_region_1709376443874_1904_tl_10" n="N010"/>teren aus jenem. Sie lassen sich geschichtlich verfolgen bis auf
+      <lb facs="#facs_2_region_1709376443874_1904_tl_9" n="N009"/>Ableitung des Uebersinnlichen aus dem Sinnlichen, der des letz
+      <lb facs="#facs_2_region_1709376443874_1904_tl_10" n="N010" break="no"/>teren aus jenem. Sie lassen sich geschichtlich verfolgen bis auf
       <lb facs="#facs_2_line_1733824276447_453" n="N011"/>die neueste Zeit, und in ganzen Zeitepochen und Culturzuständen,
       <lb facs="#facs_2_region_1709376443874_1904_tl_13" n="N012"/>in der Religion, Wissenschaft und Kunst nachweisen. Sie haben
-      <lb facs="#facs_2_line_1733824291615_459" n="N013"/>sich in der Philosophie überhaupt, wie in der Aesthetik geltend</ab>
+      <lb facs="#facs_2_line_1733824291615_459" n="N013"/>sich in der Philosophie überhaupt, wie in der Aesthetik geltend<space quantity="1" unit="char"/></p>
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-            <ab facs="#facs_3_region_1709376457801_1910" type="">
-               <lb facs="#facs_3_line_1733824553454_488" n="N001"/>gemacht, und haben aus der allgemeinen Aesthetik auch in die
-      <lb facs="#facs_3_region_1709376457801_1910_tl_2" n="N002"/>specielle der Tonkunst einen Uebergang gewonnen. In der Ton¬
-      <lb facs="#facs_3_region_1709376457801_1910_tl_3" n="N003"/>kunst ist der Vertreter des Realismus Dr. <hi rendition="#em">
-                  <rs type="person">Hanslick</rs>
-               </hi>. Auf der
-      <lb facs="#facs_3_region_1709376457801_1910_tl_4" n="N004"/>idealistischen Seite sind Prof. <hi rendition="#em">
-                  <rs type="person">Marx</rs>
-               </hi> und <hi rendition="#em">
-                  <rs type="person">Brendel</rs>
-               </hi> zu nennen.
-      <lb facs="#facs_3_region_1709376457801_1910_tl_5" n="N005"/>
-               <rs type="person">Hanslick</rs> weist nach, dass die Musik weder den Zweck habe, auf
+            <p prev="true">
+      <lb facs="#facs_3_line_1733824553454_488" n="N001"/>gemacht, und haben aus der allgemeinen Aesthetik auch in die
+      <lb facs="#facs_3_region_1709376457801_1910_tl_2" n="N002"/>specielle der Tonkunst einen Uebergang gewonnen. In der Ton
+      <lb facs="#facs_3_region_1709376457801_1910_tl_3" n="N003" break="no"/>kunst ist der Vertreter des Realismus Dr. <hi rendition="#em"><rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi>. Auf der
+      <lb facs="#facs_3_region_1709376457801_1910_tl_4" n="N004"/>idealistischen Seite sind Prof. <hi rendition="#em"><rs type="person" ref="#hsl_person_id_175">Marx</rs></hi> und <hi rendition="#em"><rs type="person" ref="#hsl_person_id_1745">Brendel</rs></hi> zu nennen.
+      <lb facs="#facs_3_region_1709376457801_1910_tl_5" n="N005"/><rs type="person" ref="#hsl_person_id_1">Hanslick</rs> weist nach, dass die Musik weder den Zweck habe, auf
       <lb facs="#facs_3_region_1709376457801_1910_tl_6" n="N006"/>das Gefühl zu wirken, noch dass sie das letztere zu ihrem Inhalte
       <lb facs="#facs_3_region_1709376457801_1910_tl_7" n="N007"/>habe. Ihr Wesen sei das specifisch musikalische. Von Seiten des
-      <lb facs="#facs_3_region_1709376457801_1910_tl_8" n="N008"/>Idealismus hat <hi rendition="#em">
-                  <rs type="person">Ambros</rs>
-               </hi> dagegen Einspruch gethan, und <rs type="person">Hanslick</rs>
-               <lb facs="#facs_3_region_1709376457801_1910_tl_9" n="N009"/>1) durch den Standpunkt der Musik unter den Künsten, 2) durch
+      <lb facs="#facs_3_region_1709376457801_1910_tl_8" n="N008"/>Idealismus hat <hi rendition="#em"><rs type="person" ref="#hsl_person_id_717">Ambros</rs></hi> dagegen Einspruch gethan, und <rs type="person" ref="#hsl_person_id_1">Hanslick</rs><space quantity="1" unit="char"/>
+      <lb facs="#facs_3_region_1709376457801_1910_tl_9" n="N009"/>1) durch den Standpunkt der Musik unter den Künsten, 2) durch
       <lb facs="#facs_3_region_1709376457801_1910_tl_10" n="N010"/>die historische Entwicklung der Tonkunst zu widerlegen gestrebt.
-      <lb facs="#facs_3_region_1709376457801_1910_tl_11" n="N011"/>Seine Beweisführung ist jedoch nicht genügend. Vielmehr müs¬
-      <lb facs="#facs_3_region_1709376457801_1910_tl_12" n="N012"/>sen die <rs type="person">Hegel</rs>’schen Prämissen, auf denen <rs type="person">Hanslick</rs> ruht, widerlegt
-      <lb facs="#facs_3_region_1709376457801_1910_tl_13" n="N013"/>werden. Der Redner deutete den Weg an, auf welchem dies mög¬
-      <lb facs="#facs_3_region_1709376457801_1910_tl_14" n="N014"/>lich sei, und fügte hinzu, dass auch die Betrachtung des Materials,
-      <lb facs="#facs_3_region_1709376457801_1910_tl_15" n="N015"/>die bei <rs type="person">Hanslick</rs> übersehen sei, auf ein ihm entgegengesetztes Re¬
-      <lb facs="#facs_3_region_1709376457801_1910_tl_16" n="N016"/>sultat führe. Er schloss mit dem Versprechen, eine genaue Dar¬
-      <lb facs="#facs_3_region_1709376457801_1910_tl_17" n="N017"/>stellung dieses Gegenstandes, mit der er von <rs type="place">Leipzig</rs> aus beauf¬
-      <lb facs="#facs_3_region_1709376457801_1910_tl_18" n="N018"/>tragt sei, gelegentlich geben zu wollen.</ab>
+      <lb facs="#facs_3_region_1709376457801_1910_tl_11" n="N011"/>Seine Beweisführung ist jedoch nicht genügend. Vielmehr müs
+      <lb facs="#facs_3_region_1709376457801_1910_tl_12" n="N012" break="no"/>sen die <rs type="person" ref="#hsl_person_id_378">Hegel</rs>’schen Prämissen, auf denen <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> ruht, widerlegt
+      <lb facs="#facs_3_region_1709376457801_1910_tl_13" n="N013"/>werden. Der Redner deutete den Weg an, auf welchem dies mög
+      <lb facs="#facs_3_region_1709376457801_1910_tl_14" n="N014" break="no"/>lich sei, und fügte hinzu, dass auch die Betrachtung des Materials,
+      <lb facs="#facs_3_region_1709376457801_1910_tl_15" n="N015"/>die bei <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> übersehen sei, auf ein ihm entgegengesetztes Re
+      <lb facs="#facs_3_region_1709376457801_1910_tl_16" n="N016" break="no"/>sultat führe. Er schloss mit dem Versprechen, eine genaue Dar
+      <lb facs="#facs_3_region_1709376457801_1910_tl_17" n="N017" break="no"/>stellung dieses Gegenstandes, mit der er von <rs type="place" ref="#hsl_place_id_32">Leipzig</rs> aus beauf
+      <lb facs="#facs_3_region_1709376457801_1910_tl_18" n="N018" break="no"/>tragt sei, gelegentlich geben zu wollen.</p>
          </div>
       </body>
    </text>

@@ -3,8 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
-            <title level="a">
-               Nr. 44. Köln. 4. November 1854. II. Jahrgang</title>
+            <title level="a">1854 Niederrheinische Musikzeitung (Ausschnitt)</title>
             <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
@@ -73,14 +72,12 @@
             <listBibl>
                <biblStruct>
                   <analytic>
-                     <title>
-               Nr. 44. Köln. 4. November 1854. II. Jahrgang</title>
+                     <title/>
                      <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
                   </analytic>
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
-                     <title type="sub">
-               Niederrheinische Musik-Zeitung für Kunstfreunde und Künstler</title>
+                     <title type="sub"/>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person">Etienne, Michael</name>
@@ -118,16 +115,17 @@
                   height="10637px"/>
          <zone points="951,197 7998,197 7998,1311 951,1311"
                rendition="TextRegion"
-               xml:id="facs_1_region_1709372924852_437"
-               subtype="paragraph">
-            <zone points="1962,547 3526,529 3705,529 4487,529 4577,529 4666,529 5293,529 5896,529 7412,541 7502,547 7585,553 7585,965 7585,1015 3317,1009 2601,1003 1962,597"
+               xml:id="facs_1_region_1709372924852_437">
+            <zone points="1962,446 3526,428 3705,428 4487,428 4577,428 4666,428 5293,428 5896,428 7412,440 7502,446 7585,452 7585,864 7585,914 3317,908 2601,902 1962,496"
                   rendition="Line"
                   xml:id="facs_1_line_1709373252188_497"/>
+            <zone points="2191,995 7058,995 7058,1280 2191,1280"
+                  rendition="Line"
+                  xml:id="facs_1_line_1733832819657_1486"/>
          </zone>
          <zone points="589,1862 8347,1862 8347,2264 589,2264"
                rendition="TextRegion"
-               xml:id="facs_1_region_1709372928293_440"
-               subtype="paragraph">
+               xml:id="facs_1_region_1709372928293_440">
             <zone points="787,2062 3688,2056 7371,2062 7998,2074 8255,2085 8255,2135 8177,2135 1384,2135 877,2118 787,2112"
                   rendition="Line"
                   xml:id="facs_1_line_1709373218019_487"/>
@@ -149,8 +147,7 @@
                   height="10900px"/>
          <zone points="4589,7701 8548,7701 8548,10278 4589,10278"
                rendition="TextRegion"
-               xml:id="facs_4_region_1709372998067_455"
-               subtype="paragraph">
+               xml:id="facs_4_region_1709372998067_455">
             <zone points="6089,7972 6306,7967 6359,7924 6485,8001 6572,7953 6664,8001 6780,7948 7113,7963 7113,7731 6944,7702 6895,7654 6813,7683 6741,7644 6630,7745 6528,7760 6451,7697 6374,7755 6273,7678 6089,7707"
                   rendition="Line"
                   xml:id="facs_4_region_1709372998067_455_tl_1"/>
@@ -195,8 +192,7 @@
                   height="10854px"/>
          <zone points="602,546 4589,546 4589,10211 602,10211"
                rendition="TextRegion"
-               xml:id="facs_5_region_1709373023683_461"
-               subtype="paragraph">
+               xml:id="facs_5_region_1709373023683_461">
             <zone points="684,881 804,915 944,872 997,920 1175,872 1594,867 1719,915 1892,843 1989,915 2119,891 2191,929 2244,886 2350,929 2740,867 2836,920 2894,872 3053,886 3130,838 3260,905 3635,872 3693,929 3847,876 4189,867 4228,905 4507,872 4507,669 4420,631 4285,669 4228,612 4078,674 4016,631 3857,674 3746,640 3655,727 3501,621 3293,693 3115,698 3048,631 2947,674 2899,631 2725,708 2624,669 2571,708 2306,636 2128,703 1830,679 1791,717 1671,631 1493,631 1367,703 1257,636 1132,698 1040,626 953,698 872,669 684,703"
                   rendition="Line"
                   xml:id="facs_5_region_1709373023683_461_tl_1"/>
@@ -341,8 +337,7 @@
          </zone>
          <zone points="4629,533 8562,533 8562,8009 4629,8009"
                rendition="TextRegion"
-               xml:id="facs_5_region_1709373029460_464"
-               subtype="paragraph">
+               xml:id="facs_5_region_1709373029460_464">
             <zone points="4666,891 4854,924 4950,867 5215,915 5388,833 5682,939 5764,876 5971,905 6096,852 6173,915 6303,862 6804,910 6948,867 7319,920 7516,862 7670,915 7974,867 8513,905 8513,679 8431,640 8354,679 8258,597 7882,713 7661,640 7569,717 7295,640 7049,703 6919,631 6852,631 6751,722 6544,636 6447,669 6317,636 6105,751 6009,660 5908,636 5855,679 5720,645 5653,689 5489,645 5359,732 5248,669 4950,737 4839,674 4666,713"
                   rendition="Line"
                   xml:id="facs_5_region_1709373029460_464_tl_1"/>
@@ -448,6 +443,9 @@
             <zone points="4671,7718 5008,7834 5128,7762 5258,7800 5340,7733 5504,7810 5855,7747 5913,7791 5995,7738 6134,7781 6250,7728 6447,7800 6548,7767 6837,7800 6837,7622 6702,7555 6510,7584 6370,7531 6144,7613 5898,7545 5609,7617 5518,7560 5345,7588 5118,7545 4796,7598 4671,7540"
                   rendition="Line"
                   xml:id="facs_5_region_1709373029460_464_tl_35"/>
+            <zone points="7606,7756 8341,7756 8341,7956 7606,7956"
+                  rendition="Line"
+                  xml:id="facs_5_line_1733832900721_1518"/>
             <zone points="5532,7935 5590,7930 5605,7916 5634,7935 5706,7921 5706,7771 5682,7771 5648,7805 5581,7800 5557,7776 5532,7776"
                   rendition="Line"
                   xml:id="facs_5_region_1709373029460_464_tl_36"/>
@@ -458,17 +456,15 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <cb n="-1"/>
-            <p>
-               <lb facs="#facs_1_line_1709373252188_497" n="N001"/>Niederrheinische Musik-Zeitung für Kunstfreunde und Künstler</p>
-            <cb n="0"/>
-            <p>
-               <lb facs="#facs_1_line_1709373218019_487" n="N001"/>Nr. 44. Köln. 4. November 1854. II. Jahrgang</p>
+            <ab facs="#facs_1_region_1709372924852_437" type="">
+               <lb facs="#facs_1_line_1709373252188_497" n="N001"/>Niederrheinische Musik-Zeitung
+      <lb facs="#facs_1_line_1733832819657_1486" n="N002"/>für Kunstfreunde und Künstler</ab>
+            <ab facs="#facs_1_region_1709372928293_440" type="">
+               <lb facs="#facs_1_line_1709373218019_487" n="N001"/>Nr. 44. Köln. 4. November 1854. II. Jahrgang.</ab>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
             <pb facs="#facs_4" n="4" xml:id="img_0004"/>
-            <cb n="1"/>
-            <p>
+            <ab facs="#facs_4_region_1709372998067_455" type="">
                <lb facs="#facs_4_region_1709372998067_455_tl_1" n="N001"/>Wiener Briefe.
       <lb facs="#facs_4_region_1709372998067_455_tl_2" n="N002"/>Den 30. October 1854:
       <lb facs="#facs_4_region_1709372998067_455_tl_3" n="N003"/>Unter dem Titel: „Vom Musicalisch-Schönen.
@@ -480,10 +476,9 @@
       <lb facs="#facs_4_region_1709372998067_455_tl_9" n="N009"/>zu erregen, und dessen Lecture nicht lebhaft genug ein¬
       <lb facs="#facs_4_region_1709372998067_455_tl_10" n="N010"/>pfohlen werden kann. Ich zweifle sehr, ob über Musik je¬
       <lb facs="#facs_4_region_1709372998067_455_tl_11" n="N011"/>mals so nach allen Seiten hin gleich vortrefflich geschrieben
-      <lb facs="#facs_4_region_1709372998067_455_tl_12" n="N012"/>worden ist, und ob es unter den Schriften, deren Thema</p>
+      <lb facs="#facs_4_region_1709372998067_455_tl_12" n="N012"/>worden ist, und ob es unter den Schriften, deren Thema</ab>
             <pb facs="#facs_5" n="5" xml:id="img_0005"/>
-            <cb n="2"/>
-            <p>
+            <ab facs="#facs_5_region_1709373023683_461" type="">
                <lb facs="#facs_5_region_1709373023683_461_tl_1" n="N001"/>die Musik bildet, viele geben wird, welche gleich dieser
       <lb facs="#facs_5_region_1709373023683_461_tl_2" n="N002"/>auch den Nichtmusiker fesseln und jedem nur überhaupt
       <lb facs="#facs_5_region_1709373023683_461_tl_3" n="N003"/>tieser Gebildeten Genuss und Belehrung bereiten muss.
@@ -530,9 +525,8 @@
       <lb facs="#facs_5_region_1709373023683_461_tl_44" n="N044"/>logischen wohl zu unterscheiden. Man sieht, dass diese Sätze
       <lb facs="#facs_5_region_1709373023683_461_tl_45" n="N045"/>eine Kriegserklärung gegen althergebrachte, vielfach in
       <lb facs="#facs_5_region_1709373023683_461_tl_46" n="N046"/>Schwung befindliche Anschauungen enthalten, die Vielen
-      <lb facs="#facs_5_region_1709373023683_461_tl_47" n="N047"/>von vornherein wie eine ketzerische Proclamation erschei¬</p>
-            <cb n="3"/>
-            <p>
+      <lb facs="#facs_5_region_1709373023683_461_tl_47" n="N047"/>von vornherein wie eine ketzerische Proclamation erschei¬</ab>
+            <ab facs="#facs_5_region_1709373029460_464" type="">
                <lb facs="#facs_5_region_1709373029460_464_tl_1" n="N001"/>nen wird. Man sehe sich aber das Büchlein nur selbst an.
       <lb facs="#facs_5_region_1709373029460_464_tl_2" n="N002"/>und wer über dem Fühlen das Denken nicht ganz abge¬
       <lb facs="#facs_5_region_1709373029460_464_tl_3" n="N003"/>schworen, wird sich gegen dessen leuchtende Wahrheiten
@@ -568,8 +562,9 @@
       <lb facs="#facs_5_region_1709373029460_464_tl_33" n="N033"/>den, überall documentirt. Und so möge denn seine Arbeit
       <lb facs="#facs_5_region_1709373029460_464_tl_34" n="N034"/>überall hin weiteste Verbreitung finden! Die guten Wir¬
       <lb facs="#facs_5_region_1709373029460_464_tl_35" n="N035"/>kungen werden nicht ausbleiben.
-      <lb facs="#facs_5_region_1709373029460_464_tl_36" n="N036"/>
-            </p>
+      <lb facs="#facs_5_line_1733832900721_1518" n="N036"/>
+               <lb facs="#facs_5_region_1709373029460_464_tl_36" n="N037"/>
+            </ab>
          </div>
       </body>
    </text>

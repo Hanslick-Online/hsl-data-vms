@@ -3,8 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
-            <title level="a">
-               No 88. Wien, Dienstag 17. April 1855. 8. Jahrgang</title>
+            <title level="a">1855 Die Presse (Ausschnitt)</title>
             <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
@@ -73,14 +72,12 @@
             <listBibl>
                <biblStruct>
                   <analytic>
-                     <title>
-               No 88. Wien, Dienstag 17. April 1855. 8. Jahrgang</title>
+                     <title/>
                      <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
                   </analytic>
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
-                     <title type="sub">
-               Die Presse</title>
+                     <title type="sub"/>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person">Etienne, Michael</name>
@@ -118,16 +115,14 @@
                   height="3508px"/>
          <zone points="610,42 1658,42 1658,307 610,307"
                rendition="TextRegion"
-               xml:id="facs_1_region_1709374205667_1162"
-               subtype="paragraph">
+               xml:id="facs_1_region_1709374205667_1162">
             <zone points="776,196 821,196 865,196 910,196 955,199 1000,199 1044,202 1089,199 1134,196 1179,190 1224,190 1268,190 1313,190 1358,190 1403,190 1447,187 1492,187 1537,187 1582,187 1615,196 1615,246 1582,237 1537,237 1492,237 1447,237 1403,240 1358,240 1313,240 1268,240 1224,240 1179,240 1134,246 1089,249 1044,252 1000,249 955,249 910,246 865,246 821,246 776,246"
                   rendition="Line"
                   xml:id="facs_1_region_1709374205667_1162_tl_3"/>
          </zone>
          <zone points="53,389 2252,389 2252,477 53,477"
                rendition="TextRegion"
-               xml:id="facs_1_region_1709374208635_1165"
-               subtype="paragraph">
+               xml:id="facs_1_region_1709374208635_1165">
             <zone points="56,414 98,411 143,408 188,405 773,399 818,399 1265,399 1310,399 1355,399 1400,399 2239,402 2239,452 2197,455 56,464"
                   rendition="Line"
                   xml:id="facs_1_line_1709381200769_2208"/>
@@ -139,8 +134,7 @@
                   height="3508px"/>
          <zone points="1124,279 2217,279 2217,925 1124,925"
                rendition="TextRegion"
-               xml:id="facs_2_region_1709374273355_1171"
-               subtype="paragraph">
+               xml:id="facs_2_region_1709374273355_1171">
             <zone points="1136,283 1970,290 1970,258 1918,251 1136,249"
                   rendition="Line"
                   xml:id="facs_2_region_1709374273355_1171_tl_1"/>
@@ -211,15 +205,12 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <cb n="-1"/>
-            <p>
-               <lb facs="#facs_1_region_1709374205667_1162_tl_3" n="N001"/>Die Presse</p>
-            <cb n="0"/>
-            <p>
-               <lb facs="#facs_1_line_1709381200769_2208" n="N001"/>No 88. Wien, Dienstag 17. April 1855. 8. Jahrgang</p>
+            <ab facs="#facs_1_region_1709374205667_1162" type="">
+               <lb facs="#facs_1_region_1709374205667_1162_tl_3" n="N001"/>Die Presse</ab>
+            <ab facs="#facs_1_region_1709374208635_1165" type="">
+               <lb facs="#facs_1_line_1709381200769_2208" n="N001"/>No 88. Wien, Dienstag 17. April 1855. 8. Jahrgang</ab>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <cb n="1"/>
-            <p>
+            <ab facs="#facs_2_region_1709374273355_1171" type="">
                <lb facs="#facs_2_region_1709374273355_1171_tl_1" n="N001"/>das Werk Wienerischen Kunstfleißes und heimischen Gewerbes ist.
       <lb facs="#facs_2_region_1709374273355_1171_tl_2" n="N002"/>Dr. Eduard Hanslick's Schrift vom Musikalisch=Schönen macht in
       <lb facs="#facs_2_region_1709374273355_1171_tl_3" n="N003"/>Ausland Aufsehen. Die competenten literarischen und musikalischen Organe sind
@@ -240,7 +231,7 @@
       <lb facs="#facs_2_region_1709374273355_1171_tl_18" n="N018"/>von Leitartikeln besprechen. Die wenigen Zeilen über Richard Wagner in Hausliike
       <lb facs="#facs_2_region_1709374273355_1171_tl_19" n="N019"/>Schrift haben sogar eine Polemik zwischen der Leipziger und der rheinischen Musik¬
       <lb facs="#facs_2_region_1709374273355_1171_tl_20" n="N020"/>zeitung hervorgerufen. Die beiden Wiener Musikzeitungen dürften die einzigen
-      <lb facs="#facs_2_region_1709374273355_1171_tl_21" n="N021"/>welche das Buch gar nicht besprochen, ja nicht einmal angezeigt haben.</p>
+      <lb facs="#facs_2_region_1709374273355_1171_tl_21" n="N021"/>welche das Buch gar nicht besprochen, ja nicht einmal angezeigt haben.</ab>
          </div>
       </body>
    </text>

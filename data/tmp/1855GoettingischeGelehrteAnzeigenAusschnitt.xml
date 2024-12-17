@@ -3,28 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
-            <title level="a">
-               Leipzig
-      bei Rud. Weigel 1854. Vom Musikalisch=Schönen.
-      Ein Beitrag zur Revision der Aesthetik der Ton¬
-      kunst. Von Dr. Ed. Hanslick. IV u. 104 S.
-      in Octav.
-      „Die Zeit jener ästhetischen Systeme ist vor¬
-      über, welche das Schöne nur in Bezug auf die
-      dadurch wachgerufenen Empfindungen betrachtet
-      haben. Der Muth und die Fähigkeit, zu unter¬
-      suchen, was losgelöst von den tausendfältig wech¬
-      selnden Eindrücken, die sie auf den Menschen aus¬
-      üben, das Bleibende, Objective, wandellos Gültige
-      in den Dingen sei, charakterisiren die moderne
-      Wissenschaft in allen ihren Zweigen." Mit diesen
-      Worten leitet der Verf. seine Darstellung der spe¬
-      cifischen Weise ein, in welcher die allgemeine Na¬
-      tur des Schönen sich in der Tonkunst verwirkliche
-      und bestimme. Und noch einmal fügt er hinzu,
-      daß bei aller Verschiedenheit der Standpunkte die
-      einzelnen Kunstlehren sich doch in der einen un¬
-      verlierbaren Ueberzeugung vereinigen müssen, daß</title>
+            <title level="a">1855 Göttingische Gelehrte Anzeigen (Ausschnitt)</title>
             <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
@@ -93,39 +72,12 @@
             <listBibl>
                <biblStruct>
                   <analytic>
-                     <title>
-               Leipzig
-      bei Rud. Weigel 1854. Vom Musikalisch=Schönen.
-      Ein Beitrag zur Revision der Aesthetik der Ton¬
-      kunst. Von Dr. Ed. Hanslick. IV u. 104 S.
-      in Octav.
-      „Die Zeit jener ästhetischen Systeme ist vor¬
-      über, welche das Schöne nur in Bezug auf die
-      dadurch wachgerufenen Empfindungen betrachtet
-      haben. Der Muth und die Fähigkeit, zu unter¬
-      suchen, was losgelöst von den tausendfältig wech¬
-      selnden Eindrücken, die sie auf den Menschen aus¬
-      üben, das Bleibende, Objective, wandellos Gültige
-      in den Dingen sei, charakterisiren die moderne
-      Wissenschaft in allen ihren Zweigen." Mit diesen
-      Worten leitet der Verf. seine Darstellung der spe¬
-      cifischen Weise ein, in welcher die allgemeine Na¬
-      tur des Schönen sich in der Tonkunst verwirkliche
-      und bestimme. Und noch einmal fügt er hinzu,
-      daß bei aller Verschiedenheit der Standpunkte die
-      einzelnen Kunstlehren sich doch in der einen un¬
-      verlierbaren Ueberzeugung vereinigen müssen, daß</title>
+                     <title/>
                      <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
                   </analytic>
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
-                     <title type="sub">
-               Göttingische
-      gelehrte Anzeigen
-      unter der Aufsicht
-      der Königl. Gesellschaft der Wissenschaften.
-      106. 107. Stück.
-      Den 5. Juli 1855.</title>
+                     <title type="sub"/>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person">Etienne, Michael</name>
@@ -163,8 +115,7 @@
                   height="1909px"/>
          <zone points="53,171 996,171 996,723 53,723"
                rendition="TextRegion"
-               xml:id="facs_1_region_1709374417563_1237"
-               subtype="paragraph">
+               xml:id="facs_1_region_1709374417563_1237">
             <zone points="282,227 312,243 488,227 593,252 627,231 736,251 766,227 791,243 821,226 821,206 790,189 772,207 740,175 616,202 508,177 486,197 386,179 282,189"
                   rendition="Line"
                   xml:id="facs_1_region_1709374417563_1237_tl_1"/>
@@ -186,8 +137,7 @@
          </zone>
          <zone points="71,806 993,806 993,1756 71,1756"
                rendition="TextRegion"
-               xml:id="facs_1_region_1709374423050_1240"
-               subtype="paragraph">
+               xml:id="facs_1_region_1709374423050_1240">
             <zone points="402,839 424,851 451,839 481,850 491,839 537,859 561,846 596,859 614,843 639,843 656,859 687,856 686,810 626,802 608,815 593,805 564,816 552,805 506,801 495,812 457,813 427,792 402,804"
                   rendition="Line"
                   xml:id="facs_1_region_1709374423050_1240_tl_1"/>
@@ -259,8 +209,7 @@
                   height="1909px"/>
          <zone points="84,174 991,174 991,1754 84,1754"
                rendition="TextRegion"
-               xml:id="facs_2_region_1709374438315_1246"
-               subtype="paragraph">
+               xml:id="facs_2_region_1709374438315_1246">
             <zone points="108,231 986,230 986,188 882,182 212,186 168,211 108,189"
                   rendition="Line"
                   xml:id="facs_2_region_1709374438315_1246_tl_1"/>
@@ -380,8 +329,7 @@
                   height="1909px"/>
          <zone points="88,182 993,182 993,1752 88,1752"
                rendition="TextRegion"
-               xml:id="facs_3_region_1709374449770_1252"
-               subtype="paragraph">
+               xml:id="facs_3_region_1709374449770_1252">
             <zone points="116,228 992,232 992,191 962,183 116,195"
                   rendition="Line"
                   xml:id="facs_3_region_1709374449770_1252_tl_1"/>
@@ -501,8 +449,7 @@
                   height="1909px"/>
          <zone points="84,172 995,172 995,1762 84,1762"
                rendition="TextRegion"
-               xml:id="facs_4_region_1709374461611_1258"
-               subtype="paragraph">
+               xml:id="facs_4_region_1709374461611_1258">
             <zone points="106,234 960,235 979,195 105,184"
                   rendition="Line"
                   xml:id="facs_4_region_1709374461611_1258_tl_1"/>
@@ -619,8 +566,7 @@
                   height="1909px"/>
          <zone points="84,178 991,178 991,1764 84,1764"
                rendition="TextRegion"
-               xml:id="facs_5_region_1709374470363_1264"
-               subtype="paragraph">
+               xml:id="facs_5_region_1709374470363_1264">
             <zone points="112,240 462,216 977,242 977,195 922,183 112,195"
                   rendition="Line"
                   xml:id="facs_5_region_1709374470363_1264_tl_1"/>
@@ -737,8 +683,7 @@
                   height="1909px"/>
          <zone points="92,178 999,178 999,1750 92,1750"
                rendition="TextRegion"
-               xml:id="facs_6_region_1709374481915_1270"
-               subtype="paragraph">
+               xml:id="facs_6_region_1709374481915_1270">
             <zone points="114,227 986,227 961,191 810,184 114,200"
                   rendition="Line"
                   xml:id="facs_6_region_1709374481915_1270_tl_1"/>
@@ -855,8 +800,7 @@
                   height="1909px"/>
          <zone points="84,184 987,184 987,1762 84,1762"
                rendition="TextRegion"
-               xml:id="facs_7_region_1709374489171_1276"
-               subtype="paragraph">
+               xml:id="facs_7_region_1709374489171_1276">
             <zone points="148,229 981,226 980,191 901,187 147,185"
                   rendition="Line"
                   xml:id="facs_7_region_1709374489171_1276_tl_1"/>
@@ -973,8 +917,7 @@
                   height="1909px"/>
          <zone points="97,176 987,176 987,1762 97,1762"
                rendition="TextRegion"
-               xml:id="facs_8_region_1709374497802_1282"
-               subtype="paragraph">
+               xml:id="facs_8_region_1709374497802_1282">
             <zone points="110,230 324,235 360,211 446,241 735,217 982,241 947,183 110,199"
                   rendition="Line"
                   xml:id="facs_8_region_1709374497802_1282_tl_1"/>
@@ -1091,8 +1034,7 @@
                   height="1909px"/>
          <zone points="82,174 1001,174 1001,1760 82,1760"
                rendition="TextRegion"
-               xml:id="facs_9_region_1709374505899_1288"
-               subtype="paragraph">
+               xml:id="facs_9_region_1709374505899_1288">
             <zone points="106,226 690,235 719,209 748,238 978,235 978,191 938,184 506,185 429,213 349,184 106,190"
                   rendition="Line"
                   xml:id="facs_9_region_1709374505899_1288_tl_1"/>
@@ -1209,8 +1151,7 @@
                   height="1909px"/>
          <zone points="92,180 997,180 997,1770 92,1770"
                rendition="TextRegion"
-               xml:id="facs_10_region_1709374517170_1294"
-               subtype="paragraph">
+               xml:id="facs_10_region_1709374517170_1294">
             <zone points="107,227 986,230 986,186 107,197"
                   rendition="Line"
                   xml:id="facs_10_region_1709374517170_1294_tl_1"/>
@@ -1327,8 +1268,7 @@
                   height="1909px"/>
          <zone points="84,174 999,174 999,1762 84,1762"
                rendition="TextRegion"
-               xml:id="facs_11_region_1709374533474_1300"
-               subtype="paragraph">
+               xml:id="facs_11_region_1709374533474_1300">
             <zone points="114,225 981,234 981,188 938,183 889,211 778,184 114,189"
                   rendition="Line"
                   xml:id="facs_11_region_1709374533474_1300_tl_1"/>
@@ -1445,8 +1385,7 @@
                   height="1909px"/>
          <zone points="80,180 999,180 999,1764 80,1764"
                rendition="TextRegion"
-               xml:id="facs_12_region_1709374548443_1306"
-               subtype="paragraph">
+               xml:id="facs_12_region_1709374548443_1306">
             <zone points="117,235 978,229 978,194 934,177 117,180"
                   rendition="Line"
                   xml:id="facs_12_region_1709374548443_1306_tl_1"/>
@@ -1563,8 +1502,7 @@
                   height="1909px"/>
          <zone points="92,180 989,180 989,1754 92,1754"
                rendition="TextRegion"
-               xml:id="facs_13_region_1709374558962_1312"
-               subtype="paragraph">
+               xml:id="facs_13_region_1709374558962_1312">
             <zone points="107,226 981,226 945,186 107,186"
                   rendition="Line"
                   xml:id="facs_13_region_1709374558962_1312_tl_1"/>
@@ -1681,8 +1619,7 @@
                   height="1909px"/>
          <zone points="92,168 987,168 987,1799 92,1799"
                rendition="TextRegion"
-               xml:id="facs_14_region_1709374571115_1318"
-               subtype="paragraph">
+               xml:id="facs_14_region_1709374571115_1318">
             <zone points="112,225 983,226 983,192 946,181 112,185"
                   rendition="Line"
                   xml:id="facs_14_region_1709374571115_1318_tl_1"/>
@@ -1802,8 +1739,7 @@
                   height="1909px"/>
          <zone points="101,176 989,176 989,1807 101,1807"
                rendition="TextRegion"
-               xml:id="facs_15_region_1709374581794_1324"
-               subtype="paragraph">
+               xml:id="facs_15_region_1709374581794_1324">
             <zone points="110,221 981,234 964,184 110,198"
                   rendition="Line"
                   xml:id="facs_15_region_1709374581794_1324_tl_1"/>
@@ -1923,8 +1859,7 @@
                   height="1909px"/>
          <zone points="80,174 993,174 993,1820 80,1820"
                rendition="TextRegion"
-               xml:id="facs_16_region_1709374591051_1330"
-               subtype="paragraph">
+               xml:id="facs_16_region_1709374591051_1330">
             <zone points="113,223 740,244 849,211 985,234 985,190 938,184 113,199"
                   rendition="Line"
                   xml:id="facs_16_region_1709374591051_1330_tl_1"/>
@@ -2044,8 +1979,7 @@
                   height="1909px"/>
          <zone points="59,161 999,161 999,717 59,717"
                rendition="TextRegion"
-               xml:id="facs_17_region_1709374599843_1336"
-               subtype="paragraph">
+               xml:id="facs_17_region_1709374599843_1336">
             <zone points="272,225 295,242 563,233 582,251 628,231 743,251 765,230 817,230 817,195 765,203 743,181 573,207 458,182 436,198 384,180 272,195"
                   rendition="Line"
                   xml:id="facs_17_region_1709374599843_1336_tl_1"/>
@@ -2067,8 +2001,7 @@
          </zone>
          <zone points="74,789 1003,789 1003,1754 74,1754"
                rendition="TextRegion"
-               xml:id="facs_17_region_1709374602906_1339"
-               subtype="paragraph">
+               xml:id="facs_17_region_1709374602906_1339">
             <zone points="412,840 482,844 496,834 544,859 571,839 593,858 621,838 644,838 666,858 686,850 685,807 651,807 633,793 604,816 592,805 580,815 547,801 534,812 517,794 498,812 465,814 442,792 411,793"
                   rendition="Line"
                   xml:id="facs_17_region_1709374602906_1339_tl_1"/>
@@ -2143,8 +2076,7 @@
                   height="1909px"/>
          <zone points="78,172 1012,172 1012,1772 78,1772"
                rendition="TextRegion"
-               xml:id="facs_18_region_1709374618315_1345"
-               subtype="paragraph">
+               xml:id="facs_18_region_1709374618315_1345">
             <zone points="116,234 388,213 421,243 509,214 634,239 706,212 754,246 983,233 983,191 930,181 116,184"
                   rendition="Line"
                   xml:id="facs_18_region_1709374618315_1345_tl_1"/>
@@ -2261,8 +2193,7 @@
                   height="1909px"/>
          <zone points="80,172 989,172 989,1760 80,1760"
                rendition="TextRegion"
-               xml:id="facs_19_region_1709374630331_1351"
-               subtype="paragraph">
+               xml:id="facs_19_region_1709374630331_1351">
             <zone points="121,234 998,225 998,196 948,184 121,191"
                   rendition="Line"
                   xml:id="facs_19_region_1709374630331_1351_tl_1"/>
@@ -2382,8 +2313,7 @@
                   height="1909px"/>
          <zone points="84,170 995,170 995,1768 84,1768"
                rendition="TextRegion"
-               xml:id="facs_20_region_1709374644395_1357"
-               subtype="paragraph">
+               xml:id="facs_20_region_1709374644395_1357">
             <zone points="107,228 652,239 747,205 776,232 982,235 982,185 850,209 819,185 107,199"
                   rendition="Line"
                   xml:id="facs_20_region_1709374644395_1357_tl_1"/>
@@ -2499,16 +2429,14 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <cb n="-1"/>
-            <p>
+            <ab facs="#facs_1_region_1709374417563_1237" type="">
                <lb facs="#facs_1_region_1709374417563_1237_tl_1" n="N001"/>Göttingische
       <lb facs="#facs_1_region_1709374417563_1237_tl_2" n="N002"/>gelehrte Anzeigen
       <lb facs="#facs_1_region_1709374417563_1237_tl_3" n="N003"/>unter der Aufsicht
       <lb facs="#facs_1_region_1709374417563_1237_tl_4" n="N004"/>der Königl. Gesellschaft der Wissenschaften.
       <lb facs="#facs_1_region_1709374417563_1237_tl_5" n="N005"/>106. 107. Stück.
-      <lb facs="#facs_1_region_1709374417563_1237_tl_6" n="N006"/>Den 5. Juli 1855.</p>
-            <cb n="0"/>
-            <p>
+      <lb facs="#facs_1_region_1709374417563_1237_tl_6" n="N006"/>Den 5. Juli 1855.</ab>
+            <ab facs="#facs_1_region_1709374423050_1240" type="">
                <lb facs="#facs_1_region_1709374423050_1240_tl_1" n="N001"/>Leipzig
       <lb facs="#facs_1_region_1709374423050_1240_tl_2" n="N002"/>bei Rud. Weigel 1854. Vom Musikalisch=Schönen.
       <lb facs="#facs_1_region_1709374423050_1240_tl_3" n="N003"/>Ein Beitrag zur Revision der Aesthetik der Ton¬
@@ -2529,10 +2457,9 @@
       <lb facs="#facs_1_region_1709374423050_1240_tl_18" n="N018"/>und bestimme. Und noch einmal fügt er hinzu,
       <lb facs="#facs_1_region_1709374423050_1240_tl_19" n="N019"/>daß bei aller Verschiedenheit der Standpunkte die
       <lb facs="#facs_1_region_1709374423050_1240_tl_20" n="N020"/>einzelnen Kunstlehren sich doch in der einen un¬
-      <lb facs="#facs_1_region_1709374423050_1240_tl_21" n="N021"/>verlierbaren Ueberzeugung vereinigen müssen, daß</p>
+      <lb facs="#facs_1_region_1709374423050_1240_tl_21" n="N021"/>verlierbaren Ueberzeugung vereinigen müssen, daß</ab>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <cb n="1"/>
-            <p>
+            <ab facs="#facs_2_region_1709374438315_1246" type="">
                <lb facs="#facs_2_region_1709374438315_1246_tl_1" n="N001"/>in allen ästhetischen Untersuchungen vorerst das
       <lb facs="#facs_2_region_1709374438315_1246_tl_2" n="N002"/>schöne Object, und nicht das empfindende Subject
       <lb facs="#facs_2_region_1709374438315_1246_tl_3" n="N003"/>zu erforschen sei. So knüpft der Verf., indem er
@@ -2569,10 +2496,9 @@
       <lb facs="#facs_2_region_1709374438315_1246_tl_34" n="N034"/>Aesthetik abgehalten hat, der wirklichen Kunst¬
       <lb facs="#facs_2_region_1709374438315_1246_tl_35" n="N035"/>übung alles das zu sein, was sie ihr bei dem
       <lb facs="#facs_2_region_1709374438315_1246_tl_36" n="N036"/>Reichthum ihrer Anschauungen und der geistigen
-      <lb facs="#facs_2_region_1709374438315_1246_tl_37" n="N037"/>Tiefe ihrer Auffassung hätte sein können. Ohne</p>
+      <lb facs="#facs_2_region_1709374438315_1246_tl_37" n="N037"/>Tiefe ihrer Auffassung hätte sein können. Ohne</ab>
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-            <cb n="2"/>
-            <p>
+            <ab facs="#facs_3_region_1709374449770_1252" type="">
                <lb facs="#facs_3_region_1709374449770_1252_tl_1" n="N001"/>das Schöne zu dem Nützlichen in eine zu nahe
       <lb facs="#facs_3_region_1709374449770_1252_tl_2" n="N002"/>Verwandtschaft rücken zu wollen, müssen wir doch
       <lb facs="#facs_3_region_1709374449770_1252_tl_3" n="N003"/>eine formelle Aehnlichkeit der Begriffe beider her¬
@@ -2609,10 +2535,9 @@
       <lb facs="#facs_3_region_1709374449770_1252_tl_34" n="N034"/>daß er durch Eigenschaften, die an sich nichts mit
       <lb facs="#facs_3_region_1709374449770_1252_tl_35" n="N035"/>der Natur der Farbe gemein haben, unser Auge
       <lb facs="#facs_3_region_1709374449770_1252_tl_36" n="N036"/>zu der Erzeugung der bestimmten Farbe reizt.
-      <lb facs="#facs_3_region_1709374449770_1252_tl_37" n="N037"/>80</p>
+      <lb facs="#facs_3_region_1709374449770_1252_tl_37" n="N037"/>80</ab>
             <pb facs="#facs_4" n="4" xml:id="img_0004"/>
-            <cb n="3"/>
-            <p>
+            <ab facs="#facs_4_region_1709374461611_1258" type="">
                <lb facs="#facs_4_region_1709374461611_1258_tl_1" n="N001"/>Nicht anders hat die Schönheit, in der ein Ge¬
       <lb facs="#facs_4_region_1709374461611_1258_tl_2" n="N002"/>genstand zu leuchten scheint, doch ihr wahres Da¬
       <lb facs="#facs_4_region_1709374461611_1258_tl_3" n="N003"/>sein nur in der lebendigen Bewegung unsers Ge¬
@@ -2648,10 +2573,9 @@
       <lb facs="#facs_4_region_1709374461611_1258_tl_33" n="N033"/>Schönen stehen bleiben wollten, durch die sein
       <lb facs="#facs_4_region_1709374461611_1258_tl_34" n="N034"/>Begriff in der That nur auf den eines in feinerer
       <lb facs="#facs_4_region_1709374461611_1258_tl_35" n="N035"/>Weise Nützlichen zurückgebracht würde. Aber in¬
-      <lb facs="#facs_4_region_1709374461611_1258_tl_36" n="N036"/>dem wir das an sich Schöne suchen, mußten wir</p>
+      <lb facs="#facs_4_region_1709374461611_1258_tl_36" n="N036"/>dem wir das an sich Schöne suchen, mußten wir</ab>
             <pb facs="#facs_5" n="5" xml:id="img_0005"/>
-            <cb n="4"/>
-            <p>
+            <ab facs="#facs_5_region_1709374470363_1264" type="">
                <lb facs="#facs_5_region_1709374470363_1264_tl_1" n="N001"/>gleichwohl von dem Grund und Boden ausgehen,
       <lb facs="#facs_5_region_1709374470363_1264_tl_2" n="N002"/>auf dem es, obgleich zu unvergleichlich reinerer
       <lb facs="#facs_5_region_1709374470363_1264_tl_3" n="N003"/>Höhe sich erhebend, mit jenem doch in der That
@@ -2687,10 +2611,9 @@
       <lb facs="#facs_5_region_1709374470363_1264_tl_33" n="N033"/>gleicher Weise organisirt vorhanden ist, oder von
       <lb facs="#facs_5_region_1709374470363_1264_tl_34" n="N034"/>jedem mit gleicher Verbindlichkeit in sich erzeugt
       <lb facs="#facs_5_region_1709374470363_1264_tl_35" n="N035"/>werden soll. Nennen wir nun schön das, dessen
-      <lb facs="#facs_5_region_1709374470363_1264_tl_36" n="N036"/>Eindruck in Uebereinstimmung ist sowohl mit der</p>
+      <lb facs="#facs_5_region_1709374470363_1264_tl_36" n="N036"/>Eindruck in Uebereinstimmung ist sowohl mit der</ab>
             <pb facs="#facs_6" n="6" xml:id="img_0006"/>
-            <cb n="5"/>
-            <p>
+            <ab facs="#facs_6_region_1709374481915_1270" type="">
                <lb facs="#facs_6_region_1709374481915_1270_tl_1" n="N001"/>allgemeinen und unverlierbaren Organisation un¬
       <lb facs="#facs_6_region_1709374481915_1270_tl_2" n="N002"/>serer Thätigkeiten, als mit der idealen Form, die
       <lb facs="#facs_6_region_1709374481915_1270_tl_3" n="N003"/>unser geistiges Leben mit gleicher Allgemeinheit
@@ -2726,10 +2649,9 @@
       <lb facs="#facs_6_region_1709374481915_1270_tl_33" n="N033"/>Begriff einer Erscheinung ohne Rücksicht auf das
       <lb facs="#facs_6_region_1709374481915_1270_tl_34" n="N034"/>dem sie erscheint, oder den eines Nützlichen ohne
       <lb facs="#facs_6_region_1709374481915_1270_tl_35" n="N035"/>Rücksicht auf ein Anderes denken können, dem es
-      <lb facs="#facs_6_region_1709374481915_1270_tl_36" n="N036"/>nützt.</p>
+      <lb facs="#facs_6_region_1709374481915_1270_tl_36" n="N036"/>nützt.</ab>
             <pb facs="#facs_7" n="7" xml:id="img_0007"/>
-            <cb n="6"/>
-            <p>
+            <ab facs="#facs_7_region_1709374489171_1276" type="">
                <lb facs="#facs_7_region_1709374489171_1276_tl_1" n="N001"/>Und wie wir hierin dem Verf. nicht Recht ge¬
       <lb facs="#facs_7_region_1709374489171_1276_tl_2" n="N002"/>ben können, so folgen wir ihm auch nur mit
       <lb facs="#facs_7_region_1709374489171_1276_tl_3" n="N003"/>Vorbehalt in seine Polemik gegen die ästhetische
@@ -2765,10 +2687,9 @@
       <lb facs="#facs_7_region_1709374489171_1276_tl_33" n="N033"/>bezeichnet, so glaube ich nicht, daß wir in einem
       <lb facs="#facs_7_region_1709374489171_1276_tl_34" n="N034"/>Gebilde, das aus reinem Schauen entstanden durch
       <lb facs="#facs_7_region_1709374489171_1276_tl_35" n="N035"/>reines Schauen wahrgenommen wird, das wieder¬
-      <lb facs="#facs_7_region_1709374489171_1276_tl_36" n="N036"/>erkennen, was uns als Kunstwerk begeistern und</p>
+      <lb facs="#facs_7_region_1709374489171_1276_tl_36" n="N036"/>erkennen, was uns als Kunstwerk begeistern und</ab>
             <pb facs="#facs_8" n="8" xml:id="img_0008"/>
-            <cb n="7"/>
-            <p>
+            <ab facs="#facs_8_region_1709374497802_1282" type="">
                <lb facs="#facs_8_region_1709374497802_1282_tl_1" n="N001"/>erheben soll. Mehr Recht hätten wir vielleicht,
       <lb facs="#facs_8_region_1709374497802_1282_tl_2" n="N002"/>die Phantasie als jene feine und bewegliche Ur¬
       <lb facs="#facs_8_region_1709374497802_1282_tl_3" n="N003"/>theilskraft des Gefühls zu bezeichnen, die nicht wie
@@ -2804,10 +2725,9 @@
       <lb facs="#facs_8_region_1709374497802_1282_tl_33" n="N033"/>Mit dem Allen streite ich, wie sich zeigen wird,
       <lb facs="#facs_8_region_1709374497802_1282_tl_34" n="N034"/>nicht eigentlich gegen die Ansicht des Verfs selbst,
       <lb facs="#facs_8_region_1709374497802_1282_tl_35" n="N035"/>sondern gegen die wissenschaftliche Einleitung, die
-      <lb facs="#facs_8_region_1709374497802_1282_tl_36" n="N036"/>er für sie der herrschenden Aesthetik entlehnt hat,</p>
+      <lb facs="#facs_8_region_1709374497802_1282_tl_36" n="N036"/>er für sie der herrschenden Aesthetik entlehnt hat,</ab>
             <pb facs="#facs_9" n="9" xml:id="img_0009"/>
-            <cb n="8"/>
-            <p>
+            <ab facs="#facs_9_region_1709374505899_1288" type="">
                <lb facs="#facs_9_region_1709374505899_1288_tl_1" n="N001"/>und die mit dem, was er meint fast mehr im
       <lb facs="#facs_9_region_1709374505899_1288_tl_2" n="N002"/>Widerspruch als im Einklang ist. Aus jener Lehre
       <lb facs="#facs_9_region_1709374505899_1288_tl_3" n="N003"/>von dem reinen Schauen der Phantasie läßt sich
@@ -2843,10 +2763,9 @@
       <lb facs="#facs_9_region_1709374505899_1288_tl_33" n="N033"/>diese Gesammtheit mitklingen fühlt: diese innere
       <lb facs="#facs_9_region_1709374505899_1288_tl_34" n="N034"/>Bildung müssen wir als das Maß bezeichnen, mit
       <lb facs="#facs_9_region_1709374505899_1288_tl_35" n="N035"/>welchem das Kunstwerk übereinstimmen soll. Ge¬
-      <lb facs="#facs_9_region_1709374505899_1288_tl_36" n="N036"/>wiß kann daher die Kunst, wenn sie nicht den</p>
+      <lb facs="#facs_9_region_1709374505899_1288_tl_36" n="N036"/>wiß kann daher die Kunst, wenn sie nicht den</ab>
             <pb facs="#facs_10" n="10" xml:id="img_0010"/>
-            <cb n="9"/>
-            <p>
+            <ab facs="#facs_10_region_1709374517170_1294" type="">
                <lb facs="#facs_10_region_1709374517170_1294_tl_1" n="N001"/>natürlichen Menschen, sondern den idealen in uns
       <lb facs="#facs_10_region_1709374517170_1294_tl_2" n="N002"/>ergreifen soll, jenes Gefühl, das wir als ihren
       <lb facs="#facs_10_region_1709374517170_1294_tl_3" n="N003"/>Zweck bezeichnen müssen, nur durch eine Darstel¬
@@ -2882,10 +2801,9 @@
       <lb facs="#facs_10_region_1709374517170_1294_tl_33" n="N033"/>von dieser Seite beikommen wolle; sei es denn je
       <lb facs="#facs_10_region_1709374517170_1294_tl_34" n="N034"/>einem vernünftigen Architekten beigefallen, durch
       <lb facs="#facs_10_region_1709374517170_1294_tl_35" n="N035"/>Baukunst Gefühle erregen zu wollen, oder ergründe
-      <lb facs="#facs_10_region_1709374517170_1294_tl_36" n="N036"/>man das Wesen des Weines, indem man ihn</p>
+      <lb facs="#facs_10_region_1709374517170_1294_tl_36" n="N036"/>man das Wesen des Weines, indem man ihn</ab>
             <pb facs="#facs_11" n="11" xml:id="img_0011"/>
-            <cb n="10"/>
-            <p>
+            <ab facs="#facs_11_region_1709374533474_1300" type="">
                <lb facs="#facs_11_region_1709374533474_1300_tl_1" n="N001"/>trinke? Warum sollen wir beide Fragen nicht
       <lb facs="#facs_11_region_1709374533474_1300_tl_2" n="N002"/>bejahen? Wie anders, als durch Trinken, könnte
       <lb facs="#facs_11_region_1709374533474_1300_tl_3" n="N003"/>man die Güte des Weins prüfen, denn von die¬
@@ -2921,10 +2839,9 @@
       <lb facs="#facs_11_region_1709374533474_1300_tl_33" n="N033"/>Vorstellungen und Urtheilen kann unser Seelen¬
       <lb facs="#facs_11_region_1709374533474_1300_tl_34" n="N034"/>zustand sich zu einem bestimmten Gefühl verdich¬
       <lb facs="#facs_11_region_1709374533474_1300_tl_35" n="N035"/>ten. Hoffnung ist unabtrennbar von der Vorstel¬
-      <lb facs="#facs_11_region_1709374533474_1300_tl_36" n="N036"/>lung eines glücklichen Zustandes, welcher kommen</p>
+      <lb facs="#facs_11_region_1709374533474_1300_tl_36" n="N036"/>lung eines glücklichen Zustandes, welcher kommen</ab>
             <pb facs="#facs_12" n="12" xml:id="img_0012"/>
-            <cb n="11"/>
-            <p>
+            <ab facs="#facs_12_region_1709374548443_1306" type="">
                <lb facs="#facs_12_region_1709374548443_1306_tl_1" n="N001"/>soll und mit dem gegenwärtigen verglichen wird.
       <lb facs="#facs_12_region_1709374548443_1306_tl_2" n="N002"/>Die Wehmuth vergleicht ein vergangenes Glück
       <lb facs="#facs_12_region_1709374548443_1306_tl_3" n="N003"/>mit der Gegenwart. Ohne diesen Gedankenappa¬
@@ -2960,10 +2877,9 @@
       <lb facs="#facs_12_region_1709374548443_1306_tl_33" n="N033"/>Satz, die Musik könne nicht die außer ihrem Be¬
       <lb facs="#facs_12_region_1709374548443_1306_tl_34" n="N034"/>reich liegende Erscheinung schildern, sondern nur
       <lb facs="#facs_12_region_1709374548443_1306_tl_35" n="N035"/>das Gefühl malen, das in uns durch sie erregt
-      <lb facs="#facs_12_region_1709374548443_1306_tl_36" n="N036"/>wird. Gerade umgekehrt. Die Musik kann nur</p>
+      <lb facs="#facs_12_region_1709374548443_1306_tl_36" n="N036"/>wird. Gerade umgekehrt. Die Musik kann nur</ab>
             <pb facs="#facs_13" n="13" xml:id="img_0013"/>
-            <cb n="12"/>
-            <p>
+            <ab facs="#facs_13_region_1709374558962_1312" type="">
                <lb facs="#facs_13_region_1709374558962_1312_tl_1" n="N001"/>die äußere Erscheinung nachzuahmen trachten, nie¬
       <lb facs="#facs_13_region_1709374558962_1312_tl_2" n="N002"/>mals aber das durch sie bewirkte specifische Füh¬
       <lb facs="#facs_13_region_1709374558962_1312_tl_3" n="N003"/>len. Das Fallen der Schneeflocken, das Flattern
@@ -2999,10 +2915,9 @@
       <lb facs="#facs_13_region_1709374558962_1312_tl_33" n="N033"/>Naturproduct ist, das wir nehmen müßten, wie
       <lb facs="#facs_13_region_1709374558962_1312_tl_34" n="N034"/>es ist, was ist es dann, was den Menschen an¬
       <lb facs="#facs_13_region_1709374558962_1312_tl_35" n="N035"/>treibt, sie beständig hervorzubringen, wenn ihr In¬
-      <lb facs="#facs_13_region_1709374558962_1312_tl_36" n="N036"/>halt nichts Anderes ist, als jenes Dynamische und</p>
+      <lb facs="#facs_13_region_1709374558962_1312_tl_36" n="N036"/>halt nichts Anderes ist, als jenes Dynamische und</ab>
             <pb facs="#facs_14" n="14" xml:id="img_0014"/>
-            <cb n="13"/>
-            <p>
+            <ab facs="#facs_14_region_1709374571115_1318" type="">
                <lb facs="#facs_14_region_1709374571115_1318_tl_1" n="N001"/>die unendlich mannichfachen Variationen seiner Ele¬
       <lb facs="#facs_14_region_1709374571115_1318_tl_2" n="N002"/>mente? Worin anders kann dieser Antrieb liegen,
       <lb facs="#facs_14_region_1709374571115_1318_tl_3" n="N003"/>als eben darin, daß alle diese Formen der Ver¬
@@ -3039,10 +2954,9 @@
       <lb facs="#facs_14_region_1709374571115_1318_tl_34" n="N034"/>faltigkeit von Gegenständen, die uns in diesem
       <lb facs="#facs_14_region_1709374571115_1318_tl_35" n="N035"/>Augenblicke, zusammengefaßt in unserm Bewußt¬
       <lb facs="#facs_14_region_1709374571115_1318_tl_36" n="N036"/>sein, Unterhaltung gewährt, wir freuen uns viel¬
-      <lb facs="#facs_14_region_1709374571115_1318_tl_37" n="N037"/>mehr auch des allgemeinen Gedankens einer Man¬</p>
+      <lb facs="#facs_14_region_1709374571115_1318_tl_37" n="N037"/>mehr auch des allgemeinen Gedankens einer Man¬</ab>
             <pb facs="#facs_15" n="15" xml:id="img_0015"/>
-            <cb n="14"/>
-            <p>
+            <ab facs="#facs_15_region_1709374581794_1324" type="">
                <lb facs="#facs_15_region_1709374581794_1324_tl_1" n="N001"/>nichfaltigkeit überhaupt, die doch zur Einheit sich
       <lb facs="#facs_15_region_1709374581794_1324_tl_2" n="N002"/>verbinden läßt. In unserer Erinnerung verschwin¬
       <lb facs="#facs_15_region_1709374581794_1324_tl_3" n="N003"/>det allmälig der bestimmte Gehalt der einzelnen,
@@ -3079,10 +2993,9 @@
       <lb facs="#facs_15_region_1709374581794_1324_tl_34" n="N034"/>ckelung in der umgebenden äußern Welt die gün¬
       <lb facs="#facs_15_region_1709374581794_1324_tl_35" n="N035"/>stigen und hinlänglichen Bedingungen antrifft, so
       <lb facs="#facs_15_region_1709374581794_1324_tl_36" n="N036"/>bleibt aus dieser Anschauung, wenn wir längst
-      <lb facs="#facs_15_region_1709374581794_1324_tl_37" n="N037"/>die einzelnen Punkte vergessen haben, dies Bild</p>
+      <lb facs="#facs_15_region_1709374581794_1324_tl_37" n="N037"/>die einzelnen Punkte vergessen haben, dies Bild</ab>
             <pb facs="#facs_16" n="16" xml:id="img_0016"/>
-            <cb n="15"/>
-            <p>
+            <ab facs="#facs_16_region_1709374591051_1330" type="">
                <lb facs="#facs_16_region_1709374591051_1330_tl_1" n="N001"/>einer harmonisch geordneten Fülle zurück in der
       <lb facs="#facs_16_region_1709374591051_1330_tl_2" n="N002"/>jeder einzelne lebendige Trieb nicht allein und ver¬
       <lb facs="#facs_16_region_1709374591051_1330_tl_3" n="N003"/>lassen sich ins Leere ausbreitet, sondern darauf
@@ -3119,18 +3032,16 @@
       <lb facs="#facs_16_region_1709374591051_1330_tl_34" n="N034"/>zähliger Güter erwecken, die in dem gleichen Rhyth¬
       <lb facs="#facs_16_region_1709374591051_1330_tl_35" n="N035"/>mus des Geschehens, in denselben Formen der
       <lb facs="#facs_16_region_1709374591051_1330_tl_36" n="N036"/>Entwicklung auftraten und nur in ihnen denkbar sind.
-      <lb facs="#facs_16_region_1709374591051_1330_tl_37" n="N037"/>(Schluß folgt).</p>
+      <lb facs="#facs_16_region_1709374591051_1330_tl_37" n="N037"/>(Schluß folgt).</ab>
             <pb facs="#facs_17" n="17" xml:id="img_0017"/>
-            <cb n="16"/>
-            <p>
+            <ab facs="#facs_17_region_1709374599843_1336" type="">
                <lb facs="#facs_17_region_1709374599843_1336_tl_1" n="N001"/>Göttingische
       <lb facs="#facs_17_region_1709374599843_1336_tl_2" n="N002"/>gelehrte Anzeigen
       <lb facs="#facs_17_region_1709374599843_1336_tl_3" n="N003"/>unter der Aufsicht
       <lb facs="#facs_17_region_1709374599843_1336_tl_4" n="N004"/>der Königl. Gesellschaft der Wissenschaften.
       <lb facs="#facs_17_region_1709374599843_1336_tl_5" n="N005"/>108. Stück.
-      <lb facs="#facs_17_region_1709374599843_1336_tl_6" n="N006"/>Den 7. Juli 1855.</p>
-            <cb n="17"/>
-            <p>
+      <lb facs="#facs_17_region_1709374599843_1336_tl_6" n="N006"/>Den 7. Juli 1855.</ab>
+            <ab facs="#facs_17_region_1709374602906_1339" type="">
                <lb facs="#facs_17_region_1709374602906_1339_tl_1" n="N001"/>Leipzig
       <lb facs="#facs_17_region_1709374602906_1339_tl_2" n="N002"/>Schluß der Anzeige: „Vom Musikalisch=Schö¬
       <lb facs="#facs_17_region_1709374602906_1339_tl_3" n="N003"/>nen. Ein Beitrag zur Revision der Aesthetik der
@@ -3152,10 +3063,9 @@
       <lb facs="#facs_17_region_1709374602906_1339_tl_19" n="N019"/>dung sie gleich mannichfaltig und gleich streng in
       <lb facs="#facs_17_region_1709374602906_1339_tl_20" n="N020"/>einer vollkommen deutlich geordneten Skala dar¬
       <lb facs="#facs_17_region_1709374602906_1339_tl_21" n="N021"/>bietet. Wir finden endlich, daß der geradlinige
-      <lb facs="#facs_17_region_1709374602906_1339_tl_22" n="N022"/>181</p>
+      <lb facs="#facs_17_region_1709374602906_1339_tl_22" n="N022"/>181</ab>
             <pb facs="#facs_18" n="18" xml:id="img_0018"/>
-            <cb n="18"/>
-            <p>
+            <ab facs="#facs_18_region_1709374618315_1345" type="">
                <lb facs="#facs_18_region_1709374618315_1345_tl_1" n="N001"/>Fortschritt der Höhe doch jene eigenthümlichen
       <lb facs="#facs_18_region_1709374618315_1345_tl_2" n="N002"/>Wahlverwandtschaften der Harmonie einschließt, ver¬
       <lb facs="#facs_18_region_1709374618315_1345_tl_3" n="N003"/>möge deren entlegenere Punkte der Skala einan¬
@@ -3191,10 +3101,9 @@
       <lb facs="#facs_18_region_1709374618315_1345_tl_33" n="N033"/>welchen sie erinnern, und nur durch diese Sym¬
       <lb facs="#facs_18_region_1709374618315_1345_tl_34" n="N034"/>bolik erscheint sie schön. Nicht die Gerechtigkeit,
       <lb facs="#facs_18_region_1709374618315_1345_tl_35" n="N035"/>wohl aber die unverrückbare Consequenz des Han¬
-      <lb facs="#facs_18_region_1709374618315_1345_tl_36" n="N036"/>dels, die ihr formelles Symbol ist, läßt sich mu¬</p>
+      <lb facs="#facs_18_region_1709374618315_1345_tl_36" n="N036"/>dels, die ihr formelles Symbol ist, läßt sich mu¬</ab>
             <pb facs="#facs_19" n="19" xml:id="img_0019"/>
-            <cb n="19"/>
-            <p>
+            <ab facs="#facs_19_region_1709374630331_1351" type="">
                <lb facs="#facs_19_region_1709374630331_1351_tl_1" n="N001"/>sikalisch darstellen, nicht das bestimmte unablässige
       <lb facs="#facs_19_region_1709374630331_1351_tl_2" n="N002"/>Streben des menschlichen Gemüths nach irgend
       <lb facs="#facs_19_region_1709374630331_1351_tl_3" n="N003"/>einem Ziel, wohl aber der Wechsel von Anspan¬
@@ -3231,10 +3140,9 @@
       <lb facs="#facs_19_region_1709374630331_1351_tl_34" n="N034"/>Die Musik löst diese Aufgabe, indem sie uns eben
       <lb facs="#facs_19_region_1709374630331_1351_tl_35" n="N035"/>jenes Dynamische der Regsamkeit an sich zwar in
       <lb facs="#facs_19_region_1709374630331_1351_tl_36" n="N036"/>unendlich mannichfaltiger Thätigkeit, aber gebah¬
-      <lb facs="#facs_19_region_1709374630331_1351_tl_37" n="N037"/>81</p>
+      <lb facs="#facs_19_region_1709374630331_1351_tl_37" n="N037"/>81</ab>
             <pb facs="#facs_20" n="20" xml:id="img_0020"/>
-            <cb n="20"/>
-            <p>
+            <ab facs="#facs_20_region_1709374644395_1357" type="">
                <lb facs="#facs_20_region_1709374644395_1357_tl_1" n="N001"/>rend mit einem Material darstellt das an sich
       <lb facs="#facs_20_region_1709374644395_1357_tl_2" n="N002"/>ohne Bedeutung, sich eben nur als Substrat gel¬
       <lb facs="#facs_20_region_1709374644395_1357_tl_3" n="N003"/>tend macht, an welchem die Fülle des mannich¬
@@ -3270,7 +3178,7 @@
       <lb facs="#facs_20_region_1709374644395_1357_tl_33" n="N033"/>Verwerthung und Erläuterung der in der musi¬
       <lb facs="#facs_20_region_1709374644395_1357_tl_34" n="N034"/>kalischen Technik anerkannten einzelnen Formen
       <lb facs="#facs_20_region_1709374644395_1357_tl_35" n="N035"/>ausdehnte.
-      <lb facs="#facs_20_region_1709374644395_1357_tl_36" n="N036"/>H. Lotze.</p>
+      <lb facs="#facs_20_region_1709374644395_1357_tl_36" n="N036"/>H. Lotze.</ab>
          </div>
       </body>
    </text>
