@@ -4,15 +4,15 @@
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
             <title level="a">1856 Literarische Mittheilungen der St. Galler-Blätter (Ausschnitt)</title>
-            <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
+            <author/>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
             </editor>
-            <funder>
-               <name>FWF Der Wissenschaftsfond.</name>
+i	    <funder>
+               <name ref="http://d-nb.info/gnd/4540825-7">Stadt Wien (MA7)</name>
                <address>
-                  <street>Georg-Coch-Platz 2</street>
-                  <postCode>1010 Wien</postCode>
+                  <street>Friedrich-Schmidt-Platz 5</street>
+                  <postCode>1080 Wien</postCode>
                   <placeName>
                      <country>Österreich</country>
                      <settlement>Wien</settlement>
@@ -28,9 +28,9 @@
             </respStmt>
             <respStmt>
                <resp>Projektmitarbeiterinnen</resp>
-               <name ref="https://orcid.org/0009-0006-9062-5902">Bamer, Katharina</name>
                <name ref="https://orcid.org/0000-0002-7722-4091">Pfiel, Anna-Maria</name>
                <name ref="https://orcid.org/0000-0002-0636-4476">Elsner, Daniel</name>
+               <name ref="https://orcid.org/0000-0002-8815-6741">Sanz-Lázaro, Fernando</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
@@ -66,22 +66,21 @@
             </availability>
          </publicationStmt>
          <seriesStmt>
-            <p>Maschinenlesbares Transkript der Kritiken von Eduard Hanslick.</p>
+            <p>Maschinenlesbares Transkript der Rezensionen der ersten Auflage von Eduard Hanslicks Ästhetik-Traktat „Vom Musikalisch-Schönen“.</p>
          </seriesStmt>
          <sourceDesc>
             <listBibl>
                <biblStruct>
                   <analytic>
                      <title/>
-                     <author ref="#hsl_person_id_1">Hanslick, Eduard</author>
+                     <author/>
                   </analytic>
                   <monogr>
                      <title type="main">Neue Freie Presse</title>
                      <title type="sub"/>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
-                        <name type="person">Etienne, Michael</name>
-                        <name type="person">Friedländer, Max</name>
+                        <name type="person"/>
                      </respStmt>
                      <imprint>
                         <pubPlace/>
