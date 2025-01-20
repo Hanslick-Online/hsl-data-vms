@@ -13,21 +13,23 @@
 ########################################################################
 from __future__ import unicode_literals
 
-from builtins import list, str
+from builtins import str
 from io import open
 from lxml import etree as ET
 
-import os, os.path
+import os
+import os.path
 import unicodedata
 import re
 import glob
 
 
 # list of files that should be ignored, such as system files like 'Thumbs.db'
-ignoreFiles = ['Thumbs.db', '.DS_Store']
+ignoreFiles = ["Thumbs.db", ".DS_Store"]
 
 # list of file formats in lower case that should be ignored, such as 'xlsx'
 ignoreFileExtensions = []
+
 
 def normaliseName(value):
     """
@@ -41,45 +43,45 @@ def normaliseName(value):
     # split into name and extension
     newValue, fileExt = os.path.splitext(value)
     # replace umlauts with two letters
-    newValue = newValue.replace('ä','ae')
-    newValue = newValue.replace('ö','oe')
-    newValue = newValue.replace('ü','ue')
-    newValue = newValue.replace('Ä','Ae')
-    newValue = newValue.replace('Ö','Oe')
-    newValue = newValue.replace('Ü','Ue')
-    newValue = newValue.replace('ß','ss')
+    newValue = newValue.replace("ä", "ae")
+    newValue = newValue.replace("ö", "oe")
+    newValue = newValue.replace("ü", "ue")
+    newValue = newValue.replace("Ä", "Ae")
+    newValue = newValue.replace("Ö", "Oe")
+    newValue = newValue.replace("Ü", "Ue")
+    newValue = newValue.replace("ß", "ss")
     # replace all other special characters
     # normalise, i. e. replace e.g. é with e
-    newValue = unicodedata.normalize('NFKD', newValue).encode('ascii', 'ignore')
-    newValue = newValue.decode('utf-8')
+    newValue = unicodedata.normalize("NFKD", newValue).encode("ascii", "ignore")
+    newValue = newValue.decode("utf-8")
     # some custom rules to serve as example
-#    newValue = newValue.replace(', ','_')
-#    newValue = newValue.replace(',','_')
-#    newValue = newValue.replace('+','_')
-#    newValue = newValue.replace(' - ','-')
-#    newValue = newValue.replace(' ','_')
+    #    newValue = newValue.replace(', ','_')
+    #    newValue = newValue.replace(',','_')
+    #    newValue = newValue.replace('+','_')
+    #    newValue = newValue.replace(' - ','-')
+    #    newValue = newValue.replace(' ','_')
     # you can also use regular expressions e. g.:
     # newValue = str(re.sub(r'(\()([\d]\))', r'-\2', newValue))
     # '( one number )' becomes '-number)'
 
     # all remaining invalid characters are removed
     # \ and / are kept to keep the path
-    newValue = str(re.sub('[^a-zA-Z0-9_\-/\\\]', '', newValue))
+    newValue = str(re.sub("[^a-zA-Z0-9_\-/\\]", "", newValue))
 
-    return newValue+fileExt
+    return newValue + fileExt
 
 
-if __name__=="__main__":
+if __name__ == "__main__":
     # set path to facs files
-    path_facs = u'./data/facs/*_image_name.xml'
+    path_facs = "./data/facs/*_image_name.xml"
     # rename facs files
     for file in glob.glob(path_facs):
-        with open (file, 'r', encoding='utf-8') as f:
+        with open(file, "r", encoding="utf-8") as f:
             tree = ET.parse(f)
             root = tree.getroot()
-            for elem in root.iter('item'):
+            for elem in root.iter("item"):
                 image_name = elem.text
                 image_name = normaliseName(image_name)
                 elem.text = image_name
-            tree.write(file, encoding='utf-8', xml_declaration=True)
-    print('Done')
+            tree.write(file, encoding="utf-8", xml_declaration=True)
+    print("Done")
