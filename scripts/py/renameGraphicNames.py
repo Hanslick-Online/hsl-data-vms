@@ -66,7 +66,7 @@ def normaliseName(value):
 
     # all remaining invalid characters are removed
     # \ and / are kept to keep the path
-    newValue = str(re.sub(r"[^a-zA-Z0-9_\-/\\]", "", newValue))
+    newValue = str(re.sub(r"[^a-zA-Z0-9_\-/\\\]", "", newValue))
 
     return newValue + fileExt
 
