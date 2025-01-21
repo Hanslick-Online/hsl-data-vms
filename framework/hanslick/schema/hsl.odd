@@ -167,6 +167,7 @@
                   <valItem ident="cpicej"/>
                   <valItem ident="athell"/>
                   <valItem ident="srolandi"/>
+		  <valItem ident="fsanzlazaro"/>
                 </valList>
               </attDef>
               <attDef ident="when" mode="change" usage="req">
