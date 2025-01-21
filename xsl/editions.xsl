@@ -133,7 +133,7 @@
             <editor xmlns="http://www.tei-c.org/ns/1.0">
                 <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
             </editor>
-i	    <funder xmlns="http://www.tei-c.org/ns/1.0">
+	    <funder xmlns="http://www.tei-c.org/ns/1.0">
                 <name ref="http://d-nb.info/gnd/4540825-7">Stadt Wien (MA7)</name>
                 <address>
                     <street>Friedrich-Schmidt-Platz 5</street>
@@ -155,7 +155,7 @@ i	    <funder xmlns="http://www.tei-c.org/ns/1.0">
                 <resp>Projektmitarbeiterinnen</resp>
                 <name ref="https://orcid.org/0000-0002-7722-4091">Pfiel, Anna-Maria</name>
                 <name ref="https://orcid.org/0000-0002-0636-4476">Elsner, Daniel</name>
-		<name ref="https://orcid.org/0000-0002-8815-6741">Sanz-Lázaro, Fernando</name>
+		        <name ref="https://orcid.org/0000-0002-8815-6741">Sanz-Lázaro, Fernando</name>
             </respStmt>
         </editionStmt>
     </xsl:template>
