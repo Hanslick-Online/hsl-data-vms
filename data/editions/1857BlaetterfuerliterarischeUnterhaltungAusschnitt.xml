@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
-            <title level="a">Erscheint wöchentlich. — Nr. 23. — 4. Juni 1857.</title>
+            <title level="a">Erscheint wöchentlich. — Nr. 23. — 4. Juni 1857</title>
             <author ref="#hsl_person_id_6123">Carriere, Moritz</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
@@ -72,7 +72,7 @@
             <listBibl>
                <biblStruct>
                   <analytic>
-                     <title>Populäre Aesthetik.</title>
+                     <title>Populäre Aesthetik</title>
                      <author ref="#hsl_person_id_6123">Carriere, Moritz</author>
                   </analytic>
                   <monogr>
@@ -83,7 +83,7 @@
                      </respStmt>
                      <imprint>
                         <pubPlace/>
-                        <date when="1857-06-04">4. Juni 1857</date>
+                        <date when="1857-06-04">1857-06-04</date>
                      </imprint>
                   </monogr>
                </biblStruct>
