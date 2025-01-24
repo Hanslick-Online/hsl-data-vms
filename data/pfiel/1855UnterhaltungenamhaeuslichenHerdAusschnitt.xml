@@ -106,7 +106,7 @@
          <change who="awilfling" when="2024-11-01 ">Projektbeginn</change>
          <change who="ampfiel" when="2024-12-27">Transkribus OCR und Lektorat.</change>
          <change who="awilfling" when="2025-01-20 ">Headers Anpassung</change>
-         <change who="ampfiel" when="2025-01-24">header richtigstellen, Absätze</change>
+         <change who="ampfiel" when="2025-01-24">header richtigstellen, Absätze, Zeilenumbrüche</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -262,12 +262,11 @@
             <lb facs="#facs_2_region_1709376164218_1808_tl_1" n="N001"/>Vom Musikalisch-Schönen.</head>
             <p>      
       <lb facs="#facs_2_region_1709376164218_1808_tl_2" n="N002"/>Sehr überzeugend führt <rs type="person">Hanslick</rs> in <rs type="place">Wien</rs> in
-      <lb facs="#facs_2_region_1709376164218_1808_tl_3" n="N003"/>seiner kleinen Schrift „<rs type="bibl">Vom Musikalisch-Schö¬</rs>
-               <lb facs="#facs_2_region_1709376164218_1808_tl_4" n="N004"/>
-               <rs type="bibl">nen</rs>“ (<rs type="place">Leipzig</rs>, R. <rs type="person">Weigel</rs>) den Gedanken durch,
+      <lb facs="#facs_2_region_1709376164218_1808_tl_3" n="N003"/>seiner kleinen Schrift „<rs type="bibl">Vom Musikalisch-Schö
+      <lb facs="#facs_2_region_1709376164218_1808_tl_4" n="N004" break="no"/>nen</rs>“ (<rs type="place">Leipzig</rs>, R. <rs type="person">Weigel</rs>) den Gedanken durch,
       <lb facs="#facs_2_region_1709376164218_1808_tl_5" n="N005"/>daß der Mensch die Musik aus sich selbst geschöpft,
-      <lb facs="#facs_2_region_1709376164218_1808_tl_6" n="N006"/>nicht der Natur nachgeahmt hätte. Auch erwei¬
-      <lb facs="#facs_2_region_1709376164218_1808_tl_7" n="N007"/>tert er sehr treffend den Satz, den schon <rs type="person">Leibniz</rs>
+      <lb facs="#facs_2_region_1709376164218_1808_tl_6" n="N006"/>nicht der Natur nachgeahmt hätte. Auch erwei
+      <lb facs="#facs_2_region_1709376164218_1808_tl_7" n="N007" break="no"/>tert er sehr treffend den Satz, den schon <rs type="person">Leibniz</rs>
                <lb facs="#facs_2_region_1709376164218_1808_tl_8" n="N008"/>aussprach, daß alle Tonkunst ein geheimes
       <lb facs="#facs_2_region_1709376164218_1808_tl_9" n="N009"/><hi rendition="#em">Zählen</hi> und <hi rendition="#em">Rechnen</hi> wäre. Er sagt:</p>
                <p>
@@ -275,26 +274,25 @@
       <lb facs="#facs_2_region_1709376164218_1808_tl_11" n="N011"/>des Menschen sind zwei verschiedene Gebiete.
       <lb facs="#facs_2_region_1709376164218_1808_tl_12" n="N012"/>Der Uebergang von der ersten zur zweiten geht
       <lb facs="#facs_2_region_1709376164218_1808_tl_13" n="N013"/>durch die <hi rendition="#em">Mathematik</hi>. Nicht so, als hätte
-      <lb facs="#facs_2_region_1709376164218_1808_tl_14" n="N014"/>der Mensch seine Töne durch absichtlich ange¬
-      <lb facs="#facs_2_region_1709376164218_1808_tl_15" n="N015"/>stellte Berechnungen geordnet, sondern es ge¬
-      <lb facs="#facs_2_region_1709376164218_1808_tl_16" n="N016"/>schah dies durch unbewußte Anwendung ur¬
-      <lb facs="#facs_2_region_1709376164218_1808_tl_17" n="N017"/>sprünglicher Größen- und Verhältnißvorstellun¬
-      <lb facs="#facs_2_region_1709376164218_1808_tl_18" n="N018"/>gen, durch ein verborgenes Messen und <hi rendition="#em">Zäh¬</hi>
-               <lb facs="#facs_2_region_1709376164218_1808_tl_19" n="N019"/>
-               <hi rendition="#em">len</hi>, dessen Gesetzmäßigkeit erst später die Wissen¬
-      <lb facs="#facs_2_region_1709376164218_1808_tl_20" n="N020"/>schaft constatirte.“</p>
+      <lb facs="#facs_2_region_1709376164218_1808_tl_14" n="N014"/>der Mensch seine Töne durch absichtlich ange
+      <lb facs="#facs_2_region_1709376164218_1808_tl_15" n="N015" break="no"/>stellte Berechnungen geordnet, sondern es ge
+      <lb facs="#facs_2_region_1709376164218_1808_tl_16" n="N016" break="no"/>schah dies durch unbewußte Anwendung ur
+      <lb facs="#facs_2_region_1709376164218_1808_tl_17" n="N017" break="no"/>sprünglicher Größen- und Verhältnißvorstellun
+      <lb facs="#facs_2_region_1709376164218_1808_tl_18" n="N018" break="no"/>gen, durch ein verborgenes Messen und <hi rendition="#em">Zäh
+      <lb facs="#facs_2_region_1709376164218_1808_tl_19" n="N019" break="no"/>len</hi>, dessen Gesetzmäßigkeit erst später die Wissen
+      <lb facs="#facs_2_region_1709376164218_1808_tl_20" n="N020" break="no"/>schaft constatirte.“</p>
                <p>
       <lb facs="#facs_2_region_1709376164218_1808_tl_21" n="N021"/>Auch über <hi rendition="#em">Malerei</hi> der Tonkunst findet
       <lb facs="#facs_2_region_1709376164218_1808_tl_22" n="N022"/>man in seiner Abhandlung sehr treffende Worte.
-      <lb facs="#facs_2_region_1709376164218_1808_tl_23" n="N023"/>Ueberhaupt zeigt diese neben gründlichsten musika¬
-      <lb facs="#facs_2_region_1709376164218_1808_tl_24" n="N024"/>lischen Einzelkenntnissen einen wissenschaftlichen
+      <lb facs="#facs_2_region_1709376164218_1808_tl_23" n="N023"/>Ueberhaupt zeigt diese neben gründlichsten musika
+      <lb facs="#facs_2_region_1709376164218_1808_tl_24" n="N024" break="no"/>lischen Einzelkenntnissen einen wissenschaftlichen
       <lb facs="#facs_2_region_1709376164218_1808_tl_25" n="N025"/>Sinn auch in den allgemeinen Partieen. Die
       <lb facs="#facs_2_region_1709376164218_1808_tl_26" n="N026"/>Darstellung ist klar, die Gedankenentwickelung
       <lb facs="#facs_2_region_1709376164218_1808_tl_27" n="N027"/>von großer logischer Schärfe. Wenn der
-      <lb facs="#facs_2_region_1709376164218_1808_tl_28" n="N028"/>Verfasser, der hier schon manche tiefeingewur¬
-      <lb facs="#facs_2_region_1709376164218_1808_tl_29" n="N029"/>zelten Vorurtheile bekämpft, die von ihm zur
-      <lb facs="#facs_2_region_1709376164218_1808_tl_30" n="N030"/>Sprache gebrachten wichtigen Punkte der musi¬
-      <lb facs="#facs_2_region_1709376164218_1808_tl_31" n="N031"/>kalischen Aesthetik in einem vollständigen System
+      <lb facs="#facs_2_region_1709376164218_1808_tl_28" n="N028"/>Verfasser, der hier schon manche tiefeingewur
+      <lb facs="#facs_2_region_1709376164218_1808_tl_29" n="N029" break="no"/>zelten Vorurtheile bekämpft, die von ihm zur
+      <lb facs="#facs_2_region_1709376164218_1808_tl_30" n="N030"/>Sprache gebrachten wichtigen Punkte der musi
+      <lb facs="#facs_2_region_1709376164218_1808_tl_31" n="N031" break="no"/>kalischen Aesthetik in einem vollständigen System
       <lb facs="#facs_2_region_1709376164218_1808_tl_32" n="N032"/>weiter ausführen wollte, so würde er sich den
       <lb facs="#facs_2_region_1709376164218_1808_tl_33" n="N033"/>Dank erwerben jedes gebildeten Freundes der
       <lb facs="#facs_2_region_1709376164218_1808_tl_34" n="N034"/>Tonkunst, der auch darüber nachzudenken liebt,
