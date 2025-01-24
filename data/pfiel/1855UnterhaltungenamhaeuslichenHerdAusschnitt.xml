@@ -106,7 +106,7 @@
          <change who="awilfling" when="2024-11-01 ">Projektbeginn</change>
          <change who="ampfiel" when="2024-12-27">Transkribus OCR und Lektorat.</change>
          <change who="awilfling" when="2025-01-20 ">Headers Anpassung</change>
-         <change who="ampfiel" when="2025-01-24">header richtigstellen</change>
+         <change who="ampfiel" when="2025-01-24">header richtigstellen, Absätze</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -257,14 +257,10 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <ab facs="#facs_1_region_1709376140090_1799" type="">
-               <lb facs="#facs_1_line_1733831364469_1099" n="N001"/>Unterhaltungen
-      <lb facs="#facs_1_region_1709376140090_1799_tl_7" n="N002"/>am häuslichen Herd</ab>
-            <ab facs="#facs_1_region_1709376144154_1802" type="">
-               <lb facs="#facs_1_line_1735315701380_143" n="N001"/>Wöchentlich ein Bogen. Nr. 43. Preis vierteljährlich 16 Ngr.</ab>
-            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <ab facs="#facs_2_region_1709376164218_1808" type="">
-               <lb facs="#facs_2_region_1709376164218_1808_tl_1" n="N001"/>Vom Musikalisch-Schönen.
+            
+      <head type="h1">
+            <lb facs="#facs_2_region_1709376164218_1808_tl_1" n="N001"/>Vom Musikalisch-Schönen.</head>
+            <p>      
       <lb facs="#facs_2_region_1709376164218_1808_tl_2" n="N002"/>Sehr überzeugend führt <rs type="person">Hanslick</rs> in <rs type="place">Wien</rs> in
       <lb facs="#facs_2_region_1709376164218_1808_tl_3" n="N003"/>seiner kleinen Schrift „<rs type="bibl">Vom Musikalisch-Schö¬</rs>
                <lb facs="#facs_2_region_1709376164218_1808_tl_4" n="N004"/>
@@ -273,8 +269,8 @@
       <lb facs="#facs_2_region_1709376164218_1808_tl_6" n="N006"/>nicht der Natur nachgeahmt hätte. Auch erwei¬
       <lb facs="#facs_2_region_1709376164218_1808_tl_7" n="N007"/>tert er sehr treffend den Satz, den schon <rs type="person">Leibniz</rs>
                <lb facs="#facs_2_region_1709376164218_1808_tl_8" n="N008"/>aussprach, daß alle Tonkunst ein geheimes
-      <lb facs="#facs_2_region_1709376164218_1808_tl_9" n="N009"/>
-               <hi rendition="#em">Zählen</hi> und <hi rendition="#em">Rechnen</hi> wäre. Er sagt:
+      <lb facs="#facs_2_region_1709376164218_1808_tl_9" n="N009"/><hi rendition="#em">Zählen</hi> und <hi rendition="#em">Rechnen</hi> wäre. Er sagt:</p>
+               <p>
       <lb facs="#facs_2_region_1709376164218_1808_tl_10" n="N010"/>„Die «Musik» der Natur und die Tonkunst
       <lb facs="#facs_2_region_1709376164218_1808_tl_11" n="N011"/>des Menschen sind zwei verschiedene Gebiete.
       <lb facs="#facs_2_region_1709376164218_1808_tl_12" n="N012"/>Der Uebergang von der ersten zur zweiten geht
@@ -286,7 +282,8 @@
       <lb facs="#facs_2_region_1709376164218_1808_tl_18" n="N018"/>gen, durch ein verborgenes Messen und <hi rendition="#em">Zäh¬</hi>
                <lb facs="#facs_2_region_1709376164218_1808_tl_19" n="N019"/>
                <hi rendition="#em">len</hi>, dessen Gesetzmäßigkeit erst später die Wissen¬
-      <lb facs="#facs_2_region_1709376164218_1808_tl_20" n="N020"/>schaft constatirte.“
+      <lb facs="#facs_2_region_1709376164218_1808_tl_20" n="N020"/>schaft constatirte.“</p>
+               <p>
       <lb facs="#facs_2_region_1709376164218_1808_tl_21" n="N021"/>Auch über <hi rendition="#em">Malerei</hi> der Tonkunst findet
       <lb facs="#facs_2_region_1709376164218_1808_tl_22" n="N022"/>man in seiner Abhandlung sehr treffende Worte.
       <lb facs="#facs_2_region_1709376164218_1808_tl_23" n="N023"/>Ueberhaupt zeigt diese neben gründlichsten musika¬
@@ -303,7 +300,7 @@
       <lb facs="#facs_2_region_1709376164218_1808_tl_34" n="N034"/>Tonkunst, der auch darüber nachzudenken liebt,
       <lb facs="#facs_2_region_1709376164218_1808_tl_35" n="N035"/>welches die eigentlichen geheimen Geistes- und
       <lb facs="#facs_2_region_1709376164218_1808_tl_36" n="N036"/>Naturquellen seines an Wonnen und süßen
-      <lb facs="#facs_2_region_1709376164218_1808_tl_37" n="N037"/>Schauern so reichen Genusses sind.</ab>
+      <lb facs="#facs_2_region_1709376164218_1808_tl_37" n="N037"/>Schauern so reichen Genusses sind.</p>
          </div>
       </body>
    </text>
