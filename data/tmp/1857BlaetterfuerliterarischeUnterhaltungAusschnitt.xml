@@ -77,11 +77,8 @@
                      <author/>
                   </analytic>
                   <monogr>
-                     <title type="main">Neue Freie Presse</title>
-                     <title type="sub">
-               Blätter
-      für
-      literarische Unterhaltung.</title>
+                     <title type="main"/>
+                     <title type="sub"/>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person"/>
@@ -107,9 +104,8 @@
          </langUsage>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="kbamer ampfiel" when="2023-02-20">Transkribus OCR und Lektorat.</change>
-         <change who="delsner" when="2023-02-20">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
-         <change who="fsanzlazaro" when="2023-02-20">Anpassung von "editions.xsl".</change>
+         <change who="awilfling" when="2024-11-01 ">Projektbeginn</change>
+         <change who="awilfling" when="2025-01-20 ">Headers Anpassung</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

@@ -87,9 +87,8 @@
                 </langUsage>
             </profileDesc>
             <revisionDesc status="draft">
-                <change who="kbamer ampfiel" when="2023-02-20">Transkribus OCR und Lektorat.</change>
-                <change who="delsner" when="2023-02-20">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
-		<change who="fsanzlazaro" when="2023-02-20">Anpassung von "editions.xsl".</change>
+		<change who="awilfling" when="2024-11-01 ">Projektbeginn</change>
+                <change who="awilfling" when="2025-01-20 ">Headers Anpassung</change>
             </revisionDesc>
         </teiHeader>
     </xsl:template>
@@ -109,8 +108,8 @@
                         <author xmlns="http://www.tei-c.org/ns/1.0" />
                     </analytic>
                     <monogr xmlns="http://www.tei-c.org/ns/1.0">
-                        <title type="main">Neue Freie Presse</title>
-                        <title type="sub"><xsl:value-of select="//tei:body/tei:div/tei:p[1]//text()"/></title>
+                        <title type="main" />
+                        <title type="sub" />
                         <respStmt>
                             <resp>Herausgegeben von</resp>
                             <name type="person" />
