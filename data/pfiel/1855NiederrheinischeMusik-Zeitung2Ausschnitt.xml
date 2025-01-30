@@ -107,6 +107,7 @@
          <change who="ampfiel" when="2024-12-27">Transkribus OCR und Lektorat.</change>
          <change who="awilfling" when="2025-01-20 ">Headers Anpassung</change>
          <change who="ampfiel" when="2025-01-24">header richtigstellen, Absätze (1 Fußnote fehlt noch), Zeilenumbrüche</change>
+         <change who="ampfiel" when="2025-01-28">ref ausgefüllt</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -762,13 +763,13 @@
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>            
       <head type="h1">
-            <lb facs="#facs_1_region_1709376061810_1771_tl_1" n="N001"/>Stimmen der Kritik über Richard <rs type="person">Wagner</rs>.</head>
+            <lb facs="#facs_1_region_1709376061810_1771_tl_1" n="N001"/>Stimmen der Kritik über Richard <rs type="person" ref="#hsl_person_id_319">Wagner</rs>.</head>
       <head type="h2">
             <lb facs="#facs_1_line_1735315777802_157" n="N002"/>II.</head>
             <p>     
-      <lb facs="#facs_1_region_1709376061810_1771_tl_2" n="N003"/>Wir gehen zu <hi rendition="#em">Ed. <rs type="person">Hanslick</rs></hi> über. Seine ganze
-      <lb facs="#facs_1_region_1709376061810_1771_tl_3" n="N004"/>Schrift „<rs type="bibl">Vom Musicalisch-Schönen</rs>“ ist ein Protest gegen
-      <lb facs="#facs_1_region_1709376061810_1771_tl_4" n="N005"/>das Grundprincip <rs type="person">Wagner</rs>’s, und da wir den wesentlichen
+      <lb facs="#facs_1_region_1709376061810_1771_tl_2" n="N003"/>Wir gehen zu <hi rendition="#em">Ed. <rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi> über. Seine ganze
+      <lb facs="#facs_1_region_1709376061810_1771_tl_3" n="N004"/>Schrift „<rs type="bibl" ref="#hsl_work_id_1083">Vom Musicalisch-Schönen</rs>“ ist ein Protest gegen
+      <lb facs="#facs_1_region_1709376061810_1771_tl_4" n="N005"/>das Grundprincip <rs type="person" ref="#hsl_person_id_319">Wagner</rs>’s, und da wir den wesentlichen
       <lb facs="#facs_1_region_1709376061810_1771_tl_5" n="N006"/>Inhalt derselben bereits dargelegt haben, so beschränken
       <lb facs="#facs_1_region_1709376061810_1771_tl_6" n="N007"/>wir uns hier nur auf aphoristische Mittheilung einiger den
       <lb facs="#facs_1_region_1709376061810_1771_tl_7" n="N008"/>Gegenstand speciel treffenden Aussprüche.</p>
@@ -778,11 +779,10 @@
       <lb facs="#facs_1_region_1709376061810_1771_tl_10" n="N011" break="no"/>sache, die Musik Accessorium; die <hi rendition="#em">ästhetische</hi> Forde
       <lb facs="#facs_1_region_1709376061810_1771_tl_11" n="N012" break="no"/>rung an den Componisten geht viel höher, sie verlangt
       <lb facs="#facs_1_region_1709376061810_1771_tl_12" n="N013"/>selbstständige (wenngleich untrennbare) <hi rendition="#em">musicalische
-      <lb facs="#facs_1_region_1709376061810_1771_tl_13" n="N014"/>Schönheit</hi>. — Seit <hi rendition="#em">
-                  <rs type="person">Gluck</rs></hi> in der nothwendigen Reaction
+      <lb facs="#facs_1_region_1709376061810_1771_tl_13" n="N014"/>Schönheit</hi>. — Seit <hi rendition="#em"><rs type="person" ref="#hsl_person_id_99">Gluck</rs></hi> in der nothwendigen Reaction
       <lb facs="#facs_1_region_1709376061810_1771_tl_14" n="N015"/>gegen die melodischen Uebergriffe der Italiäner nicht <hi rendition="#em">auf</hi>,
       <lb facs="#facs_1_region_1709376061810_1771_tl_15" n="N016"/>sondern <hi rendition="#em">hinter</hi> die richtige Mitte zurückschritt (genau wie
-      <lb facs="#facs_1_region_1709376061810_1771_tl_16" n="N017"/>heutzutage R. <rs type="person">Wagner</rs> thut), wird der in der <rs type="bibl">Dedication
+      <lb facs="#facs_1_region_1709376061810_1771_tl_16" n="N017"/>heutzutage R. <rs type="person" ref="#hsl_person_id_319">Wagner</rs> thut), wird der in der <rs type="bibl" ref="#hsl_work_id_4416">Dedication
       <lb facs="#facs_1_region_1709376061810_1771_tl_17" n="N018"/>der Alceste</rs> ausgesprochene Satz, es sei der Text die rich
       <lb facs="#facs_1_region_1709376061810_1771_tl_18" n="N019" break="no"/>tig und wohl angelegte Zeichnung, welche die Musik ledig
       <lb facs="#facs_1_region_1709376061810_1771_tl_19" n="N020" break="no"/>lich zu coloriren habe, unablässig nachgebetet. Wenn die
@@ -797,7 +797,7 @@
                <p>
       <lb facs="#facs_1_region_1709376061810_1771_tl_28" n="N029"/>„Das <hi rendition="#em">gleichmässige</hi> Genügen an die <hi rendition="#em">musicali
       <lb facs="#facs_1_region_1709376061810_1771_tl_29" n="N030" break="no"/>schen</hi> und die <hi rendition="#em">dramatischen</hi> Anforderungen gilt mit
-      <lb facs="#facs_1_region_1709376061810_1771_tl_30" n="N031"/>Recht für das Ideal der Oper. — Die Finale’s in <rs type="person">Mozart</rs>’s
+      <lb facs="#facs_1_region_1709376061810_1771_tl_30" n="N031"/>Recht für das Ideal der Oper. — Die Finale’s in <rs type="person" ref="#hsl_person_id_189">Mozart</rs>’s
       <lb facs="#facs_1_region_1709376061810_1771_tl_31" n="N032"/>Opern stehen im richtigsten Einklang mit ihrem Texte, hört
       <lb facs="#facs_1_region_1709376061810_1771_tl_32" n="N033"/>man sie <hi rendition="#em">ohne</hi> diesen, so werden Mittelglieder etwa unklar
       <lb facs="#facs_1_region_1709376061810_1771_tl_33" n="N034"/>bleiben, die Hauptpartieen und deren Ganzes aber an sich
@@ -818,18 +818,18 @@
       <lb facs="#facs_1_region_1709376066426_1774_tl_11" n="N011"/><hi rendition="#em">musicalischen</hi> Princip (mit vollem Bewusstsein seiner
       <lb facs="#facs_1_region_1709376066426_1774_tl_12" n="N012"/><hi rendition="#em">realitätfeindlichen</hi> Natur) die Oberherrschaft in ihr
       <lb facs="#facs_1_region_1709376066426_1774_tl_13" n="N013"/>einräumt. In der Wirklichkeit ist dieses Letztere auch bei
-      <lb facs="#facs_1_region_1709376066426_1774_tl_14" n="N014"/><rs type="person">Gluck</rs> und selbst bei <rs type="person">Wagner</rs> der Fall
+      <lb facs="#facs_1_region_1709376066426_1774_tl_14" n="N014"/><rs type="person" ref="#hsl_person_id_99">Gluck</rs> und selbst bei <rs type="person" ref="#hsl_person_id_319">Wagner</rs> der Fall
                      <note type="footnote" n="*)">
                            <lb facs="#facs_1_region_1709376066426_1774_tl_36" n="N036"/>Vergl. die Nachweisung der Wahrheit dieser Behauptung in
-                           <lb facs="#facs_1_region_1709376066426_1774_tl_37" n="N037"/>unseren Artikeln über <hi rendition="#em"><rs type="person">Gluck</rs></hi> und in der kritischen Analyse
-                           <lb facs="#facs_1_region_1709376066426_1774_tl_38" n="N038"/>von <hi rendition="#em"><rs type="person">Wagner</rs>’s</hi> „<rs type="bibl">Tannhäuser</rs>“ in diesen Blättern.
+                           <lb facs="#facs_1_region_1709376066426_1774_tl_37" n="N037"/>unseren Artikeln über <hi rendition="#em"><rs type="person" ref="#hsl_person_id_99">Gluck</rs></hi> und in der kritischen Analyse
+                           <lb facs="#facs_1_region_1709376066426_1774_tl_38" n="N038"/>von <hi rendition="#em"><rs type="person" ref="#hsl_person_id_319">Wagner</rs>’s</hi> „<rs type="bibl" ref="#hsl_work_id_40">Tannhäuser</rs>“ in diesen Blättern.
                      </note>, und der Letztere
       <lb facs="#facs_1_region_1709376066426_1774_tl_15" n="N015"/>hätte sich manch eitles Gerede ersparen können, wenn er
-      <lb facs="#facs_1_region_1709376066426_1774_tl_16" n="N016"/>in den Schriften über den <rs type="person">Gluck</rs>’schen Musikstreit sich in
+      <lb facs="#facs_1_region_1709376066426_1774_tl_16" n="N016"/>in den Schriften über den <rs type="person" ref="#hsl_person_id_99">Gluck</rs>’schen Musikstreit sich in
       <lb facs="#facs_1_region_1709376066426_1774_tl_17" n="N017" break="no"/>formirt hätte, wie viel von der Frage bereits längst bespro
       <lb facs="#facs_1_region_1709376066426_1774_tl_18" n="N018" break="no"/>chen und erledigt worden war.“ —</p>
                <p>
-      <lb facs="#facs_1_region_1709376066426_1774_tl_19" n="N019"/>„Der Haupt-Grundsatz <rs type="person">Wagner</rs>’s, dass „ „der Irrthum
+      <lb facs="#facs_1_region_1709376066426_1774_tl_19" n="N019"/>„Der Haupt-Grundsatz <rs type="person" ref="#hsl_person_id_319">Wagner</rs>’s, dass „ „der Irrthum
       <lb facs="#facs_1_region_1709376066426_1774_tl_20" n="N020"/>der Oper als Kunstgattung darin bestehe, dass ein Mittel
       <lb facs="#facs_1_region_1709376066426_1774_tl_21" n="N021"/>(die Musik) zum Zwecke, der Zweck (das Drama) aber zum
       <lb facs="#facs_1_region_1709376066426_1774_tl_22" n="N022"/>Mittel gemacht werde“ “ — steht gänzlich auf falschem Bo
@@ -852,10 +852,8 @@
             <cb/>
       <lb facs="#facs_2_region_1709376079410_1780_tl_1" n="N001"/>Theorieen, welche der <hi rendition="#em">Musik</hi> die Entwicklungs- und Con
       <lb facs="#facs_2_region_1709376079410_1780_tl_2" n="N002" break="no"/>structions-Gesetze der <hi rendition="#em">Sprache</hi> aufdringen wollen, wie es
-      <lb facs="#facs_2_region_1709376079410_1780_tl_3" n="N003"/>in älterer Zeit <hi rendition="#em">
-                  <rs type="person">Rousseau</rs></hi> und <hi rendition="#em">
-                  <rs type="person">Rameau</rs></hi> gethan, in neue
-      <lb facs="#facs_2_region_1709376079410_1780_tl_4" n="N004" break="no"/>rer Zeit von den Jüngern R. <hi rendition="#em"><rs type="person">Wagner</rs>’s</hi> versucht wird.
+      <lb facs="#facs_2_region_1709376079410_1780_tl_3" n="N003"/>in älterer Zeit <hi rendition="#em"><rs type="person" ref="#hsl_person_id_415">Rousseau</rs></hi> und <hi rendition="#em"><rs type="person" ref="#hsl_person_id_227">Rameau</rs></hi> gethan, in neue
+      <lb facs="#facs_2_region_1709376079410_1780_tl_4" n="N004" break="no"/>rer Zeit von den Jüngern R. <hi rendition="#em"><rs type="person" ref="#hsl_person_id_319">Wagner</rs>’s</hi> versucht wird.
       <lb facs="#facs_2_region_1709376079410_1780_tl_5" n="N005"/>Es wird dabei das wahrhafte Herz der Musik, die in sich
       <lb facs="#facs_2_region_1709376079410_1780_tl_6" n="N006"/>selbst befriedigte Formschönheit, durchstossen und dem
       <lb facs="#facs_2_region_1709376079410_1780_tl_7" n="N007"/>Phantom der „ „Bedeutung“ “ nachgejagt. — In der Sprache
@@ -876,14 +874,14 @@
       <lb facs="#facs_2_region_1709376079410_1780_tl_22" n="N022" break="no"/>dige musicalische Schönheit als ein falsches, sinnliches Prin
       <lb facs="#facs_2_region_1709376079410_1780_tl_23" n="N023" break="no"/>cip anzusehen und die charakteristische Bedeutsamkeit der
       <lb facs="#facs_2_region_1709376079410_1780_tl_24" n="N024"/>Musik dafür auf den Schild zu heben. Ganz abgesehen von
-      <lb facs="#facs_2_region_1709376079410_1780_tl_25" n="N025"/><rs type="person">Wagner</rs>’s Opern findet man in den kleinsten Instrumental
+      <lb facs="#facs_2_region_1709376079410_1780_tl_25" n="N025"/><rs type="person" ref="#hsl_person_id_319">Wagner</rs>’s Opern findet man in den kleinsten Instrumental
       <lb facs="#facs_2_region_1709376079410_1780_tl_26" n="N026" break="no"/>sächelchen Dinge, die sich anstellen, als <hi rendition="#em">bedeuteten</hi> sie
       <lb facs="#facs_2_region_1709376079410_1780_tl_27" n="N027"/>etwas Besonderes“ u. s. w. —</p>
                <p>
-      <lb facs="#facs_2_region_1709376079410_1780_tl_28" n="N028"/>So weit Dr. <rs type="person">Hanslick</rs>.</p>
+      <lb facs="#facs_2_region_1709376079410_1780_tl_28" n="N028"/>So weit Dr. <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>.</p>
                <p>
-      <lb facs="#facs_2_region_1709376079410_1780_tl_29" n="N029"/>Freilich fertigt Herr <hi rendition="#em">Fr. <rs type="person">Brendel</rs></hi> (<rs type="bibl">N. Zeitschrift für
-      <lb facs="#facs_2_region_1709376079410_1780_tl_30" n="N030"/>Musik</rs>, Nr. 10, vom <date when="">2. März</date> die ganze Opposition gegen
+      <lb facs="#facs_2_region_1709376079410_1780_tl_29" n="N029"/>Freilich fertigt Herr <hi rendition="#em">Fr. <rs type="person" ref="#hsl_person_id_1745">Brendel</rs></hi> (<rs type="bibl" ref="#hsl_work_id_553">N. Zeitschrift für
+      <lb facs="#facs_2_region_1709376079410_1780_tl_30" n="N030"/>Musik</rs>, Nr. 10, vom 2. März die ganze Opposition gegen
       <lb facs="#facs_2_region_1709376079410_1780_tl_31" n="N031"/>das Princip von der Bestimmtheit des Ausdrucks mit fol
       <lb facs="#facs_2_region_1709376079410_1780_tl_32" n="N032" break="no"/>genden Worten ab:</p>
                <p>
@@ -897,19 +895,19 @@
       <lb facs="#facs_2_region_1709376079410_1780_tl_40" n="N040"/>um eine neue Schönheit, auf deren Grundlage
       <lb facs="#facs_2_region_1709376079410_1780_tl_41" n="N041"/>höchste Bestimmtheit möglich ist</hi>, und hierin
       <lb facs="#facs_2_region_1709376079410_1780_tl_42" n="N042"/>[worin denn?] liegt die Lösung des Conflictes. Dieses Stre
-      <lb facs="#facs_2_region_1709376079410_1780_tl_43" n="N043" break="no"/>ben verkennt <rs type="person">Hanslick</rs> total, und so gelangt er zu dem ver
+      <lb facs="#facs_2_region_1709376079410_1780_tl_43" n="N043" break="no"/>ben verkennt <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> total, und so gelangt er zu dem ver
       <lb facs="#facs_2_region_1709376079410_1780_tl_44" n="N044" break="no"/>kehrten, nebenbei auch sehr rücksichtslosen Urtheile über
-      <lb facs="#facs_2_region_1709376079410_1780_tl_45" n="N045"/><rs type="person">Wagner</rs>.“ —</p>
+      <lb facs="#facs_2_region_1709376079410_1780_tl_45" n="N045"/><rs type="person" ref="#hsl_person_id_319">Wagner</rs>.“ —</p>
                <p>
       <lb facs="#facs_2_region_1709376079410_1780_tl_46" n="N046"/>Ist das eine Widerlegung? Man definire uns doch
       <lb facs="#facs_2_region_1709376079410_1780_tl_47" n="N047"/>diese <hi rendition="#em">neue</hi> Schönheit; man zeige uns vor Allem ihre Kri
            <cb/>
       <lb facs="#facs_2_region_1709376084970_1783_tl_1" n="N001" break="no"/>terien als <hi rendition="#em">musicalische</hi> Schönheit. Denn wenn wir auch
-      <lb facs="#facs_2_region_1709376084970_1783_tl_2" n="N002"/>momentan auf die so genannten Principe der <rs type="person">Wagner</rs>-Secte
+      <lb facs="#facs_2_region_1709376084970_1783_tl_2" n="N002"/>momentan auf die so genannten Principe der <rs type="person" ref="#hsl_person_id_319">Wagner</rs>-Secte
       <lb facs="#facs_2_region_1709376084970_1783_tl_3" n="N003"/>eingehen wollen, wonach „nur die <hi rendition="#em">specifisch musica
       <lb facs="#facs_2_region_1709376084970_1783_tl_4" n="N004" break="no"/>lische</hi> Schönheit <hi rendition="#em">vernichtet</hi> werden soll“ — mithin,
       <lb facs="#facs_2_region_1709376084970_1783_tl_5" n="N005"/>beiläufig gesagt, alle Instrumental-Musik —, „eine <hi rendition="#em">neue</hi>
-               <lb facs="#facs_2_region_1709376084970_1783_tl_6" n="N006"/>aber aus dem <hi rendition="#em">neuen</hi> Princip geboren“ (<rs type="person">Brendel</rs> a. a. O.);
+               <lb facs="#facs_2_region_1709376084970_1783_tl_6" n="N006"/>aber aus dem <hi rendition="#em">neuen</hi> Princip geboren“ (<rs type="person" ref="#hsl_person_id_1745">Brendel</rs> a. a. O.);
       <lb facs="#facs_2_region_1709376084970_1783_tl_7" n="N007"/>wenn wir also auf diese Voraussetzung eingehen wollen,
       <lb facs="#facs_2_region_1709376084970_1783_tl_8" n="N008"/>so soll doch die <hi rendition="#em">neue</hi> Schönheit ein Product <hi rendition="#em">aller</hi>
                <lb facs="#facs_2_region_1709376084970_1783_tl_9" n="N009"/>Künste sein, ein Werk der Vereinigung aller besonderen
@@ -923,8 +921,8 @@
       <lb facs="#facs_2_region_1709376084970_1783_tl_17" n="N017"/>Sollen etwa auch die <hi rendition="#em">Poesie</hi> und die <hi rendition="#em">Malerei</hi> u. s. w.
       <lb facs="#facs_2_region_1709376084970_1783_tl_18" n="N018"/>in eurem Kunstwerke der Allkunst ein <hi rendition="#em">anderes</hi> Schönes
       <lb facs="#facs_2_region_1709376084970_1783_tl_19" n="N019"/>liefern als das, was bisher als das <hi rendition="#em">poetisch</hi> Schöne, als
-      <lb facs="#facs_2_region_1709376084970_1783_tl_20" n="N020"/>das <hi rendition="#em">malerisch</hi> Schöne u. s. w. galt? Ist z. B. <rs type="person">Göthe</rs>’s
-      <lb facs="#facs_2_region_1709376084970_1783_tl_21" n="N021"/><rs type="bibl">Iphigenie</rs> der <rs type="bibl">Iphigenie</rs> von <rs type="person">Gluck</rs> unterzuordnen, weil jene
+      <lb facs="#facs_2_region_1709376084970_1783_tl_20" n="N020"/>das <hi rendition="#em">malerisch</hi> Schöne u. s. w. galt? Ist z. B. <rs type="person" ref="#hsl_person_id_100">Göthe</rs>’s
+      <lb facs="#facs_2_region_1709376084970_1783_tl_21" n="N021"/><rs type="bibl" ref="#hsl_work_id_3315">Iphigenie</rs> der <rs type="bibl" ref="#hsl_work_id_165">Iphigenie</rs> von <rs type="person" ref="#hsl_person_id_99">Gluck</rs> unterzuordnen, weil jene
       <lb facs="#facs_2_region_1709376084970_1783_tl_22" n="N022"/>das specifisch poetische Schöne rein und allein, ohne das
       <lb facs="#facs_2_region_1709376084970_1783_tl_23" n="N023"/>musicalische, und diese eine Abschwächung des poetisch
       <lb facs="#facs_2_region_1709376084970_1783_tl_24" n="N024"/>Schönen durch das überwältigende musicalisch Schöne ent
@@ -950,12 +948,12 @@
       <lb facs="#facs_2_region_1709376084970_1783_tl_44" n="N043"/>das musicalische erzeugen? — „Allerdings.“ — Hm! Dem
       <lb facs="#facs_2_region_1709376084970_1783_tl_45" n="N044" break="no"/>nach müsste ja das Höchstschöne in der Poesie auch das
       <lb facs="#facs_2_region_1709376084970_1783_tl_46" n="N045"/>Höchstschöne in der Musik erzeugen? — „Das ist die noth
-      <lb facs="#facs_2_region_1709376084970_1783_tl_47" n="N046" break="no"/>wendige Folge.“ — Dann müsst ihr, um <rs type="person">Gluck</rs> total zu
-      <lb facs="#facs_2_region_1709376084970_1783_tl_48" n="N047"/>schlagen, <rs type="person">Göthe</rs>’s <rs type="bibl">Iphigenie</rs> componiren, d. h. das Gedicht
+      <lb facs="#facs_2_region_1709376084970_1783_tl_47" n="N046" break="no"/>wendige Folge.“ — Dann müsst ihr, um <rs type="person" ref="#hsl_person_id_99">Gluck</rs> total zu
+      <lb facs="#facs_2_region_1709376084970_1783_tl_48" n="N047"/>schlagen, <rs type="person" ref="#hsl_person_id_100">Göthe</rs>’s <rs type="bibl" ref="#hsl_work_id_3315">Iphigenie</rs> componiren, d. h. das Gedicht
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
             <cb/>
       <lb facs="#facs_3_region_1709376095850_1789_tl_1" n="N001"/>sich selbst musicalisch wiedererzeugen lassen, etwa à la
-      <lb facs="#facs_3_region_1709376095850_1789_tl_2" n="N002"/>Louis <rs type="person">Köhler</rs>. —</p>
+      <lb facs="#facs_3_region_1709376095850_1789_tl_2" n="N002"/>Louis <rs type="person" ref="#hsl_person_id_5995">Köhler</rs>. —</p>
                <p>
       <lb facs="#facs_3_region_1709376095850_1789_tl_3" n="N003"/>„Das geht zu weit, das ist ein Missverständniss. Um
       <lb facs="#facs_3_region_1709376095850_1789_tl_4" n="N004"/>die Zeugung des Dichters im Allkunstwerke zu verleben
@@ -990,7 +988,7 @@
       <lb facs="#facs_3_region_1709376095850_1789_tl_26" n="N026"/>wollt ihr denn nun, als Hermaphroditen, irgendwie produc
       <lb facs="#facs_3_region_1709376095850_1789_tl_27" n="N027" break="no"/>tiv sein? Das Endergebniss ist, dass ihr weder Poeten noch
       <lb facs="#facs_3_region_1709376095850_1789_tl_28" n="N028"/>Tonkünstler seid.
-      <lb facs="#facs_3_region_1709376095850_1789_tl_29" n="N029"/>L. <rs type="person">B.</rs>
+      <lb facs="#facs_3_region_1709376095850_1789_tl_29" n="N029"/>L. <rs type="person" ref="#hsl_person_id_4880">B.</rs>
             </p>
          </div>
       </body>
