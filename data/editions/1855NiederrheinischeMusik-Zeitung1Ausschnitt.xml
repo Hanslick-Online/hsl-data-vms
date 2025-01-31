@@ -107,7 +107,7 @@
          <change who="awilfing" when="2025-01-20 ">Headers Anpassung</change>
          <change who="ampfiel" when="2025-01-21">Transkribus OCR und Lektorat.</change>
          <change who="ampfiel" when="2025-01-24">header richtigstellen, Absätze, Fußnoten, Zeilenumbrüche</change>
-         <change who="ampfiel" when="2025-01-27">person u place ref fertig</change>
+         <change who="ampfiel" when="2025-01-27">rs ref, space einfügen</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -3430,7 +3430,7 @@
    </facsimile>
    <text>
       <body>
-         <div>
+         <div n="1">
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
             <cb n="1"/>
       <head type="h1">
@@ -3850,11 +3850,11 @@
       <lb facs="#facs_5_region_1709375724650_1665_tl_17" n="N017"/>Universum sich finden, so findet der Mensch wieder in der
       <lb facs="#facs_5_region_1709375724650_1665_tl_18" n="N018"/>Musik das ganze Universum.“</p>
 </div>
-<div>
+         <div n="2">
             <pb facs="#facs_6" n="6" xml:id="img_0006"/>
             <cb n="11"/>
-      <lb facs="#facs_6_line_1736106606881_378" n="N001"/>Nr. 8. <rs type="place">KÖLN</rs>, 24. Februar <date when="1855">1855</date>. III. Jahrgang
-            
+      <head type="h3">
+            <lb facs="#facs_6_line_1736106606881_378" n="N001"/>Nr. 8. <rs type="place" ref="#hsl_place_id_68">KÖLN</rs>, 24. Februar <date when="1855">1855</date>. III. Jahrgang</head>
       <cb n="12"/>
       <head type="h1">
             <lb facs="#facs_6_region_1709375767730_1677_tl_1" n="N001"/>Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>.</head>
@@ -4162,10 +4162,11 @@
       <lb facs="#facs_9_region_1709375869634_1704_tl_2" n="N002" break="no"/>heit, durchstossen und dem Phantom der „ „Bedeutung“ “
       <lb facs="#facs_9_region_1709375869634_1704_tl_3" n="N003"/>nachgejagt.“</p>
 </div>      
-<div>      
+         <div n="3">
             <pb facs="#facs_10" n="10" xml:id="img_0010"/>
             <cb n="20"/>
-      <lb facs="#facs_10_line_1736974196948_643" n="N001"/>Nr. 9. <rs type="place">KÖLN</rs>, 3. März <date month="0" day="0" year="0">1855</date>. III. Jahrgang
+      <head type="h3">
+            <lb facs="#facs_10_line_1736974196948_643" n="N001"/>Nr. 9. <rs type="place" ref="#hsl_place_id_68">KÖLN</rs>, 3. März <date when="1855">1855</date>. III. Jahrgang</head>
             <cb n="21"/>
       <head type="h1">
             <lb facs="#facs_10_region_1709375902962_1716_tl_1" n="N001"/>Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>.</head>
@@ -4288,10 +4289,10 @@
       <lb facs="#facs_11_region_1709375932857_1725_tl_29" n="N029"/>Erscheinungsform in der Tonkunst handelt der folgende
       <lb facs="#facs_11_region_1709375932857_1725_tl_30" n="N030"/>Abschnitt.</p>
 </div>      
-<div>      
+         <div n="4">
             <pb facs="#facs_12" n="12" xml:id="img_0012"/>
-            <cb n="25"/>
-      <lb facs="#facs_12_line_1736861831810_193" n="N001"/>Nr. 10. <rs type="place">KÖLN</rs>, 10. März <date month="0" day="0" year="0">1855</date>. III. Jahrgang
+      <head type="h3">
+            <lb facs="#facs_12_line_1736861831810_193" n="N001"/>Nr. 10. <rs type="place" ref="#hsl_place_id_68">KÖLN</rs>, 10. März <date when="1855">1855</date>. III. Jahrgang</head>
             <cb n="26"/>
       <head type="h1">
             <lb facs="#facs_12_region_1709375969162_1737_tl_1" n="N001"/>Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>.</head>
