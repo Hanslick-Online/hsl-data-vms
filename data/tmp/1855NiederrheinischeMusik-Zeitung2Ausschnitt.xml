@@ -662,7 +662,7 @@
          <graphic url="1855NiederrheinischeMusik-Zeitung2Ausschnitt-0003.jpeg"
                   width="2479px"
                   height="3508px"/>
-         <zone points="120,722 1174,722 1174,2301 120,2301"
+         <zone points="120,722 1174,722 1177,3402 123,3402"
                rendition="TextRegion"
                xml:id="facs_3_region_1709376095850_1789">
             <zone points="127,810 1170,807 1170,748 1119,731 963,762 127,754"
@@ -752,6 +752,15 @@
             <zone points="972,2282 1000,2297 1023,2297 1028,2292 1036,2298 1054,2298 1062,2292 1071,2297 1086,2291 1086,2233 1072,2228 1063,2235 1050,2227 1026,2246 1010,2235 991,2237 987,2233 972,2241"
                   rendition="Line"
                   xml:id="facs_3_region_1709376095850_1789_tl_29"/>
+            <zone points="160,3111 1166,3111 1166,3161 160,3161"
+                  rendition="Line"
+                  xml:id="facs_3_line_1737753101553_166"/>
+            <zone points="1166,3161 189,3161 189,3200 1166,3200"
+                  rendition="Line"
+                  xml:id="facs_3_line_1737753103918_169"/>
+            <zone points="189,3200 660,3200 660,3245 189,3245"
+                  rendition="Line"
+                  xml:id="facs_3_line_1737753106387_172"/>
          </zone>
       </surface>
    </facsimile>
@@ -1003,7 +1012,9 @@
       <lb facs="#facs_3_region_1709376095850_1789_tl_27" n="N027"/>tiv sein? Das Endergebniss ist, dass ihr weder Poeten noch
       <lb facs="#facs_3_region_1709376095850_1789_tl_28" n="N028"/>Tonkünstler seid.
       <lb facs="#facs_3_region_1709376095850_1789_tl_29" n="N029"/>L. <rs type="person">B.</rs>
-            </ab>
+               <lb facs="#facs_3_line_1737753101553_166" n="N030"/>*) Dies sind keine Unterschiebungen. Man lese <rs type="person">Wagner</rs>’s Schrif¬
+      <lb facs="#facs_3_line_1737753103918_169" n="N031"/>ten; er treibt diese Symbolik viel deutlicher und weiter, als
+      <lb facs="#facs_3_line_1737753106387_172" n="N032"/>wir hier angedeutet haben.</ab>
          </div>
       </body>
    </text>
