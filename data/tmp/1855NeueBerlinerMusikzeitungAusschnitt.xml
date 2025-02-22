@@ -122,6 +122,9 @@
          <zone points="261,2206 3343,1734 4796,1734 7911,2206 7911,2991 261,2991"
                rendition="TextRegion"
                xml:id="facs_1_TextRegion_1709374949395_1438">
+            <zone points="3423,1729 4922,1729 4922,2252 3423,2252"
+                  rendition="Line"
+                  xml:id="facs_1_line_1740060109353_5"/>
             <zone points="877,2806 3783,2067 4285,2049 4731,2079 7621,2825 7621,2875 6702,2875 1157,2869 877,2856"
                   rendition="Line"
                   xml:id="facs_1_line_1709382059649_2387"/>
@@ -292,15 +295,17 @@
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
             <ab facs="#facs_1_region_1709374934858_1429" type="">
-               <lb facs="#facs_1_line_1709382021136_2351" n="N001"/>Neunter Jahrgang No. 42. 17. October 1855</ab>
+               <lb facs="#facs_1_line_1709382021136_2351" n="N001"/>Neunter Jahrgang No. 42. 17. October <date month="0" day="0" year="0">1855</date>
+            </ab>
             <ab facs="#facs_1_TextRegion_1709374949395_1438" type="">
-               <lb facs="#facs_1_line_1709382059649_2387" n="N001"/>Neue Berliner Musikzeitung</ab>
+               <lb facs="#facs_1_line_1740060109353_5" n="N001"/>Neue
+      <lb facs="#facs_1_line_1709382059649_2387" n="N002"/>Berliner Musikzeitung</ab>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <ab facs="#facs_2_region_1709374989506_1444" type="">
                <lb facs="#facs_2_region_1709374989506_1444_tl_1" n="N001"/>Musik-Literatur.
-      <lb facs="#facs_2_region_1709374989506_1444_tl_2" n="N002"/>Dr. Eduard Hanslick, Vom Musikalisch-Schönen. Ein
-      <lb facs="#facs_2_region_1709374989506_1444_tl_3" n="N003"/>Beitrag zur Revision der Ästhetik der Tonkunst. Leipzig,
-      <lb facs="#facs_2_region_1709374989506_1444_tl_4" n="N004"/>bei R. Weigel. 1854.
+      <lb facs="#facs_2_region_1709374989506_1444_tl_2" n="N002"/>Dr. Eduard <rs type="person">Hanslick</rs>, <rs type="bibl">Vom Musikalisch-Schönen</rs>. Ein
+      <lb facs="#facs_2_region_1709374989506_1444_tl_3" n="N003"/>Beitrag zur Revision der Ästhetik der Tonkunst. <rs type="place">Leipzig</rs>,
+      <lb facs="#facs_2_region_1709374989506_1444_tl_4" n="N004"/>bei R. <rs type="person">Weigel</rs>. <date month="0" day="0" year="0">1854</date>.
       <lb facs="#facs_2_region_1709374989506_1444_tl_5" n="N005"/>Diese Schrift, obwohl nur eine Broschüre von 100 und
       <lb facs="#facs_2_region_1709374989506_1444_tl_6" n="N006"/>einigen Seiten, enthält einen so reichen Inhalt anregender,
       <lb facs="#facs_2_region_1709374989506_1444_tl_7" n="N007"/>gesunder und oft tiefer Lichtblicke in das Reich der Töne,
@@ -310,16 +315,16 @@
       <lb facs="#facs_2_region_1709374989506_1444_tl_11" n="N011"/>lichst bekannt, besitzt sowohl musikalische wie wissenschaft¬
       <lb facs="#facs_2_region_1709374989506_1444_tl_12" n="N012"/>liche Bildung, die ihn befähigt, in den Gegenstand tief ein¬
       <lb facs="#facs_2_region_1709374989506_1444_tl_13" n="N013"/>zudringen. Dennoch will er hier nur anregen. Man könnte
-      <lb facs="#facs_2_region_1709374989506_1444_tl_14" n="N014"/>seine Schrift eine Einleitung zur Asthetik der Musik nennen;
+      <lb facs="#facs_2_region_1709374989506_1444_tl_14" n="N014"/>seine Schrift eine Einleitung zur Ästhetik der Musik nennen;
       <lb facs="#facs_2_region_1709374989506_1444_tl_15" n="N015"/>sie will die Grundsätze hinstellen, aus denen eine Revision
       <lb facs="#facs_2_region_1709374989506_1444_tl_16" n="N016"/>der bisherigen Ästhetik der Tonkunst hervorgehen soll. Im
-      <lb facs="#facs_2_region_1709374989506_1444_tl_17" n="N017"/>Princip ist die Schrift gegen die „verrottete Gefühlsästhetik
+      <lb facs="#facs_2_region_1709374989506_1444_tl_17" n="N017"/>Princip ist die Schrift gegen die „verrottete Gefühlsästhetik“
       <lb facs="#facs_2_region_1709374989506_1444_tl_18" n="N018"/>gerichtet und hat daher theils einen polemisch-negativen,
-      <lb facs="#facs_2_region_1709374989506_1444_tl_19" n="N019"/>theils einen fundamental positiven Charakter. Die sieben
+      <lb facs="#facs_2_region_1709374989506_1444_tl_19" n="N019"/>theils einen fundamental-positiven Charakter. Die sieben
       <lb facs="#facs_2_region_1709374989506_1444_tl_20" n="N020"/>kleinen Kapitel weisen den unwissenschaftlichen Standpunkt
-      <lb facs="#facs_2_region_1709374989506_1444_tl_21" n="N021"/>der bisherigen musikalischen Asthetik nach, indem besonders
-      <lb facs="#facs_2_region_1709374989506_1444_tl_22" n="N022"/>darauf Acht gegeben wird, dass die Gefühle nicht Zweck,
-      <lb facs="#facs_2_region_1709374989506_1444_tl_23" n="N023"/>ebensowenig Inhalt der Musik seien, dass vielmehr das
+      <lb facs="#facs_2_region_1709374989506_1444_tl_21" n="N021"/>der bisherigen musikalischen Ästhetik nach, indem besonders
+      <lb facs="#facs_2_region_1709374989506_1444_tl_22" n="N022"/>darauf Acht gegeben wird, dass die <hi rendition="#em">Gefühle</hi> nicht <hi rendition="#em">Zweck</hi>,
+      <lb facs="#facs_2_region_1709374989506_1444_tl_23" n="N023"/>ebensowenig <hi rendition="#em">Inhalt</hi> der Musik seien, dass vielmehr das
       <lb facs="#facs_2_region_1709374989506_1444_tl_24" n="N024"/>Musikalisch-Schöne, d. h. tönend bewegte Formen einzig
       <lb facs="#facs_2_region_1709374989506_1444_tl_25" n="N025"/>und allein Inhalt und Gegenstand der Musik bilden. Auf
       <lb facs="#facs_2_region_1709374989506_1444_tl_26" n="N026"/>dieser Ansicht, die ebenso wissenschaftlich als geistreich
