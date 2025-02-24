@@ -83,8 +83,8 @@
                         <name type="person" ref="#hsl_person_id_6452">Glöggl, Franz</name>
                      </respStmt>
                      <imprint>
-                        <pubPlace/>
-                        <date/>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1855-05-24">1855-05-24</date>
                      </imprint>
                   </monogr>
                </biblStruct>
