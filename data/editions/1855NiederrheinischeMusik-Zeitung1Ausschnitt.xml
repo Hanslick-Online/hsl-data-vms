@@ -106,7 +106,7 @@
          <change who="awilfing" when="2024-11-01 ">Projektbeginn</change>
          <change who="awilfing" when="2025-01-20 ">Headers Anpassung</change>
          <change who="ampfiel" when="2025-01-21">Transkribus OCR und Lektorat.</change>
-         <change who="ampfiel" when="2025-01-24">header richtigstellen, Absätze, Fußnoten, Zeilenumbrüche</change>
+         <change who="ampfiel" when="2025-01-24">Header, Fußnoten, Layout</change>
          <change who="ampfiel" when="2025-01-27">rs ref, space einfügen</change>
       </revisionDesc>
    </teiHeader>
