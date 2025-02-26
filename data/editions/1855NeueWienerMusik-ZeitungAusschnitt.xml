@@ -3,8 +3,8 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
-            <title level="a">1855 Neue Wiener Musik-Zeitung (Ausschnitt)</title>
-            <author/>
+            <title level="a"/>
+               <author ref="#hsl_person_id_6453">H. — L.</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
             </editor>
@@ -72,19 +72,19 @@
             <listBibl>
                <biblStruct>
                   <analytic>
-                     <title/>
-                     <author/>
+                     <title>Literarische Anzeige</title>
+                     <author ref="#hsl_person_id_6453">H. — L.</author>
                   </analytic>
                   <monogr>
-                     <title type="main"/>
-                     <title type="sub"/>
+                     <title type="main">Neue Wiener Musik-Zeitung</title>
+                     <title type="sub">Vierter Jahrgang Nr. 21. 24. Mai 1855</title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
-                        <name type="person"/>
+                        <name type="person" ref="#hsl_person_id_6452">Glöggl, Franz</name>
                      </respStmt>
                      <imprint>
-                        <pubPlace/>
-                        <date/>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1855-05-24">1855-05-24</date>
                      </imprint>
                   </monogr>
                </biblStruct>
@@ -105,6 +105,9 @@
       <revisionDesc status="draft">
          <change who="awilfling" when="2024-11-01 ">Projektbeginn</change>
          <change who="awilfling" when="2025-01-20 ">Headers Anpassung</change>
+         <change who="ampfiel" when="2025-02-19">Transkribus OCR und Lektorat.</change>
+         <change who="delsner" when="2025-02-22">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
+         <change who="ampfiel" when="2025-02-24">Header, Layout, rs ref ausfüllen</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -389,110 +392,93 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <ab facs="#facs_1_region_1709375017978_1457" type="">
-               <lb facs="#facs_1_line_1709382154153_2407" n="N001"/>Vierter Jahrgang Nr. 21. 24. Mai <date month="0" day="0" year="0">1855</date>.</ab>
-            <ab facs="#facs_1_TextRegion_1709375025193_1462" type="">
-               <lb facs="#facs_1_line_1739997969434_16" n="N001"/>Neue Wiener
-      <lb facs="#facs_1_line_1709382187608_2435" n="N002"/>Musik-Zeitung</ab>
-            <ab facs="#facs_1_region_1709375039906_1465" type="">
-               <lb facs="#facs_1_line_1739998041122_26" n="N001"/>
-               <hi rendition="#em">Literarische Anzeige</hi>.
-      <lb facs="#facs_1_line_1739998028851_22" n="N002"/>„<rs type="bibl">Vom Musikalisch-Schönen</rs>“. Ein Beitrag zur
-      <lb facs="#facs_1_region_1709375039906_1465_tl_3" n="N003"/>Revision der Aesthetik der Tonkunst. Von Dr. Eduard
-      <lb facs="#facs_1_region_1709375039906_1465_tl_4" n="N004"/>
-               <hi rendition="#em">
-                  <rs type="person">Hanslick</rs>
-               </hi>. <rs type="place">Leipzig</rs>, Rudolf <hi rendition="#em">
-                  <rs type="person">Weigel</rs>
-               </hi>
-               <date month="0" day="0" year="0">1834</date>.
-      <lb facs="#facs_1_region_1709375039906_1465_tl_5" n="N005"/>(<rs type="person">H. — L.</rs>) Dieses Büchlein enthält im engen Rahmen rei¬
-      <lb facs="#facs_1_region_1709375039906_1465_tl_6" n="N006"/>chen und gehaltvollen Inhalt, der auch bereits in ganz <rs type="place">Deutsch¬</rs>
-               <lb facs="#facs_1_region_1709375039906_1465_tl_7" n="N007"/>
-               <rs type="place">land</rs> ehrende Anerkennug gefunden hat. Da es die Grundsätze,
-      <lb facs="#facs_1_region_1709375039906_1465_tl_8" n="N008"/>welche eine Revision der Aesthetik der Tonkunst in ihrer kriti¬
-      <lb facs="#facs_1_region_1709375039906_1465_tl_9" n="N009"/>schen und konstruirenden Thätigkeit festzuhalten hätte, nicht nur
+      <head type="h1">
+            <lb facs="#facs_1_line_1739998041122_26" n="N001"/><hi rendition="#em">Literarische Anzeige</hi>.</head>
+      <head type="h2">
+            <lb facs="#facs_1_line_1739998028851_22" n="N002"/>„<rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>“. Ein Beitrag zur
+            <lb facs="#facs_1_region_1709375039906_1465_tl_3" n="N003"/>Revision der Aesthetik der Tonkunst. Von Dr. Eduard
+            <lb facs="#facs_1_region_1709375039906_1465_tl_4" n="N004"/><hi rendition="#em"><rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi>. <rs type="place" ref="#hsl_place_id_32">Leipzig</rs>, Rudolf <hi rendition="#em"><rs type="person" ref="#hsl_person_id_377">Weigel</rs></hi><space quantity="1" unit="char"/><date when="1834">1834</date>.</head>
+            <p>      
+      <lb facs="#facs_1_region_1709375039906_1465_tl_5" n="N005"/>(<rs type="person" ref="#hsl_person_id_6453">H. — L.</rs>) Dieses Büchlein enthält im engen Rahmen rei
+      <lb facs="#facs_1_region_1709375039906_1465_tl_6" n="N006" break="no"/>chen und gehaltvollen Inhalt, der auch bereits in ganz <rs type="place" ref="#hsl_place_id_14">Deutsch
+      <lb facs="#facs_1_region_1709375039906_1465_tl_7" n="N007" break="no"/>land</rs> ehrende Anerkennug gefunden hat. Da es die Grundsätze,
+      <lb facs="#facs_1_region_1709375039906_1465_tl_8" n="N008"/>welche eine Revision der Aesthetik der Tonkunst in ihrer kriti
+      <lb facs="#facs_1_region_1709375039906_1465_tl_9" n="N009" break="no"/>schen und konstruirenden Thätigkeit festzuhalten hätte, nicht nur
       <lb facs="#facs_1_region_1709375039906_1465_tl_10" n="N010"/>wie der Verfasser in dem Vorworte sagt, hinzustellen versucht,
       <lb facs="#facs_1_region_1709375039906_1465_tl_11" n="N011"/>sondern in doppelter Richtung beleuchtet und ausführt, nemlich
-      <lb facs="#facs_1_region_1709375039906_1465_tl_12" n="N012"/>sowohl durch einen berichtigenden Einblick auf die bisher gang¬
-      <lb facs="#facs_1_region_1709375039906_1465_tl_13" n="N013"/>baren Ansichten und Auffassungen als durch eine auf scharfer
-      <lb facs="#facs_1_region_1709375039906_1465_tl_14" n="N014"/>Begriffs-Sonderung beruhende positive Entwickelung des Mu¬
-      <lb facs="#facs_1_region_1709375039906_1465_tl_15" n="N015"/>sikalisch-Schönen an sich mit Bezug auf die es erzeugende gei¬
-      <lb facs="#facs_1_region_1709375039906_1465_tl_16" n="N016"/>stige Thätigkeit, des subjectiven Eindrucks der Musik, der ästhe¬
-      <lb facs="#facs_1_region_1709375039906_1465_tl_17" n="N017"/>tischen Auffassung derselben gegenüber der pathologischen, der
+      <lb facs="#facs_1_region_1709375039906_1465_tl_12" n="N012"/>sowohl durch einen berichtigenden Einblick auf die bisher gang
+      <lb facs="#facs_1_region_1709375039906_1465_tl_13" n="N013" break="no"/>baren Ansichten und Auffassungen als durch eine auf scharfer
+      <lb facs="#facs_1_region_1709375039906_1465_tl_14" n="N014"/>Begriffs-Sonderung beruhende positive Entwickelung des Mu
+      <lb facs="#facs_1_region_1709375039906_1465_tl_15" n="N015" break="no"/>sikalisch-Schönen an sich mit Bezug auf die es erzeugende gei
+      <lb facs="#facs_1_region_1709375039906_1465_tl_16" n="N016" break="no"/>stige Thätigkeit, des subjectiven Eindrucks der Musik, der ästhe
+      <lb facs="#facs_1_region_1709375039906_1465_tl_17" n="N017" break="no"/>tischen Auffassung derselben gegenüber der pathologischen, der
       <lb facs="#facs_1_region_1709375039906_1465_tl_18" n="N018"/>Beziehungen der Tonkunst zur Natur, des Inhalts und der Form
-      <lb facs="#facs_1_region_1709375039906_1465_tl_19" n="N019"/>in der Musik — so würde man — um eine vollständige, gewis¬
-      <lb facs="#facs_1_region_1709375039906_1465_tl_20" n="N020"/>senhafte Würdigung dieser Schrift und der in ihr enthaltenen
+      <lb facs="#facs_1_region_1709375039906_1465_tl_19" n="N019"/>in der Musik — so würde man — um eine vollständige, gewis
+      <lb facs="#facs_1_region_1709375039906_1465_tl_20" n="N020" break="no"/>senhafte Würdigung dieser Schrift und der in ihr enthaltenen
       <lb facs="#facs_1_region_1709375039906_1465_tl_21" n="N021"/>Keime zur richtigen und fruchtbringenden Erkenntniß des Wesens
-      <lb facs="#facs_1_region_1709375039906_1465_tl_22" n="N022"/>der Tonkunst und ihrer Geheimnisse zu geben — ein kaum min¬
-      <lb facs="#facs_1_region_1709375039906_1465_tl_23" n="N023"/>der umfangreiches Referat liefern müssen, als das Werk selbst
-      <lb facs="#facs_1_region_1709375039906_1465_tl_24" n="N024"/>ist; denn da es sich um alle wesentlichen Elemente der Erkennt¬
-      <lb facs="#facs_1_region_1709375039906_1465_tl_25" n="N025"/>niß des Schönen in der Musik, der subjectiven und objectiven
-      <lb facs="#facs_1_region_1709375039906_1465_tl_26" n="N026"/>Bedeutung derselben handelt, so könnte nur durch eine tief ein¬
-      <lb facs="#facs_1_region_1709375039906_1465_tl_27" n="N027"/>gehende Betrachtung der von dem Verfasser mit der größten
-      <lb facs="#facs_1_region_1709375039906_1465_tl_28" n="N028"/>Entschiedenheit der Meinung und scharfer Polemik gegen bishe¬
-      <lb facs="#facs_1_region_1709375039906_1465_tl_29" n="N029"/>rige und gegen neu aufgetauchte Ansichten über Wesen, Inhalt
+      <lb facs="#facs_1_region_1709375039906_1465_tl_22" n="N022"/>der Tonkunst und ihrer Geheimnisse zu geben — ein kaum min
+      <lb facs="#facs_1_region_1709375039906_1465_tl_23" n="N023" break="no"/>der umfangreiches Referat liefern müssen, als das Werk selbst
+      <lb facs="#facs_1_region_1709375039906_1465_tl_24" n="N024"/>ist; denn da es sich um alle wesentlichen Elemente der Erkennt
+      <lb facs="#facs_1_region_1709375039906_1465_tl_25" n="N025" break="no"/>niß des Schönen in der Musik, der subjectiven und objectiven
+      <lb facs="#facs_1_region_1709375039906_1465_tl_26" n="N026"/>Bedeutung derselben handelt, so könnte nur durch eine tief ein
+      <lb facs="#facs_1_region_1709375039906_1465_tl_27" n="N027" break="no"/>gehende Betrachtung der von dem Verfasser mit der größten
+      <lb facs="#facs_1_region_1709375039906_1465_tl_28" n="N028"/>Entschiedenheit der Meinung und scharfer Polemik gegen bishe
+      <lb facs="#facs_1_region_1709375039906_1465_tl_29" n="N029" break="no"/>rige und gegen neu aufgetauchte Ansichten über Wesen, Inhalt
       <lb facs="#facs_1_region_1709375039906_1465_tl_30" n="N030"/>und Zweck der Musik hingestellten Behauptungen etwas dem
       <lb facs="#facs_1_region_1709375039906_1465_tl_31" n="N031"/>Werthe des Buches wenigstens durch Vollständigkeit und Ernst
       <lb facs="#facs_1_region_1709375039906_1465_tl_32" n="N032"/>Entsprechendes geliefert werden. Da hierzu der Raum dieser
       <lb facs="#facs_1_region_1709375039906_1465_tl_33" n="N033"/>Blätter nicht hinreicht, so begnügen wir uns damit, das geistreiche
-      <lb facs="#facs_1_region_1709375039906_1465_tl_34" n="N034"/>und höchst anregende Werkchen der Aufmerksamkeit des musik¬
-      <lb facs="#facs_1_region_1709375039906_1465_tl_35" n="N035"/>freundlichen Publikums zu empfehlen.
-      <lb facs="#facs_1_region_1709375039906_1465_tl_36" n="N036"/>Inwieferne es vor allem die objektive Erkenntniß des mu¬
-      <lb facs="#facs_1_region_1709375039906_1465_tl_37" n="N037"/>sikalisch-Schönen als Produkt der schaffenden Phantasie gegen¬</ab>
-            <ab facs="#facs_1_region_1709375043722_1468" type="">
-               <lb facs="#facs_1_region_1709375043722_1468_tl_1" n="N001"/>über der bisherigen Gefühlsästhetik zu vermitteln sucht, tritt es
+      <lb facs="#facs_1_region_1709375039906_1465_tl_34" n="N034"/>und höchst anregende Werkchen der Aufmerksamkeit des musik
+      <lb facs="#facs_1_region_1709375039906_1465_tl_35" n="N035" break="no"/>freundlichen Publikums zu empfehlen.</p>
+               <p>
+      <lb facs="#facs_1_region_1709375039906_1465_tl_36" n="N036"/>Inwieferne es vor allem die objektive Erkenntniß des mu
+      <lb facs="#facs_1_region_1709375039906_1465_tl_37" n="N037" break="no"/>sikalisch-Schönen als Produkt der schaffenden Phantasie gegen
+               <cb break="no"/>
+      <lb facs="#facs_1_region_1709375043722_1468_tl_1" n="N001" break="no"/>über der bisherigen Gefühlsästhetik zu vermitteln sucht, tritt es
       <lb facs="#facs_1_region_1709375043722_1468_tl_2" n="N002"/>mit Schärfe manchem eingewurzelten Irrthume über das Wesen
-      <lb facs="#facs_1_region_1709375043722_1468_tl_3" n="N003"/>der Tonkunst entgegen; inwieferne es die neu auftauchende An¬
-      <lb facs="#facs_1_region_1709375043722_1468_tl_4" n="N004"/>sicht bekämpft, die allen Werth und alles Heil der Musik in die
+      <lb facs="#facs_1_region_1709375043722_1468_tl_3" n="N003"/>der Tonkunst entgegen; inwieferne es die neu auftauchende An
+      <lb facs="#facs_1_region_1709375043722_1468_tl_4" n="N004" break="no"/>sicht bekämpft, die allen Werth und alles Heil der Musik in die
       <lb facs="#facs_1_region_1709375043722_1468_tl_5" n="N005"/>Bestimmtheit des Ausdrucks, die musikalische Sprachentwicklung
       <lb facs="#facs_1_region_1709375043722_1468_tl_6" n="N006"/>und Charakteristik, setzt, weist es mit Recht die moderne Tendenz-
-      <lb facs="#facs_1_region_1709375043722_1468_tl_7" n="N007"/>und Programm-Richtung der Tonkunst in ihre Schranken zu¬
-      <lb facs="#facs_1_region_1709375043722_1468_tl_8" n="N008"/>rück. Uebrigens ergeht es dem Verfasser wie den meisten Kunst¬
-      <lb facs="#facs_1_region_1709375043722_1468_tl_9" n="N009"/>ästhetikern welche wissenschaftlich in die Geheimnisse der Kunst
+      <lb facs="#facs_1_region_1709375043722_1468_tl_7" n="N007"/>und Programm-Richtung der Tonkunst in ihre Schranken zu
+      <lb facs="#facs_1_region_1709375043722_1468_tl_8" n="N008" break="no"/>rück. Uebrigens ergeht es dem Verfasser wie den meisten Kunst
+      <lb facs="#facs_1_region_1709375043722_1468_tl_9" n="N009" break="no"/>ästhetikern welche wissenschaftlich in die Geheimnisse der Kunst
       <lb facs="#facs_1_region_1709375043722_1468_tl_10" n="N010"/>eindringen, ihr Wesen erforschen und in Grundsätzen festbannen
-      <lb facs="#facs_1_region_1709375043722_1468_tl_11" n="N011"/>wollen, daß sie die geistig sinnliche Totalität, worin jede Kunst wur¬
-      <lb facs="#facs_1_region_1709375043722_1468_tl_12" n="N012"/>zelt und woraus sie allein Leben gewinnt, bei allem Bestreben sie
+      <lb facs="#facs_1_region_1709375043722_1468_tl_11" n="N011"/>wollen, daß sie die geistig sinnliche Totalität, worin jede Kunst wur
+      <lb facs="#facs_1_region_1709375043722_1468_tl_12" n="N012" break="no"/>zelt und woraus sie allein Leben gewinnt, bei allem Bestreben sie
       <lb facs="#facs_1_region_1709375043722_1468_tl_13" n="N013"/>festzuhalten, denn doch zerpflücken, und den göttlichen Anhauch auf
-      <lb facs="#facs_1_region_1709375043722_1468_tl_14" n="N014"/>dem Wesen der Kunst gleichsam verwischen. Was dann als wis¬
-      <lb facs="#facs_1_region_1709375043722_1468_tl_15" n="N015"/>senschaftliches Resultat zurückbleibt, ist immer etwas Unbefriedigen¬
-      <lb facs="#facs_1_region_1709375043722_1468_tl_16" n="N016"/>des, nicht lebendig Aufklärendes, sondern von seinem Lebensprin¬
-      <lb facs="#facs_1_region_1709375043722_1468_tl_17" n="N017"/>zipe Abgeschiedenes, das uns dem Geheimnisse, woraus uns so un¬
-      <lb facs="#facs_1_region_1709375043722_1468_tl_18" n="N018"/>endliche Entzückungen und Offenbarungen quellen, nicht näher
-      <lb facs="#facs_1_region_1709375043722_1468_tl_19" n="N019"/>bringt, sondern vielmehr davon entfernt. Das größte Geheim¬
-      <lb facs="#facs_1_region_1709375043722_1468_tl_20" n="N020"/>niß unter den Künsten aber ist die Musik.
+      <lb facs="#facs_1_region_1709375043722_1468_tl_14" n="N014"/>dem Wesen der Kunst gleichsam verwischen. Was dann als wis
+      <lb facs="#facs_1_region_1709375043722_1468_tl_15" n="N015" break="no"/>senschaftliches Resultat zurückbleibt, ist immer etwas Unbefriedigen
+      <lb facs="#facs_1_region_1709375043722_1468_tl_16" n="N016" break="no"/>des, nicht lebendig Aufklärendes, sondern von seinem Lebensprin
+      <lb facs="#facs_1_region_1709375043722_1468_tl_17" n="N017" break="no"/>zipe Abgeschiedenes, das uns dem Geheimnisse, woraus uns so un
+      <lb facs="#facs_1_region_1709375043722_1468_tl_18" n="N018" break="no"/>endliche Entzückungen und Offenbarungen quellen, nicht näher
+      <lb facs="#facs_1_region_1709375043722_1468_tl_19" n="N019"/>bringt, sondern vielmehr davon entfernt. Das größte Geheim
+      <lb facs="#facs_1_region_1709375043722_1468_tl_20" n="N020" break="no"/>niß unter den Künsten aber ist die Musik.</p>
+               <p>
       <lb facs="#facs_1_region_1709375043722_1468_tl_21" n="N021"/>Daß der geistreiche Verfasser, einer der feinsten Musik-
       <lb facs="#facs_1_region_1709375043722_1468_tl_22" n="N022"/>Kenner und scharfsinnigsten Kritiker, dies selbst gefühlt habe,
-      <lb facs="#facs_1_region_1709375043722_1468_tl_23" n="N023"/>scheint aus manchen Stellen in seinem trefflichen Buche hervor¬
-      <lb facs="#facs_1_region_1709375043722_1468_tl_24" n="N024"/>zugehen; denn nachdem er ausgeführt, daß das Schöne <hi rendition="#em">über¬</hi>
-               <lb facs="#facs_1_region_1709375043722_1468_tl_25" n="N025"/>
-               <hi rendition="#em">haupt</hi> bloße Form, daß das Schöne <hi rendition="#em">in der Musik</hi> ein spezi¬
-      <lb facs="#facs_1_region_1709375043722_1468_tl_26" n="N026"/>fisch Musikalisches sei, aus dem reichen Tonmateriale gebildet
+      <lb facs="#facs_1_region_1709375043722_1468_tl_23" n="N023"/>scheint aus manchen Stellen in seinem trefflichen Buche hervor
+      <lb facs="#facs_1_region_1709375043722_1468_tl_24" n="N024" break="no"/>zugehen; denn nachdem er ausgeführt, daß das Schöne <hi rendition="#em">über
+      <lb facs="#facs_1_region_1709375043722_1468_tl_25" n="N025" break="no"/>haupt</hi> bloße Form, daß das Schöne <hi rendition="#em">in der Musik</hi> ein spezi
+      <lb facs="#facs_1_region_1709375043722_1468_tl_26" n="N026" break="no"/>fisch Musikalisches sei, aus dem reichen Tonmateriale gebildet
       <lb facs="#facs_1_region_1709375043722_1468_tl_27" n="N027"/>und lediglich aus musikalischen Ideen bestehend, und nachdem er
-      <lb facs="#facs_1_region_1709375043722_1468_tl_28" n="N028"/>hiermit die sogenannte Gedanken- und Gefühlsmusik von vorne¬
-      <lb facs="#facs_1_region_1709375043722_1468_tl_29" n="N029"/>herein abgelehnt und ausgeschlossen hat, kann er doch nicht um¬
-      <lb facs="#facs_1_region_1709375043722_1468_tl_30" n="N030"/>hin zu sagen: „Die musikalische Idee ist Selbstzweck und keines¬
-      <lb facs="#facs_1_region_1709375043722_1468_tl_31" n="N031"/>wegs erst wieder Mittel oder Material zur Darstellung von Ge¬
-      <lb facs="#facs_1_region_1709375043722_1468_tl_32" n="N032"/>fühlen oder Gedanken, <hi rendition="#em">wenn sie gleich in hohem Grade</hi>
-               <lb facs="#facs_1_region_1709375043722_1468_tl_33" n="N033"/>
-               <hi rendition="#em">jene simbolische, die großen Weltgesetze wiederspie¬</hi>
-               <lb facs="#facs_1_region_1709375043722_1468_tl_34" n="N034"/>
-               <hi rendition="#em">gelnde Bedeutung besitzen kann</hi>, welche wir in jeder
+      <lb facs="#facs_1_region_1709375043722_1468_tl_28" n="N028"/>hiermit die sogenannte Gedanken- und Gefühlsmusik von vorne
+      <lb facs="#facs_1_region_1709375043722_1468_tl_29" n="N029" break="no"/>herein abgelehnt und ausgeschlossen hat, kann er doch nicht um
+      <lb facs="#facs_1_region_1709375043722_1468_tl_30" n="N030" break="no"/>hin zu sagen: „Die musikalische Idee ist Selbstzweck und keines
+      <lb facs="#facs_1_region_1709375043722_1468_tl_31" n="N031" break="no"/>wegs erst wieder Mittel oder Material zur Darstellung von Ge
+      <lb facs="#facs_1_region_1709375043722_1468_tl_32" n="N032" break="no"/>fühlen oder Gedanken, <hi rendition="#em">wenn sie gleich in hohem Grade
+      <lb facs="#facs_1_region_1709375043722_1468_tl_33" n="N033"/>jene simbolische, die großen Weltgesetze wiederspie
+      <lb facs="#facs_1_region_1709375043722_1468_tl_34" n="N034" break="no"/>gelnde Bedeutung besitzen kann</hi>, welche wir in jeder
       <lb facs="#facs_1_region_1709375043722_1468_tl_35" n="N035"/>Kunstsphäre vorfinden“ — dann: „Dem Hörer wirkt die Musik
-      <lb facs="#facs_1_region_1709375043722_1468_tl_36" n="N036"/>nicht blos und absolut durch ihre eigenste Schönheit, <hi rendition="#em">sondern</hi>
-               <lb facs="#facs_1_region_1709375043722_1468_tl_37" n="N037"/>
-               <hi rendition="#em">zugleich als tönendes Abbild der großen Bewegun¬</hi>
-               <lb facs="#facs_1_region_1709375043722_1468_tl_38" n="N038"/>
-               <hi rendition="#em">gen im Weltall</hi>“ — dann: „<hi rendition="#em">Durch tiefe und geheime</hi>
-            </ab>
+      <lb facs="#facs_1_region_1709375043722_1468_tl_36" n="N036"/>nicht blos und absolut durch ihre eigenste Schönheit, <hi rendition="#em">sondern
+      <lb facs="#facs_1_region_1709375043722_1468_tl_37" n="N037"/>zugleich als tönendes Abbild der großen Bewegun
+      <lb facs="#facs_1_region_1709375043722_1468_tl_38" n="N038" break="no"/>gen im Weltall</hi>“ — dann: „<hi rendition="#em">Durch tiefe und geheime     
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <ab facs="#facs_2_region_1709375060715_1474" type="">
-               <lb facs="#facs_2_region_1709375060715_1474_tl_1" n="N001"/>
-               <hi rendition="#em">Naturbeziehungen steigert sich die Bedeutung der</hi>
-               <lb facs="#facs_2_region_1709375060715_1474_tl_2" n="N002"/>
-               <hi rendition="#em">Töne hoch über sie selbst hinaus</hi> und läßt uns in dem
-      <lb facs="#facs_2_region_1709375060715_1474_tl_3" n="N003"/>Werke menschlichen Talents immer zugleich das <hi rendition="#em">Unendliche</hi>
-               <lb facs="#facs_2_region_1709375060715_1474_tl_4" n="N004"/>fühlen“.</ab>
+            <cb/>
+      <lb facs="#facs_2_region_1709375060715_1474_tl_1" n="N001"/>Naturbeziehungen steigert sich die Bedeutung der
+      <lb facs="#facs_2_region_1709375060715_1474_tl_2" n="N002"/>Töne hoch über sie selbst hinaus</hi> und läßt uns in dem
+      <lb facs="#facs_2_region_1709375060715_1474_tl_3" n="N003"/>Werke menschlichen Talents immer zugleich das <hi rendition="#em">Unendliche</hi><space quantity="1" unit="char"/>
+      <lb facs="#facs_2_region_1709375060715_1474_tl_4" n="N004"/>fühlen“.</p>
          </div>
       </body>
    </text>
