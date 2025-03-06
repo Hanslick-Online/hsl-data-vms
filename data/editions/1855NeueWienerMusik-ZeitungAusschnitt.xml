@@ -84,7 +84,7 @@
                      </respStmt>
                      <imprint>
                         <pubPlace>Wien</pubPlace>
-                        <date when="1855-05-24">1855-05-24</date>
+                        <date when="1855-05-24">24.05.1855</date>
                      </imprint>
                   </monogr>
                </biblStruct>
@@ -108,6 +108,7 @@
          <change who="ampfiel" when="2025-02-19">Transkribus OCR und Lektorat.</change>
          <change who="delsner" when="2025-02-22">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-02-24">Header, Layout, rs ref ausfüllen</change>
+         <change who="awilfing" when="2025-03-06">Letztkorrektur für Zwischenrelease</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -392,12 +393,10 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-      <head type="h1">
-            <lb facs="#facs_1_line_1739998041122_26" n="N001"/><hi rendition="#em">Literarische Anzeige</hi>.</head>
-      <head type="h2">
-            <lb facs="#facs_1_line_1739998028851_22" n="N002"/>„<rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>“. Ein Beitrag zur
-            <lb facs="#facs_1_region_1709375039906_1465_tl_3" n="N003"/>Revision der Aesthetik der Tonkunst. Von Dr. Eduard
-            <lb facs="#facs_1_region_1709375039906_1465_tl_4" n="N004"/><hi rendition="#em"><rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi>. <rs type="place" ref="#hsl_place_id_32">Leipzig</rs>, Rudolf <hi rendition="#em"><rs type="person" ref="#hsl_person_id_377">Weigel</rs></hi><space quantity="1" unit="char"/><date when="1834">1834</date>.</head>
+            <head type="h1"><lb facs="#facs_1_line_1739998041122_26" n="N001"/><hi rendition="#em">Literarische Anzeige</hi>.</head>
+            <head type="h2"><lb facs="#facs_1_line_1739998028851_22" n="N002"/>„<rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>“. Ein Beitrag zur
+                            <lb facs="#facs_1_region_1709375039906_1465_tl_3" n="N003"/>Revision der Aesthetik der Tonkunst. Von Dr. Eduard
+                            <lb facs="#facs_1_region_1709375039906_1465_tl_4" n="N004"/><hi rendition="#em"><rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi>. <rs type="place" ref="#hsl_place_id_32">Leipzig</rs>, Rudolf <hi rendition="#em"><rs type="person" ref="#hsl_person_id_377">Weigel</rs></hi><space quantity="1" unit="char"/><date when="1834">1854</date>.</head>
             <p>      
       <lb facs="#facs_1_region_1709375039906_1465_tl_5" n="N005"/>(<rs type="person" ref="#hsl_person_id_6453">H. — L.</rs>) Dieses Büchlein enthält im engen Rahmen rei
       <lb facs="#facs_1_region_1709375039906_1465_tl_6" n="N006" break="no"/>chen und gehaltvollen Inhalt, der auch bereits in ganz <rs type="place" ref="#hsl_place_id_14">Deutsch
@@ -429,17 +428,17 @@
       <lb facs="#facs_1_region_1709375039906_1465_tl_32" n="N032"/>Entsprechendes geliefert werden. Da hierzu der Raum dieser
       <lb facs="#facs_1_region_1709375039906_1465_tl_33" n="N033"/>Blätter nicht hinreicht, so begnügen wir uns damit, das geistreiche
       <lb facs="#facs_1_region_1709375039906_1465_tl_34" n="N034"/>und höchst anregende Werkchen der Aufmerksamkeit des musik
-      <lb facs="#facs_1_region_1709375039906_1465_tl_35" n="N035" break="no"/>freundlichen Publikums zu empfehlen.</p>
-               <p>
+      <lb facs="#facs_1_region_1709375039906_1465_tl_35" n="N035" break="no"/>freundlichen Publikums zu empfehlen.
+            </p><p>
       <lb facs="#facs_1_region_1709375039906_1465_tl_36" n="N036"/>Inwieferne es vor allem die objektive Erkenntniß des mu
       <lb facs="#facs_1_region_1709375039906_1465_tl_37" n="N037" break="no"/>sikalisch-Schönen als Produkt der schaffenden Phantasie gegen
-               <cb break="no"/>
+            <cb break="no"/>
       <lb facs="#facs_1_region_1709375043722_1468_tl_1" n="N001" break="no"/>über der bisherigen Gefühlsästhetik zu vermitteln sucht, tritt es
       <lb facs="#facs_1_region_1709375043722_1468_tl_2" n="N002"/>mit Schärfe manchem eingewurzelten Irrthume über das Wesen
       <lb facs="#facs_1_region_1709375043722_1468_tl_3" n="N003"/>der Tonkunst entgegen; inwieferne es die neu auftauchende An
       <lb facs="#facs_1_region_1709375043722_1468_tl_4" n="N004" break="no"/>sicht bekämpft, die allen Werth und alles Heil der Musik in die
       <lb facs="#facs_1_region_1709375043722_1468_tl_5" n="N005"/>Bestimmtheit des Ausdrucks, die musikalische Sprachentwicklung
-      <lb facs="#facs_1_region_1709375043722_1468_tl_6" n="N006"/>und Charakteristik, setzt, weist es mit Recht die moderne Tendenz-
+      <lb facs="#facs_1_region_1709375043722_1468_tl_6" n="N006"/>und Charakteristik, setzt, weist es mit Recht die moderne Tendenz-<space quantity="1" unit="char"/>
       <lb facs="#facs_1_region_1709375043722_1468_tl_7" n="N007"/>und Programm-Richtung der Tonkunst in ihre Schranken zu
       <lb facs="#facs_1_region_1709375043722_1468_tl_8" n="N008" break="no"/>rück. Uebrigens ergeht es dem Verfasser wie den meisten Kunst
       <lb facs="#facs_1_region_1709375043722_1468_tl_9" n="N009" break="no"/>ästhetikern welche wissenschaftlich in die Geheimnisse der Kunst
@@ -453,8 +452,8 @@
       <lb facs="#facs_1_region_1709375043722_1468_tl_17" n="N017" break="no"/>zipe Abgeschiedenes, das uns dem Geheimnisse, woraus uns so un
       <lb facs="#facs_1_region_1709375043722_1468_tl_18" n="N018" break="no"/>endliche Entzückungen und Offenbarungen quellen, nicht näher
       <lb facs="#facs_1_region_1709375043722_1468_tl_19" n="N019"/>bringt, sondern vielmehr davon entfernt. Das größte Geheim
-      <lb facs="#facs_1_region_1709375043722_1468_tl_20" n="N020" break="no"/>niß unter den Künsten aber ist die Musik.</p>
-               <p>
+      <lb facs="#facs_1_region_1709375043722_1468_tl_20" n="N020" break="no"/>niß unter den Künsten aber ist die Musik.
+            </p><p>
       <lb facs="#facs_1_region_1709375043722_1468_tl_21" n="N021"/>Daß der geistreiche Verfasser, einer der feinsten Musik-
       <lb facs="#facs_1_region_1709375043722_1468_tl_22" n="N022"/>Kenner und scharfsinnigsten Kritiker, dies selbst gefühlt habe,
       <lb facs="#facs_1_region_1709375043722_1468_tl_23" n="N023"/>scheint aus manchen Stellen in seinem trefflichen Buche hervor
