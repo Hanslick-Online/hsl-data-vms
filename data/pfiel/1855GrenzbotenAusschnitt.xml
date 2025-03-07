@@ -3,8 +3,8 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
-            <title level="a">1855 Grenzboten (Ausschnitt)</title>
-            <author/>
+            <title level="a"/>
+            <author ref="#hsl_person_id_6563">Unbekannt</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
             </editor>
@@ -72,19 +72,20 @@
             <listBibl>
                <biblStruct>
                   <analytic>
-                     <title/>
-                     <author/>
+                     <title>Wissenschaft und Kunst</title>
+                     <author ref="#hsl_person_id_6563">Unbekannt</author>
                   </analytic>
                   <monogr>
-                     <title type="main"/>
-                     <title type="sub"/>
+                     <title type="main">Die Grenzboten. Zeitschrift für Politik und Literatur</title>
+                     <title type="sub">14. Jahrgang. I. Semester. I. Band. 1855</title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
-                        <name type="person"/>
+                        <name type="person" ref="#hsl_person_id_82">Freytag, Gustav</name>
+                        <name type="person" ref="#hsl_person_id_408">Schmidt, Julian</name>
                      </respStmt>
                      <imprint>
-                        <pubPlace>Leipzig Wien</pubPlace>
-                        <date/>
+                        <pubPlace>Leipzig</pubPlace>
+                        <date>1855</date>
                      </imprint>
                   </monogr>
                </biblStruct>
@@ -105,6 +106,9 @@
       <revisionDesc status="draft">
          <change who="awilfling" when="2024-11-01 ">Projektbeginn</change>
          <change who="awilfling" when="2025-01-20 ">Headers Anpassung</change>
+         <change who="ampfiel" when="2025-02-26">Transkribus OCR und Lektorat.</change>
+         <change who="delsner" when="2025-03-06">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
+         <change who="ampfiel" when="2025-03-06">fix header</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
