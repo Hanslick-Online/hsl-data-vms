@@ -77,7 +77,7 @@
                   </analytic>
                   <monogr>
                      <title type="main">Neue Berliner Musikzeitung</title>
-                     <title type="sub">Neunter Jahrgang No. 42. 17. October 1855</title>
+                     <title type="sub">Neunter Jahrgang. No. 42. 17. October 1855</title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person" ref="#hsl_person_id_1947">Bock, Gustav</name>
@@ -103,11 +103,12 @@
          </langUsage>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="awilfling" when="2024-11-01">Projektbeginn</change>
-         <change who="awilfling" when="2025-01-20">Headers Anpassung</change>
+         <change who="awilfing" when="2024-11-01">Projektbeginn</change>
+         <change who="awilfing" when="2025-01-20">Headers Anpassung</change>
          <change who="ampfiel" when="2025-02-19">Transkribus OCR und Lektorat.</change>
          <change who="delsner" when="2025-02-22">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-02-24">Header, Layout, rs ref ausfüllen</change>
+         <change who="awilfing" when="2025-03-07">Letztkorrektur für Zwischenrelease</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -297,14 +298,12 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <head type="h1"><lb facs="#facs_2_region_1709374989506_1444_tl_1" n="N001"/>Musik-Literatur.</head>
+            <head type="h2"><lb facs="#facs_2_region_1709374989506_1444_tl_2" n="N002"/><hi rendition="#bold">Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi>, <rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>. Ein
+                            <lb facs="#facs_2_region_1709374989506_1444_tl_3" n="N003"/>Beitrag zur Revision der Ästhetik der Tonkunst. <rs type="place" ref="#hsl_place_id_32">Leipzig</rs>,
+                            <lb facs="#facs_2_region_1709374989506_1444_tl_4" n="N004"/>bei R. <rs type="person" ref="#hsl_person_id_377">Weigel</rs>. <date when="1854">1854</date>.</head>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-      <head type="h1">
-            <lb facs="#facs_2_region_1709374989506_1444_tl_1" n="N001"/>Musik-Literatur.</head>
-      <head type="h2">
-            <lb facs="#facs_2_region_1709374989506_1444_tl_2" n="N002"/>Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>, <rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>. Ein
-            <lb facs="#facs_2_region_1709374989506_1444_tl_3" n="N003"/>Beitrag zur Revision der Ästhetik der Tonkunst. <rs type="place" ref="#hsl_place_id_32">Leipzig</rs>,
-            <lb facs="#facs_2_region_1709374989506_1444_tl_4" n="N004"/>bei R. <rs type="person" ref="#hsl_person_id_377">Weigel</rs>. <date when="1854">1854</date>.</head>
-         <p>
+            <p>
       <lb facs="#facs_2_region_1709374989506_1444_tl_5" n="N005"/>Diese Schrift, obwohl nur eine Broschüre von 100 und
       <lb facs="#facs_2_region_1709374989506_1444_tl_6" n="N006"/>einigen Seiten, enthält einen so reichen Inhalt anregender,
       <lb facs="#facs_2_region_1709374989506_1444_tl_7" n="N007"/>gesunder und oft tiefer Lichtblicke in das Reich der Töne,
