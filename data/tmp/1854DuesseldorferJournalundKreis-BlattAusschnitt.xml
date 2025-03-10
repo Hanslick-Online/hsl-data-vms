@@ -306,15 +306,12 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <ab facs="#facs_1_region_1709365006076_9" type="">
-               <lb facs="#facs_1_line_1709365782657_90" n="N001"/>Düsseldorfer Journal
+            <lb facs="#facs_1_line_1709365782657_90" n="N001"/>Düsseldorfer Journal
       <lb facs="#facs_1_line_1733832972410_1538" n="N002"/>und
-      <lb facs="#facs_1_line_1733832973976_1541" n="N003"/>Kreis-Blatt</ab>
-            <ab facs="#facs_1_region_1709365008700_12" type="">
-               <lb facs="#facs_1_line_1709365802727_96" n="N001"/>No 265. Mittwoch den 8. November 1854. (Gottfried.) 16. Jahrg.</ab>
+      <lb facs="#facs_1_line_1733832973976_1541" n="N003"/>Kreis-Blatt
+               <lb facs="#facs_1_line_1709365802727_96" n="N001"/>No 265. Mittwoch den 8. November 1854. (Gottfried.) 16. Jahrg.
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <ab facs="#facs_2_region_1709365032466_18" type="">
-               <lb facs="#facs_2_region_1709365032466_18_tl_1" n="N001"/>Wissenschaften und Künste.
+            <lb facs="#facs_2_region_1709365032466_18_tl_1" n="N001"/>Wissenschaften und Künste.
       <lb facs="#facs_2_region_1709365032466_18_tl_2" n="N002"/>Wien. Unter dem Titel, Vom musikalisch Schönen, ein
       <lb facs="#facs_2_region_1709365032466_18_tl_3" n="N003"/>Beitrag zur Revision der Aesthetik der Tonkunst, von
       <lb facs="#facs_2_region_1709365032466_18_tl_4" n="N004"/>Dr. Eduard Hanslick in Wien ist bei R. Weigel in
@@ -366,7 +363,7 @@
       <lb facs="#facs_2_line_1709365126023_35" n="N050"/>genten Patriotismus ist leider ein Kennzeichen öster=
       <lb facs="#facs_2_region_1709365032466_18_tl_51" n="N051"/>reichischer Kritik und österreichischer Kunstvereine. Jst
       <lb facs="#facs_2_region_1709365032466_18_tl_52" n="N052"/>es dann zu wundern, daß sich der bessere Schriftsteller
-      <lb facs="#facs_2_region_1709365032466_18_tl_53" n="N053"/>lieber nach dem Auslande wendet?</ab>
+      <lb facs="#facs_2_region_1709365032466_18_tl_53" n="N053"/>lieber nach dem Auslande wendet?
          </div>
       </body>
    </text>

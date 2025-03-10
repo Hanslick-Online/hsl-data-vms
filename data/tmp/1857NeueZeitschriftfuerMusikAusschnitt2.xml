@@ -601,138 +601,107 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <cb n="-1"/>
-            <p>
+            <p facs="#facs_1_TextRegion_1709376952579_2064">
                <lb facs="#facs_1_TextRegion_1709376952579_2064_tl_1" n="N001"/>Neue
       <lb facs="#facs_1_line_1733220494498_61" n="N002"/>Zeitschrift für Musik.</p>
-            <cb n="0"/>
-            <p>
+            <p facs="#facs_1_region_1709376947762_2059">
                <lb facs="#facs_1_line_1733220429154_19" n="N001"/>Siebenundvierzigster Band. Nr. 18. Den 30. October <date month="0" day="0" year="0">1857</date>.</p>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <ab facs="#facs_2_region_1709376989041_2071" type="">
-               <lb facs="#facs_2_region_1709376989041_2071_tl_1" n="N001"/>Dr. <rs type="person">Hanslick</rs> und der „<rs type="bibl">Tannhäuser</rs>“.
-      <lb facs="#facs_2_region_1709376989041_2071_tl_2" n="N002"/>Bei Gelegenheit der ersten Aufführung des „<rs type="bibl">Tann¬</rs>
-               <lb facs="#facs_2_region_1709376989041_2071_tl_3" n="N003"/>
-               <rs type="bibl">häuser</rs>“ in <rs type="place">Wien</rs> veröffentlichte Dr. Ed. <hi rendition="#em">
-                  <rs type="person">Hanslick</rs>
-               </hi> in
-      <lb facs="#facs_2_region_1709376989041_2071_tl_4" n="N004"/>der „<rs type="bibl">Presse</rs>“ zwei Aufsätze, von denen der erste ein „Vor¬
-      <lb facs="#facs_2_region_1709376989041_2071_tl_5" n="N005"/>wort“, eine Einführung, der zweite aber eine „Kritik“
+            <lb facs="#facs_2_region_1709376989041_2071_tl_1" n="N001"/>Dr. <rs type="person">Hanslick</rs> und der „<rs type="bibl">Tannhäuser</rs>“.
+      <lb facs="#facs_2_region_1709376989041_2071_tl_2" n="N002"/>Bei Gelegenheit der ersten Aufführung des „<rs type="bibl">Tann</rs>
+            <lb facs="#facs_2_region_1709376989041_2071_tl_3" n="N003" break="no"/>
+            <rs type="bibl">häuser</rs>“ in <rs type="place">Wien</rs> veröffentlichte Dr. Ed. <hi rendition="#em">
+               <rs type="person">Hanslick</rs>
+            </hi> in
+      <lb facs="#facs_2_region_1709376989041_2071_tl_4" n="N004"/>der „<rs type="bibl">Presse</rs>“ zwei Aufsätze, von denen der erste ein „Vor<lb facs="#facs_2_region_1709376989041_2071_tl_5" n="N005" break="no"/>wort“, eine Einführung, der zweite aber eine „Kritik“
       <lb facs="#facs_2_region_1709376989041_2071_tl_6" n="N006"/>des oben genannten Tonwerkes vorstellen sollte. Diese
-      <lb facs="#facs_2_region_1709376989041_2071_tl_7" n="N007"/>beiden Artikel legen wir nun unsern nachfolgenden Be¬
-      <lb facs="#facs_2_region_1709376989041_2071_tl_8" n="N008"/>trachtungen zugrunde. Man glaube ja nicht, daß wir
-      <lb facs="#facs_2_region_1709376989041_2071_tl_9" n="N009"/>dabei eine Widerlegung bezwecken — denn wo man wi¬
-      <lb facs="#facs_2_region_1709376989041_2071_tl_10" n="N010"/>derlegen will, muß Etwas dasein, was <hi rendition="#em">würdig</hi> ist, wi¬
-      <lb facs="#facs_2_region_1709376989041_2071_tl_11" n="N011"/>derlegt zu werden —, sondern es handelt sich nur um —
+      <lb facs="#facs_2_region_1709376989041_2071_tl_7" n="N007"/>beiden Artikel legen wir nun unsern nachfolgenden Be<lb facs="#facs_2_region_1709376989041_2071_tl_8" n="N008" break="no"/>trachtungen zugrunde. Man glaube ja nicht, daß wir
+      <lb facs="#facs_2_region_1709376989041_2071_tl_9" n="N009"/>dabei eine Widerlegung bezwecken — denn wo man wi<lb facs="#facs_2_region_1709376989041_2071_tl_10" n="N010" break="no"/>derlegen will, muß Etwas dasein, was <hi rendition="#em">würdig</hi> ist, wi<lb facs="#facs_2_region_1709376989041_2071_tl_11" n="N011" break="no"/>derlegt zu werden —, sondern es handelt sich nur um —
       <lb facs="#facs_2_region_1709376989041_2071_tl_12" n="N012"/>
-               <hi rendition="#em">die nähere Beleuchtung und Erläuterung</hi>, um die
+            <hi rendition="#em">die nähere Beleuchtung und Erläuterung</hi>, um die
       <lb facs="#facs_2_region_1709376989041_2071_tl_13" n="N013"/>
-               <hi rendition="#em">Signatur</hi> der <rs type="person">Hanslick</rs>’schen Ansichten. Wir werden
+            <hi rendition="#em">Signatur</hi> der <rs type="person">Hanslick</rs>’schen Ansichten. Wir werden
       <lb facs="#facs_2_region_1709376989041_2071_tl_14" n="N014"/>nicht den <hi rendition="#em">Gehalt</hi>, das Was dieser beiden Artikel ins
       <lb facs="#facs_2_region_1709376989041_2071_tl_15" n="N015"/>Auge fassen, sondern nur die Art und Weise beleuchten,
       <lb facs="#facs_2_region_1709376989041_2071_tl_16" n="N016"/>
-               <hi rendition="#em">wie</hi>
-               <rs type="person">Hanslick</rs> seine Meinungen vorbringt, denn haben wir
-      <lb facs="#facs_2_region_1709376989041_2071_tl_17" n="N017"/>die Form und sodann die <hi rendition="#em">Gesinnung und den Cha¬</hi>
-               <lb facs="#facs_2_region_1709376989041_2071_tl_18" n="N018"/>
-               <hi rendition="#em">rakter</hi> der Darstellung erkannt, so ist uns damit der
+            <hi rendition="#em">wie</hi>
+            <rs type="person">Hanslick</rs> seine Meinungen vorbringt, denn haben wir
+      <lb facs="#facs_2_region_1709376989041_2071_tl_17" n="N017"/>die Form und sodann die <hi rendition="#em">Gesinnung und den Cha</hi>
+            <lb facs="#facs_2_region_1709376989041_2071_tl_18" n="N018" break="no"/>
+            <hi rendition="#em">rakter</hi> der Darstellung erkannt, so ist uns damit der
       <lb facs="#facs_2_region_1709376989041_2071_tl_19" n="N019"/>richtige Standpunkt gegeben, um auch den <hi rendition="#em">Inhalt</hi> in
       <lb facs="#facs_2_region_1709376989041_2071_tl_20" n="N020"/>seiner wahren Bedeutung verstehen zu können.
       <lb facs="#facs_2_region_1709376989041_2071_tl_22" n="N021"/>Jedes Werk der Wissenschaft und Kunst unterliegt
       <lb facs="#facs_2_region_1709376989041_2071_tl_24" n="N022"/>möglicherweise einer dreifachen Art der Beurtheilung:
       <lb facs="#facs_2_region_1709376989041_2071_tl_25" n="N023"/>der Kritik der Erkenntniß, der Kritik des Mißverstandes
-      <lb facs="#facs_2_region_1709376989041_2071_tl_26" n="N024"/>und der Kritik des Unverstandes. Damit nun das Ton¬
-      <lb facs="#facs_2_region_1709376989041_2071_tl_27" n="N025"/>werk <rs type="person">Wagner</rs>’s weder mißverstanden werde, noch unver¬
-      <lb facs="#facs_2_region_1709376989041_2071_tl_28" n="N026"/>standen bliebe, hat Dr. <rs type="person">Hanslick</rs> ein „Vorwort“ voran¬</ab>
-            <ab facs="#facs_2_region_1709376995266_2074" type="">
-               <lb facs="#facs_2_region_1709376995266_2074_tl_1" n="N001"/>gesendet, wahrscheinlich in der Absicht, um das Publicum
+      <lb facs="#facs_2_region_1709376989041_2071_tl_26" n="N024"/>und der Kritik des Unverstandes. Damit nun das Ton<lb facs="#facs_2_region_1709376989041_2071_tl_27" n="N025" break="no"/>werk <rs type="person">Wagner</rs>’s weder mißverstanden werde, noch unver<lb facs="#facs_2_region_1709376989041_2071_tl_28" n="N026" break="no"/>standen bliebe, hat Dr. <rs type="person">Hanslick</rs> ein „Vorwort“ voran
+               <lb facs="#facs_2_region_1709376995266_2074_tl_1" n="N001" break="no"/>gesendet, wahrscheinlich in der Absicht, um das Publicum
       <lb facs="#facs_2_region_1709376995266_2074_tl_2" n="N002"/>mit der Idee der Dichtung und mit dem Charakter der
       <lb facs="#facs_2_region_1709376995266_2074_tl_3" n="N003"/>Musik der neuen Oper bekannt zu machen. <hi rendition="#em">Diesen</hi>
-               <lb facs="#facs_2_region_1709376995266_2074_tl_4" n="N004"/>Zweck wenigstens hofften wir im „Vorworte“ realisirt zu
+            <lb facs="#facs_2_region_1709376995266_2074_tl_4" n="N004"/>Zweck wenigstens hofften wir im „Vorworte“ realisirt zu
       <lb facs="#facs_2_region_1709376995266_2074_tl_5" n="N005"/>sehen; doch wir sollten arg enttäuscht werden. Statt
-      <lb facs="#facs_2_region_1709376995266_2074_tl_6" n="N006"/>einer Einführung der <hi rendition="#em">Oper</hi> fanden wir eine vornehm¬
-      <lb facs="#facs_2_region_1709376995266_2074_tl_7" n="N007"/>thuende Verurtheilung der <hi rendition="#em">theoretischen Schriften</hi>
-               <lb facs="#facs_2_region_1709376995266_2074_tl_8" n="N008"/>
-               <hi rendition="#em">
-                  <rs type="person">Wagner</rs>’s</hi>, wir fanden eine Verdächtigung des Compo¬
-      <lb facs="#facs_2_region_1709376995266_2074_tl_9" n="N009"/>nisten, mit dem Versuche sein Genie auf ein bescheidenes
-      <lb facs="#facs_2_region_1709376995266_2074_tl_10" n="N010"/>Maß herabzudrücken, und endlich lasen wir eine Ver¬
-      <lb facs="#facs_2_region_1709376995266_2074_tl_11" n="N011"/>dächtigung der <rs type="person">Wagner</rs>’schen Schule.
+      <lb facs="#facs_2_region_1709376995266_2074_tl_6" n="N006"/>einer Einführung der <hi rendition="#em">Oper</hi> fanden wir eine vornehm<lb facs="#facs_2_region_1709376995266_2074_tl_7" n="N007" break="no"/>thuende Verurtheilung der <hi rendition="#em">theoretischen Schriften</hi>
+            <lb facs="#facs_2_region_1709376995266_2074_tl_8" n="N008"/>
+            <hi rendition="#em">
+               <rs type="person">Wagner</rs>’s</hi>, wir fanden eine Verdächtigung des Compo<lb facs="#facs_2_region_1709376995266_2074_tl_9" n="N009" break="no"/>nisten, mit dem Versuche sein Genie auf ein bescheidenes
+      <lb facs="#facs_2_region_1709376995266_2074_tl_10" n="N010"/>Maß herabzudrücken, und endlich lasen wir eine Ver<lb facs="#facs_2_region_1709376995266_2074_tl_11" n="N011" break="no"/>dächtigung der <rs type="person">Wagner</rs>’schen Schule.
       <lb facs="#facs_2_region_1709376995266_2074_tl_12" n="N012"/>Ob dieses Verfahren geeignet sei, ein neues Werk
       <lb facs="#facs_2_region_1709376995266_2074_tl_13" n="N013"/>dem Verständnisse und der Liebe des Publicums näher
       <lb facs="#facs_2_region_1709376995266_2074_tl_14" n="N014"/>zu bringen, bezweiflen wir, behaupten aber geradezu, daß
       <lb facs="#facs_2_region_1709376995266_2074_tl_15" n="N015"/>es durchaus unangemessen und unerlaubt sei. In dem
-      <lb facs="#facs_2_region_1709376995266_2074_tl_16" n="N016"/>ganzen Aufsatze herrscht ein Geist der blinden Gehässig¬
-      <lb facs="#facs_2_region_1709376995266_2074_tl_17" n="N017"/>keit, Feindseligkeit und dumpfen Lieblosigkeit, so daß wir
+      <lb facs="#facs_2_region_1709376995266_2074_tl_16" n="N016"/>ganzen Aufsatze herrscht ein Geist der blinden Gehässig<lb facs="#facs_2_region_1709376995266_2074_tl_17" n="N017" break="no"/>keit, Feindseligkeit und dumpfen Lieblosigkeit, so daß wir
       <lb facs="#facs_2_region_1709376995266_2074_tl_18" n="N018"/>es nicht begreifen, wie Dr. <rs type="person">Hanslick</rs> es wagen darf, dem
       <lb facs="#facs_2_region_1709376995266_2074_tl_19" n="N019"/>Publicum seine <hi rendition="#em">subjective Antipathie</hi> aufzutischen,
-      <lb facs="#facs_2_region_1709376995266_2074_tl_20" n="N020"/>und seinen Artikel „ein Vorwort“ zu einem der großar¬
-      <lb facs="#facs_2_region_1709376995266_2074_tl_21" n="N021"/>tigsten und poesievollsten Kunstwerke der Neuzeit zu nen¬
-      <lb facs="#facs_2_region_1709376995266_2074_tl_22" n="N022"/>nen. Mit einem Worte, dieser ganze erste Artikel ist eine
+      <lb facs="#facs_2_region_1709376995266_2074_tl_20" n="N020"/>und seinen Artikel „ein Vorwort“ zu einem der großar<lb facs="#facs_2_region_1709376995266_2074_tl_21" n="N021" break="no"/>tigsten und poesievollsten Kunstwerke der Neuzeit zu nen<lb facs="#facs_2_region_1709376995266_2074_tl_22" n="N022" break="no"/>nen. Mit einem Worte, dieser ganze erste Artikel ist eine
       <lb facs="#facs_2_region_1709376995266_2074_tl_23" n="N023"/>
-               <hi rendition="#em">That der Tactlosigkeit</hi>. Denn eine solche ist es zu nen¬
-      <lb facs="#facs_2_region_1709376995266_2074_tl_24" n="N024"/>nen, wenn durch <rs type="person">Hauslick</rs> dem <hi rendition="#em">großen Publicum</hi>
-               <rs type="place">Wien</rs>s
-      <lb facs="#facs_2_region_1709376995266_2074_tl_25" n="N025"/>— das an rein theoretischen Fragen mit Recht kein Be¬
-      <lb facs="#facs_2_region_1709376995266_2074_tl_26" n="N026"/>hagen findet und nicht finden kann — statt einer einlei¬
-      <lb facs="#facs_2_region_1709376995266_2074_tl_27" n="N027"/>tenden Beleuchtung der Oper — <hi rendition="#em">Bücher</hi> und literarische
+            <hi rendition="#em">That der Tactlosigkeit</hi>. Denn eine solche ist es zu nen<lb facs="#facs_2_region_1709376995266_2074_tl_24" n="N024" break="no"/>nen, wenn durch <rs type="person">Hauslick</rs> dem <hi rendition="#em">großen Publicum</hi>
+            <rs type="place">Wien</rs>s
+      <lb facs="#facs_2_region_1709376995266_2074_tl_25" n="N025"/>— das an rein theoretischen Fragen mit Recht kein Be<lb facs="#facs_2_region_1709376995266_2074_tl_26" n="N026" break="no"/>hagen findet und nicht finden kann — statt einer einlei<lb facs="#facs_2_region_1709376995266_2074_tl_27" n="N027" break="no"/>tenden Beleuchtung der Oper — <hi rendition="#em">Bücher</hi> und literarische
       <lb facs="#facs_2_region_1709376995266_2074_tl_28" n="N028"/>Zänkereien der Parteien über dieselben vorgelegt werden.
       <lb facs="#facs_2_region_1709376995266_2074_tl_29" n="N029"/>Diese Abgeschmacktheit wird um so evidenter, wenn man
       <lb facs="#facs_2_region_1709376995266_2074_tl_30" n="N030"/>bedenkt, daß dem Publicum jede Möglichkeit, die Theorie
       <lb facs="#facs_2_region_1709376995266_2074_tl_31" n="N031"/>
-               <rs type="person">Wagner</rs>’s mit seiner Praxis und die Divergenz beider
+            <rs type="person">Wagner</rs>’s mit seiner Praxis und die Divergenz beider
       <lb facs="#facs_2_region_1709376995266_2074_tl_32" n="N032"/>zu vergleichen, abgeht, da die Oper noch nicht aufgeführt
       <lb facs="#facs_2_region_1709376995266_2074_tl_33" n="N033"/>worden und die Schriften nur dem kleinen Kreise der
       <lb facs="#facs_2_region_1709376995266_2074_tl_34" n="N034"/>
-               <hi rendition="#em">Fachmänner</hi> bekannt sind. Wurde also die Theorie
+            <hi rendition="#em">Fachmänner</hi> bekannt sind. Wurde also die Theorie
       <lb facs="#facs_2_region_1709376995266_2074_tl_35" n="N035"/>verdammt, so lag darin schon nothwendig in vorhinein
       <lb facs="#facs_2_region_1709376995266_2074_tl_36" n="N036"/>
-               <hi rendition="#em">eine Mißtrauen erweckende Verdächtigung</hi> des
+            <hi rendition="#em">eine Mißtrauen erweckende Verdächtigung</hi> des
       <lb facs="#facs_2_region_1709376995266_2074_tl_37" n="N037"/>Tonwerkes selbst. Entweder hätte <rs type="person">Hanslick</rs> die jedem
       <lb facs="#facs_2_region_1709376995266_2074_tl_38" n="N038"/>
-               <hi rendition="#em">Vermittler</hi> zwischen einem Kunstwerke und der Oeffent¬
-      <lb facs="#facs_2_region_1709376995266_2074_tl_39" n="N039"/>lichkeit zukommende Aufgabe erfüllen, oder aber seine
+            <hi rendition="#em">Vermittler</hi> zwischen einem Kunstwerke und der Oeffent<lb facs="#facs_2_region_1709376995266_2074_tl_39" n="N039" break="no"/>lichkeit zukommende Aufgabe erfüllen, oder aber seine
       <lb facs="#facs_2_region_1709376995266_2074_tl_40" n="N040"/>freiwillige Einmischung unterlassen sollen.
       <lb facs="#facs_2_region_1709376995266_2074_tl_41" n="N041"/>Wir haben bis jetzt <rs type="person">Hanslick</rs> als umsichtigen und
-      <lb facs="#facs_2_region_1709376995266_2074_tl_42" n="N042"/>liebevollen negotiorum gestor des Componisten betrach¬
-      <lb facs="#facs_2_region_1709376995266_2074_tl_43" n="N043"/>tet, wir wollen nun den „Kritiker“ näher ins Auge fassen.
+      <lb facs="#facs_2_region_1709376995266_2074_tl_42" n="N042"/>liebevollen negotiorum gestor des Componisten betrach<lb facs="#facs_2_region_1709376995266_2074_tl_43" n="N043" break="no"/>tet, wir wollen nun den „Kritiker“ näher ins Auge fassen.
       <lb facs="#facs_2_region_1709376995266_2074_tl_44" n="N044"/>
-               <rs type="person">Hauslick</rs> ist der Verfasser einer Schrift: „<rs type="bibl">Ueber das</rs>
-               <lb facs="#facs_2_region_1709376995266_2074_tl_45" n="N045"/>
-               <rs type="bibl">musikalisch Schöne</rs>“. De mortuis nil nisi bene! Er ist
-      <lb facs="#facs_2_region_1709376995266_2074_tl_46" n="N046"/>ein theoretischer Doctrinär, der sich ein System der mu¬
-      <lb facs="#facs_2_region_1709376995266_2074_tl_47" n="N047"/>sikalischen Aesthetik auf der Basis eines zum großen Theil
-      <lb facs="#facs_2_region_1709376995266_2074_tl_48" n="N048"/>längst antiquirten <hi rendition="#em">sogenannten</hi> „realistischen“ Philo¬
-      <lb facs="#facs_2_region_1709376995266_2074_tl_49" n="N049"/>sophemes a priori construirt hat. Auf dem Gebiete der
-      <lb facs="#facs_2_region_1709376995266_2074_tl_50" n="N050"/>Musikgeschichte und im unreflectirten und vorurtheils¬
-      <lb facs="#facs_2_region_1709376995266_2074_tl_51" n="N051"/>freien Genusse der Kunstwerke hat er sein System <hi rendition="#em">nicht</hi>
-               <lb facs="#facs_2_region_1709376995266_2074_tl_52" n="N052"/>gefunden, denn auf <hi rendition="#em">diese</hi> Weise wäre er unmöglich zu
+            <rs type="person">Hauslick</rs> ist der Verfasser einer Schrift: „<rs type="bibl">Ueber das</rs>
+            <lb facs="#facs_2_region_1709376995266_2074_tl_45" n="N045"/>
+            <rs type="bibl">musikalisch Schöne</rs>“. De mortuis nil nisi bene! Er ist
+      <lb facs="#facs_2_region_1709376995266_2074_tl_46" n="N046"/>ein theoretischer Doctrinär, der sich ein System der mu<lb facs="#facs_2_region_1709376995266_2074_tl_47" n="N047" break="no"/>sikalischen Aesthetik auf der Basis eines zum großen Theil
+      <lb facs="#facs_2_region_1709376995266_2074_tl_48" n="N048"/>längst antiquirten <hi rendition="#em">sogenannten</hi> „realistischen“ Philo<lb facs="#facs_2_region_1709376995266_2074_tl_49" n="N049" break="no"/>sophemes a priori construirt hat. Auf dem Gebiete der
+      <lb facs="#facs_2_region_1709376995266_2074_tl_50" n="N050"/>Musikgeschichte und im unreflectirten und vorurtheils<lb facs="#facs_2_region_1709376995266_2074_tl_51" n="N051" break="no"/>freien Genusse der Kunstwerke hat er sein System <hi rendition="#em">nicht</hi>
+            <lb facs="#facs_2_region_1709376995266_2074_tl_52" n="N052"/>gefunden, denn auf <hi rendition="#em">diese</hi> Weise wäre er unmöglich zu
       <lb facs="#facs_2_region_1709376995266_2074_tl_53" n="N053"/>Resultaten gekommen, die — wie sie eben wirklich in
-      <lb facs="#facs_2_region_1709376995266_2074_tl_54" n="N054"/>seinem Werke vorliegen — mit dem ganzen historischen</ab>
+      <lb facs="#facs_2_region_1709376995266_2074_tl_54" n="N054"/>seinem Werke vorliegen — mit dem ganzen historischen
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-            <cb n="1"/>
-            <p>
+            <p facs="#facs_3_region_1709377018081_2080">
                <lb facs="#facs_3_region_1709377018081_2080_tl_1" n="N001"/>Gange der Musik und ihrer Praxis in diamentralem
       <lb facs="#facs_3_region_1709377018081_2080_tl_2" n="N002"/>Gegensatze stehen. Als Theoretiker „mit Zopf und
-      <lb facs="#facs_3_region_1709377018081_2080_tl_3" n="N003"/>Schwert“ bringt <rs type="person">Hanslick</rs> sein System an die Beurthei¬
-      <lb facs="#facs_3_region_1709377018081_2080_tl_4" n="N004"/>lung der Kunstwerke heran; wer aber sich in den Schran¬
-      <lb facs="#facs_3_region_1709377018081_2080_tl_5" n="N005"/>ken einer gewissen Theorie bewegt, <hi rendition="#em">ist nicht frei, ist</hi>
+      <lb facs="#facs_3_region_1709377018081_2080_tl_3" n="N003"/>Schwert“ bringt <rs type="person">Hanslick</rs> sein System an die Beurthei<lb facs="#facs_3_region_1709377018081_2080_tl_4" n="N004" break="no"/>lung der Kunstwerke heran; wer aber sich in den Schran<lb facs="#facs_3_region_1709377018081_2080_tl_5" n="N005" break="no"/>ken einer gewissen Theorie bewegt, <hi rendition="#em">ist nicht frei, ist</hi>
                <lb facs="#facs_3_region_1709377018081_2080_tl_6" n="N006"/>
                <hi rendition="#em">nicht unbefangen</hi> genug, um der Praxis gerecht werden
-      <lb facs="#facs_3_region_1709377018081_2080_tl_7" n="N007"/>zu können. An der Praxis muß die Theorie sich bewäh¬
-      <lb facs="#facs_3_region_1709377018081_2080_tl_8" n="N008"/>ren, da seine Theorie aber eine <hi rendition="#em">subjective</hi> ist — weil
+      <lb facs="#facs_3_region_1709377018081_2080_tl_7" n="N007"/>zu können. An der Praxis muß die Theorie sich bewäh<lb facs="#facs_3_region_1709377018081_2080_tl_8" n="N008" break="no"/>ren, da seine Theorie aber eine <hi rendition="#em">subjective</hi> ist — weil
       <lb facs="#facs_3_region_1709377018081_2080_tl_9" n="N009"/>mit den <hi rendition="#em">objectiven, historischen</hi> Verhältnissen, und
-      <lb facs="#facs_3_region_1709377018081_2080_tl_10" n="N010"/>den ästhetischen Forderungen der Gegenwart im Zwie¬
-      <lb facs="#facs_3_region_1709377018081_2080_tl_11" n="N011"/>spalte befindliche —, er aber als Doctrinär sein System
+      <lb facs="#facs_3_region_1709377018081_2080_tl_10" n="N010"/>den ästhetischen Forderungen der Gegenwart im Zwie<lb facs="#facs_3_region_1709377018081_2080_tl_11" n="N011" break="no"/>spalte befindliche —, er aber als Doctrinär sein System
       <lb facs="#facs_3_region_1709377018081_2080_tl_12" n="N012"/>des äußern Scheines wegen erhalten muß, so wird die
       <lb facs="#facs_3_region_1709377018081_2080_tl_13" n="N013"/>Kunst gezwungen, sich nach der wahren oder falschen
       <lb facs="#facs_3_region_1709377018081_2080_tl_14" n="N014"/>Theorie zu richten. <rs type="person">Hanslick</rs>’s musikalische Theorie würde
       <lb facs="#facs_3_region_1709377018081_2080_tl_15" n="N015"/>jeder wahren Musik geradezu den Todesstoß versetzen,
-      <lb facs="#facs_3_region_1709377018081_2080_tl_16" n="N016"/>denn <hi rendition="#em">seine</hi> Musik ist eine verkappte angewandte Mathe¬
-      <lb facs="#facs_3_region_1709377018081_2080_tl_17" n="N017"/>matik, eine Pseudomusik, und es liegt auf der Hand, daß
+      <lb facs="#facs_3_region_1709377018081_2080_tl_16" n="N016"/>denn <hi rendition="#em">seine</hi> Musik ist eine verkappte angewandte Mathe<lb facs="#facs_3_region_1709377018081_2080_tl_17" n="N017" break="no"/>matik, eine Pseudomusik, und es liegt auf der Hand, daß
       <lb facs="#facs_3_region_1709377018081_2080_tl_18" n="N018"/>seine Ansichten, wenn sie je allgemein werden könnten,
-      <lb facs="#facs_3_region_1709377018081_2080_tl_19" n="N019"/>ästhetische sowie künstlerische Barbarei herbeiführen müß¬
-      <lb facs="#facs_3_region_1709377018081_2080_tl_20" n="N020"/>ten. Sein von der Geschichte isolirter Subjectivismus
+      <lb facs="#facs_3_region_1709377018081_2080_tl_19" n="N019"/>ästhetische sowie künstlerische Barbarei herbeiführen müß<lb facs="#facs_3_region_1709377018081_2080_tl_20" n="N020" break="no"/>ten. Sein von der Geschichte isolirter Subjectivismus
       <lb facs="#facs_3_region_1709377018081_2080_tl_21" n="N021"/>bringt es mit sich, daß er das Specifische der Musik <hi rendition="#em">als</hi>
                <lb facs="#facs_3_region_1709377018081_2080_tl_22" n="N022"/>
                <hi rendition="#em">Kunst</hi> nicht zu erkennen vermag, sein Egoismus, eine
@@ -740,38 +709,30 @@
       <lb facs="#facs_3_region_1709377018081_2080_tl_24" n="N024"/>Erscheinungen im historischen Entwicklungsgange der
       <lb facs="#facs_3_region_1709377018081_2080_tl_25" n="N025"/>Musik ihrer wahren Größe nach zu würdigen und ihre
       <lb facs="#facs_3_region_1709377018081_2080_tl_26" n="N026"/>
-               <hi rendition="#em">wirklichen Mängel</hi> und Gebrechen richtig zu begrei¬
-      <lb facs="#facs_3_region_1709377018081_2080_tl_27" n="N027"/>fen. Er versteht es nicht, bei Beurtheilung künstlerischer
+               <hi rendition="#em">wirklichen Mängel</hi> und Gebrechen richtig zu begrei<lb facs="#facs_3_region_1709377018081_2080_tl_27" n="N027" break="no"/>fen. Er versteht es nicht, bei Beurtheilung künstlerischer
       <lb facs="#facs_3_region_1709377018081_2080_tl_28" n="N028"/>Individualitäten sein Ich außer Spiel zu lassen.
       <lb facs="#facs_3_region_1709377018081_2080_tl_29" n="N029"/>Man kann unmöglich von uns fordern, uns in diesen
       <lb facs="#facs_3_region_1709377018081_2080_tl_30" n="N030"/>kritiklosen Wirrwarr <rs type="person">Hanslick</rs>’s zu vertiefen und einzelne
       <lb facs="#facs_3_region_1709377018081_2080_tl_31" n="N031"/>Belege für das eben Ausgesprochene zutage zu fördern,
-      <lb facs="#facs_3_region_1709377018081_2080_tl_32" n="N032"/>es möge eine Hindeutung auf den zweiten Artikel genü¬</p>
-            <cb n="2"/>
-            <p>
-               <lb facs="#facs_3_region_1709377021295_2083_tl_1" n="N001"/>gen. Der höhnische, sarkastisch sein sollende Ton, der in
+      <lb facs="#facs_3_region_1709377018081_2080_tl_32" n="N032"/>es möge eine Hindeutung auf den zweiten Artikel genü</p>
+            <p facs="#facs_3_region_1709377021295_2083">
+               <lb facs="#facs_3_region_1709377021295_2083_tl_1" n="N001" break="no"/>gen. Der höhnische, sarkastisch sein sollende Ton, der in
       <lb facs="#facs_3_region_1709377021295_2083_tl_2" n="N002"/>demselben angeschlagen wird, die Selbstüberschätzung,
       <lb facs="#facs_3_region_1709377021295_2083_tl_3" n="N003"/>mit der <rs type="person">Hanslick</rs> das ganze Tonwerk mit einer vornehmen
       <lb facs="#facs_3_region_1709377021295_2083_tl_4" n="N004"/>Flüchtigkeit „abmacht“, müssen sogleich <hi rendition="#em">den</hi> befremden,
       <lb facs="#facs_3_region_1709377021295_2083_tl_5" n="N005"/>der zwischen den Zeilen zu lesen vermag, aber wahrlich
       <lb facs="#facs_3_region_1709377021295_2083_tl_6" n="N006"/>widerwärtig wird das Ganze, wenn man auf einige
       <lb facs="#facs_3_region_1709377021295_2083_tl_7" n="N007"/>bleierne Witze stößt. Neben dieser frivolen Darstellung
-      <lb facs="#facs_3_region_1709377021295_2083_tl_8" n="N008"/>aber ist zugleich auch eine auffallende Dürftigkeit der Auf¬
-      <lb facs="#facs_3_region_1709377021295_2083_tl_9" n="N009"/>fassung bemerkbar, die sich gerade den wahrhaft hohen
+      <lb facs="#facs_3_region_1709377021295_2083_tl_8" n="N008"/>aber ist zugleich auch eine auffallende Dürftigkeit der Auf<lb facs="#facs_3_region_1709377021295_2083_tl_9" n="N009" break="no"/>fassung bemerkbar, die sich gerade den wahrhaft hohen
       <lb facs="#facs_3_region_1709377021295_2083_tl_10" n="N010"/>und idealen Leistungen im „<rs type="bibl">Tannhäuser</rs>“ gegenüber am
       <lb facs="#facs_3_region_1709377021295_2083_tl_11" n="N011"/>breitesten macht. Es zeigt sich aus dem Ganzen, daß
       <lb facs="#facs_3_region_1709377021295_2083_tl_12" n="N012"/>
                <rs type="person">Hanslick</rs> wol das <hi rendition="#em">Populäre</hi> des Tonwerks zu finden,
-      <lb facs="#facs_3_region_1709377021295_2083_tl_13" n="N013"/>das Neue aber, und worin <rs type="person">Wagner</rs>’s Bestrebungen wirk¬
-      <lb facs="#facs_3_region_1709377021295_2083_tl_14" n="N014"/>lich positiv fördernd waren, sowie das tief Poetische der
+      <lb facs="#facs_3_region_1709377021295_2083_tl_13" n="N013"/>das Neue aber, und worin <rs type="person">Wagner</rs>’s Bestrebungen wirk<lb facs="#facs_3_region_1709377021295_2083_tl_14" n="N014" break="no"/>lich positiv fördernd waren, sowie das tief Poetische der
       <lb facs="#facs_3_region_1709377021295_2083_tl_15" n="N015"/>Dichtung nicht zu erfassen vermag, daß er gar nicht die
-      <lb facs="#facs_3_region_1709377021295_2083_tl_16" n="N016"/>Fähigkeit besitzt, das in <rs type="person">Wagner</rs>’s künstlerischer Indivi¬
-      <lb facs="#facs_3_region_1709377021295_2083_tl_17" n="N017"/>dualität wahrhaft und in jeder Beziehung Vollendete vom
-      <lb facs="#facs_3_region_1709377021295_2083_tl_18" n="N018"/>Mißlungenen zu scheiden. Einem wahrhaft großen Kunst¬
-      <lb facs="#facs_3_region_1709377021295_2083_tl_19" n="N019"/>werke gegenüber eine im modernen oberflächlichen Lite¬
-      <lb facs="#facs_3_region_1709377021295_2083_tl_20" n="N020"/>ratentone geführte Sprache verzeiht man bedeutenden
-      <lb facs="#facs_3_region_1709377021295_2083_tl_21" n="N021"/>Persönlichkeiten nicht, um wie viel weniger untergeord¬
-      <lb facs="#facs_3_region_1709377021295_2083_tl_22" n="N022"/>neten Geistern, die die hohe Würde der Kunst mit Füßen
+      <lb facs="#facs_3_region_1709377021295_2083_tl_16" n="N016"/>Fähigkeit besitzt, das in <rs type="person">Wagner</rs>’s künstlerischer Indivi<lb facs="#facs_3_region_1709377021295_2083_tl_17" n="N017" break="no"/>dualität wahrhaft und in jeder Beziehung Vollendete vom
+      <lb facs="#facs_3_region_1709377021295_2083_tl_18" n="N018"/>Mißlungenen zu scheiden. Einem wahrhaft großen Kunst<lb facs="#facs_3_region_1709377021295_2083_tl_19" n="N019" break="no"/>werke gegenüber eine im modernen oberflächlichen Lite<lb facs="#facs_3_region_1709377021295_2083_tl_20" n="N020" break="no"/>ratentone geführte Sprache verzeiht man bedeutenden
+      <lb facs="#facs_3_region_1709377021295_2083_tl_21" n="N021"/>Persönlichkeiten nicht, um wie viel weniger untergeord<lb facs="#facs_3_region_1709377021295_2083_tl_22" n="N022" break="no"/>neten Geistern, die die hohe Würde der Kunst mit Füßen
       <lb facs="#facs_3_region_1709377021295_2083_tl_23" n="N023"/>treten, weil sie die Letztere nicht in ihrer wahren idealen
       <lb facs="#facs_3_region_1709377021295_2083_tl_24" n="N024"/>Wesenheit, in ihrer Sittlichkeit und ihrem tiefen Ernste
       <lb facs="#facs_3_region_1709377021295_2083_tl_25" n="N025"/>fassen mögen. Wir sahen uns um so mehr bewogen, auf
@@ -779,8 +740,7 @@
       <lb facs="#facs_3_region_1709377021295_2083_tl_27" n="N027"/>diese „literarische Tendenz“ im Gebiete der modernen
       <lb facs="#facs_3_region_1709377021295_2083_tl_28" n="N028"/>Kunst die traurigsten Verwirrungen verursacht und jede
       <lb facs="#facs_3_region_1709377021295_2083_tl_29" n="N029"/>Aufklärung über den Werth der Productionen, sowie jede
-      <lb facs="#facs_3_region_1709377021295_2083_tl_30" n="N030"/>Abklärung der durch Parteistreitigkeiten erhitzten Gemü¬
-      <lb facs="#facs_3_region_1709377021295_2083_tl_31" n="N031"/>ther verhindert.
+      <lb facs="#facs_3_region_1709377021295_2083_tl_30" n="N030"/>Abklärung der durch Parteistreitigkeiten erhitzten Gemü<lb facs="#facs_3_region_1709377021295_2083_tl_31" n="N031" break="no"/>ther verhindert.
       <lb facs="#facs_3_region_1709377021295_2083_tl_32" n="N032"/>
                <rs type="place">Prag</rs>.
       <lb facs="#facs_3_region_1709377021295_2083_tl_33" n="N033"/>

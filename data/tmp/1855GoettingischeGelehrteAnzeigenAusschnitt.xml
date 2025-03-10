@@ -2416,83 +2416,57 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <ab facs="#facs_1_region_1709374417563_1237" type="">
-               <lb facs="#facs_1_region_1709374417563_1237_tl_1" n="N001"/>Göttingische 
+            <lb facs="#facs_1_region_1709374417563_1237_tl_1" n="N001"/>Göttingische 
       <lb facs="#facs_1_region_1709374417563_1237_tl_2" n="N002"/>gelehrte Anzeigen
       <lb facs="#facs_1_region_1709374417563_1237_tl_3" n="N003"/>unter der Aufsicht
       <lb facs="#facs_1_region_1709374417563_1237_tl_4" n="N004"/>der Königl. Gesellschaft der Wissenschaften.
       <lb facs="#facs_1_region_1709374417563_1237_tl_5" n="N005"/>106. 107. Stück.
-      <lb facs="#facs_1_region_1709374417563_1237_tl_6" n="N006"/>Den 5. Juli 1855.</ab>
-            <ab facs="#facs_1_region_1709374423050_1240" type="">
+      <lb facs="#facs_1_region_1709374417563_1237_tl_6" n="N006"/>Den 5. Juli 1855.
                <lb facs="#facs_1_region_1709374423050_1240_tl_1" n="N001"/>
-               <rs type="place">Leipzig</rs>
-               <lb facs="#facs_1_region_1709374423050_1240_tl_2" n="N002"/>bei Rud. <rs type="person">Weigel</rs>
-               <date month="0" day="0" year="0">1854</date>. <rs type="bibl">Vom Musikalisch-Schönen</rs>.
-      <lb facs="#facs_1_region_1709374423050_1240_tl_3" n="N003"/>Ein Beitrag zur Revision der Aesthetik der Ton¬
-      <lb facs="#facs_1_region_1709374423050_1240_tl_4" n="N004"/>kunst. Von Dr. Ed. <hi rendition="#em">
-                  <rs type="person">Hanslick</rs>
-               </hi>. IV u. 104 S.
+            <rs type="place">Leipzig</rs>
+            <lb facs="#facs_1_region_1709374423050_1240_tl_2" n="N002"/>bei Rud. <rs type="person">Weigel</rs>
+            <date month="0" day="0" year="0">1854</date>. <rs type="bibl">Vom Musikalisch-Schönen</rs>.
+      <lb facs="#facs_1_region_1709374423050_1240_tl_3" n="N003"/>Ein Beitrag zur Revision der Aesthetik der Ton<lb facs="#facs_1_region_1709374423050_1240_tl_4" n="N004" break="no"/>kunst. Von Dr. Ed. <hi rendition="#em">
+               <rs type="person">Hanslick</rs>
+            </hi>. IV u. 104 S.
       <lb facs="#facs_1_region_1709374423050_1240_tl_5" n="N005"/>in Octav.
-      <lb facs="#facs_1_region_1709374423050_1240_tl_6" n="N006"/>„Die Zeit jener ästhetischen Systeme ist vor¬
-      <lb facs="#facs_1_region_1709374423050_1240_tl_7" n="N007"/>über, welche das Schöne nur in Bezug auf die
+      <lb facs="#facs_1_region_1709374423050_1240_tl_6" n="N006"/>„Die Zeit jener ästhetischen Systeme ist vor<lb facs="#facs_1_region_1709374423050_1240_tl_7" n="N007" break="no"/>über, welche das Schöne nur in Bezug auf die
       <lb facs="#facs_1_region_1709374423050_1240_tl_8" n="N008"/>dadurch wachgerufenen Empfindungen betrachtet
-      <lb facs="#facs_1_region_1709374423050_1240_tl_9" n="N009"/>haben. Der Muth und die Fähigkeit, zu unter¬
-      <lb facs="#facs_1_region_1709374423050_1240_tl_10" n="N010"/>suchen, was losgelöst von den tausendfältig wech¬
-      <lb facs="#facs_1_region_1709374423050_1240_tl_11" n="N011"/>selnden Eindrücken, die sie auf den Menschen aus¬
-      <lb facs="#facs_1_region_1709374423050_1240_tl_12" n="N012"/>üben, das Bleibende, Objective, wandellos Gültige
+      <lb facs="#facs_1_region_1709374423050_1240_tl_9" n="N009"/>haben. Der Muth und die Fähigkeit, zu unter<lb facs="#facs_1_region_1709374423050_1240_tl_10" n="N010" break="no"/>suchen, was losgelöst von den tausendfältig wech<lb facs="#facs_1_region_1709374423050_1240_tl_11" n="N011" break="no"/>selnden Eindrücken, die sie auf den Menschen aus<lb facs="#facs_1_region_1709374423050_1240_tl_12" n="N012" break="no"/>üben, das Bleibende, Objective, wandellos Gültige
       <lb facs="#facs_1_region_1709374423050_1240_tl_13" n="N013"/>in den Dingen sei, charakterisiren die moderne
       <lb facs="#facs_1_region_1709374423050_1240_tl_14" n="N014"/>Wissenschaft in allen ihren Zweigen.“ Mit diesen
-      <lb facs="#facs_1_region_1709374423050_1240_tl_15" n="N015"/>Worten leitet der Verf. seine Darstellung der spe¬
-      <lb facs="#facs_1_region_1709374423050_1240_tl_16" n="N016"/>cifischen Weise ein, in welcher die allgemeine Na¬
-      <lb facs="#facs_1_region_1709374423050_1240_tl_17" n="N017"/>tur des Schönen sich in der Tonkunst verwirkliche
+      <lb facs="#facs_1_region_1709374423050_1240_tl_15" n="N015"/>Worten leitet der Verf. seine Darstellung der spe<lb facs="#facs_1_region_1709374423050_1240_tl_16" n="N016" break="no"/>cifischen Weise ein, in welcher die allgemeine Na<lb facs="#facs_1_region_1709374423050_1240_tl_17" n="N017" break="no"/>tur des Schönen sich in der Tonkunst verwirkliche
       <lb facs="#facs_1_region_1709374423050_1240_tl_18" n="N018"/>und bestimme. Und noch einmal fügt er hinzu,
       <lb facs="#facs_1_region_1709374423050_1240_tl_19" n="N019"/>daß bei aller Verschiedenheit der Standpunkte die
-      <lb facs="#facs_1_region_1709374423050_1240_tl_20" n="N020"/>einzelnen Kunstlehren sich doch in der einen un¬
-      <lb facs="#facs_1_region_1709374423050_1240_tl_21" n="N021"/>verlierbaren Ueberzeugung vereinigen müssen, daß</ab>
+      <lb facs="#facs_1_region_1709374423050_1240_tl_20" n="N020"/>einzelnen Kunstlehren sich doch in der einen un<lb facs="#facs_1_region_1709374423050_1240_tl_21" n="N021" break="no"/>verlierbaren Ueberzeugung vereinigen müssen, daß
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <ab facs="#facs_2_region_1709374438315_1246" type="">
-               <lb facs="#facs_2_region_1709374438315_1246_tl_1" n="N001"/>in allen ästhetischen Untersuchungen vorerst das
+            <lb facs="#facs_2_region_1709374438315_1246_tl_1" n="N001"/>in allen ästhetischen Untersuchungen vorerst das
       <lb facs="#facs_2_region_1709374438315_1246_tl_2" n="N002"/>schöne Object, und nicht das empfindende Subject
       <lb facs="#facs_2_region_1709374438315_1246_tl_3" n="N003"/>zu erforschen sei. So knüpft der Verf., indem er
-      <lb facs="#facs_2_line_1740597822017_118" n="N004"/>einen lebhaften Kampf gegen die leere Verherrli¬
-      <lb facs="#facs_2_region_1709374438315_1246_tl_6" n="N005"/>chung der Gefühle beginnt, welche nach der ge¬
-      <lb facs="#facs_2_region_1709374438315_1246_tl_7" n="N006"/>meinen Meinung Inhalt und Ziel der Musik bil¬
-      <lb facs="#facs_2_region_1709374438315_1246_tl_8" n="N007"/>den sollen, seine Reflexionen an die herrschende
+      <lb facs="#facs_2_line_1740597822017_118" n="N004"/>einen lebhaften Kampf gegen die leere Verherrli<lb facs="#facs_2_region_1709374438315_1246_tl_6" n="N005" break="no"/>chung der Gefühle beginnt, welche nach der ge<lb facs="#facs_2_region_1709374438315_1246_tl_7" n="N006" break="no"/>meinen Meinung Inhalt und Ziel der Musik bil<lb facs="#facs_2_region_1709374438315_1246_tl_8" n="N007" break="no"/>den sollen, seine Reflexionen an die herrschende
       <lb facs="#facs_2_region_1709374438315_1246_tl_9" n="N008"/>Richtung unserer philosophischen Aesthetik an, von
-      <lb facs="#facs_2_region_1709374438315_1246_tl_10" n="N009"/>welcher ihm die Theorie der Musik zu ihrem Nach¬
-      <lb facs="#facs_2_region_1709374438315_1246_tl_11" n="N010"/>theil bisher zu wenig durchdrungen scheint.
+      <lb facs="#facs_2_region_1709374438315_1246_tl_10" n="N009"/>welcher ihm die Theorie der Musik zu ihrem Nach<lb facs="#facs_2_region_1709374438315_1246_tl_11" n="N010" break="no"/>theil bisher zu wenig durchdrungen scheint.
       <lb facs="#facs_2_region_1709374438315_1246_tl_12" n="N011"/>Je seltener sich das technische Verständniß einer
-      <lb facs="#facs_2_region_1709374438315_1246_tl_13" n="N012"/>Kunst mit der Neigung und Fähigkeit zu wissen¬
-      <lb facs="#facs_2_region_1709374438315_1246_tl_14" n="N013"/>schaftlicher Aesthetik verbunden findet, um so mehr
+      <lb facs="#facs_2_region_1709374438315_1246_tl_13" n="N012"/>Kunst mit der Neigung und Fähigkeit zu wissen<lb facs="#facs_2_region_1709374438315_1246_tl_14" n="N013" break="no"/>schaftlicher Aesthetik verbunden findet, um so mehr
       <lb facs="#facs_2_region_1709374438315_1246_tl_15" n="N014"/>müssen wir dem Verf. für diese Richtung seiner
       <lb facs="#facs_2_region_1709374438315_1246_tl_16" n="N015"/>Studien danken. Und diese Anerkennung nehmen
-      <lb facs="#facs_2_region_1709374438315_1246_tl_17" n="N016"/>wir nicht zurück, obgleich jene herrschende ästheti¬
-      <lb facs="#facs_2_region_1709374438315_1246_tl_18" n="N017"/>sche Theorie, deren die oben erwähnten Worte ge¬
-      <lb facs="#facs_2_region_1709374438315_1246_tl_19" n="N018"/>denken, uns von dem Vorwurfe einer großen Ein¬
-      <lb facs="#facs_2_region_1709374438315_1246_tl_20" n="N019"/>seitigkeit nicht frei zu sprechen scheint. Die An¬
-      <lb facs="#facs_2_region_1709374438315_1246_tl_21" n="N020"/>sicht des Verfs hängt in ihrem Kerne nur wenig
+      <lb facs="#facs_2_region_1709374438315_1246_tl_17" n="N016"/>wir nicht zurück, obgleich jene herrschende ästheti<lb facs="#facs_2_region_1709374438315_1246_tl_18" n="N017" break="no"/>sche Theorie, deren die oben erwähnten Worte ge<lb facs="#facs_2_region_1709374438315_1246_tl_19" n="N018" break="no"/>denken, uns von dem Vorwurfe einer großen Ein<lb facs="#facs_2_region_1709374438315_1246_tl_20" n="N019" break="no"/>seitigkeit nicht frei zu sprechen scheint. Die An<lb facs="#facs_2_region_1709374438315_1246_tl_21" n="N020" break="no"/>sicht des Verfs hängt in ihrem Kerne nur wenig
       <lb facs="#facs_2_region_1709374438315_1246_tl_22" n="N021"/>mit dieser speculativen Aesthetik zusammen; und
-      <lb facs="#facs_2_region_1709374438315_1246_tl_23" n="N022"/>eben der Anschluß an jene Richtung auf das ob¬
-      <lb facs="#facs_2_region_1709374438315_1246_tl_24" n="N023"/>jectiv Schöne scheint mir die Ursache zu sein, daß
+      <lb facs="#facs_2_region_1709374438315_1246_tl_23" n="N022"/>eben der Anschluß an jene Richtung auf das ob<lb facs="#facs_2_region_1709374438315_1246_tl_24" n="N023" break="no"/>jectiv Schöne scheint mir die Ursache zu sein, daß
       <lb facs="#facs_2_region_1709374438315_1246_tl_25" n="N024"/>die richtige und fein empfundene Auffassung des
       <lb facs="#facs_2_region_1709374438315_1246_tl_26" n="N025"/>Musikalisch-Schönen, die er uns gibt, namentlich
       <lb facs="#facs_2_region_1709374438315_1246_tl_27" n="N026"/>in den ersten Abschnitten seiner Schrift nicht ganz
       <lb facs="#facs_2_region_1709374438315_1246_tl_28" n="N027"/>klar hervortritt.
-      <lb facs="#facs_2_region_1709374438315_1246_tl_29" n="N028"/>Ich kann nicht glauben, daß der subjective Ein¬
-      <lb facs="#facs_2_region_1709374438315_1246_tl_30" n="N029"/>druck des Schönen nur ein Nebenpunkt der Ae¬
-      <lb facs="#facs_2_region_1709374438315_1246_tl_31" n="N030"/>sthetik sein dürfe; ich bin vielmehr überzeugt, daß
+      <lb facs="#facs_2_region_1709374438315_1246_tl_29" n="N028"/>Ich kann nicht glauben, daß der subjective Ein<lb facs="#facs_2_region_1709374438315_1246_tl_30" n="N029" break="no"/>druck des Schönen nur ein Nebenpunkt der Ae<lb facs="#facs_2_region_1709374438315_1246_tl_31" n="N030" break="no"/>sthetik sein dürfe; ich bin vielmehr überzeugt, daß
       <lb facs="#facs_2_region_1709374438315_1246_tl_32" n="N031"/>gerade die Vernachlässigung dieser doch zunächst
       <lb facs="#facs_2_region_1709374438315_1246_tl_33" n="N032"/>vor Augen liegenden Seite der Sache die neuere
-      <lb facs="#facs_2_region_1709374438315_1246_tl_34" n="N033"/>Aesthetik abgehalten hat, der wirklichen Kunst¬
-      <lb facs="#facs_2_region_1709374438315_1246_tl_35" n="N034"/>übung alles das zu sein, was sie ihr bei dem
+      <lb facs="#facs_2_region_1709374438315_1246_tl_34" n="N033"/>Aesthetik abgehalten hat, der wirklichen Kunst<lb facs="#facs_2_region_1709374438315_1246_tl_35" n="N034" break="no"/>übung alles das zu sein, was sie ihr bei dem
       <lb facs="#facs_2_region_1709374438315_1246_tl_36" n="N035"/>Reichthum ihrer Anschauungen und der geistigen
-      <lb facs="#facs_2_region_1709374438315_1246_tl_37" n="N036"/>Tiefe ihrer Auffassung hätte sein können. Ohne</ab>
+      <lb facs="#facs_2_region_1709374438315_1246_tl_37" n="N036"/>Tiefe ihrer Auffassung hätte sein können. Ohne
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-            <ab facs="#facs_3_region_1709374449770_1252" type="">
-               <lb facs="#facs_3_region_1709374449770_1252_tl_1" n="N001"/>das Schöne zu dem Nützlichen in eine zu nahe
+            <lb facs="#facs_3_region_1709374449770_1252_tl_1" n="N001"/>das Schöne zu dem Nützlichen in eine zu nahe
       <lb facs="#facs_3_region_1709374449770_1252_tl_2" n="N002"/>Verwandtschaft rücken zu wollen, müssen wir doch
-      <lb facs="#facs_3_region_1709374449770_1252_tl_3" n="N003"/>eine formelle Aehnlichkeit der Begriffe beider her¬
-      <lb facs="#facs_3_region_1709374449770_1252_tl_4" n="N004"/>vorheben. Niemand hält die Nützlichkeit für eine
+      <lb facs="#facs_3_region_1709374449770_1252_tl_3" n="N003"/>eine formelle Aehnlichkeit der Begriffe beider her<lb facs="#facs_3_region_1709374449770_1252_tl_4" n="N004" break="no"/>vorheben. Niemand hält die Nützlichkeit für eine
       <lb facs="#facs_3_region_1709374449770_1252_tl_5" n="N005"/>fertige, dem Gegenstand inwohnende Eigenschaft,
       <lb facs="#facs_3_region_1709374449770_1252_tl_6" n="N006"/>die etwa neben andern Eigenschaften den Bestand
       <lb facs="#facs_3_region_1709374449770_1252_tl_7" n="N007"/>seines Wesens mit zusammensetzen hülfe; sie ist
@@ -2500,18 +2474,12 @@
       <lb facs="#facs_3_region_1709374449770_1252_tl_9" n="N009"/>die der Gegenstand in Zukunft einmal äußern
       <lb facs="#facs_3_region_1709374449770_1252_tl_10" n="N010"/>kann und die selbst dann nicht aus seiner eigenen
       <lb facs="#facs_3_region_1709374449770_1252_tl_11" n="N011"/>Natur allein, sondern nur aus dem Verhältniß
-      <lb facs="#facs_3_region_1709374449770_1252_tl_12" n="N012"/>derselben zu der Organisation eines andern Ele¬
-      <lb facs="#facs_3_region_1709374449770_1252_tl_13" n="N013"/>ments hervorgehn wird, in welches er umgestaltend
-      <lb facs="#facs_3_region_1709374449770_1252_tl_14" n="N014"/>eingreift. Nichts ist daher nützlich überhaupt, son¬
-      <lb facs="#facs_3_region_1709374449770_1252_tl_15" n="N015"/>dern nur <hi rendition="#em">für</hi> ein bestimmtes Anderes, und nichts
+      <lb facs="#facs_3_region_1709374449770_1252_tl_12" n="N012"/>derselben zu der Organisation eines andern Ele<lb facs="#facs_3_region_1709374449770_1252_tl_13" n="N013" break="no"/>ments hervorgehn wird, in welches er umgestaltend
+      <lb facs="#facs_3_region_1709374449770_1252_tl_14" n="N014"/>eingreift. Nichts ist daher nützlich überhaupt, son<lb facs="#facs_3_region_1709374449770_1252_tl_15" n="N015" break="no"/>dern nur <hi rendition="#em">für</hi> ein bestimmtes Anderes, und nichts
       <lb facs="#facs_3_region_1709374449770_1252_tl_16" n="N016"/>nützlich an sich, sondern nur in dem Augenblick
       <lb facs="#facs_3_region_1709374449770_1252_tl_17" n="N017"/>seiner Beziehung auf dieses Andere; eine objective
-      <lb facs="#facs_3_region_1709374449770_1252_tl_18" n="N018"/>Bedeutung aber wird dem Prädicate der Nützlich¬
-      <lb facs="#facs_3_region_1709374449770_1252_tl_19" n="N019"/>keit nur insofern zukommen, als <hi rendition="#em">ein Theil</hi> der
-      <lb facs="#facs_3_region_1709374449770_1252_tl_20" n="N020"/>Bedingungen des künftigen Nutzens in den wirk¬
-      <lb facs="#facs_3_region_1709374449770_1252_tl_21" n="N021"/>lichen und beständigen Eigenschaften des Gegen¬
-      <lb facs="#facs_3_region_1709374449770_1252_tl_22" n="N022"/>standes enthalten ist. Wie groß nun der Unter¬
-      <lb facs="#facs_3_region_1709374449770_1252_tl_23" n="N023"/>schied des Nützlichen und Schönen sein möge, bei
+      <lb facs="#facs_3_region_1709374449770_1252_tl_18" n="N018"/>Bedeutung aber wird dem Prädicate der Nützlich<lb facs="#facs_3_region_1709374449770_1252_tl_19" n="N019" break="no"/>keit nur insofern zukommen, als <hi rendition="#em">ein Theil</hi> der
+      <lb facs="#facs_3_region_1709374449770_1252_tl_20" n="N020"/>Bedingungen des künftigen Nutzens in den wirk<lb facs="#facs_3_region_1709374449770_1252_tl_21" n="N021" break="no"/>lichen und beständigen Eigenschaften des Gegen<lb facs="#facs_3_region_1709374449770_1252_tl_22" n="N022" break="no"/>standes enthalten ist. Wie groß nun der Unter<lb facs="#facs_3_region_1709374449770_1252_tl_23" n="N023" break="no"/>schied des Nützlichen und Schönen sein möge, bei
       <lb facs="#facs_3_region_1709374449770_1252_tl_24" n="N024"/>der ersten Feststellung der Aufgaben wird doch
       <lb facs="#facs_3_region_1709374449770_1252_tl_25" n="N025"/>auch die Aesthetik von einer ähnlichen Auffassung
       <lb facs="#facs_3_region_1709374449770_1252_tl_26" n="N026"/>ausgehn müssen. Denn auch das Schöne kennen
@@ -2520,129 +2488,87 @@
       <lb facs="#facs_3_region_1709374449770_1252_tl_29" n="N029"/>Dingen oder Ereignissen zuletzt lediglich durch ein
       <lb facs="#facs_3_region_1709374449770_1252_tl_30" n="N030"/>bestimmtes Gefühl gemessen wird. Die Farbe, in
       <lb facs="#facs_3_region_1709374449770_1252_tl_31" n="N031"/>der uns ein Körper zu strahlen scheint, hat in
-      <lb facs="#facs_3_region_1709374449770_1252_tl_32" n="N032"/>Wahrheit ihr Dasein doch nur in uns, den Em¬
-      <lb facs="#facs_3_region_1709374449770_1252_tl_33" n="N033"/>pfindenden; der Körper selbst leistet nichts, als
+      <lb facs="#facs_3_region_1709374449770_1252_tl_32" n="N032"/>Wahrheit ihr Dasein doch nur in uns, den Em<lb facs="#facs_3_region_1709374449770_1252_tl_33" n="N033" break="no"/>pfindenden; der Körper selbst leistet nichts, als
       <lb facs="#facs_3_region_1709374449770_1252_tl_34" n="N034"/>daß er durch Eigenschaften, die an sich nichts mit
       <lb facs="#facs_3_region_1709374449770_1252_tl_35" n="N035"/>der Natur der Farbe gemein haben, unser Auge
-      <lb facs="#facs_3_region_1709374449770_1252_tl_36" n="N036"/>zu der Erzeugung der bestimmten Farbe reizt.</ab>
+      <lb facs="#facs_3_region_1709374449770_1252_tl_36" n="N036"/>zu der Erzeugung der bestimmten Farbe reizt.
             <pb facs="#facs_4" n="4" xml:id="img_0004"/>
-            <ab facs="#facs_4_region_1709374461611_1258" type="">
-               <lb facs="#facs_4_region_1709374461611_1258_tl_1" n="N001"/>Nicht anders hat die Schönheit, in der ein Ge¬
-      <lb facs="#facs_4_region_1709374461611_1258_tl_2" n="N002"/>genstand zu leuchten scheint, doch ihr wahres Da¬
-      <lb facs="#facs_4_region_1709374461611_1258_tl_3" n="N003"/>sein nur in der lebendigen Bewegung unsers Ge¬
-      <lb facs="#facs_4_region_1709374461611_1258_tl_4" n="N004"/>fühls, in der ihr Werth genossen wird; auch hier
+            <lb facs="#facs_4_region_1709374461611_1258_tl_1" n="N001"/>Nicht anders hat die Schönheit, in der ein Ge<lb facs="#facs_4_region_1709374461611_1258_tl_2" n="N002" break="no"/>genstand zu leuchten scheint, doch ihr wahres Da<lb facs="#facs_4_region_1709374461611_1258_tl_3" n="N003" break="no"/>sein nur in der lebendigen Bewegung unsers Ge<lb facs="#facs_4_region_1709374461611_1258_tl_4" n="N004" break="no"/>fühls, in der ihr Werth genossen wird; auch hier
       <lb facs="#facs_4_region_1709374461611_1258_tl_5" n="N005"/>fällt dem Gegenstande zunächst nichts Anderes zu,
       <lb facs="#facs_4_region_1709374461611_1258_tl_6" n="N006"/>als dies, eine Summe irgend welcher Merkmale
       <lb facs="#facs_4_region_1709374461611_1258_tl_7" n="N007"/>zu hegen, in denen ein Theil der Bedingungen
       <lb facs="#facs_4_region_1709374461611_1258_tl_8" n="N008"/>liegt, die ihn uns schön erscheinen lassen. Ein
       <lb facs="#facs_4_region_1709374461611_1258_tl_9" n="N009"/>anderer Theil dieser Bedingungen wird stets in
       <lb facs="#facs_4_region_1709374461611_1258_tl_10" n="N010"/>der Natur des Geistes liegen, der den Eindruck
-      <lb facs="#facs_4_region_1709374461611_1258_tl_11" n="N011"/>aufnimmt, und der nun die Uebereinstimmung des¬
-      <lb facs="#facs_4_region_1709374461611_1258_tl_12" n="N012"/>selben mit der Form seiner eigenen Thätigkeit
-      <lb facs="#facs_4_region_1709374461611_1258_tl_13" n="N013"/>eben in der Gestalt des schönen Gefühls empfin¬
-      <lb facs="#facs_4_region_1709374461611_1258_tl_14" n="N014"/>det. So ist der Geist nicht allein die unumgäng¬
-      <lb facs="#facs_4_region_1709374461611_1258_tl_15" n="N015"/>liche zweite Bedingung und der eigentliche Ort
+      <lb facs="#facs_4_region_1709374461611_1258_tl_11" n="N011"/>aufnimmt, und der nun die Uebereinstimmung des<lb facs="#facs_4_region_1709374461611_1258_tl_12" n="N012" break="no"/>selben mit der Form seiner eigenen Thätigkeit
+      <lb facs="#facs_4_region_1709374461611_1258_tl_13" n="N013"/>eben in der Gestalt des schönen Gefühls empfin<lb facs="#facs_4_region_1709374461611_1258_tl_14" n="N014" break="no"/>det. So ist der Geist nicht allein die unumgäng<lb facs="#facs_4_region_1709374461611_1258_tl_15" n="N015" break="no"/>liche zweite Bedingung und der eigentliche Ort
       <lb facs="#facs_4_region_1709374461611_1258_tl_16" n="N016"/>für die Entstehung der Schönheit, sondern zugleich
       <lb facs="#facs_4_region_1709374461611_1258_tl_17" n="N017"/>ihr Maß. Aenderte sich dieses Maß und träte der
       <lb facs="#facs_4_region_1709374461611_1258_tl_18" n="N018"/>früher schöne Eindruck des Gegenstandes nun in
-      <lb facs="#facs_4_region_1709374461611_1258_tl_19" n="N019"/>Widerstreit mit der lebendigen Thätigkeit des Gei¬
-      <lb facs="#facs_4_region_1709374461611_1258_tl_20" n="N020"/>stes, so würden wir kein Recht haben zu sagen,
-      <lb facs="#facs_4_region_1709374461611_1258_tl_21" n="N021"/>daß dennoch ein Rest objectiver, wandelloser Schön¬
-      <lb facs="#facs_4_region_1709374461611_1258_tl_22" n="N022"/>heit zurückgeblieben sei, dem jetzt nur das em¬
-      <lb facs="#facs_4_region_1709374461611_1258_tl_23" n="N023"/>pfängliche Subject zum Genusse fehle; vielmehr
-      <lb facs="#facs_4_region_1709374461611_1258_tl_24" n="N024"/>ist der Gegenstand in demselben Sinne jetzt häß¬
-      <lb facs="#facs_4_region_1709374461611_1258_tl_25" n="N025"/>lich geworden, in welchem er früher schön war;
+      <lb facs="#facs_4_region_1709374461611_1258_tl_19" n="N019"/>Widerstreit mit der lebendigen Thätigkeit des Gei<lb facs="#facs_4_region_1709374461611_1258_tl_20" n="N020" break="no"/>stes, so würden wir kein Recht haben zu sagen,
+      <lb facs="#facs_4_region_1709374461611_1258_tl_21" n="N021"/>daß dennoch ein Rest objectiver, wandelloser Schön<lb facs="#facs_4_region_1709374461611_1258_tl_22" n="N022" break="no"/>heit zurückgeblieben sei, dem jetzt nur das em<lb facs="#facs_4_region_1709374461611_1258_tl_23" n="N023" break="no"/>pfängliche Subject zum Genusse fehle; vielmehr
+      <lb facs="#facs_4_region_1709374461611_1258_tl_24" n="N024"/>ist der Gegenstand in demselben Sinne jetzt häß<lb facs="#facs_4_region_1709374461611_1258_tl_25" n="N025" break="no"/>lich geworden, in welchem er früher schön war;
       <lb facs="#facs_4_region_1709374461611_1258_tl_26" n="N026"/>beide Prädicate drücken nichts aus, was zu dem
-      <lb facs="#facs_4_region_1709374461611_1258_tl_27" n="N027"/>Bestande seiner wandellosen Natur gehörte, son¬
-      <lb facs="#facs_4_region_1709374461611_1258_tl_28" n="N028"/>dern sie bezeichnen den verhältnißmäßigen Werth,
+      <lb facs="#facs_4_region_1709374461611_1258_tl_27" n="N027"/>Bestande seiner wandellosen Natur gehörte, son<lb facs="#facs_4_region_1709374461611_1258_tl_28" n="N028" break="no"/>dern sie bezeichnen den verhältnißmäßigen Werth,
       <lb facs="#facs_4_region_1709374461611_1258_tl_29" n="N029"/>den seine Erscheinung für verschiedene auffassende
       <lb facs="#facs_4_region_1709374461611_1258_tl_30" n="N030"/>Subjecte hat.
       <lb facs="#facs_4_region_1709374461611_1258_tl_31" n="N031"/>Gewiß würde es der Untergang aller Aesthetik
       <lb facs="#facs_4_region_1709374461611_1258_tl_32" n="N032"/>sein, wenn wir bei dieser völligen Relativität des
       <lb facs="#facs_4_region_1709374461611_1258_tl_33" n="N033"/>Schönen stehen bleiben wollten, durch die sein
       <lb facs="#facs_4_region_1709374461611_1258_tl_34" n="N034"/>Begriff in der That nur auf den eines in feinerer
-      <lb facs="#facs_4_region_1709374461611_1258_tl_35" n="N035"/>Weise Nützlichen zurückgebracht würde. Aber in¬
-      <lb facs="#facs_4_region_1709374461611_1258_tl_36" n="N036"/>dem wir das an sich Schöne suchen, mußten wir</ab>
+      <lb facs="#facs_4_region_1709374461611_1258_tl_35" n="N035"/>Weise Nützlichen zurückgebracht würde. Aber in<lb facs="#facs_4_region_1709374461611_1258_tl_36" n="N036" break="no"/>dem wir das an sich Schöne suchen, mußten wir
             <pb facs="#facs_5" n="5" xml:id="img_0005"/>
-            <ab facs="#facs_5_region_1709374470363_1264" type="">
-               <lb facs="#facs_5_region_1709374470363_1264_tl_1" n="N001"/>gleichwohl von dem Grund und Boden ausgehen,
+            <lb facs="#facs_5_region_1709374470363_1264_tl_1" n="N001"/>gleichwohl von dem Grund und Boden ausgehen,
       <lb facs="#facs_5_region_1709374470363_1264_tl_2" n="N002"/>auf dem es, obgleich zu unvergleichlich reinerer
       <lb facs="#facs_5_region_1709374470363_1264_tl_3" n="N003"/>Höhe sich erhebend, mit jenem doch in der That
-      <lb facs="#facs_5_region_1709374470363_1264_tl_4" n="N004"/>zugleich wurzelt. Innerhalb dieser formellen Aehn¬
-      <lb facs="#facs_5_region_1709374470363_1264_tl_5" n="N005"/>lichkeit selbst aber fordert uns der Begriff des
-      <lb facs="#facs_5_region_1709374470363_1264_tl_6" n="N006"/>Schönen zu einer ganz andern weitern Bearbei¬
-      <lb facs="#facs_5_region_1709374470363_1264_tl_7" n="N007"/>tung auf, als der des Angenehmen oder des Nütz¬
-      <lb facs="#facs_5_region_1709374470363_1264_tl_8" n="N008"/>lichen. Die regellose Veränderlichkeit, mit welcher
+      <lb facs="#facs_5_region_1709374470363_1264_tl_4" n="N004"/>zugleich wurzelt. Innerhalb dieser formellen Aehn<lb facs="#facs_5_region_1709374470363_1264_tl_5" n="N005" break="no"/>lichkeit selbst aber fordert uns der Begriff des
+      <lb facs="#facs_5_region_1709374470363_1264_tl_6" n="N006"/>Schönen zu einer ganz andern weitern Bearbei<lb facs="#facs_5_region_1709374470363_1264_tl_7" n="N007" break="no"/>tung auf, als der des Angenehmen oder des Nütz<lb facs="#facs_5_region_1709374470363_1264_tl_8" n="N008" break="no"/>lichen. Die regellose Veränderlichkeit, mit welcher
       <lb facs="#facs_5_region_1709374470363_1264_tl_9" n="N009"/>dieselben Gegenstände diese letztern Prädicate bald
       <lb facs="#facs_5_region_1709374470363_1264_tl_10" n="N010"/>von uns fordern, bald durch entgegengesetzte uns
-      <lb facs="#facs_5_region_1709374470363_1264_tl_11" n="N011"/>abstoßen, lehrt uns hinlänglich, daß sie beide über¬
-      <lb facs="#facs_5_region_1709374470363_1264_tl_12" n="N012"/>haupt nur Beziehungen der Dinge zu einem selbst
+      <lb facs="#facs_5_region_1709374470363_1264_tl_11" n="N011"/>abstoßen, lehrt uns hinlänglich, daß sie beide über<lb facs="#facs_5_region_1709374470363_1264_tl_12" n="N012" break="no"/>haupt nur Beziehungen der Dinge zu einem selbst
       <lb facs="#facs_5_region_1709374470363_1264_tl_13" n="N013"/>wandelbaren Theile unseres Wesens ausdrücken,
       <lb facs="#facs_5_region_1709374470363_1264_tl_14" n="N014"/>der verschieden in Verschiedenen organisirt, und
-      <lb facs="#facs_5_region_1709374470363_1264_tl_15" n="N015"/>selbst in demselben Gemüthe dem wechselnden Ein¬
-      <lb facs="#facs_5_region_1709374470363_1264_tl_16" n="N016"/>fluß der Umstände unterworfen ist. Was so in¬
-      <lb facs="#facs_5_region_1709374470363_1264_tl_17" n="N017"/>dividuellen oder so flüchtigen und im Ganzen un¬
-      <lb facs="#facs_5_region_1709374470363_1264_tl_18" n="N018"/>sers Lebens bedeutungslosen Zuständen sich an¬
-      <lb facs="#facs_5_region_1709374470363_1264_tl_19" n="N019"/>paßt, hat wohl Werth für die flüchtige Dauer die¬
-      <lb facs="#facs_5_region_1709374470363_1264_tl_20" n="N020"/>ses Augenblicks oder für das vergängliche einzelne
+      <lb facs="#facs_5_region_1709374470363_1264_tl_15" n="N015"/>selbst in demselben Gemüthe dem wechselnden Ein<lb facs="#facs_5_region_1709374470363_1264_tl_16" n="N016" break="no"/>fluß der Umstände unterworfen ist. Was so in<lb facs="#facs_5_region_1709374470363_1264_tl_17" n="N017" break="no"/>dividuellen oder so flüchtigen und im Ganzen un<lb facs="#facs_5_region_1709374470363_1264_tl_18" n="N018" break="no"/>sers Lebens bedeutungslosen Zuständen sich an<lb facs="#facs_5_region_1709374470363_1264_tl_19" n="N019" break="no"/>paßt, hat wohl Werth für die flüchtige Dauer die<lb facs="#facs_5_region_1709374470363_1264_tl_20" n="N020" break="no"/>ses Augenblicks oder für das vergängliche einzelne
       <lb facs="#facs_5_region_1709374470363_1264_tl_21" n="N021"/>Gemüth; eigene innere Würde dagegen werden
-      <lb facs="#facs_5_region_1709374470363_1264_tl_22" n="N022"/>wir nur demjenigen zugestehn, was an dem Maß¬
-      <lb facs="#facs_5_region_1709374470363_1264_tl_23" n="N023"/>stabe eines Allgemeinen, Unvergänglichen und in
-      <lb facs="#facs_5_region_1709374470363_1264_tl_24" n="N024"/>sich Werthvollen gemessen diesem Maße sich con¬
-      <lb facs="#facs_5_region_1709374470363_1264_tl_25" n="N025"/>gruent zeigt. Von dem nun, was wir schön nen¬
-      <lb facs="#facs_5_region_1709374470363_1264_tl_26" n="N026"/>nen, verlangen wir es wenigstens, daß es Allen
-      <lb facs="#facs_5_region_1709374470363_1264_tl_27" n="N027"/>ebenso erscheine; wir können aber diese Allgemein¬
-      <lb facs="#facs_5_region_1709374470363_1264_tl_28" n="N028"/>gültigkeit seines Eindruckes nicht fordern wollen,
+      <lb facs="#facs_5_region_1709374470363_1264_tl_22" n="N022"/>wir nur demjenigen zugestehn, was an dem Maß<lb facs="#facs_5_region_1709374470363_1264_tl_23" n="N023" break="no"/>stabe eines Allgemeinen, Unvergänglichen und in
+      <lb facs="#facs_5_region_1709374470363_1264_tl_24" n="N024"/>sich Werthvollen gemessen diesem Maße sich con<lb facs="#facs_5_region_1709374470363_1264_tl_25" n="N025" break="no"/>gruent zeigt. Von dem nun, was wir schön nen<lb facs="#facs_5_region_1709374470363_1264_tl_26" n="N026" break="no"/>nen, verlangen wir es wenigstens, daß es Allen
+      <lb facs="#facs_5_region_1709374470363_1264_tl_27" n="N027"/>ebenso erscheine; wir können aber diese Allgemein<lb facs="#facs_5_region_1709374470363_1264_tl_28" n="N028" break="no"/>gültigkeit seines Eindruckes nicht fordern wollen,
       <lb facs="#facs_5_region_1709374470363_1264_tl_29" n="N029"/>wenn wir nicht voraussetzen, daß es auch in uns
-      <lb facs="#facs_5_region_1709374470363_1264_tl_30" n="N030"/>selbst sich nicht an den individuellen Geist, son¬
-      <lb facs="#facs_5_region_1709374470363_1264_tl_31" n="N031"/>dern an jene allgemeine Form des geistigen Le¬
-      <lb facs="#facs_5_region_1709374470363_1264_tl_32" n="N032"/>bens wandte, die in allen Einzelnen entweder in
+      <lb facs="#facs_5_region_1709374470363_1264_tl_30" n="N030"/>selbst sich nicht an den individuellen Geist, son<lb facs="#facs_5_region_1709374470363_1264_tl_31" n="N031" break="no"/>dern an jene allgemeine Form des geistigen Le<lb facs="#facs_5_region_1709374470363_1264_tl_32" n="N032" break="no"/>bens wandte, die in allen Einzelnen entweder in
       <lb facs="#facs_5_region_1709374470363_1264_tl_33" n="N033"/>gleicher Weise organisirt vorhanden ist, oder von
       <lb facs="#facs_5_region_1709374470363_1264_tl_34" n="N034"/>jedem mit gleicher Verbindlichkeit in sich erzeugt
       <lb facs="#facs_5_region_1709374470363_1264_tl_35" n="N035"/>werden soll. Nennen wir nun schön das, dessen
-      <lb facs="#facs_5_region_1709374470363_1264_tl_36" n="N036"/>Eindruck in Uebereinstimmung ist sowohl mit der</ab>
+      <lb facs="#facs_5_region_1709374470363_1264_tl_36" n="N036"/>Eindruck in Uebereinstimmung ist sowohl mit der
             <pb facs="#facs_6" n="6" xml:id="img_0006"/>
-            <ab facs="#facs_6_region_1709374481915_1270" type="">
-               <lb facs="#facs_6_region_1709374481915_1270_tl_1" n="N001"/>allgemeinen und unverlierbaren Organisation un¬
-      <lb facs="#facs_6_region_1709374481915_1270_tl_2" n="N002"/>serer Thätigkeiten, als mit der idealen Form, die
+            <lb facs="#facs_6_region_1709374481915_1270_tl_1" n="N001"/>allgemeinen und unverlierbaren Organisation un<lb facs="#facs_6_region_1709374481915_1270_tl_2" n="N002" break="no"/>serer Thätigkeiten, als mit der idealen Form, die
       <lb facs="#facs_6_region_1709374481915_1270_tl_3" n="N003"/>unser geistiges Leben mit gleicher Allgemeinheit
       <lb facs="#facs_6_region_1709374481915_1270_tl_4" n="N004"/>annehmen soll, so können wir jetzt wieder das
-      <lb facs="#facs_6_region_1709374481915_1270_tl_5" n="N005"/>Verlangen theilen, dasjenige aufzusuchen, was ab¬
-      <lb facs="#facs_6_region_1709374481915_1270_tl_6" n="N006"/>gesehn von den tausendfältig wechselnden Eindrü¬
-      <lb facs="#facs_6_region_1709374481915_1270_tl_7" n="N007"/>cken auf uns das Objective und Wandellose im
+      <lb facs="#facs_6_region_1709374481915_1270_tl_5" n="N005"/>Verlangen theilen, dasjenige aufzusuchen, was ab<lb facs="#facs_6_region_1709374481915_1270_tl_6" n="N006" break="no"/>gesehn von den tausendfältig wechselnden Eindrü<lb facs="#facs_6_region_1709374481915_1270_tl_7" n="N007" break="no"/>cken auf uns das Objective und Wandellose im
       <lb facs="#facs_6_region_1709374481915_1270_tl_8" n="N008"/>Schönen sei. Denn eben nicht mehr nach den
       <lb facs="#facs_6_region_1709374481915_1270_tl_9" n="N009"/>wechselnden Eindrücken, welche die Gegenstände
       <lb facs="#facs_6_region_1709374481915_1270_tl_10" n="N010"/>dem unvorbereiteten Gemüth, veränderlich je nach
-      <lb facs="#facs_6_region_1709374481915_1270_tl_11" n="N011"/>dem Grade und der Richtung seiner Bildung ge¬
-      <lb facs="#facs_6_region_1709374481915_1270_tl_12" n="N012"/>währen, beurtheilen wir das Schöne, sondern ein
+      <lb facs="#facs_6_region_1709374481915_1270_tl_11" n="N011"/>dem Grade und der Richtung seiner Bildung ge<lb facs="#facs_6_region_1709374481915_1270_tl_12" n="N012" break="no"/>währen, beurtheilen wir das Schöne, sondern ein
       <lb facs="#facs_6_region_1709374481915_1270_tl_13" n="N013"/>unveränderlicher Maßstab ist durch jene Annahme
       <lb facs="#facs_6_region_1709374481915_1270_tl_14" n="N014"/>bestimmt, und die Frage ist beantwortbar gemacht,
-      <lb facs="#facs_6_region_1709374481915_1270_tl_15" n="N015"/>wie jeder Gegenstand in seinem specifischen Ele¬
-      <lb facs="#facs_6_region_1709374481915_1270_tl_16" n="N016"/>mente sich gestalten müsse, um in seiner Weise die
-      <lb facs="#facs_6_region_1709374481915_1270_tl_17" n="N017"/>Erwartungen des Geistes zu erfüllen; Erwartun¬
-      <lb facs="#facs_6_region_1709374481915_1270_tl_18" n="N018"/>gen, die, weil sie überall die gleichen sind, auch
+      <lb facs="#facs_6_region_1709374481915_1270_tl_15" n="N015"/>wie jeder Gegenstand in seinem specifischen Ele<lb facs="#facs_6_region_1709374481915_1270_tl_16" n="N016" break="no"/>mente sich gestalten müsse, um in seiner Weise die
+      <lb facs="#facs_6_region_1709374481915_1270_tl_17" n="N017"/>Erwartungen des Geistes zu erfüllen; Erwartun<lb facs="#facs_6_region_1709374481915_1270_tl_18" n="N018" break="no"/>gen, die, weil sie überall die gleichen sind, auch
       <lb facs="#facs_6_region_1709374481915_1270_tl_19" n="N019"/>eine durchgehende Analogie der Züge voraussetzen,
       <lb facs="#facs_6_region_1709374481915_1270_tl_20" n="N020"/>durch welche in den verschiedenartigsten Kreisen
       <lb facs="#facs_6_region_1709374481915_1270_tl_21" n="N021"/>der Erscheinung das Schöne schön ist. Darin
       <lb facs="#facs_6_region_1709374481915_1270_tl_22" n="N022"/>also würde die Objectivität der Schönheit liegen,
       <lb facs="#facs_6_region_1709374481915_1270_tl_23" n="N023"/>daß sie nicht eine Coincidenz der Gegenstände mit
       <lb facs="#facs_6_region_1709374481915_1270_tl_24" n="N024"/>der zufälligen Organisation ist, durch welche das
-      <lb facs="#facs_6_region_1709374481915_1270_tl_25" n="N025"/>einzelne endliche Subject sich von andern unter¬
-      <lb facs="#facs_6_region_1709374481915_1270_tl_26" n="N026"/>scheidet, sondern ein Zusammentreffen mit den For¬
-      <lb facs="#facs_6_region_1709374481915_1270_tl_27" n="N027"/>men des Daseins und der Thätigkeit, welche die
+      <lb facs="#facs_6_region_1709374481915_1270_tl_25" n="N025"/>einzelne endliche Subject sich von andern unter<lb facs="#facs_6_region_1709374481915_1270_tl_26" n="N026" break="no"/>scheidet, sondern ein Zusammentreffen mit den For<lb facs="#facs_6_region_1709374481915_1270_tl_27" n="N027" break="no"/>men des Daseins und der Thätigkeit, welche die
       <lb facs="#facs_6_region_1709374481915_1270_tl_28" n="N028"/>ideale Bestimmung des geistigen Lebens überhaupt
-      <lb facs="#facs_6_region_1709374481915_1270_tl_29" n="N029"/>zu ihrer eigenen Erfüllung überall fordert und vor¬
-      <lb facs="#facs_6_region_1709374481915_1270_tl_30" n="N030"/>aussetzt. Von dieser letzten Beziehung auf eine
+      <lb facs="#facs_6_region_1709374481915_1270_tl_29" n="N029"/>zu ihrer eigenen Erfüllung überall fordert und vor<lb facs="#facs_6_region_1709374481915_1270_tl_30" n="N030" break="no"/>aussetzt. Von dieser letzten Beziehung auf eine
       <lb facs="#facs_6_region_1709374481915_1270_tl_31" n="N031"/>allgemeine Subjectivität aber können wir das
       <lb facs="#facs_6_region_1709374481915_1270_tl_32" n="N032"/>Schöne so wenig trennen, als wir überhaupt den
       <lb facs="#facs_6_region_1709374481915_1270_tl_33" n="N033"/>Begriff einer Erscheinung ohne Rücksicht auf das
       <lb facs="#facs_6_region_1709374481915_1270_tl_34" n="N034"/>dem sie erscheint, oder den eines Nützlichen ohne
       <lb facs="#facs_6_region_1709374481915_1270_tl_35" n="N035"/>Rücksicht auf ein Anderes denken können, dem es
-      <lb facs="#facs_6_region_1709374481915_1270_tl_36" n="N036"/>nützt.</ab>
+      <lb facs="#facs_6_region_1709374481915_1270_tl_36" n="N036"/>nützt.
             <pb facs="#facs_7" n="7" xml:id="img_0007"/>
-            <ab facs="#facs_7_region_1709374489171_1276" type="">
-               <lb facs="#facs_7_region_1709374489171_1276_tl_1" n="N001"/>Und wie wir hierin dem Verf. nicht Recht ge¬
-      <lb facs="#facs_7_region_1709374489171_1276_tl_2" n="N002"/>ben können, so folgen wir ihm auch nur mit
+            <lb facs="#facs_7_region_1709374489171_1276_tl_1" n="N001"/>Und wie wir hierin dem Verf. nicht Recht ge<lb facs="#facs_7_region_1709374489171_1276_tl_2" n="N002" break="no"/>ben können, so folgen wir ihm auch nur mit
       <lb facs="#facs_7_region_1709374489171_1276_tl_3" n="N003"/>Vorbehalt in seine Polemik gegen die ästhetische
       <lb facs="#facs_7_region_1709374489171_1276_tl_4" n="N004"/>Bedeutung des Gefühls. So lange wir unter
       <lb facs="#facs_7_region_1709374489171_1276_tl_5" n="N005"/>dem Schönen etwas verstehn, was wir schätzen,
@@ -2652,36 +2578,25 @@
       <lb facs="#facs_7_region_1709374489171_1276_tl_9" n="N009"/>zugestehn müssen, daß uns sein Werth nur im
       <lb facs="#facs_7_region_1709374489171_1276_tl_10" n="N010"/>Gefühle gegenwärtig ist. Denn alles Erkennen
       <lb facs="#facs_7_region_1709374489171_1276_tl_11" n="N011"/>wird den Werth irgend eines Gegebenen nur durch
-      <lb facs="#facs_7_region_1709374489171_1276_tl_12" n="N012"/>Unterordnung desselben unter ein Höheres bestim¬
-      <lb facs="#facs_7_region_1709374489171_1276_tl_13" n="N013"/>men, dessen Werth an sich feststeht, und dieser letzte
-      <lb facs="#facs_7_region_1709374489171_1276_tl_14" n="N014"/>Werth, der durch keine Subsumption mehr zu be¬
-      <lb facs="#facs_7_region_1709374489171_1276_tl_15" n="N015"/>gründen ist, wird immer wieder auf der unmittel¬
-      <lb facs="#facs_7_region_1709374489171_1276_tl_16" n="N016"/>baren Evidenz des Gefühls beruhen. Gerade für
+      <lb facs="#facs_7_region_1709374489171_1276_tl_12" n="N012"/>Unterordnung desselben unter ein Höheres bestim<lb facs="#facs_7_region_1709374489171_1276_tl_13" n="N013" break="no"/>men, dessen Werth an sich feststeht, und dieser letzte
+      <lb facs="#facs_7_region_1709374489171_1276_tl_14" n="N014"/>Werth, der durch keine Subsumption mehr zu be<lb facs="#facs_7_region_1709374489171_1276_tl_15" n="N015" break="no"/>gründen ist, wird immer wieder auf der unmittel<lb facs="#facs_7_region_1709374489171_1276_tl_16" n="N016" break="no"/>baren Evidenz des Gefühls beruhen. Gerade für
       <lb facs="#facs_7_region_1709374489171_1276_tl_17" n="N017"/>die Hervorbringung des Schönen aber und für
       <lb facs="#facs_7_region_1709374489171_1276_tl_18" n="N018"/>seinen Genuß wird diese vermittelnde Thätigkeit
       <lb facs="#facs_7_region_1709374489171_1276_tl_19" n="N019"/>der Erkenntniß von der geringsten Bedeutung sein;
-      <lb facs="#facs_7_region_1709374489171_1276_tl_20" n="N020"/>gerade hier verlangen wir, daß der Werth der ge¬
-      <lb facs="#facs_7_region_1709374489171_1276_tl_21" n="N021"/>gebenen Erscheinung nicht durch diesen weitläufti¬
-      <lb facs="#facs_7_region_1709374489171_1276_tl_22" n="N022"/>gen Weg der Reflexion gefunden werden müsse,
+      <lb facs="#facs_7_region_1709374489171_1276_tl_20" n="N020"/>gerade hier verlangen wir, daß der Werth der ge<lb facs="#facs_7_region_1709374489171_1276_tl_21" n="N021" break="no"/>gebenen Erscheinung nicht durch diesen weitläufti<lb facs="#facs_7_region_1709374489171_1276_tl_22" n="N022" break="no"/>gen Weg der Reflexion gefunden werden müsse,
       <lb facs="#facs_7_region_1709374489171_1276_tl_23" n="N023"/>sondern sich unmittelbar auch an ihr selbst durch
-      <lb facs="#facs_7_region_1709374489171_1276_tl_24" n="N024"/>die Evidenz des ihr antwortenden Gefühls offen¬
-      <lb facs="#facs_7_region_1709374489171_1276_tl_25" n="N025"/>bare. Wenn der Verf. behauptet, nicht das Ge¬
-      <lb facs="#facs_7_region_1709374489171_1276_tl_26" n="N026"/>fühl, sondern die Phantasie sei das Organ für die
+      <lb facs="#facs_7_region_1709374489171_1276_tl_24" n="N024"/>die Evidenz des ihr antwortenden Gefühls offen<lb facs="#facs_7_region_1709374489171_1276_tl_25" n="N025" break="no"/>bare. Wenn der Verf. behauptet, nicht das Ge<lb facs="#facs_7_region_1709374489171_1276_tl_26" n="N026" break="no"/>fühl, sondern die Phantasie sei das Organ für die
       <lb facs="#facs_7_region_1709374489171_1276_tl_27" n="N027"/>Hervorbringung und den Genuß des Schönen, so
-      <lb facs="#facs_7_region_1709374489171_1276_tl_28" n="N028"/>können wir darin wohl einstimmen, denn die Be¬
-      <lb facs="#facs_7_region_1709374489171_1276_tl_29" n="N029"/>deutung des Ausspruchs hängt dann noch von der
+      <lb facs="#facs_7_region_1709374489171_1276_tl_28" n="N028"/>können wir darin wohl einstimmen, denn die Be<lb facs="#facs_7_region_1709374489171_1276_tl_29" n="N029" break="no"/>deutung des Ausspruchs hängt dann noch von der
       <lb facs="#facs_7_region_1709374489171_1276_tl_30" n="N030"/>ab, die wir dem Namen der Phantasie geben.
       <lb facs="#facs_7_region_1709374489171_1276_tl_31" n="N031"/>Wenn er aber die Phantasie eben im Gegensatz
       <lb facs="#facs_7_region_1709374489171_1276_tl_32" n="N032"/>zum Gefühl als die Thätigkeit des reinen Schauens
       <lb facs="#facs_7_region_1709374489171_1276_tl_33" n="N033"/>bezeichnet, so glaube ich nicht, daß wir in einem
       <lb facs="#facs_7_region_1709374489171_1276_tl_34" n="N034"/>Gebilde, das aus reinem Schauen entstanden durch
-      <lb facs="#facs_7_region_1709374489171_1276_tl_35" n="N035"/>reines Schauen wahrgenommen wird, das wieder¬
-      <lb facs="#facs_7_region_1709374489171_1276_tl_36" n="N036"/>erkennen, was uns als Kunstwerk begeistern und</ab>
+      <lb facs="#facs_7_region_1709374489171_1276_tl_35" n="N035"/>reines Schauen wahrgenommen wird, das wieder<lb facs="#facs_7_region_1709374489171_1276_tl_36" n="N036" break="no"/>erkennen, was uns als Kunstwerk begeistern und
             <pb facs="#facs_8" n="8" xml:id="img_0008"/>
-            <ab facs="#facs_8_region_1709374497802_1282" type="">
-               <lb facs="#facs_8_region_1709374497802_1282_tl_1" n="N001"/>erheben soll. Mehr Recht hätten wir vielleicht,
-      <lb facs="#facs_8_region_1709374497802_1282_tl_2" n="N002"/>die Phantasie als jene feine und bewegliche Ur¬
-      <lb facs="#facs_8_region_1709374497802_1282_tl_3" n="N003"/>theilskraft des Gefühls zu bezeichnen, die nicht wie
+            <lb facs="#facs_8_region_1709374497802_1282_tl_1" n="N001"/>erheben soll. Mehr Recht hätten wir vielleicht,
+      <lb facs="#facs_8_region_1709374497802_1282_tl_2" n="N002"/>die Phantasie als jene feine und bewegliche Ur<lb facs="#facs_8_region_1709374497802_1282_tl_3" n="N003" break="no"/>theilskraft des Gefühls zu bezeichnen, die nicht wie
       <lb facs="#facs_8_region_1709374497802_1282_tl_4" n="N004"/>das gleichgültige Erkennen, nur die Thatbestände
       <lb facs="#facs_8_region_1709374497802_1282_tl_5" n="N005"/>von Eigenschaften, Verhältnissen und Beziehungen
       <lb facs="#facs_8_region_1709374497802_1282_tl_6" n="N006"/>auffaßt, sondern in jedem dieser Gegenstände ihres
@@ -2693,120 +2608,87 @@
       <lb facs="#facs_8_region_1709374497802_1282_tl_12" n="N012"/>Werthe in die Welt der Formen einführen, und
       <lb facs="#facs_8_region_1709374497802_1282_tl_13" n="N013"/>sie ist ebenso das Organ des Verständnisses, durch
       <lb facs="#facs_8_region_1709374497802_1282_tl_14" n="N014"/>das wir allein die äußerlichen Formen, mit denen
-      <lb facs="#facs_8_region_1709374497802_1282_tl_15" n="N015"/>alle Kunst spielt, auf jenes intensive Reich zurück¬
-      <lb facs="#facs_8_region_1709374497802_1282_tl_16" n="N016"/>zudeuten vermögen, in welchem unser eigenes We¬
-      <lb facs="#facs_8_region_1709374497802_1282_tl_17" n="N017"/>sen seine wahre Heimath hat. Diesen beständigen
-      <lb facs="#facs_8_region_1709374497802_1282_tl_18" n="N018"/>Antheil des Gefühls zu leugnen, darf die Aesthe¬
-      <lb facs="#facs_8_region_1709374497802_1282_tl_19" n="N019"/>tik uns nicht verführen; sie würde damit nur dies
+      <lb facs="#facs_8_region_1709374497802_1282_tl_15" n="N015"/>alle Kunst spielt, auf jenes intensive Reich zurück<lb facs="#facs_8_region_1709374497802_1282_tl_16" n="N016" break="no"/>zudeuten vermögen, in welchem unser eigenes We<lb facs="#facs_8_region_1709374497802_1282_tl_17" n="N017" break="no"/>sen seine wahre Heimath hat. Diesen beständigen
+      <lb facs="#facs_8_region_1709374497802_1282_tl_18" n="N018"/>Antheil des Gefühls zu leugnen, darf die Aesthe<lb facs="#facs_8_region_1709374497802_1282_tl_19" n="N019" break="no"/>tik uns nicht verführen; sie würde damit nur dies
       <lb facs="#facs_8_region_1709374497802_1282_tl_20" n="N020"/>erlangen, daß das Reich des Schönen uns als
       <lb facs="#facs_8_region_1709374497802_1282_tl_21" n="N021"/>eine gänzlich fremde Natur gegenüberstände, für
       <lb facs="#facs_8_region_1709374497802_1282_tl_22" n="N022"/>die irgend ein Interesse zu hegen, kein Motiv in
       <lb facs="#facs_8_region_1709374497802_1282_tl_23" n="N023"/>unserm eigenen Innern läge. Und ich fürchte,
-      <lb facs="#facs_8_region_1709374497802_1282_tl_24" n="N024"/>daß in der That diese Geringschätzung des subjec¬
-      <lb facs="#facs_8_region_1709374497802_1282_tl_25" n="N025"/>tiven Eindrucks ihren nachtheiligen Einfluß auf
-      <lb facs="#facs_8_region_1709374497802_1282_tl_26" n="N026"/>die Kunstübung bereits geäußert hat. An Erzeug¬
-      <lb facs="#facs_8_region_1709374497802_1282_tl_27" n="N027"/>nissen, die in sich vielleicht consequent und tiefsin¬
-      <lb facs="#facs_8_region_1709374497802_1282_tl_28" n="N028"/>nig entwickelt sind, und die doch mit dieser inne¬
-      <lb facs="#facs_8_region_1709374497802_1282_tl_29" n="N029"/>ren Vortrefflichkeit durchaus keinen Eindruck ma¬
-      <lb facs="#facs_8_region_1709374497802_1282_tl_30" n="N030"/>chen, hat es in der Kunst nie gefehlt; unsere Zeit
+      <lb facs="#facs_8_region_1709374497802_1282_tl_24" n="N024"/>daß in der That diese Geringschätzung des subjec<lb facs="#facs_8_region_1709374497802_1282_tl_25" n="N025" break="no"/>tiven Eindrucks ihren nachtheiligen Einfluß auf
+      <lb facs="#facs_8_region_1709374497802_1282_tl_26" n="N026"/>die Kunstübung bereits geäußert hat. An Erzeug<lb facs="#facs_8_region_1709374497802_1282_tl_27" n="N027" break="no"/>nissen, die in sich vielleicht consequent und tiefsin<lb facs="#facs_8_region_1709374497802_1282_tl_28" n="N028" break="no"/>nig entwickelt sind, und die doch mit dieser inne<lb facs="#facs_8_region_1709374497802_1282_tl_29" n="N029" break="no"/>ren Vortrefflichkeit durchaus keinen Eindruck ma<lb facs="#facs_8_region_1709374497802_1282_tl_30" n="N030" break="no"/>chen, hat es in der Kunst nie gefehlt; unsere Zeit
       <lb facs="#facs_8_region_1709374497802_1282_tl_31" n="N031"/>aber scheint Anstalt zu machen, diese Gattung
       <lb facs="#facs_8_region_1709374497802_1282_tl_32" n="N032"/>vorsätzlich auszubilden.
       <lb facs="#facs_8_region_1709374497802_1282_tl_33" n="N033"/>Mit dem Allen streite ich, wie sich zeigen wird,
       <lb facs="#facs_8_region_1709374497802_1282_tl_34" n="N034"/>nicht eigentlich gegen die Ansicht des Verfs selbst,
       <lb facs="#facs_8_region_1709374497802_1282_tl_35" n="N035"/>sondern gegen die wissenschaftliche Einleitung, die
-      <lb facs="#facs_8_region_1709374497802_1282_tl_36" n="N036"/>er für sie der herrschenden Aesthetik entlehnt hat,</ab>
+      <lb facs="#facs_8_region_1709374497802_1282_tl_36" n="N036"/>er für sie der herrschenden Aesthetik entlehnt hat,
             <pb facs="#facs_9" n="9" xml:id="img_0009"/>
-            <ab facs="#facs_9_region_1709374505899_1288" type="">
-               <lb facs="#facs_9_region_1709374505899_1288_tl_1" n="N001"/>und die mit dem, was er meint, fast mehr im
+            <lb facs="#facs_9_region_1709374505899_1288_tl_1" n="N001"/>und die mit dem, was er meint, fast mehr im
       <lb facs="#facs_9_region_1709374505899_1288_tl_2" n="N002"/>Widerspruch als im Einklang ist. Aus jener Lehre
       <lb facs="#facs_9_region_1709374505899_1288_tl_3" n="N003"/>von dem reinen Schauen der Phantasie läßt sich
       <lb facs="#facs_9_region_1709374505899_1288_tl_4" n="N004"/>die Theilnahme nicht erklären, die unser Gefühl,
       <lb facs="#facs_9_region_1709374505899_1288_tl_5" n="N005"/>wenn auch nur accessorisch, so doch thatsächlich an
-      <lb facs="#facs_9_region_1709374505899_1288_tl_6" n="N006"/>dem gelungenen Kunstwerk nimmt; aus den An¬
-      <lb facs="#facs_9_region_1709374505899_1288_tl_7" n="N007"/>nahmen dagegen, welche wir oben machten, ent¬
-      <lb facs="#facs_9_region_1709374505899_1288_tl_8" n="N008"/>springt für uns die Nothwendigkeit ganz derselben
+      <lb facs="#facs_9_region_1709374505899_1288_tl_6" n="N006"/>dem gelungenen Kunstwerk nimmt; aus den An<lb facs="#facs_9_region_1709374505899_1288_tl_7" n="N007" break="no"/>nahmen dagegen, welche wir oben machten, ent<lb facs="#facs_9_region_1709374505899_1288_tl_8" n="N008" break="no"/>springt für uns die Nothwendigkeit ganz derselben
       <lb facs="#facs_9_region_1709374505899_1288_tl_9" n="N009"/>Polemik, welche der Verf. mit Recht gegen die
       <lb facs="#facs_9_region_1709374505899_1288_tl_10" n="N010"/>geläufige unmittelbare Beziehung der Musik und
       <lb facs="#facs_9_region_1709374505899_1288_tl_11" n="N011"/>der Kunst überhaupt auf Erregung der Gefühle
       <lb facs="#facs_9_region_1709374505899_1288_tl_12" n="N012"/>richtet. Nicht Gefühle überhaupt, nicht Gefühle
       <lb facs="#facs_9_region_1709374505899_1288_tl_13" n="N013"/>um jeden Preis soll das Kunstwerk erregen, nicht
-      <lb facs="#facs_9_region_1709374505899_1288_tl_14" n="N014"/>der beschränkten, krankhaften einseitigen Sentimen¬
-      <lb facs="#facs_9_region_1709374505899_1288_tl_15" n="N015"/>talität des Einen schmeicheln, oder die träge Em¬
-      <lb facs="#facs_9_region_1709374505899_1288_tl_16" n="N016"/>pfänglichkeit des Andern durch ein Aufgebot hef¬
-      <lb facs="#facs_9_region_1709374505899_1288_tl_17" n="N017"/>tiger Reize aufstacheln, nicht durch jedes Mittel,
+      <lb facs="#facs_9_region_1709374505899_1288_tl_14" n="N014"/>der beschränkten, krankhaften einseitigen Sentimen<lb facs="#facs_9_region_1709374505899_1288_tl_15" n="N015" break="no"/>talität des Einen schmeicheln, oder die träge Em<lb facs="#facs_9_region_1709374505899_1288_tl_16" n="N016" break="no"/>pfänglichkeit des Andern durch ein Aufgebot hef<lb facs="#facs_9_region_1709374505899_1288_tl_17" n="N017" break="no"/>tiger Reize aufstacheln, nicht durch jedes Mittel,
       <lb facs="#facs_9_region_1709374505899_1288_tl_18" n="N018"/>am wenigsten durch das am kürzesten zum Ziele
       <lb facs="#facs_9_region_1709374505899_1288_tl_19" n="N019"/>führende, soll sie eine Erschütterung des Gemüths
-      <lb facs="#facs_9_region_1709374505899_1288_tl_20" n="N020"/>erzwingen. Alle diese einseitigen, heftigen, an ein¬
-      <lb facs="#facs_9_region_1709374505899_1288_tl_21" n="N021"/>zelne Veranlassungen geknüpften Erregungen sind
+      <lb facs="#facs_9_region_1709374505899_1288_tl_20" n="N020"/>erzwingen. Alle diese einseitigen, heftigen, an ein<lb facs="#facs_9_region_1709374505899_1288_tl_21" n="N021" break="no"/>zelne Veranlassungen geknüpften Erregungen sind
       <lb facs="#facs_9_region_1709374505899_1288_tl_22" n="N022"/>nicht jene ideale Form des geistigen Lebens, die
-      <lb facs="#facs_9_region_1709374505899_1288_tl_23" n="N023"/>sich in dem Schönen ausdrücken soll; eine vollen¬
-      <lb facs="#facs_9_region_1709374505899_1288_tl_24" n="N024"/>dete Uebersicht vielmehr, die keinem Einzelnen mehr
+      <lb facs="#facs_9_region_1709374505899_1288_tl_23" n="N023"/>sich in dem Schönen ausdrücken soll; eine vollen<lb facs="#facs_9_region_1709374505899_1288_tl_24" n="N024" break="no"/>dete Uebersicht vielmehr, die keinem Einzelnen mehr
       <lb facs="#facs_9_region_1709374505899_1288_tl_25" n="N025"/>Werth ertheilt als ihm zukommt, die Alles an
       <lb facs="#facs_9_region_1709374505899_1288_tl_26" n="N026"/>seinen Ort stellend, die Welt als ein unendliches
       <lb facs="#facs_9_region_1709374505899_1288_tl_27" n="N027"/>Ganzes zusammenstimmender Entwicklungen weiß,
-      <lb facs="#facs_9_region_1709374505899_1288_tl_28" n="N028"/>eine Festigkeit des Gemüthes, die von keinem be¬
-      <lb facs="#facs_9_region_1709374505899_1288_tl_29" n="N029"/>sondern Eindrucke sich weiter hinreißen läßt, als
+      <lb facs="#facs_9_region_1709374505899_1288_tl_28" n="N028"/>eine Festigkeit des Gemüthes, die von keinem be<lb facs="#facs_9_region_1709374505899_1288_tl_29" n="N029" break="no"/>sondern Eindrucke sich weiter hinreißen läßt, als
       <lb facs="#facs_9_region_1709374505899_1288_tl_30" n="N030"/>die Gerechtigkeit gegen die übrige Gesammtheit
       <lb facs="#facs_9_region_1709374505899_1288_tl_31" n="N031"/>des Weltinhalts gestattet, und die eben deswegen
       <lb facs="#facs_9_region_1709374505899_1288_tl_32" n="N032"/>in jeder einzelnen Erregung die Erinnerung an
       <lb facs="#facs_9_region_1709374505899_1288_tl_33" n="N033"/>diese Gesammtheit mitklingen fühlt: diese innere
       <lb facs="#facs_9_region_1709374505899_1288_tl_34" n="N034"/>Bildung müssen wir als das Maß bezeichnen, mit
-      <lb facs="#facs_9_region_1709374505899_1288_tl_35" n="N035"/>welchem das Kunstwerk übereinstimmen soll. Ge¬
-      <lb facs="#facs_9_region_1709374505899_1288_tl_36" n="N036"/>wiß kann daher die Kunst, wenn sie nicht den</ab>
+      <lb facs="#facs_9_region_1709374505899_1288_tl_35" n="N035"/>welchem das Kunstwerk übereinstimmen soll. Ge<lb facs="#facs_9_region_1709374505899_1288_tl_36" n="N036" break="no"/>wiß kann daher die Kunst, wenn sie nicht den
             <pb facs="#facs_10" n="10" xml:id="img_0010"/>
-            <ab facs="#facs_10_region_1709374517170_1294" type="">
-               <lb facs="#facs_10_region_1709374517170_1294_tl_1" n="N001"/>natürlichen Menschen, sondern den idealen in uns
+            <lb facs="#facs_10_region_1709374517170_1294_tl_1" n="N001"/>natürlichen Menschen, sondern den idealen in uns
       <lb facs="#facs_10_region_1709374517170_1294_tl_2" n="N002"/>ergreifen soll, jenes Gefühl, das wir als ihren
-      <lb facs="#facs_10_region_1709374517170_1294_tl_3" n="N003"/>Zweck bezeichnen müssen, nur durch eine Darstel¬
-      <lb facs="#facs_10_region_1709374517170_1294_tl_4" n="N004"/>lung dieses Baues der Welt, nur durch eine con¬
-      <lb facs="#facs_10_region_1709374517170_1294_tl_5" n="N005"/>sequente Verknüpfung von Formen hervorbringen,
+      <lb facs="#facs_10_region_1709374517170_1294_tl_3" n="N003"/>Zweck bezeichnen müssen, nur durch eine Darstel<lb facs="#facs_10_region_1709374517170_1294_tl_4" n="N004" break="no"/>lung dieses Baues der Welt, nur durch eine con<lb facs="#facs_10_region_1709374517170_1294_tl_5" n="N005" break="no"/>sequente Verknüpfung von Formen hervorbringen,
       <lb facs="#facs_10_region_1709374517170_1294_tl_6" n="N006"/>in denen die Umrisse dieses Baues, die wahrhaft
       <lb facs="#facs_10_region_1709374517170_1294_tl_7" n="N007"/>in ihm wirksamen Kräfte in dem Gewichte ihrer
-      <lb facs="#facs_10_region_1709374517170_1294_tl_8" n="N008"/>gegenseitigen Beziehungen anschaulich uns entge¬
-      <lb facs="#facs_10_region_1709374517170_1294_tl_9" n="N009"/>gentreten, und stets wird es ihrer Bestimmung
+      <lb facs="#facs_10_region_1709374517170_1294_tl_8" n="N008"/>gegenseitigen Beziehungen anschaulich uns entge<lb facs="#facs_10_region_1709374517170_1294_tl_9" n="N009" break="no"/>gentreten, und stets wird es ihrer Bestimmung
       <lb facs="#facs_10_region_1709374517170_1294_tl_10" n="N010"/>unwürdig sein, das Gemüth an einzelnen Seiten
-      <lb facs="#facs_10_region_1709374517170_1294_tl_11" n="N011"/>anzugreifen und Gefühle hervorzurufen, die in ih¬
-      <lb facs="#facs_10_region_1709374517170_1294_tl_12" n="N012"/>rer Einseitigkeit über dies harmonische Maß einer
+      <lb facs="#facs_10_region_1709374517170_1294_tl_11" n="N011"/>anzugreifen und Gefühle hervorzurufen, die in ih<lb facs="#facs_10_region_1709374517170_1294_tl_12" n="N012" break="no"/>rer Einseitigkeit über dies harmonische Maß einer
       <lb facs="#facs_10_region_1709374517170_1294_tl_13" n="N013"/>idealen Stimmung hinausgehen. Man sieht leicht,
-      <lb facs="#facs_10_region_1709374517170_1294_tl_14" n="N014"/>wie sehr auf diese Weise die Consequenz ins Ge¬
-      <lb facs="#facs_10_region_1709374517170_1294_tl_15" n="N015"/>wicht fällt, mit der jede Kunst zunächst die Ele¬
-      <lb facs="#facs_10_region_1709374517170_1294_tl_16" n="N016"/>mente mit denen sie wirkt, nach den Regeln ihrer
-      <lb facs="#facs_10_region_1709374517170_1294_tl_17" n="N017"/>eigenen Technik zu dem Ganzen einer zusammen¬
-      <lb facs="#facs_10_region_1709374517170_1294_tl_18" n="N018"/>gehörigen Bildung verbindet. Sie will nur durch
+      <lb facs="#facs_10_region_1709374517170_1294_tl_14" n="N014"/>wie sehr auf diese Weise die Consequenz ins Ge<lb facs="#facs_10_region_1709374517170_1294_tl_15" n="N015" break="no"/>wicht fällt, mit der jede Kunst zunächst die Ele<lb facs="#facs_10_region_1709374517170_1294_tl_16" n="N016" break="no"/>mente mit denen sie wirkt, nach den Regeln ihrer
+      <lb facs="#facs_10_region_1709374517170_1294_tl_17" n="N017"/>eigenen Technik zu dem Ganzen einer zusammen<lb facs="#facs_10_region_1709374517170_1294_tl_18" n="N018" break="no"/>gehörigen Bildung verbindet. Sie will nur durch
       <lb facs="#facs_10_region_1709374517170_1294_tl_19" n="N019"/>dieses Ganze, nicht durch die sinnliche Gewalt der
       <lb facs="#facs_10_region_1709374517170_1294_tl_20" n="N020"/>Elemente wirken. Und hieraus kann leicht dies
       <lb facs="#facs_10_region_1709374517170_1294_tl_21" n="N021"/>Mißverständniß entstehn, als sei das Kunstwerk
-      <lb facs="#facs_10_region_1709374517170_1294_tl_22" n="N022"/>überhaupt nur eine auf sich selbst beruhende Ve¬
-      <lb facs="#facs_10_region_1709374517170_1294_tl_23" n="N023"/>getation, der die Beziehung auf das Gefühl kaum
+      <lb facs="#facs_10_region_1709374517170_1294_tl_22" n="N022"/>überhaupt nur eine auf sich selbst beruhende Ve<lb facs="#facs_10_region_1709374517170_1294_tl_23" n="N023" break="no"/>getation, der die Beziehung auf das Gefühl kaum
       <lb facs="#facs_10_region_1709374517170_1294_tl_24" n="N024"/>äußerlich zukomme. Durch den völlig berechtigten
       <lb facs="#facs_10_region_1709374517170_1294_tl_25" n="N025"/>Kampf gegen jene pathologischen Gefühlseindrücke
       <lb facs="#facs_10_region_1709374517170_1294_tl_26" n="N026"/>scheint uns auch der Verf. über das gebotene Maß
       <lb facs="#facs_10_region_1709374517170_1294_tl_27" n="N027"/>hinausgekommen zu sein und die ersten Abschnitte
-      <lb facs="#facs_10_region_1709374517170_1294_tl_28" n="N028"/>seiner Schrift verrathen zuweilen durch die wun¬
-      <lb facs="#facs_10_region_1709374517170_1294_tl_29" n="N029"/>derlichen Consequenzen, die er entschlossen zieht,
+      <lb facs="#facs_10_region_1709374517170_1294_tl_28" n="N028"/>seiner Schrift verrathen zuweilen durch die wun<lb facs="#facs_10_region_1709374517170_1294_tl_29" n="N029" break="no"/>derlichen Consequenzen, die er entschlossen zieht,
       <lb facs="#facs_10_region_1709374517170_1294_tl_30" n="N030"/>den Zwiespalt seiner theoretischen Grundlage mit
-      <lb facs="#facs_10_region_1709374517170_1294_tl_31" n="N031"/>seinem lebendigen künstlerischen Gefühl. Er er¬
-      <lb facs="#facs_10_region_1709374517170_1294_tl_32" n="N032"/>zürnt sich, daß man dem Wesen der Musik immer
+      <lb facs="#facs_10_region_1709374517170_1294_tl_31" n="N031"/>seinem lebendigen künstlerischen Gefühl. Er er<lb facs="#facs_10_region_1709374517170_1294_tl_32" n="N032" break="no"/>zürnt sich, daß man dem Wesen der Musik immer
       <lb facs="#facs_10_region_1709374517170_1294_tl_33" n="N033"/>von dieser Seite beikommen wolle; sei es denn je
       <lb facs="#facs_10_region_1709374517170_1294_tl_34" n="N034"/>einem vernünftigen Architekten beigefallen, durch
       <lb facs="#facs_10_region_1709374517170_1294_tl_35" n="N035"/>Baukunst Gefühle erregen zu wollen, oder ergründe
-      <lb facs="#facs_10_region_1709374517170_1294_tl_36" n="N036"/>man das Wesen des Weines, indem man ihn</ab>
+      <lb facs="#facs_10_region_1709374517170_1294_tl_36" n="N036"/>man das Wesen des Weines, indem man ihn
             <pb facs="#facs_11" n="11" xml:id="img_0011"/>
-            <ab facs="#facs_11_region_1709374533474_1300" type="">
-               <lb facs="#facs_11_region_1709374533474_1300_tl_1" n="N001"/>trinke? Warum sollen wir beide Fragen nicht
+            <lb facs="#facs_11_region_1709374533474_1300_tl_1" n="N001"/>trinke? Warum sollen wir beide Fragen nicht
       <lb facs="#facs_11_region_1709374533474_1300_tl_2" n="N002"/>bejahen? Wie anders, als durch Trinken, könnte
-      <lb facs="#facs_11_region_1709374533474_1300_tl_3" n="N003"/>man die Güte des Weins prüfen, denn von die¬
-      <lb facs="#facs_11_region_1709374533474_1300_tl_4" n="N004"/>ser, nicht von seinem Wesen, mußte consequent
+      <lb facs="#facs_11_region_1709374533474_1300_tl_3" n="N003"/>man die Güte des Weins prüfen, denn von die<lb facs="#facs_11_region_1709374533474_1300_tl_4" n="N004" break="no"/>ser, nicht von seinem Wesen, mußte consequent
       <lb facs="#facs_11_region_1709374533474_1300_tl_5" n="N005"/>die Rede sein; und welchen andern Zweck hat der
       <lb facs="#facs_11_region_1709374533474_1300_tl_6" n="N006"/>Architekt, sobald er mehr baut, als das nackte
       <lb facs="#facs_11_region_1709374533474_1300_tl_7" n="N007"/>Bedürfniß erheischt, als eben den, eine Stimmung
       <lb facs="#facs_11_region_1709374533474_1300_tl_8" n="N008"/>hervorzubringen? Denn freilich in dieser ruhigen
       <lb facs="#facs_11_region_1709374533474_1300_tl_9" n="N009"/>Form, nicht in der eines in veränderlicher Melodie
-      <lb facs="#facs_11_region_1709374533474_1300_tl_10" n="N010"/>fortströmenden Gefühls wird sich hier die Anre¬
-      <lb facs="#facs_11_region_1709374533474_1300_tl_11" n="N011"/>gung des Gemüthes äußern müssen.
+      <lb facs="#facs_11_region_1709374533474_1300_tl_10" n="N010"/>fortströmenden Gefühls wird sich hier die Anre<lb facs="#facs_11_region_1709374533474_1300_tl_11" n="N011" break="no"/>gung des Gemüthes äußern müssen.
       <lb facs="#facs_11_region_1709374533474_1300_tl_12" n="N012"/>Daß nun gerade Reflexionen über Musik mehr
-      <lb facs="#facs_11_region_1709374533474_1300_tl_13" n="N013"/>als über andere Künste sich in jene leere Gefühls¬
-      <lb facs="#facs_11_region_1709374533474_1300_tl_14" n="N014"/>schwärmerei verlieren, die dem Verf. so anstößig
+      <lb facs="#facs_11_region_1709374533474_1300_tl_13" n="N013"/>als über andere Künste sich in jene leere Gefühls<lb facs="#facs_11_region_1709374533474_1300_tl_14" n="N014" break="no"/>schwärmerei verlieren, die dem Verf. so anstößig
       <lb facs="#facs_11_region_1709374533474_1300_tl_15" n="N015"/>ist, ist nicht wunderbar. Die Töne haben keine
       <lb facs="#facs_11_region_1709374533474_1300_tl_16" n="N016"/>eigene Bedeutung, die durch directe Anregung von
       <lb facs="#facs_11_region_1709374533474_1300_tl_17" n="N017"/>Erinnerungen ein bedeutendes stoffartiges Interesse
@@ -2818,31 +2700,23 @@
       <lb facs="#facs_11_region_1709374533474_1300_tl_23" n="N023"/>aufklärenden Reflexionen. Er zeigt, wie wenig
       <lb facs="#facs_11_region_1709374533474_1300_tl_24" n="N024"/>das angeregte Gefühl in den Melodien selbst liegt,
       <lb facs="#facs_11_region_1709374533474_1300_tl_25" n="N025"/>da vielmehr dieselbe Tonfolge sich gleich adäquat
-      <lb facs="#facs_11_region_1709374533474_1300_tl_26" n="N026"/>den Aeußerungen der allerentgegengesetztesten Stim¬
-      <lb facs="#facs_11_region_1709374533474_1300_tl_27" n="N027"/>mungen anschließt; er spricht es geradezu aus,
+      <lb facs="#facs_11_region_1709374533474_1300_tl_26" n="N026"/>den Aeußerungen der allerentgegengesetztesten Stim<lb facs="#facs_11_region_1709374533474_1300_tl_27" n="N027" break="no"/>mungen anschließt; er spricht es geradezu aus,
       <lb facs="#facs_11_region_1709374533474_1300_tl_28" n="N028"/>daß die Darstellung eines Gefühles oder Affectes
       <lb facs="#facs_11_region_1709374533474_1300_tl_29" n="N029"/>gar nicht in dem eigenen Vermögen der Tonkunst
       <lb facs="#facs_11_region_1709374533474_1300_tl_30" n="N030"/>liege. „Was macht denn ein Gefühl zu diesem
       <lb facs="#facs_11_region_1709374533474_1300_tl_31" n="N031"/>bestimmten Gefühl, zur Sehnsucht, Hoffnung,
       <lb facs="#facs_11_region_1709374533474_1300_tl_32" n="N032"/>Liebe? Nur auf Grundlage einer Anzahl von
-      <lb facs="#facs_11_region_1709374533474_1300_tl_33" n="N033"/>Vorstellungen und Urtheilen kann unser Seelen¬
-      <lb facs="#facs_11_region_1709374533474_1300_tl_34" n="N034"/>zustand sich zu einem bestimmten Gefühl verdich¬
-      <lb facs="#facs_11_region_1709374533474_1300_tl_35" n="N035"/>ten. Hoffnung ist unabtrennbar von der Vorstel¬
-      <lb facs="#facs_11_region_1709374533474_1300_tl_36" n="N036"/>lung eines glücklichen Zustandes, welcher kommen</ab>
+      <lb facs="#facs_11_region_1709374533474_1300_tl_33" n="N033"/>Vorstellungen und Urtheilen kann unser Seelen<lb facs="#facs_11_region_1709374533474_1300_tl_34" n="N034" break="no"/>zustand sich zu einem bestimmten Gefühl verdich<lb facs="#facs_11_region_1709374533474_1300_tl_35" n="N035" break="no"/>ten. Hoffnung ist unabtrennbar von der Vorstel<lb facs="#facs_11_region_1709374533474_1300_tl_36" n="N036" break="no"/>lung eines glücklichen Zustandes, welcher kommen
             <pb facs="#facs_12" n="12" xml:id="img_0012"/>
-            <ab facs="#facs_12_region_1709374548443_1306" type="">
-               <lb facs="#facs_12_region_1709374548443_1306_tl_1" n="N001"/>soll und mit dem gegenwärtigen verglichen wird.
+            <lb facs="#facs_12_region_1709374548443_1306_tl_1" n="N001"/>soll und mit dem gegenwärtigen verglichen wird.
       <lb facs="#facs_12_region_1709374548443_1306_tl_2" n="N002"/>Die Wehmuth vergleicht ein vergangenes Glück
-      <lb facs="#facs_12_region_1709374548443_1306_tl_3" n="N003"/>mit der Gegenwart. Ohne diesen Gedankenappa¬
-      <lb facs="#facs_12_region_1709374548443_1306_tl_4" n="N004"/>rat kann man das gegenwärtige Fühlen nicht
+      <lb facs="#facs_12_region_1709374548443_1306_tl_3" n="N003"/>mit der Gegenwart. Ohne diesen Gedankenappa<lb facs="#facs_12_region_1709374548443_1306_tl_4" n="N004" break="no"/>rat kann man das gegenwärtige Fühlen nicht
       <lb facs="#facs_12_region_1709374548443_1306_tl_5" n="N005"/>Hoffnung, nicht Wehmuth nennen; er macht sie
       <lb facs="#facs_12_region_1709374548443_1306_tl_6" n="N006"/>dazu. Abstrahirt man von ihm, so bleibt eine
-      <lb facs="#facs_12_region_1709374548443_1306_tl_7" n="N007"/>unbestimmte Bewegung, allenfalls die Empfin¬
-      <lb facs="#facs_12_region_1709374548443_1306_tl_8" n="N008"/>dung allgemeinen Wohlbefindens oder Mißbehagens.
-      <lb facs="#facs_12_region_1709374548443_1306_tl_9" n="N009"/>Was also kann die Musik von den Gefühlen dar¬
-      <lb facs="#facs_12_region_1709374548443_1306_tl_10" n="N010"/>stellen, wenn nicht deren Inhalt? Nur das <hi rendition="#em">Dy¬</hi>
-               <lb facs="#facs_12_region_1709374548443_1306_tl_11" n="N011"/>
-               <hi rendition="#em">namische</hi> derselben. Sie vermag die Bewegung
+      <lb facs="#facs_12_region_1709374548443_1306_tl_7" n="N007"/>unbestimmte Bewegung, allenfalls die Empfin<lb facs="#facs_12_region_1709374548443_1306_tl_8" n="N008" break="no"/>dung allgemeinen Wohlbefindens oder Mißbehagens.
+      <lb facs="#facs_12_region_1709374548443_1306_tl_9" n="N009"/>Was also kann die Musik von den Gefühlen dar<lb facs="#facs_12_region_1709374548443_1306_tl_10" n="N010" break="no"/>stellen, wenn nicht deren Inhalt? Nur das <hi rendition="#em">Dy</hi>
+            <lb facs="#facs_12_region_1709374548443_1306_tl_11" n="N011" break="no"/>
+            <hi rendition="#em">namische</hi> derselben. Sie vermag die Bewegung
       <lb facs="#facs_12_region_1709374548443_1306_tl_12" n="N012"/>eines psychischen Vorgangs nach den Momenten
       <lb facs="#facs_12_region_1709374548443_1306_tl_13" n="N013"/>schnell, langsam, stark, schwach, steigend, fallend,
       <lb facs="#facs_12_region_1709374548443_1306_tl_14" n="N014"/>nachzubilden. Was uns außerdem in der Musik
@@ -2854,33 +2728,24 @@
       <lb facs="#facs_12_region_1709374548443_1306_tl_20" n="N020"/>sich aus einzelnen Veranlassungen entwickeln, als
       <lb facs="#facs_12_region_1709374548443_1306_tl_21" n="N021"/>bestimmte Größen der Lust und Unlust, welche
       <lb facs="#facs_12_region_1709374548443_1306_tl_22" n="N022"/>eben von dem Inhalte und Werthe ihrer Anlässe
-      <lb facs="#facs_12_region_1709374548443_1306_tl_23" n="N023"/>abhängen; daß sie vielmehr die allgemeinen For¬
-      <lb facs="#facs_12_region_1709374548443_1306_tl_24" n="N024"/>men der Bewegung allein festhält, in die das Ge¬
-      <lb facs="#facs_12_region_1709374548443_1306_tl_25" n="N025"/>müth geräth, und die allerdings für sehr verschie¬
-      <lb facs="#facs_12_region_1709374548443_1306_tl_26" n="N026"/>dene, ja für entgegengesetzte empirische Gefühle
+      <lb facs="#facs_12_region_1709374548443_1306_tl_23" n="N023"/>abhängen; daß sie vielmehr die allgemeinen For<lb facs="#facs_12_region_1709374548443_1306_tl_24" n="N024" break="no"/>men der Bewegung allein festhält, in die das Ge<lb facs="#facs_12_region_1709374548443_1306_tl_25" n="N025" break="no"/>müth geräth, und die allerdings für sehr verschie<lb facs="#facs_12_region_1709374548443_1306_tl_26" n="N026" break="no"/>dene, ja für entgegengesetzte empirische Gefühle
       <lb facs="#facs_12_region_1709374548443_1306_tl_27" n="N027"/>dieselben sein können. Sie zeichnet gewissermaßen
       <lb facs="#facs_12_region_1709374548443_1306_tl_28" n="N028"/>die Temperamente der Seele, aber nicht die mit
-      <lb facs="#facs_12_region_1709374548443_1306_tl_29" n="N029"/>Namen benennbaren Gefühle, in die das Tempe¬
-      <lb facs="#facs_12_region_1709374548443_1306_tl_30" n="N030"/>rament unter bestimmten Anlässen ausbricht. Daran
+      <lb facs="#facs_12_region_1709374548443_1306_tl_29" n="N029"/>Namen benennbaren Gefühle, in die das Tempe<lb facs="#facs_12_region_1709374548443_1306_tl_30" n="N030" break="no"/>rament unter bestimmten Anlässen ausbricht. Daran
       <lb facs="#facs_12_region_1709374548443_1306_tl_31" n="N031"/>schließt sich eine andere paradoxe und doch sehr
       <lb facs="#facs_12_region_1709374548443_1306_tl_32" n="N032"/>richtige Bemerkung des Verfs über den bekannten
-      <lb facs="#facs_12_region_1709374548443_1306_tl_33" n="N033"/>Satz, die Musik könne nicht die außer ihrem Be¬
-      <lb facs="#facs_12_region_1709374548443_1306_tl_34" n="N034"/>reich liegende Erscheinung schildern, sondern nur
+      <lb facs="#facs_12_region_1709374548443_1306_tl_33" n="N033"/>Satz, die Musik könne nicht die außer ihrem Be<lb facs="#facs_12_region_1709374548443_1306_tl_34" n="N034" break="no"/>reich liegende Erscheinung schildern, sondern nur
       <lb facs="#facs_12_region_1709374548443_1306_tl_35" n="N035"/>das Gefühl malen, das in uns durch sie erregt
-      <lb facs="#facs_12_region_1709374548443_1306_tl_36" n="N036"/>wird. „Gerade umgekehrt. Die Musik kann nur</ab>
+      <lb facs="#facs_12_region_1709374548443_1306_tl_36" n="N036"/>wird. „Gerade umgekehrt. Die Musik kann nur
             <pb facs="#facs_13" n="13" xml:id="img_0013"/>
-            <ab facs="#facs_13_region_1709374558962_1312" type="">
-               <lb facs="#facs_13_region_1709374558962_1312_tl_1" n="N001"/>die äußere Erscheinung nachzuahmen trachten, nie¬
-      <lb facs="#facs_13_region_1709374558962_1312_tl_2" n="N002"/>mals aber das durch sie bewirkte specifische Füh¬
-      <lb facs="#facs_13_region_1709374558962_1312_tl_3" n="N003"/>len. Das Fallen der Schneeflocken, das Flattern
+            <lb facs="#facs_13_region_1709374558962_1312_tl_1" n="N001"/>die äußere Erscheinung nachzuahmen trachten, nie<lb facs="#facs_13_region_1709374558962_1312_tl_2" n="N002" break="no"/>mals aber das durch sie bewirkte specifische Füh<lb facs="#facs_13_region_1709374558962_1312_tl_3" n="N003" break="no"/>len. Das Fallen der Schneeflocken, das Flattern
       <lb facs="#facs_13_region_1709374558962_1312_tl_4" n="N004"/>der Vögel kann ich musikalisch so malen, daß ich
       <lb facs="#facs_13_region_1709374558962_1312_tl_5" n="N005"/>analoge, diesen Phänomenen dynamisch verwandte
       <lb facs="#facs_13_region_1709374558962_1312_tl_6" n="N006"/>Gehörseindrücke hervorbringe. In Höhe, Stärke,
       <lb facs="#facs_13_region_1709374558962_1312_tl_7" n="N007"/>Schnelligkeit, Rhythmus der Töne bietet sich dem
       <lb facs="#facs_13_region_1709374558962_1312_tl_8" n="N008"/>Ohre eine <hi rendition="#em">Figur</hi>, deren Eindruck jede Analogie
       <lb facs="#facs_13_region_1709374558962_1312_tl_9" n="N009"/>mit der bestimmten Gesichtswahrnehmung hat,
-      <lb facs="#facs_13_region_1709374558962_1312_tl_10" n="N010"/>welche Sinnesempfindungen verschiedener Gattun¬
-      <lb facs="#facs_13_region_1709374558962_1312_tl_11" n="N011"/>gen erreichen können. Zwischen der Bewegung
+      <lb facs="#facs_13_region_1709374558962_1312_tl_10" n="N010"/>welche Sinnesempfindungen verschiedener Gattun<lb facs="#facs_13_region_1709374558962_1312_tl_11" n="N011" break="no"/>gen erreichen können. Zwischen der Bewegung
       <lb facs="#facs_13_region_1709374558962_1312_tl_12" n="N012"/>im Raume und jener in der Zeit, zwischen der
       <lb facs="#facs_13_region_1709374558962_1312_tl_13" n="N013"/>Farbe, Feinheit, Größe eines Gegenstandes und
       <lb facs="#facs_13_region_1709374558962_1312_tl_14" n="N014"/>der Höhe, Stärke, Klangfarbe eines Tones herrscht
@@ -2891,284 +2756,181 @@
       <lb facs="#facs_13_region_1709374558962_1312_tl_19" n="N019"/>hervorbringt, ist widersinnig.“ Auch hier also hebt
       <lb facs="#facs_13_region_1709374558962_1312_tl_20" n="N020"/>die musikalische Darstellung nur Verknüpfungs-
       <lb facs="#facs_13_region_1709374558962_1312_tl_21" n="N021"/>und Bewegungsformen des Mannichfaltigen hervor,
-      <lb facs="#facs_13_region_1709374558962_1312_tl_22" n="N022"/>aber sie läßt die empirische Bestimmtheit des Be¬
-      <lb facs="#facs_13_region_1709374558962_1312_tl_23" n="N023"/>wegten und Verknüpften völlig fallen. Und so
+      <lb facs="#facs_13_region_1709374558962_1312_tl_22" n="N022"/>aber sie läßt die empirische Bestimmtheit des Be<lb facs="#facs_13_region_1709374558962_1312_tl_23" n="N023" break="no"/>wegten und Verknüpften völlig fallen. Und so
       <lb facs="#facs_13_region_1709374558962_1312_tl_24" n="N024"/>scheint dem Verf. die Beziehung der Musik auf
-      <lb facs="#facs_13_region_1709374558962_1312_tl_25" n="N025"/>Gefühle überhaupt aus der Aesthetik zu verban¬
-      <lb facs="#facs_13_region_1709374558962_1312_tl_26" n="N026"/>nen; da sie bestimmte nicht zeichne, so zeichne sie
-      <lb facs="#facs_13_region_1709374558962_1312_tl_27" n="N027"/>gar keine, unbestimmte darzustellen, sei ein Wider¬
-      <lb facs="#facs_13_region_1709374558962_1312_tl_28" n="N028"/>spruch. Aber zwischen jenen scharfsinnigen Bemer¬
-      <lb facs="#facs_13_region_1709374558962_1312_tl_29" n="N029"/>kungen, denen wir völlig beistimmen müssen, und
+      <lb facs="#facs_13_region_1709374558962_1312_tl_25" n="N025"/>Gefühle überhaupt aus der Aesthetik zu verban<lb facs="#facs_13_region_1709374558962_1312_tl_26" n="N026" break="no"/>nen; da sie bestimmte nicht zeichne, so zeichne sie
+      <lb facs="#facs_13_region_1709374558962_1312_tl_27" n="N027"/>gar keine, unbestimmte darzustellen, sei ein Wider<lb facs="#facs_13_region_1709374558962_1312_tl_28" n="N028" break="no"/>spruch. Aber zwischen jenen scharfsinnigen Bemer<lb facs="#facs_13_region_1709374558962_1312_tl_29" n="N029" break="no"/>kungen, denen wir völlig beistimmen müssen, und
       <lb facs="#facs_13_region_1709374558962_1312_tl_30" n="N030"/>dieser Folgerung liegt doch vielleicht noch etwas
-      <lb facs="#facs_13_region_1709374558962_1312_tl_31" n="N031"/>mitten inne, zu dessen Aufsuchung ohnehin nahe¬
-      <lb facs="#facs_13_region_1709374558962_1312_tl_32" n="N032"/>liegende Gründe drängen. Da die Musik kein
+      <lb facs="#facs_13_region_1709374558962_1312_tl_31" n="N031"/>mitten inne, zu dessen Aufsuchung ohnehin nahe<lb facs="#facs_13_region_1709374558962_1312_tl_32" n="N032" break="no"/>liegende Gründe drängen. Da die Musik kein
       <lb facs="#facs_13_region_1709374558962_1312_tl_33" n="N033"/>Naturproduct ist, das wir nehmen müßten, wie
-      <lb facs="#facs_13_region_1709374558962_1312_tl_34" n="N034"/>es ist, was ist es dann, was den Menschen an¬
-      <lb facs="#facs_13_region_1709374558962_1312_tl_35" n="N035"/>treibt, sie beständig hervorzubringen, wenn ihr In¬
-      <lb facs="#facs_13_region_1709374558962_1312_tl_36" n="N036"/>halt nichts Anderes ist, als jenes Dynamische und</ab>
+      <lb facs="#facs_13_region_1709374558962_1312_tl_34" n="N034"/>es ist, was ist es dann, was den Menschen an<lb facs="#facs_13_region_1709374558962_1312_tl_35" n="N035" break="no"/>treibt, sie beständig hervorzubringen, wenn ihr In<lb facs="#facs_13_region_1709374558962_1312_tl_36" n="N036" break="no"/>halt nichts Anderes ist, als jenes Dynamische und
             <pb facs="#facs_14" n="14" xml:id="img_0014"/>
-            <ab facs="#facs_14_region_1709374571115_1318" type="">
-               <lb facs="#facs_14_region_1709374571115_1318_tl_1" n="N001"/>die unendlich mannichfachen Variationen seiner Ele¬
-      <lb facs="#facs_14_region_1709374571115_1318_tl_2" n="N002"/>mente? Worin anders kann dieser Antrieb liegen,
-      <lb facs="#facs_14_region_1709374571115_1318_tl_3" n="N003"/>als eben darin, daß alle diese Formen der Ver¬
-      <lb facs="#facs_14_region_1709374571115_1318_tl_4" n="N004"/>knüpfung und Entwicklung, in denen die Musik
-      <lb facs="#facs_14_region_1709374571115_1318_tl_5" n="N005"/>ihre Töne verbindet, nicht bloß mögliche Thatsa¬
-      <lb facs="#facs_14_region_1709374571115_1318_tl_6" n="N006"/>chen, sondern Gebilde sind, in denen unser Ge¬
-      <lb facs="#facs_14_region_1709374571115_1318_tl_7" n="N007"/>müth einen eigenthümlichen Werth findet, dessen
+            <lb facs="#facs_14_region_1709374571115_1318_tl_1" n="N001"/>die unendlich mannichfachen Variationen seiner Ele<lb facs="#facs_14_region_1709374571115_1318_tl_2" n="N002" break="no"/>mente? Worin anders kann dieser Antrieb liegen,
+      <lb facs="#facs_14_region_1709374571115_1318_tl_3" n="N003"/>als eben darin, daß alle diese Formen der Ver<lb facs="#facs_14_region_1709374571115_1318_tl_4" n="N004" break="no"/>knüpfung und Entwicklung, in denen die Musik
+      <lb facs="#facs_14_region_1709374571115_1318_tl_5" n="N005"/>ihre Töne verbindet, nicht bloß mögliche Thatsa<lb facs="#facs_14_region_1709374571115_1318_tl_6" n="N006" break="no"/>chen, sondern Gebilde sind, in denen unser Ge<lb facs="#facs_14_region_1709374571115_1318_tl_7" n="N007" break="no"/>müth einen eigenthümlichen Werth findet, dessen
       <lb facs="#facs_14_region_1709374571115_1318_tl_8" n="N008"/>Genuß sein Gefühl zu befriedigen vermag? Wenn
       <lb facs="#facs_14_region_1709374571115_1318_tl_9" n="N009"/>es zugegeben werden muß, daß die Musik keines
-      <lb facs="#facs_14_region_1709374571115_1318_tl_10" n="N010"/>jener Gefühle darstellt, die in ihrem ganzen In¬
-      <lb facs="#facs_14_region_1709374571115_1318_tl_11" n="N011"/>halt nur begreiflich sind durch die Vorstellung der
-      <lb facs="#facs_14_region_1709374571115_1318_tl_12" n="N012"/>empirischen Veranlassungen, von denen sie ausge¬
-      <lb facs="#facs_14_region_1709374571115_1318_tl_13" n="N013"/>hen, warum können nicht an die Figuren der Ton¬
-      <lb facs="#facs_14_region_1709374571115_1318_tl_14" n="N014"/>kunst sich andere Gefühle knüpfen, die darum nicht
+      <lb facs="#facs_14_region_1709374571115_1318_tl_10" n="N010"/>jener Gefühle darstellt, die in ihrem ganzen In<lb facs="#facs_14_region_1709374571115_1318_tl_11" n="N011" break="no"/>halt nur begreiflich sind durch die Vorstellung der
+      <lb facs="#facs_14_region_1709374571115_1318_tl_12" n="N012"/>empirischen Veranlassungen, von denen sie ausge<lb facs="#facs_14_region_1709374571115_1318_tl_13" n="N013" break="no"/>hen, warum können nicht an die Figuren der Ton<lb facs="#facs_14_region_1709374571115_1318_tl_14" n="N014" break="no"/>kunst sich andere Gefühle knüpfen, die darum nicht
       <lb facs="#facs_14_region_1709374571115_1318_tl_15" n="N015"/>unbestimmter sind, weil sie wegen des Mangels
-      <lb facs="#facs_14_region_1709374571115_1318_tl_16" n="N016"/>kenntlicher Objecte, auf die sie sich beziehen, gro¬
-      <lb facs="#facs_14_region_1709374571115_1318_tl_17" n="N017"/>ßentheils namenlos bleiben müssen? Die Erörte¬
-      <lb facs="#facs_14_region_1709374571115_1318_tl_18" n="N018"/>rungen des Verf. führen uns nur zu der Noth¬
-      <lb facs="#facs_14_region_1709374571115_1318_tl_19" n="N019"/>wendigkeit, den empirischen Gefühlen eine Gattung
-      <lb facs="#facs_14_region_1709374571115_1318_tl_20" n="N020"/>anderer entgegenzustellen, und zu derselben Forde¬
-      <lb facs="#facs_14_region_1709374571115_1318_tl_21" n="N021"/>rung leitet uns die Annahme, von welcher unsere
+      <lb facs="#facs_14_region_1709374571115_1318_tl_16" n="N016"/>kenntlicher Objecte, auf die sie sich beziehen, gro<lb facs="#facs_14_region_1709374571115_1318_tl_17" n="N017" break="no"/>ßentheils namenlos bleiben müssen? Die Erörte<lb facs="#facs_14_region_1709374571115_1318_tl_18" n="N018" break="no"/>rungen des Verf. führen uns nur zu der Noth<lb facs="#facs_14_region_1709374571115_1318_tl_19" n="N019" break="no"/>wendigkeit, den empirischen Gefühlen eine Gattung
+      <lb facs="#facs_14_region_1709374571115_1318_tl_20" n="N020"/>anderer entgegenzustellen, und zu derselben Forde<lb facs="#facs_14_region_1709374571115_1318_tl_21" n="N021" break="no"/>rung leitet uns die Annahme, von welcher unsere
       <lb facs="#facs_14_region_1709374571115_1318_tl_22" n="N022"/>ganze Betrachtung ausging.
-      <lb facs="#facs_14_region_1709374571115_1318_tl_23" n="N023"/>Wie die moralische Beurtheilung auf die allge¬
-      <lb facs="#facs_14_region_1709374571115_1318_tl_24" n="N024"/>meine Gesinnung, aus der eine Handlung unter¬
-      <lb facs="#facs_14_region_1709374571115_1318_tl_25" n="N025"/>nommen wurde, aber nur sehr wenig auf die
+      <lb facs="#facs_14_region_1709374571115_1318_tl_23" n="N023"/>Wie die moralische Beurtheilung auf die allge<lb facs="#facs_14_region_1709374571115_1318_tl_24" n="N024" break="no"/>meine Gesinnung, aus der eine Handlung unter<lb facs="#facs_14_region_1709374571115_1318_tl_25" n="N025" break="no"/>nommen wurde, aber nur sehr wenig auf die
       <lb facs="#facs_14_region_1709374571115_1318_tl_26" n="N026"/>Größe des Vortheils Gewicht legt, der durch sie
       <lb facs="#facs_14_region_1709374571115_1318_tl_27" n="N027"/>für die Welt gewonnen wird, so wird jene ideelle
-      <lb facs="#facs_14_region_1709374571115_1318_tl_28" n="N028"/>Gemüthslage, von der wir ausgingen, auf die em¬
-      <lb facs="#facs_14_region_1709374571115_1318_tl_29" n="N029"/>pirischen Veranlassungen ihrer Gefühle gleichfalls
+      <lb facs="#facs_14_region_1709374571115_1318_tl_28" n="N028"/>Gemüthslage, von der wir ausgingen, auf die em<lb facs="#facs_14_region_1709374571115_1318_tl_29" n="N029" break="no"/>pirischen Veranlassungen ihrer Gefühle gleichfalls
       <lb facs="#facs_14_region_1709374571115_1318_tl_30" n="N030"/>keinen höheren Werth legen, sondern sie eben als
-      <lb facs="#facs_14_region_1709374571115_1318_tl_31" n="N031"/>Gelegenheiten betrachten, die ihr nur die Erinne¬
-      <lb facs="#facs_14_region_1709374571115_1318_tl_32" n="N032"/>rung an ein allgemeineres Glück erwecken. Wir
-      <lb facs="#facs_14_region_1709374571115_1318_tl_33" n="N033"/>freuen uns nicht bloß der bestimmten Mannich¬
-      <lb facs="#facs_14_region_1709374571115_1318_tl_34" n="N034"/>faltigkeit von Gegenständen, die uns in diesem
-      <lb facs="#facs_14_region_1709374571115_1318_tl_35" n="N035"/>Augenblicke, zusammengefaßt in unserm Bewußt¬
-      <lb facs="#facs_14_region_1709374571115_1318_tl_36" n="N036"/>sein, Unterhaltung gewährt, wir freuen uns viel¬
-      <lb facs="#facs_14_region_1709374571115_1318_tl_37" n="N037"/>mehr auch des allgemeinen Gedankens einer Man¬</ab>
-            <pb facs="#facs_15" n="15" xml:id="img_0015"/>
-            <ab facs="#facs_15_region_1709374581794_1324" type="">
-               <lb facs="#facs_15_region_1709374581794_1324_tl_1" n="N001"/>nichfaltigkeit überhaupt, die doch zur Einheit sich
-      <lb facs="#facs_15_region_1709374581794_1324_tl_2" n="N002"/>verbinden läßt. In unserer Erinnerung verschwin¬
-      <lb facs="#facs_15_region_1709374581794_1324_tl_3" n="N003"/>det allmälig der bestimmte Gehalt der einzelnen,
+      <lb facs="#facs_14_region_1709374571115_1318_tl_31" n="N031"/>Gelegenheiten betrachten, die ihr nur die Erinne<lb facs="#facs_14_region_1709374571115_1318_tl_32" n="N032" break="no"/>rung an ein allgemeineres Glück erwecken. Wir
+      <lb facs="#facs_14_region_1709374571115_1318_tl_33" n="N033"/>freuen uns nicht bloß der bestimmten Mannich<lb facs="#facs_14_region_1709374571115_1318_tl_34" n="N034" break="no"/>faltigkeit von Gegenständen, die uns in diesem
+      <lb facs="#facs_14_region_1709374571115_1318_tl_35" n="N035"/>Augenblicke, zusammengefaßt in unserm Bewußt<lb facs="#facs_14_region_1709374571115_1318_tl_36" n="N036" break="no"/>sein, Unterhaltung gewährt, wir freuen uns viel<lb facs="#facs_14_region_1709374571115_1318_tl_37" n="N037" break="no"/>mehr auch des allgemeinen Gedankens einer Man
+            <pb facs="#facs_15" n="15" xml:id="img_0015" break="no"/>
+            <lb facs="#facs_15_region_1709374581794_1324_tl_1" n="N001" break="no"/>nichfaltigkeit überhaupt, die doch zur Einheit sich
+      <lb facs="#facs_15_region_1709374581794_1324_tl_2" n="N002"/>verbinden läßt. In unserer Erinnerung verschwin<lb facs="#facs_15_region_1709374581794_1324_tl_3" n="N003" break="no"/>det allmälig der bestimmte Gehalt der einzelnen,
       <lb facs="#facs_15_region_1709374581794_1324_tl_4" n="N004"/>uns vom Glücke geschenkten Eindrücke, die im
-      <lb facs="#facs_15_region_1709374581794_1324_tl_5" n="N005"/>Augenblicke, als wir sie empfingen, einzelnen Be¬
-      <lb facs="#facs_15_region_1709374581794_1324_tl_6" n="N006"/>dürfnissen und Wünschen entsprachen; aber es
+      <lb facs="#facs_15_region_1709374581794_1324_tl_5" n="N005"/>Augenblicke, als wir sie empfingen, einzelnen Be<lb facs="#facs_15_region_1709374581794_1324_tl_6" n="N006" break="no"/>dürfnissen und Wünschen entsprachen; aber es
       <lb facs="#facs_15_region_1709374581794_1324_tl_7" n="N007"/>bleibt uns die allgemeine, nicht minder von tiefem
-      <lb facs="#facs_15_region_1709374581794_1324_tl_8" n="N008"/>Gefühl durchdrungene Anschauung, daß es über¬
-      <lb facs="#facs_15_region_1709374581794_1324_tl_9" n="N009"/>haupt in der Welt diese gegenseitige freundliche
+      <lb facs="#facs_15_region_1709374581794_1324_tl_8" n="N008"/>Gefühl durchdrungene Anschauung, daß es über<lb facs="#facs_15_region_1709374581794_1324_tl_9" n="N009" break="no"/>haupt in der Welt diese gegenseitige freundliche
       <lb facs="#facs_15_region_1709374581794_1324_tl_10" n="N010"/>Beziehung ihrer Elemente auf einander gibt, aus
-      <lb facs="#facs_15_region_1709374581794_1324_tl_11" n="N011"/>der einzelne hellere Punkte des Glückes hervortre¬
-      <lb facs="#facs_15_region_1709374581794_1324_tl_12" n="N012"/>ten können. Finden wir uns durch unablässige
+      <lb facs="#facs_15_region_1709374581794_1324_tl_11" n="N011"/>der einzelne hellere Punkte des Glückes hervortre<lb facs="#facs_15_region_1709374581794_1324_tl_12" n="N012" break="no"/>ten können. Finden wir uns durch unablässige
       <lb facs="#facs_15_region_1709374581794_1324_tl_13" n="N013"/>Consequenz des Handelns einem bestimmten Ziele
-      <lb facs="#facs_15_region_1709374581794_1324_tl_14" n="N014"/>näher geführt, so schätzen wir nicht nur diesen be¬
-      <lb facs="#facs_15_region_1709374581794_1324_tl_15" n="N015"/>stimmten Vortheil, der aus dem Inhalte dieses
+      <lb facs="#facs_15_region_1709374581794_1324_tl_14" n="N014"/>näher geführt, so schätzen wir nicht nur diesen be<lb facs="#facs_15_region_1709374581794_1324_tl_15" n="N015" break="no"/>stimmten Vortheil, der aus dem Inhalte dieses
       <lb facs="#facs_15_region_1709374581794_1324_tl_16" n="N016"/>Zieles entspringt, sondern wir erfreuen uns nicht
       <lb facs="#facs_15_region_1709374581794_1324_tl_17" n="N017"/>minder an dem Gedanken der Consequenz und
       <lb facs="#facs_15_region_1709374581794_1324_tl_18" n="N018"/>Stetigkeit überhaupt, der nirgends die Erreichung
-      <lb facs="#facs_15_region_1709374581794_1324_tl_19" n="N019"/>ihres Zweckes fehlen werde. Wird unsere Hoff¬
-      <lb facs="#facs_15_region_1709374581794_1324_tl_20" n="N020"/>nung auf eine bestimmte einzelne Wendung un¬
-      <lb facs="#facs_15_region_1709374581794_1324_tl_21" n="N021"/>sers Schicksals befriedigt, so liegt doch der ganze
-      <lb facs="#facs_15_region_1709374581794_1324_tl_22" n="N022"/>Genuß weder in der Erwartung, noch in der Er¬
-      <lb facs="#facs_15_region_1709374581794_1324_tl_23" n="N023"/>langung dieses einzelnen Vortheils, sondern auch
+      <lb facs="#facs_15_region_1709374581794_1324_tl_19" n="N019"/>ihres Zweckes fehlen werde. Wird unsere Hoff<lb facs="#facs_15_region_1709374581794_1324_tl_20" n="N020" break="no"/>nung auf eine bestimmte einzelne Wendung un<lb facs="#facs_15_region_1709374581794_1324_tl_21" n="N021" break="no"/>sers Schicksals befriedigt, so liegt doch der ganze
+      <lb facs="#facs_15_region_1709374581794_1324_tl_22" n="N022"/>Genuß weder in der Erwartung, noch in der Er<lb facs="#facs_15_region_1709374581794_1324_tl_23" n="N023" break="no"/>langung dieses einzelnen Vortheils, sondern auch
       <lb facs="#facs_15_region_1709374581794_1324_tl_24" n="N024"/>die allgemeine Ueberzeugung, daß es im Laufe der
       <lb facs="#facs_15_region_1709374581794_1324_tl_25" n="N025"/>Schicksale überhaupt Wendungen und erreichbare
-      <lb facs="#facs_15_region_1709374581794_1324_tl_26" n="N026"/>Punkte der Befriedigung gibt, schließt ein bestän¬
-      <lb facs="#facs_15_region_1709374581794_1324_tl_27" n="N027"/>diges und dauerndes Gefühl ein. Ueberblicken
+      <lb facs="#facs_15_region_1709374581794_1324_tl_26" n="N026"/>Punkte der Befriedigung gibt, schließt ein bestän<lb facs="#facs_15_region_1709374581794_1324_tl_27" n="N027" break="no"/>diges und dauerndes Gefühl ein. Ueberblicken
       <lb facs="#facs_15_region_1709374581794_1324_tl_28" n="N028"/>wir endlich die Welt im Ganzen und finden wir,
-      <lb facs="#facs_15_region_1709374581794_1324_tl_29" n="N029"/>daß sie nicht in principlose Mannichfaltigkeiten zer¬
-      <lb facs="#facs_15_region_1709374581794_1324_tl_30" n="N030"/>fällt, sondern daß fest bestimmte Gattungen der
-      <lb facs="#facs_15_region_1709374581794_1324_tl_31" n="N031"/>Geschöpfe, in verschiedenen Graden der Verwandt¬
-      <lb facs="#facs_15_region_1709374581794_1324_tl_32" n="N032"/>schaft auf einander bezogen, jede sich in ihrer
-      <lb facs="#facs_15_region_1709374581794_1324_tl_33" n="N033"/>Weise stetig entwickelt, und jede zu ihrer Entwi¬
-      <lb facs="#facs_15_region_1709374581794_1324_tl_34" n="N034"/>ckelung in der umgebenden äußern Welt die gün¬
-      <lb facs="#facs_15_region_1709374581794_1324_tl_35" n="N035"/>stigen und hinlänglichen Bedingungen antrifft, so
+      <lb facs="#facs_15_region_1709374581794_1324_tl_29" n="N029"/>daß sie nicht in principlose Mannichfaltigkeiten zer<lb facs="#facs_15_region_1709374581794_1324_tl_30" n="N030" break="no"/>fällt, sondern daß fest bestimmte Gattungen der
+      <lb facs="#facs_15_region_1709374581794_1324_tl_31" n="N031"/>Geschöpfe, in verschiedenen Graden der Verwandt<lb facs="#facs_15_region_1709374581794_1324_tl_32" n="N032" break="no"/>schaft auf einander bezogen, jede sich in ihrer
+      <lb facs="#facs_15_region_1709374581794_1324_tl_33" n="N033"/>Weise stetig entwickelt, und jede zu ihrer Entwi<lb facs="#facs_15_region_1709374581794_1324_tl_34" n="N034" break="no"/>ckelung in der umgebenden äußern Welt die gün<lb facs="#facs_15_region_1709374581794_1324_tl_35" n="N035" break="no"/>stigen und hinlänglichen Bedingungen antrifft, so
       <lb facs="#facs_15_region_1709374581794_1324_tl_36" n="N036"/>bleibt aus dieser Anschauung, wenn wir längst
-      <lb facs="#facs_15_region_1709374581794_1324_tl_37" n="N037"/>die einzelnen Punkte vergessen haben, dies Bild</ab>
+      <lb facs="#facs_15_region_1709374581794_1324_tl_37" n="N037"/>die einzelnen Punkte vergessen haben, dies Bild
             <pb facs="#facs_16" n="16" xml:id="img_0016"/>
-            <ab facs="#facs_16_region_1709374591051_1330" type="">
-               <lb facs="#facs_16_region_1709374591051_1330_tl_1" n="N001"/>einer harmonisch geordneten Fülle zurück, in der
-      <lb facs="#facs_16_region_1709374591051_1330_tl_2" n="N002"/>jeder einzelne lebendige Trieb nicht allein und ver¬
-      <lb facs="#facs_16_region_1709374591051_1330_tl_3" n="N003"/>lassen sich ins Leere ausbreitet, sondern darauf
+            <lb facs="#facs_16_region_1709374591051_1330_tl_1" n="N001"/>einer harmonisch geordneten Fülle zurück, in der
+      <lb facs="#facs_16_region_1709374591051_1330_tl_2" n="N002"/>jeder einzelne lebendige Trieb nicht allein und ver<lb facs="#facs_16_region_1709374591051_1330_tl_3" n="N003" break="no"/>lassen sich ins Leere ausbreitet, sondern darauf
       <lb facs="#facs_16_region_1709374591051_1330_tl_4" n="N004"/>hoffen kann, begleitende Bewegungen zu finden,
       <lb facs="#facs_16_region_1709374591051_1330_tl_5" n="N005"/>die ihn heben, verstärken und zum Ziele führen.
-      <lb facs="#facs_16_region_1709374591051_1330_tl_6" n="N006"/>Und dieses große Bild können wir kaum aus¬
-      <lb facs="#facs_16_region_1709374591051_1330_tl_7" n="N007"/>sprechen, ohne daß es von selbst sich für uns in
+      <lb facs="#facs_16_region_1709374591051_1330_tl_6" n="N006"/>Und dieses große Bild können wir kaum aus<lb facs="#facs_16_region_1709374591051_1330_tl_7" n="N007" break="no"/>sprechen, ohne daß es von selbst sich für uns in
       <lb facs="#facs_16_region_1709374591051_1330_tl_8" n="N008"/>Musik verwandelte; ohne daß wir sogleich inne
-      <lb facs="#facs_16_region_1709374591051_1330_tl_9" n="N009"/>würden, wie gerade dies die Aufgabe der Ton¬
-      <lb facs="#facs_16_region_1709374591051_1330_tl_10" n="N010"/>kunst ist, das tiefe Glück auszudrücken, das in
+      <lb facs="#facs_16_region_1709374591051_1330_tl_9" n="N009"/>würden, wie gerade dies die Aufgabe der Ton<lb facs="#facs_16_region_1709374591051_1330_tl_10" n="N010" break="no"/>kunst ist, das tiefe Glück auszudrücken, das in
       <lb facs="#facs_16_region_1709374591051_1330_tl_11" n="N011"/>diesem Baue der Welt liegt, und von welchem
       <lb facs="#facs_16_region_1709374591051_1330_tl_12" n="N012"/>die Lust jedes einzelnen empirischen Gefühls nur
       <lb facs="#facs_16_region_1709374591051_1330_tl_13" n="N013"/>ein besonderer Widerschein ist. Indem die Musik
-      <lb facs="#facs_16_region_1709374591051_1330_tl_14" n="N014"/>die endlichen Veranlassungen verschweigt, von de¬
-      <lb facs="#facs_16_region_1709374591051_1330_tl_15" n="N015"/>nen im wirklichen Leben unsere Gefühle ausgehen,
+      <lb facs="#facs_16_region_1709374591051_1330_tl_14" n="N014"/>die endlichen Veranlassungen verschweigt, von de<lb facs="#facs_16_region_1709374591051_1330_tl_15" n="N015" break="no"/>nen im wirklichen Leben unsere Gefühle ausgehen,
       <lb facs="#facs_16_region_1709374591051_1330_tl_16" n="N016"/>sagt sie sich doch nicht von dem Gefühle überhaupt
-      <lb facs="#facs_16_region_1709374591051_1330_tl_17" n="N017"/>los, sondern sie idealisirt es in einer so eigenthüm¬
-      <lb facs="#facs_16_region_1709374591051_1330_tl_18" n="N018"/>lichen Weise, daß sie hierin von keiner andern
+      <lb facs="#facs_16_region_1709374591051_1330_tl_17" n="N017"/>los, sondern sie idealisirt es in einer so eigenthüm<lb facs="#facs_16_region_1709374591051_1330_tl_18" n="N018" break="no"/>lichen Weise, daß sie hierin von keiner andern
       <lb facs="#facs_16_region_1709374591051_1330_tl_19" n="N019"/>Kunst erreicht, noch weniger überboten werden kann.
       <lb facs="#facs_16_region_1709374591051_1330_tl_20" n="N020"/>Nicht dadurch nämlich wirkt sie, daß sie in sich
-      <lb facs="#facs_16_region_1709374591051_1330_tl_21" n="N021"/>selbst das fertige Gefühl enthielte und uns über¬
-      <lb facs="#facs_16_region_1709374591051_1330_tl_22" n="N022"/>lieferte, sondern dadurch, daß sie uns die allge¬
-      <lb facs="#facs_16_region_1709374591051_1330_tl_23" n="N023"/>meinen Beziehungen des Mannichfaltigen anschau¬
-      <lb facs="#facs_16_region_1709374591051_1330_tl_24" n="N024"/>lich vorführt, in deren gemeinsamer, aber unend¬
-      <lb facs="#facs_16_region_1709374591051_1330_tl_25" n="N025"/>lich bildsamer Form Alles sich entwickelt, was im
-      <lb facs="#facs_16_region_1709374591051_1330_tl_26" n="N026"/>Laufe des äußern und des innern Lebens für un¬
-      <lb facs="#facs_16_region_1709374591051_1330_tl_27" n="N027"/>ser Gemüth von Werth ist. So geben wir völlig
+      <lb facs="#facs_16_region_1709374591051_1330_tl_21" n="N021"/>selbst das fertige Gefühl enthielte und uns über<lb facs="#facs_16_region_1709374591051_1330_tl_22" n="N022" break="no"/>lieferte, sondern dadurch, daß sie uns die allge<lb facs="#facs_16_region_1709374591051_1330_tl_23" n="N023" break="no"/>meinen Beziehungen des Mannichfaltigen anschau<lb facs="#facs_16_region_1709374591051_1330_tl_24" n="N024" break="no"/>lich vorführt, in deren gemeinsamer, aber unend<lb facs="#facs_16_region_1709374591051_1330_tl_25" n="N025" break="no"/>lich bildsamer Form Alles sich entwickelt, was im
+      <lb facs="#facs_16_region_1709374591051_1330_tl_26" n="N026"/>Laufe des äußern und des innern Lebens für un<lb facs="#facs_16_region_1709374591051_1330_tl_27" n="N027" break="no"/>ser Gemüth von Werth ist. So geben wir völlig
       <lb facs="#facs_16_region_1709374591051_1330_tl_28" n="N028"/>dem Verf. Recht, wenn er als den unmittelbaren
       <lb facs="#facs_16_region_1709374591051_1330_tl_29" n="N029"/>Inhalt der Musik nur jenes Dynamische bezeichnet,
       <lb facs="#facs_16_region_1709374591051_1330_tl_30" n="N030"/>d. h. farblose Umrisse von Ereignissen, welche selbst
       <lb facs="#facs_16_region_1709374591051_1330_tl_31" n="N031"/>namenlos und ungenannt bleiben; aber der Werth
       <lb facs="#facs_16_region_1709374591051_1330_tl_32" n="N032"/>dieser Figuren selbst ist kein eigener; sie erscheinen
-      <lb facs="#facs_16_region_1709374591051_1330_tl_33" n="N033"/>schön, indem sie der Phantasie die Erinnerung un¬
-      <lb facs="#facs_16_region_1709374591051_1330_tl_34" n="N034"/>zähliger Güter erwecken, die in dem gleichen Rhyth¬
-      <lb facs="#facs_16_region_1709374591051_1330_tl_35" n="N035"/>mus des Geschehens, in denselben Formen der
+      <lb facs="#facs_16_region_1709374591051_1330_tl_33" n="N033"/>schön, indem sie der Phantasie die Erinnerung un<lb facs="#facs_16_region_1709374591051_1330_tl_34" n="N034" break="no"/>zähliger Güter erwecken, die in dem gleichen Rhyth<lb facs="#facs_16_region_1709374591051_1330_tl_35" n="N035" break="no"/>mus des Geschehens, in denselben Formen der
       <lb facs="#facs_16_region_1709374591051_1330_tl_36" n="N036"/>Entwicklung auftraten und nur in ihnen denkbar sind.
-      <lb facs="#facs_16_region_1709374591051_1330_tl_37" n="N037"/>(Schluß folgt).</ab>
+      <lb facs="#facs_16_region_1709374591051_1330_tl_37" n="N037"/>(Schluß folgt).
             <pb facs="#facs_17" n="17" xml:id="img_0017"/>
-            <ab facs="#facs_17_region_1709374599843_1336" type="">
-               <lb facs="#facs_17_region_1709374599843_1336_tl_1" n="N001"/>Göttingische
+            <lb facs="#facs_17_region_1709374599843_1336_tl_1" n="N001"/>Göttingische
       <lb facs="#facs_17_region_1709374599843_1336_tl_2" n="N002"/>gelehrte Anzeigen
       <lb facs="#facs_17_region_1709374599843_1336_tl_3" n="N003"/>unter der Aufsicht
       <lb facs="#facs_17_region_1709374599843_1336_tl_4" n="N004"/>der Königl. Gesellschaft der Wissenschaften.
       <lb facs="#facs_17_region_1709374599843_1336_tl_5" n="N005"/>108. Stück.
-      <lb facs="#facs_17_region_1709374599843_1336_tl_6" n="N006"/>Den <date month="0" day="0" year="0">7. Juli 1855</date>.</ab>
-            <ab facs="#facs_17_region_1709374602906_1339" type="">
+      <lb facs="#facs_17_region_1709374599843_1336_tl_6" n="N006"/>Den <date month="0" day="0" year="0">7. Juli 1855</date>.
                <lb facs="#facs_17_region_1709374602906_1339_tl_1" n="N001"/>
-               <hi rendition="#em">Leipzig</hi>
-               <lb facs="#facs_17_region_1709374602906_1339_tl_2" n="N002"/>Schluß der Anzeige: „<rs type="bibl">Vom Musikalisch-Schö¬</rs>
-               <lb facs="#facs_17_region_1709374602906_1339_tl_3" n="N003"/>
-               <rs type="bibl">nen</rs>. Ein Beitrag zur Revision der Aesthetik der
+            <hi rendition="#em">Leipzig</hi>
+            <lb facs="#facs_17_region_1709374602906_1339_tl_2" n="N002"/>Schluß der Anzeige: „<rs type="bibl">Vom Musikalisch-Schö</rs>
+            <lb facs="#facs_17_region_1709374602906_1339_tl_3" n="N003" break="no"/>
+            <rs type="bibl">nen</rs>. Ein Beitrag zur Revision der Aesthetik der
       <lb facs="#facs_17_region_1709374602906_1339_tl_4" n="N004"/>Tonkunst. Von Dr. Ed. <rs type="person">Hanslick</rs>.“
       <lb facs="#facs_17_region_1709374602906_1339_tl_5" n="N005"/>Die Musik wird hierin auf das günstigste durch
       <lb facs="#facs_17_region_1709374602906_1339_tl_6" n="N006"/>die Natur ihres Materials, der Töne, unterstützt.
       <lb facs="#facs_17_region_1709374602906_1339_tl_7" n="N007"/>Ortlos und gestaltlos, aber nicht vorstellbar ohne
       <lb facs="#facs_17_region_1709374602906_1339_tl_8" n="N008"/>eine gewisse Zeitdauer, ist der Ton von Anfang
-      <lb facs="#facs_17_region_1709374602906_1339_tl_9" n="N009"/>an zum Ausdruck eines innerlichen geistigen Da¬
-      <lb facs="#facs_17_region_1709374602906_1339_tl_10" n="N010"/>seins bestimmt, und zwar eines Daseins, welches
+      <lb facs="#facs_17_region_1709374602906_1339_tl_9" n="N009"/>an zum Ausdruck eines innerlichen geistigen Da<lb facs="#facs_17_region_1709374602906_1339_tl_10" n="N010" break="no"/>seins bestimmt, und zwar eines Daseins, welches
       <lb facs="#facs_17_region_1709374602906_1339_tl_11" n="N011"/>nur als beständige Thätigkeit, nicht als ruhendes
       <lb facs="#facs_17_region_1709374602906_1339_tl_12" n="N012"/>unlebendiges Bestehen erscheint. Einer unendlichen
-      <lb facs="#facs_17_region_1709374602906_1339_tl_13" n="N013"/>Abstufung der Stärke und Dauer und beider zu¬
-      <lb facs="#facs_17_region_1709374602906_1339_tl_14" n="N014"/>gleich fähig, geben die Töne uns ferner in ihren
+      <lb facs="#facs_17_region_1709374602906_1339_tl_13" n="N013"/>Abstufung der Stärke und Dauer und beider zu<lb facs="#facs_17_region_1709374602906_1339_tl_14" n="N014" break="no"/>gleich fähig, geben die Töne uns ferner in ihren
       <lb facs="#facs_17_region_1709374602906_1339_tl_15" n="N015"/>Unterschieden nach Höhe und Tiefe die lebhafteste
-      <lb facs="#facs_17_region_1709374602906_1339_tl_16" n="N016"/>Anschauung einer eigenthümlichen qualitativen Ener¬
-      <lb facs="#facs_17_region_1709374602906_1339_tl_17" n="N017"/>gie, deren Analogien im geistigen Leben uns wohl
-      <lb facs="#facs_17_region_1709374602906_1339_tl_18" n="N018"/>fühlbar sind, während keine andere Sinnesempfin¬
-      <lb facs="#facs_17_region_1709374602906_1339_tl_19" n="N019"/>dung sie gleich mannichfaltig und gleich streng in
-      <lb facs="#facs_17_region_1709374602906_1339_tl_20" n="N020"/>einer vollkommen deutlich geordneten Skala dar¬
-      <lb facs="#facs_17_region_1709374602906_1339_tl_21" n="N021"/>bietet. Wir finden endlich, daß der geradlinige</ab>
+      <lb facs="#facs_17_region_1709374602906_1339_tl_16" n="N016"/>Anschauung einer eigenthümlichen qualitativen Ener<lb facs="#facs_17_region_1709374602906_1339_tl_17" n="N017" break="no"/>gie, deren Analogien im geistigen Leben uns wohl
+      <lb facs="#facs_17_region_1709374602906_1339_tl_18" n="N018"/>fühlbar sind, während keine andere Sinnesempfin<lb facs="#facs_17_region_1709374602906_1339_tl_19" n="N019" break="no"/>dung sie gleich mannichfaltig und gleich streng in
+      <lb facs="#facs_17_region_1709374602906_1339_tl_20" n="N020"/>einer vollkommen deutlich geordneten Skala dar<lb facs="#facs_17_region_1709374602906_1339_tl_21" n="N021" break="no"/>bietet. Wir finden endlich, daß der geradlinige
             <pb facs="#facs_18" n="18" xml:id="img_0018"/>
-            <ab facs="#facs_18_region_1709374618315_1345" type="">
-               <lb facs="#facs_18_region_1709374618315_1345_tl_1" n="N001"/>Fortschritt der Höhe doch jene eigenthümlichen
-      <lb facs="#facs_18_region_1709374618315_1345_tl_2" n="N002"/>Wahlverwandtschaften der Harmonie einschließt, ver¬
-      <lb facs="#facs_18_region_1709374618315_1345_tl_3" n="N003"/>möge deren entlegenere Punkte der Skala einan¬
-      <lb facs="#facs_18_region_1709374618315_1345_tl_4" n="N004"/>der näher stehen, als zunächst sich folgende. So
+            <lb facs="#facs_18_region_1709374618315_1345_tl_1" n="N001"/>Fortschritt der Höhe doch jene eigenthümlichen
+      <lb facs="#facs_18_region_1709374618315_1345_tl_2" n="N002"/>Wahlverwandtschaften der Harmonie einschließt, ver<lb facs="#facs_18_region_1709374618315_1345_tl_3" n="N003" break="no"/>möge deren entlegenere Punkte der Skala einan<lb facs="#facs_18_region_1709374618315_1345_tl_4" n="N004" break="no"/>der näher stehen, als zunächst sich folgende. So
       <lb facs="#facs_18_region_1709374618315_1345_tl_5" n="N005"/>wird in diese Reihe von Elementen unmittelbar
-      <lb facs="#facs_18_region_1709374618315_1345_tl_6" n="N006"/>ergreifend dieser Eindruck einer qualitativen Man¬
-      <lb facs="#facs_18_region_1709374618315_1345_tl_7" n="N007"/>nichfaltigkeit eingeführt, deren Glieder dennoch ge¬
-      <lb facs="#facs_18_region_1709374618315_1345_tl_8" n="N008"/>rade durch das, was sie zu verschiedenen macht,
-      <lb facs="#facs_18_region_1709374618315_1345_tl_9" n="N009"/>innerlich auf einander bezogen sind. Jede Ton¬
-      <lb facs="#facs_18_region_1709374618315_1345_tl_10" n="N010"/>folge, indem sie irgend einer Tonart angehört, und
-      <lb facs="#facs_18_region_1709374618315_1345_tl_11" n="N011"/>nur nach bestimmten Gesetzen in eine andere über¬
-      <lb facs="#facs_18_region_1709374618315_1345_tl_12" n="N012"/>gehen kann, symbolisirt uns auf diese Weise das
-      <lb facs="#facs_18_region_1709374618315_1345_tl_13" n="N013"/>Wesen jeder Entwicklung überhaupt, die indivi¬ 
-      <lb facs="#facs_18_region_1709374618315_1345_tl_14" n="N014"/>duelle lebendige Kraft, die ihrer eigenen Einge¬
-      <lb facs="#facs_18_region_1709374618315_1345_tl_15" n="N015"/>bung folgt, und die allgemeine Gesetzlichkeit, der
+      <lb facs="#facs_18_region_1709374618315_1345_tl_6" n="N006"/>ergreifend dieser Eindruck einer qualitativen Man<lb facs="#facs_18_region_1709374618315_1345_tl_7" n="N007" break="no"/>nichfaltigkeit eingeführt, deren Glieder dennoch ge<lb facs="#facs_18_region_1709374618315_1345_tl_8" n="N008" break="no"/>rade durch das, was sie zu verschiedenen macht,
+      <lb facs="#facs_18_region_1709374618315_1345_tl_9" n="N009"/>innerlich auf einander bezogen sind. Jede Ton<lb facs="#facs_18_region_1709374618315_1345_tl_10" n="N010" break="no"/>folge, indem sie irgend einer Tonart angehört, und
+      <lb facs="#facs_18_region_1709374618315_1345_tl_11" n="N011"/>nur nach bestimmten Gesetzen in eine andere über<lb facs="#facs_18_region_1709374618315_1345_tl_12" n="N012" break="no"/>gehen kann, symbolisirt uns auf diese Weise das
+      <lb facs="#facs_18_region_1709374618315_1345_tl_13" n="N013"/>Wesen jeder Entwicklung überhaupt, die indivi<lb facs="#facs_18_region_1709374618315_1345_tl_14" n="N014" break="no"/>duelle lebendige Kraft, die ihrer eigenen Einge<lb facs="#facs_18_region_1709374618315_1345_tl_15" n="N015" break="no"/>bung folgt, und die allgemeine Gesetzlichkeit, der
       <lb facs="#facs_18_region_1709374618315_1345_tl_16" n="N016"/>sie nicht entgeht, an deren beständiger Gegenwart
       <lb facs="#facs_18_region_1709374618315_1345_tl_17" n="N017"/>sie aber zugleich die Begünstigungen ihrer eigenen
       <lb facs="#facs_18_region_1709374618315_1345_tl_18" n="N018"/>Entfaltung, die sicheren Punkte findet, an denen
-      <lb facs="#facs_18_region_1709374618315_1345_tl_19" n="N019"/>sie ruhen, oder auf welche gestützt sie neue Wen¬
-      <lb facs="#facs_18_region_1709374618315_1345_tl_20" n="N020"/>dungen versuchen kann. Und alle diese innere
-      <lb facs="#facs_18_region_1709374618315_1345_tl_21" n="N021"/>Organisation des Tonreichs ist durch eine physio¬
-      <lb facs="#facs_18_region_1709374618315_1345_tl_22" n="N022"/>logische Nothwendigkeit so bereits mit sinnlichen
-      <lb facs="#facs_18_region_1709374618315_1345_tl_23" n="N023"/>Gefühlen verbunden, daß um so mehr die Ver¬
-      <lb facs="#facs_18_region_1709374618315_1345_tl_24" n="N024"/>knüpfung, welche erst die Kunst seinen Elementen
-      <lb facs="#facs_18_region_1709374618315_1345_tl_25" n="N025"/>gibt, jede bedeutungsvolle Form auch zum Gegen¬
-      <lb facs="#facs_18_region_1709374618315_1345_tl_26" n="N026"/>stand eines lebhaften ästhetischen Gefühles macht.
-      <lb facs="#facs_18_region_1709374618315_1345_tl_27" n="N027"/>Gewiß also kann die Musik weder ein bestimm¬
-      <lb facs="#facs_18_region_1709374618315_1345_tl_28" n="N028"/>tes Element der Sittlichkeit, noch ein concretes
-      <lb facs="#facs_18_region_1709374618315_1345_tl_29" n="N029"/>Ereigniß oder einen besonderen Gegenstand dar¬
-      <lb facs="#facs_18_region_1709374618315_1345_tl_30" n="N030"/>stellen; sie gibt statt ihrer aller nur Figuren von
-      <lb facs="#facs_18_region_1709374618315_1345_tl_31" n="N031"/>Tönen, aber sie trägt auf diese Figuren den Ge¬
-      <lb facs="#facs_18_region_1709374618315_1345_tl_32" n="N032"/>fühlswerth über, den für uns der Inhalt hat, an
-      <lb facs="#facs_18_region_1709374618315_1345_tl_33" n="N033"/>welchen sie erinnern, und nur durch diese Sym¬
-      <lb facs="#facs_18_region_1709374618315_1345_tl_34" n="N034"/>bolik erscheint sie schön. Nicht die Gerechtigkeit,
-      <lb facs="#facs_18_region_1709374618315_1345_tl_35" n="N035"/>wohl aber die unverrückbare Consequenz des Han¬
-      <lb facs="#facs_18_region_1709374618315_1345_tl_36" n="N036"/>dels, die ihr formelles Symbol ist, läßt sich mu¬</ab>
-            <pb facs="#facs_19" n="19" xml:id="img_0019"/>
-            <ab facs="#facs_19_region_1709374630331_1351" type="">
-               <lb facs="#facs_19_region_1709374630331_1351_tl_1" n="N001"/>sikalisch darstellen, nicht das bestimmte unablässige
+      <lb facs="#facs_18_region_1709374618315_1345_tl_19" n="N019"/>sie ruhen, oder auf welche gestützt sie neue Wen<lb facs="#facs_18_region_1709374618315_1345_tl_20" n="N020" break="no"/>dungen versuchen kann. Und alle diese innere
+      <lb facs="#facs_18_region_1709374618315_1345_tl_21" n="N021"/>Organisation des Tonreichs ist durch eine physio<lb facs="#facs_18_region_1709374618315_1345_tl_22" n="N022" break="no"/>logische Nothwendigkeit so bereits mit sinnlichen
+      <lb facs="#facs_18_region_1709374618315_1345_tl_23" n="N023"/>Gefühlen verbunden, daß um so mehr die Ver<lb facs="#facs_18_region_1709374618315_1345_tl_24" n="N024" break="no"/>knüpfung, welche erst die Kunst seinen Elementen
+      <lb facs="#facs_18_region_1709374618315_1345_tl_25" n="N025"/>gibt, jede bedeutungsvolle Form auch zum Gegen<lb facs="#facs_18_region_1709374618315_1345_tl_26" n="N026" break="no"/>stand eines lebhaften ästhetischen Gefühles macht.
+      <lb facs="#facs_18_region_1709374618315_1345_tl_27" n="N027"/>Gewiß also kann die Musik weder ein bestimm<lb facs="#facs_18_region_1709374618315_1345_tl_28" n="N028" break="no"/>tes Element der Sittlichkeit, noch ein concretes
+      <lb facs="#facs_18_region_1709374618315_1345_tl_29" n="N029"/>Ereigniß oder einen besonderen Gegenstand dar<lb facs="#facs_18_region_1709374618315_1345_tl_30" n="N030" break="no"/>stellen; sie gibt statt ihrer aller nur Figuren von
+      <lb facs="#facs_18_region_1709374618315_1345_tl_31" n="N031"/>Tönen, aber sie trägt auf diese Figuren den Ge<lb facs="#facs_18_region_1709374618315_1345_tl_32" n="N032" break="no"/>fühlswerth über, den für uns der Inhalt hat, an
+      <lb facs="#facs_18_region_1709374618315_1345_tl_33" n="N033"/>welchen sie erinnern, und nur durch diese Sym<lb facs="#facs_18_region_1709374618315_1345_tl_34" n="N034" break="no"/>bolik erscheint sie schön. Nicht die Gerechtigkeit,
+      <lb facs="#facs_18_region_1709374618315_1345_tl_35" n="N035"/>wohl aber die unverrückbare Consequenz des Han<lb facs="#facs_18_region_1709374618315_1345_tl_36" n="N036" break="no"/>dels, die ihr formelles Symbol ist, läßt sich mu
+            <pb facs="#facs_19" n="19" xml:id="img_0019" break="no"/>
+            <lb facs="#facs_19_region_1709374630331_1351_tl_1" n="N001" break="no"/>sikalisch darstellen, nicht das bestimmte unablässige
       <lb facs="#facs_19_region_1709374630331_1351_tl_2" n="N002"/>Streben des menschlichen Gemüths nach irgend
-      <lb facs="#facs_19_region_1709374630331_1351_tl_3" n="N003"/>einem Ziel, wohl aber der Wechsel von Anspan¬
-      <lb facs="#facs_19_region_1709374630331_1351_tl_4" n="N004"/>nung und Ermüdung und die beständige Rückkehr
-      <lb facs="#facs_19_region_1709374630331_1351_tl_5" n="N005"/>zu demselben sich doch immer steigernden Auf¬
-      <lb facs="#facs_19_region_1709374630331_1351_tl_6" n="N006"/>schwung; nicht Wohlwollen und Hoffnung, aber
+      <lb facs="#facs_19_region_1709374630331_1351_tl_3" n="N003"/>einem Ziel, wohl aber der Wechsel von Anspan<lb facs="#facs_19_region_1709374630331_1351_tl_4" n="N004" break="no"/>nung und Ermüdung und die beständige Rückkehr
+      <lb facs="#facs_19_region_1709374630331_1351_tl_5" n="N005"/>zu demselben sich doch immer steigernden Auf<lb facs="#facs_19_region_1709374630331_1351_tl_6" n="N006" break="no"/>schwung; nicht Wohlwollen und Hoffnung, aber
       <lb facs="#facs_19_region_1709374630331_1351_tl_7" n="N007"/>das nachgiebige Eingehen auf Umstände, die der
-      <lb facs="#facs_19_region_1709374630331_1351_tl_8" n="N008"/>ursprünglichen Richtung der Entwicklung fremdar¬
-      <lb facs="#facs_19_region_1709374630331_1351_tl_9" n="N009"/>tig, nun doch harmonisch von ihr aufgenommen
+      <lb facs="#facs_19_region_1709374630331_1351_tl_8" n="N008"/>ursprünglichen Richtung der Entwicklung fremdar<lb facs="#facs_19_region_1709374630331_1351_tl_9" n="N009" break="no"/>tig, nun doch harmonisch von ihr aufgenommen
       <lb facs="#facs_19_region_1709374630331_1351_tl_10" n="N010"/>und verklärt werden; nicht eine Pflanze, nicht ein
       <lb facs="#facs_19_region_1709374630331_1351_tl_11" n="N011"/>Thier läßt sich in Tönen malen, aber wohl die
       <lb facs="#facs_19_region_1709374630331_1351_tl_12" n="N012"/>Stetigkeit, Kraft, Elasticität und Mannichfaltigkeit
       <lb facs="#facs_19_region_1709374630331_1351_tl_13" n="N013"/>ihrer Erscheinung. Alle diese Formen des Daseins
-      <lb facs="#facs_19_region_1709374630331_1351_tl_14" n="N014"/>gewähren uns lebhafte, obgleich empirisch unbe¬
-      <lb facs="#facs_19_region_1709374630331_1351_tl_15" n="N015"/>stimmte, nicht wieder ausschließlich auf einzelne
-      <lb facs="#facs_19_region_1709374630331_1351_tl_16" n="N016"/>Objecte zu deutende Gefühle. Aber gerade in ih¬
-      <lb facs="#facs_19_region_1709374630331_1351_tl_17" n="N017"/>nen, die der Verf. verwirft, glauben wir die we¬
-      <lb facs="#facs_19_region_1709374630331_1351_tl_18" n="N018"/>sentlichste Eigenthümlichkeit der Musik zu finden.
-      <lb facs="#facs_19_region_1709374630331_1351_tl_19" n="N019"/>Die zeichnenden Künste und die Poesie fesseln un¬
-      <lb facs="#facs_19_region_1709374630331_1351_tl_20" n="N020"/>sere Einbildungskraft an bestimmte Gestalten der
+      <lb facs="#facs_19_region_1709374630331_1351_tl_14" n="N014"/>gewähren uns lebhafte, obgleich empirisch unbe<lb facs="#facs_19_region_1709374630331_1351_tl_15" n="N015" break="no"/>stimmte, nicht wieder ausschließlich auf einzelne
+      <lb facs="#facs_19_region_1709374630331_1351_tl_16" n="N016"/>Objecte zu deutende Gefühle. Aber gerade in ih<lb facs="#facs_19_region_1709374630331_1351_tl_17" n="N017" break="no"/>nen, die der Verf. verwirft, glauben wir die we<lb facs="#facs_19_region_1709374630331_1351_tl_18" n="N018" break="no"/>sentlichste Eigenthümlichkeit der Musik zu finden.
+      <lb facs="#facs_19_region_1709374630331_1351_tl_19" n="N019"/>Die zeichnenden Künste und die Poesie fesseln un<lb facs="#facs_19_region_1709374630331_1351_tl_20" n="N020" break="no"/>sere Einbildungskraft an bestimmte Gestalten der
       <lb facs="#facs_19_region_1709374630331_1351_tl_21" n="N021"/>wirklichen Welt. Gewiß ist nun gerade diese
-      <lb facs="#facs_19_region_1709374630331_1351_tl_22" n="N022"/>Wirklichkeit mit der Anordnung dieser ihrer Um¬
-      <lb facs="#facs_19_region_1709374630331_1351_tl_23" n="N023"/>stände für uns die unentbehrliche Grundlage zur
+      <lb facs="#facs_19_region_1709374630331_1351_tl_22" n="N022"/>Wirklichkeit mit der Anordnung dieser ihrer Um<lb facs="#facs_19_region_1709374630331_1351_tl_23" n="N023" break="no"/>stände für uns die unentbehrliche Grundlage zur
       <lb facs="#facs_19_region_1709374630331_1351_tl_24" n="N024"/>Gewinnung der wesentlichsten Güter. Aber es
-      <lb facs="#facs_19_region_1709374630331_1351_tl_25" n="N025"/>bleibt uns doch die Sehnsucht, die Mannichfaltig¬
-      <lb facs="#facs_19_region_1709374630331_1351_tl_26" n="N026"/>keit und Kraft der geistigen Regsamkeit anzuschauen
+      <lb facs="#facs_19_region_1709374630331_1351_tl_25" n="N025"/>bleibt uns doch die Sehnsucht, die Mannichfaltig<lb facs="#facs_19_region_1709374630331_1351_tl_26" n="N026" break="no"/>keit und Kraft der geistigen Regsamkeit anzuschauen
       <lb facs="#facs_19_region_1709374630331_1351_tl_27" n="N027"/>und zu genießen, so wie sie an sich selbst ist vor
       <lb facs="#facs_19_region_1709374630331_1351_tl_28" n="N028"/>aller Beziehung auf besondere und beschränkte
       <lb facs="#facs_19_region_1709374630331_1351_tl_29" n="N029"/>Objecte ihres Handelns; es bleibt das Verlangen,
       <lb facs="#facs_19_region_1709374630331_1351_tl_30" n="N030"/>uns in das Innere der Erscheinungen zu versetzen,
-      <lb facs="#facs_19_region_1709374630331_1351_tl_31" n="N031"/>deren Formen keine Aehnlichkeit mit den Lebens¬
-      <lb facs="#facs_19_region_1709374630331_1351_tl_32" n="N032"/>bedingungen unserer eigenen Gattung, und deren
+      <lb facs="#facs_19_region_1709374630331_1351_tl_31" n="N031"/>deren Formen keine Aehnlichkeit mit den Lebens<lb facs="#facs_19_region_1709374630331_1351_tl_32" n="N032" break="no"/>bedingungen unserer eigenen Gattung, und deren
       <lb facs="#facs_19_region_1709374630331_1351_tl_33" n="N033"/>Zwecke nichts mit den unsrigen gemein haben.
       <lb facs="#facs_19_region_1709374630331_1351_tl_34" n="N034"/>Die Musik löst diese Aufgabe, indem sie uns eben
       <lb facs="#facs_19_region_1709374630331_1351_tl_35" n="N035"/>jenes Dynamische der Regsamkeit an sich zwar in
-      <lb facs="#facs_19_region_1709374630331_1351_tl_36" n="N036"/>unendlich mannichfaltiger Thätigkeit, aber gebah¬</ab>
-            <pb facs="#facs_20" n="20" xml:id="img_0020"/>
-            <ab facs="#facs_20_region_1709374644395_1357" type="">
-               <lb facs="#facs_20_region_1709374644395_1357_tl_1" n="N001"/>rend mit einem Material darstellt, das an sich
-      <lb facs="#facs_20_region_1709374644395_1357_tl_2" n="N002"/>ohne Bedeutung, sich eben nur als Substrat gel¬
-      <lb facs="#facs_20_region_1709374644395_1357_tl_3" n="N003"/>tend macht, an welchem die Fülle des mannich¬
-      <lb facs="#facs_20_region_1709374644395_1357_tl_4" n="N004"/>faltigen Lebens sich äußern kann. So ist jede
-      <lb facs="#facs_20_region_1709374644395_1357_tl_5" n="N005"/>Musik eine unendliche Allegorie; ohne etwas Be¬
-      <lb facs="#facs_20_region_1709374644395_1357_tl_6" n="N006"/>stimmtes darzustellen, erinnert sie an unzählige
-      <lb facs="#facs_20_region_1709374644395_1357_tl_7" n="N007"/>Bilder des Geschehens und Strebens, und ge¬
-      <lb facs="#facs_20_region_1709374644395_1357_tl_8" n="N008"/>währt uns ein Versenken in die schaffende Kraft,
+      <lb facs="#facs_19_region_1709374630331_1351_tl_36" n="N036"/>unendlich mannichfaltiger Thätigkeit, aber gebah
+            <pb facs="#facs_20" n="20" xml:id="img_0020" break="no"/>
+            <lb facs="#facs_20_region_1709374644395_1357_tl_1" n="N001" break="no"/>rend mit einem Material darstellt, das an sich
+      <lb facs="#facs_20_region_1709374644395_1357_tl_2" n="N002"/>ohne Bedeutung, sich eben nur als Substrat gel<lb facs="#facs_20_region_1709374644395_1357_tl_3" n="N003" break="no"/>tend macht, an welchem die Fülle des mannich<lb facs="#facs_20_region_1709374644395_1357_tl_4" n="N004" break="no"/>faltigen Lebens sich äußern kann. So ist jede
+      <lb facs="#facs_20_region_1709374644395_1357_tl_5" n="N005"/>Musik eine unendliche Allegorie; ohne etwas Be<lb facs="#facs_20_region_1709374644395_1357_tl_6" n="N006" break="no"/>stimmtes darzustellen, erinnert sie an unzählige
+      <lb facs="#facs_20_region_1709374644395_1357_tl_7" n="N007"/>Bilder des Geschehens und Strebens, und ge<lb facs="#facs_20_region_1709374644395_1357_tl_8" n="N008" break="no"/>währt uns ein Versenken in die schaffende Kraft,
       <lb facs="#facs_20_region_1709374644395_1357_tl_9" n="N009"/>wie sie sich regt, noch ehe sie an der vollendeten
       <lb facs="#facs_20_region_1709374644395_1357_tl_10" n="N010"/>Schöpfung bestimmter Gattungen der Dinge und
       <lb facs="#facs_20_region_1709374644395_1357_tl_11" n="N011"/>bestimmter Ordnungen der Umstände eine Schranke
-      <lb facs="#facs_20_region_1709374644395_1357_tl_12" n="N012"/>für die Freiheit ihrer weiteren Entwicklung gefun¬
-      <lb facs="#facs_20_region_1709374644395_1357_tl_13" n="N013"/>den hat. Hierin liegt ebensowohl der Grund der
-      <lb facs="#facs_20_region_1709374644395_1357_tl_14" n="N014"/>mächtigen Erhebung, welche sie stets in dem Ge¬
-      <lb facs="#facs_20_region_1709374644395_1357_tl_15" n="N015"/>müthe hervorbringen wird, als die Erklärung für
+      <lb facs="#facs_20_region_1709374644395_1357_tl_12" n="N012"/>für die Freiheit ihrer weiteren Entwicklung gefun<lb facs="#facs_20_region_1709374644395_1357_tl_13" n="N013" break="no"/>den hat. Hierin liegt ebensowohl der Grund der
+      <lb facs="#facs_20_region_1709374644395_1357_tl_14" n="N014"/>mächtigen Erhebung, welche sie stets in dem Ge<lb facs="#facs_20_region_1709374644395_1357_tl_15" n="N015" break="no"/>müthe hervorbringen wird, als die Erklärung für
       <lb facs="#facs_20_region_1709374644395_1357_tl_16" n="N016"/>die kraftlose, dem wirklichen Leben und seinen
       <lb facs="#facs_20_region_1709374644395_1357_tl_17" n="N017"/>praktischen Zielen abgewendete Entnervung, die
       <lb facs="#facs_20_region_1709374644395_1357_tl_18" n="N018"/>ihre ausschließliche populäre Cultur zum großen
       <lb facs="#facs_20_region_1709374644395_1357_tl_19" n="N019"/>Theil in unserer Zeit mitverschuldet hat.
       <lb facs="#facs_20_region_1709374644395_1357_tl_20" n="N020"/>Die Aufgabe der Specialästhetiken einzelner Künste
-      <lb facs="#facs_20_region_1709374644395_1357_tl_21" n="N021"/>würde es sein, zu zeigen, wie in den verschieden¬
-      <lb facs="#facs_20_region_1709374644395_1357_tl_22" n="N022"/>sten Weisen sich doch überall diese Figuren wie¬
-      <lb facs="#facs_20_region_1709374644395_1357_tl_23" n="N023"/>derfinden, an welche sich neben dem Werthe des
+      <lb facs="#facs_20_region_1709374644395_1357_tl_21" n="N021"/>würde es sein, zu zeigen, wie in den verschieden<lb facs="#facs_20_region_1709374644395_1357_tl_22" n="N022" break="no"/>sten Weisen sich doch überall diese Figuren wie<lb facs="#facs_20_region_1709374644395_1357_tl_23" n="N023" break="no"/>derfinden, an welche sich neben dem Werthe des
       <lb facs="#facs_20_region_1709374644395_1357_tl_24" n="N024"/>erkennbaren Gedankeninhaltes die Schönheit der
       <lb facs="#facs_20_region_1709374644395_1357_tl_25" n="N025"/>Kunstwerke knüpft. Die Musik dürfte mit der
-      <lb facs="#facs_20_region_1709374644395_1357_tl_26" n="N026"/>Architectur allein vielleicht in Bezug auf die Er¬
-      <lb facs="#facs_20_region_1709374644395_1357_tl_27" n="N027"/>giebigkeit der hierher gehörigen Betrachtungen wett¬
-      <lb facs="#facs_20_region_1709374644395_1357_tl_28" n="N028"/>eifern können, und dem Verf. dieser Schrift wür¬
-      <lb facs="#facs_20_region_1709374644395_1357_tl_29" n="N029"/>den wir sehr dankbar sein müssen, wenn er die
+      <lb facs="#facs_20_region_1709374644395_1357_tl_26" n="N026"/>Architectur allein vielleicht in Bezug auf die Er<lb facs="#facs_20_region_1709374644395_1357_tl_27" n="N027" break="no"/>giebigkeit der hierher gehörigen Betrachtungen wett<lb facs="#facs_20_region_1709374644395_1357_tl_28" n="N028" break="no"/>eifern können, und dem Verf. dieser Schrift wür<lb facs="#facs_20_region_1709374644395_1357_tl_29" n="N029" break="no"/>den wir sehr dankbar sein müssen, wenn er die
       <lb facs="#facs_20_region_1709374644395_1357_tl_30" n="N030"/>scharfsinnige und eingehende Untersuchung, die er
-      <lb facs="#facs_20_region_1709374644395_1357_tl_31" n="N031"/>hier dem allgemeinen Standpunkte der Musik zu¬
-      <lb facs="#facs_20_region_1709374644395_1357_tl_32" n="N032"/>gewandt hat, zu dem Versuch einer ästhetischen
-      <lb facs="#facs_20_region_1709374644395_1357_tl_33" n="N033"/>Verwerthung und Erläuterung der in der musi¬
-      <lb facs="#facs_20_region_1709374644395_1357_tl_34" n="N034"/>kalischen Technik anerkannten einzelnen Formen
+      <lb facs="#facs_20_region_1709374644395_1357_tl_31" n="N031"/>hier dem allgemeinen Standpunkte der Musik zu<lb facs="#facs_20_region_1709374644395_1357_tl_32" n="N032" break="no"/>gewandt hat, zu dem Versuch einer ästhetischen
+      <lb facs="#facs_20_region_1709374644395_1357_tl_33" n="N033"/>Verwerthung und Erläuterung der in der musi<lb facs="#facs_20_region_1709374644395_1357_tl_34" n="N034" break="no"/>kalischen Technik anerkannten einzelnen Formen
       <lb facs="#facs_20_region_1709374644395_1357_tl_35" n="N035"/>ausdehnte.
-      <lb facs="#facs_20_region_1709374644395_1357_tl_36" n="N036"/>H. <rs type="person">Lotze</rs>.</ab>
+      <lb facs="#facs_20_region_1709374644395_1357_tl_36" n="N036"/>H. <rs type="person">Lotze</rs>.
          </div>
       </body>
    </text>

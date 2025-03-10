@@ -294,27 +294,19 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <ab facs="#facs_1_region_1709374934858_1429" type="">
-               <lb facs="#facs_1_line_1709382021136_2351" n="N001"/>Neunter Jahrgang No. 42. 17. October <date month="0" day="0" year="0">1855</date>
-            </ab>
-            <ab facs="#facs_1_TextRegion_1709374949395_1438" type="">
-               <lb facs="#facs_1_line_1740060109353_5" n="N001"/>Neue
-      <lb facs="#facs_1_line_1709382059649_2387" n="N002"/>Berliner Musikzeitung</ab>
+            <lb facs="#facs_1_line_1709382021136_2351" n="N001"/>Neunter Jahrgang No. 42. 17. October <date month="0" day="0" year="0">1855</date>
+            <lb facs="#facs_1_line_1740060109353_5" n="N001"/>Neue
+      <lb facs="#facs_1_line_1709382059649_2387" n="N002"/>Berliner Musikzeitung
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <ab facs="#facs_2_region_1709374989506_1444" type="">
-               <lb facs="#facs_2_region_1709374989506_1444_tl_1" n="N001"/>Musik-Literatur.
+            <lb facs="#facs_2_region_1709374989506_1444_tl_1" n="N001"/>Musik-Literatur.
       <lb facs="#facs_2_region_1709374989506_1444_tl_2" n="N002"/>Dr. Eduard <rs type="person">Hanslick</rs>, <rs type="bibl">Vom Musikalisch-Schönen</rs>. Ein
       <lb facs="#facs_2_region_1709374989506_1444_tl_3" n="N003"/>Beitrag zur Revision der Ästhetik der Tonkunst. <rs type="place">Leipzig</rs>,
       <lb facs="#facs_2_region_1709374989506_1444_tl_4" n="N004"/>bei R. <rs type="person">Weigel</rs>. <date month="0" day="0" year="0">1854</date>.
       <lb facs="#facs_2_region_1709374989506_1444_tl_5" n="N005"/>Diese Schrift, obwohl nur eine Broschüre von 100 und
       <lb facs="#facs_2_region_1709374989506_1444_tl_6" n="N006"/>einigen Seiten, enthält einen so reichen Inhalt anregender,
       <lb facs="#facs_2_region_1709374989506_1444_tl_7" n="N007"/>gesunder und oft tiefer Lichtblicke in das Reich der Töne,
-      <lb facs="#facs_2_region_1709374989506_1444_tl_8" n="N008"/>dass wir auf die Lectüre derselben mit Nachdruck aufmerk¬
-      <lb facs="#facs_2_region_1709374989506_1444_tl_9" n="N009"/>sam zu machen uns veranlasst fühlen. Der Verfasser, als
-      <lb facs="#facs_2_region_1709374989506_1444_tl_10" n="N010"/>musikalischer Schriftsteller namentlich in Zeitschriften rühm¬
-      <lb facs="#facs_2_region_1709374989506_1444_tl_11" n="N011"/>lichst bekannt, besitzt sowohl musikalische wie wissenschaft¬
-      <lb facs="#facs_2_region_1709374989506_1444_tl_12" n="N012"/>liche Bildung, die ihn befähigt, in den Gegenstand tief ein¬
-      <lb facs="#facs_2_region_1709374989506_1444_tl_13" n="N013"/>zudringen. Dennoch will er hier nur anregen. Man könnte
+      <lb facs="#facs_2_region_1709374989506_1444_tl_8" n="N008"/>dass wir auf die Lectüre derselben mit Nachdruck aufmerk<lb facs="#facs_2_region_1709374989506_1444_tl_9" n="N009" break="no"/>sam zu machen uns veranlasst fühlen. Der Verfasser, als
+      <lb facs="#facs_2_region_1709374989506_1444_tl_10" n="N010"/>musikalischer Schriftsteller namentlich in Zeitschriften rühm<lb facs="#facs_2_region_1709374989506_1444_tl_11" n="N011" break="no"/>lichst bekannt, besitzt sowohl musikalische wie wissenschaft<lb facs="#facs_2_region_1709374989506_1444_tl_12" n="N012" break="no"/>liche Bildung, die ihn befähigt, in den Gegenstand tief ein<lb facs="#facs_2_region_1709374989506_1444_tl_13" n="N013" break="no"/>zudringen. Dennoch will er hier nur anregen. Man könnte
       <lb facs="#facs_2_region_1709374989506_1444_tl_14" n="N014"/>seine Schrift eine Einleitung zur Ästhetik der Musik nennen;
       <lb facs="#facs_2_region_1709374989506_1444_tl_15" n="N015"/>sie will die Grundsätze hinstellen, aus denen eine Revision
       <lb facs="#facs_2_region_1709374989506_1444_tl_16" n="N016"/>der bisherigen Ästhetik der Tonkunst hervorgehen soll. Im
@@ -331,27 +323,20 @@
       <lb facs="#facs_2_region_1709374989506_1444_tl_27" n="N027"/>durchgeführt wird, beruhen die weitern Constructionen des
       <lb facs="#facs_2_region_1709374989506_1444_tl_28" n="N028"/>Verfassers. Wie wenig das Gefühl als solches den Anspruch
       <lb facs="#facs_2_region_1709374989506_1444_tl_29" n="N029"/>auf das Princip der Musik-Asthetik zu machen habe, indem
-      <lb facs="#facs_2_region_1709374989506_1444_tl_30" n="N030"/>dadurch ein bedeutendes, ja vielleicht das gehaltvollste Ge¬
-      <lb facs="#facs_2_region_1709374989506_1444_tl_31" n="N031"/>biet der Musik der Ästhetik entzogen wird, sucht die Schrift
-      <lb facs="#facs_2_region_1709374989506_1444_tl_32" n="N032"/>mit schlagenden Gründen darzuthun und mit höchst interes¬
-      <lb facs="#facs_2_region_1709374989506_1444_tl_33" n="N033"/>santen Nachrichten aus musikalischen Compositionen und
+      <lb facs="#facs_2_region_1709374989506_1444_tl_30" n="N030"/>dadurch ein bedeutendes, ja vielleicht das gehaltvollste Ge<lb facs="#facs_2_region_1709374989506_1444_tl_31" n="N031" break="no"/>biet der Musik der Ästhetik entzogen wird, sucht die Schrift
+      <lb facs="#facs_2_region_1709374989506_1444_tl_32" n="N032"/>mit schlagenden Gründen darzuthun und mit höchst interes<lb facs="#facs_2_region_1709374989506_1444_tl_33" n="N033" break="no"/>santen Nachrichten aus musikalischen Compositionen und
       <lb facs="#facs_2_region_1709374989506_1444_tl_34" n="N034"/>Schriften bedeutender Schriftsteller darzulegen. Darnach ist
-      <lb facs="#facs_2_region_1709374989506_1444_tl_35" n="N035"/>das dritte Kapitel der Schrift nicht bloss von grosser Be¬
-      <lb facs="#facs_2_region_1709374989506_1444_tl_36" n="N036"/>deutung für die Sache selbst, sondern auch wichtig durch
-      <lb facs="#facs_2_region_1709374989506_1444_tl_37" n="N037"/>die Art der Behandlung, welche in der That durch schla¬
-      <lb facs="#facs_2_region_1709374989506_1444_tl_38" n="N038"/>gende Beweisführung in geistvollem Ausdruck einen reichen
-      <lb facs="#facs_2_region_1709374989506_1444_tl_39" n="N039"/>Inhalt darbietet. Ebenso lesen wir in dem sechsten Ab¬
-      <lb facs="#facs_2_region_1709374989506_1444_tl_40" n="N040"/>schnitt von den Beziehungen der Tonkunst zur Natur und
+      <lb facs="#facs_2_region_1709374989506_1444_tl_35" n="N035"/>das dritte Kapitel der Schrift nicht bloss von grosser Be<lb facs="#facs_2_region_1709374989506_1444_tl_36" n="N036" break="no"/>deutung für die Sache selbst, sondern auch wichtig durch
+      <lb facs="#facs_2_region_1709374989506_1444_tl_37" n="N037"/>die Art der Behandlung, welche in der That durch schla<lb facs="#facs_2_region_1709374989506_1444_tl_38" n="N038" break="no"/>gende Beweisführung in geistvollem Ausdruck einen reichen
+      <lb facs="#facs_2_region_1709374989506_1444_tl_39" n="N039"/>Inhalt darbietet. Ebenso lesen wir in dem sechsten Ab<lb facs="#facs_2_region_1709374989506_1444_tl_40" n="N040" break="no"/>schnitt von den Beziehungen der Tonkunst zur Natur und
       <lb facs="#facs_2_region_1709374989506_1444_tl_41" n="N041"/>im siebenten von den Begriffen Form und Inhalt sehr viel
       <lb facs="#facs_2_region_1709374989506_1444_tl_42" n="N042"/>Anziehendes. Das letzte Kapitel ist ebenfalls wichtig für
       <lb facs="#facs_2_region_1709374989506_1444_tl_43" n="N043"/>die Beurtheilung des Standpunktes. So viel im Allgemeinen.
-      <lb facs="#facs_2_region_1709374989506_1444_tl_44" n="N044"/>Eine nähere Beleuchtung ist hier um so weniger nothwen¬
-      <lb facs="#facs_2_region_1709374989506_1444_tl_45" n="N045"/>dig, als die Schrift durchaus selbst gelesen sein will. Ihr
+      <lb facs="#facs_2_region_1709374989506_1444_tl_44" n="N044"/>Eine nähere Beleuchtung ist hier um so weniger nothwen<lb facs="#facs_2_region_1709374989506_1444_tl_45" n="N045" break="no"/>dig, als die Schrift durchaus selbst gelesen sein will. Ihr
       <lb facs="#facs_2_region_1709374989506_1444_tl_46" n="N046"/>geringer Umfang wird dazu einen Jeden, der sich für den
       <lb facs="#facs_2_region_1709374989506_1444_tl_47" n="N047"/>Gegenstand interessirt, auffordern. Wir selbst aber sind
       <lb facs="#facs_2_region_1709374989506_1444_tl_48" n="N048"/>mit dem, was der Verfasser darbietet, ganz einverstanden.
-      <lb facs="#facs_2_region_1709374989506_1444_tl_49" n="N049"/>Gegner werden natürlich sich eines Weitern auszulassen ha¬
-      <lb facs="#facs_2_region_1709374989506_1444_tl_50" n="N050"/>ben, und an solchen wird es hie und da nicht fehlen.</ab>
+      <lb facs="#facs_2_region_1709374989506_1444_tl_49" n="N049"/>Gegner werden natürlich sich eines Weitern auszulassen ha<lb facs="#facs_2_region_1709374989506_1444_tl_50" n="N050" break="no"/>ben, und an solchen wird es hie und da nicht fehlen.
          </div>
       </body>
    </text>

@@ -333,14 +333,10 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <ab facs="#facs_1_region_1709372234115_254" type="">
-               <lb facs="#facs_1_line_1709372479597_296" n="N001"/>Illustrirte Zeitung</ab>
-            <ab facs="#facs_1_region_1709372237291_257" type="">
-               <lb facs="#facs_1_line_1709372493380_304" n="N001"/>No. 599. — Leipzig, 23. December 1854. — XXIII. Band.</ab>
+            <lb facs="#facs_1_line_1709372479597_296" n="N001"/>Illustrirte Zeitung
+               <lb facs="#facs_1_line_1709372493380_304" n="N001"/>No. 599. — Leipzig, 23. December 1854. — XXIII. Band.
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <ab facs="#facs_2_region_1709372669268_416" type="">
-               <lb facs="#facs_2_region_1709372669268_416_tl_1" n="N001"/>„Vom Musikalisch=Schönen. Ein Beitrag zur Revi¬
-      <lb facs="#facs_2_region_1709372669268_416_tl_2" n="N002"/>sion der Aesthetik der Tonkunst, von Dr. Eduard Hanslick.“
+            <lb facs="#facs_2_region_1709372669268_416_tl_1" n="N001"/>„Vom Musikalisch=Schönen. Ein Beitrag zur Revi<lb facs="#facs_2_region_1709372669268_416_tl_2" n="N002" break="no"/>sion der Aesthetik der Tonkunst, von Dr. Eduard Hanslick.“
       <lb facs="#facs_2_region_1709372669268_416_tl_3" n="N003"/>sucht in dem vorliegenden Schriftchen
       <lb facs="#facs_2_line_1709373334355_517" n="N004"/>als rein tonlichen Jnhalt hab Nur Anschauungen gebe sie der P.
       <lb facs="#facs_2_line_1709373350587_523" n="N005"/>e. Die Gefühle , welche wir allenfalls dabei empfinden könnten, sei=
@@ -402,7 +398,7 @@
       <lb facs="#facs_2_line_1709373599659_770" n="N061"/>auszudrücken und zu entwickeln versteht. Möge ler, der sich für un
       <lb facs="#facs_2_line_1709373611116_781" n="N062"/>Kunst interessirt, das Schriftchen unbeachtet lasse Es ist jedenfalls me
       <lb facs="#facs_2_region_1709372669268_416_tl_111" n="N063"/>werth, als aller Zukunftsjammer, womit wir seit einigen Jahren
-      <lb facs="#facs_2_region_1709372669268_416_tl_112" n="N064"/>Ueberdruß heimgesucht werden.</ab>
+      <lb facs="#facs_2_region_1709372669268_416_tl_112" n="N064"/>Ueberdruß heimgesucht werden.
          </div>
       </body>
    </text>
