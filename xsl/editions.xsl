@@ -17,12 +17,20 @@
         </xsl:result-document>
     </xsl:template>
     
-    <xsl:template match="node()|@*">
+    <!-- Remove this template to avoid ambiguity -->
+    <!--<xsl:template match="node()|@*">
+        <xsl:copy>
+            <xsl:apply-templates select="node()|@*"/>
+        </xsl:copy>
+    </xsl:template>-->
+
+    <!-- Add more specific template -->
+    <xsl:template match="element()|comment()|processing-instruction()|@*">
         <xsl:copy>
             <xsl:apply-templates select="node()|@*"/>
         </xsl:copy>
     </xsl:template>
-    
+
     <xsl:template match="tei:publicationStmt">
         <publicationStmt xmlns="http://www.tei-c.org/ns/1.0">
             <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
@@ -184,16 +192,42 @@
         </div>
     </xsl:template>
     <xsl:variable name="p" select="//tei:p"/>
-    <xsl:template match="tei:p">
-        <xsl:variable name="pos" select="index-of($p/@facs, @facs)"/>
-        <cb xmlns="http://www.tei-c.org/ns/1.0" n="{$pos - 2}"/>
-        <p xmlns="http://www.tei-c.org/ns/1.0"><xsl:apply-templates/></p>
+    <xsl:variable name="hyphen">¬</xsl:variable>
+    
+    <xsl:function name="tei:has-hyphen" as="xs:boolean">
+        <xsl:param name="node" as="node()"/>
+        <xsl:sequence select="
+            exists($node/preceding::text()[not(ancestor::tei:note)][normalize-space()][1][ends-with(normalize-space(), '¬')])"/>
+    </xsl:function>
+
+    <xsl:template match="text()">
+        <xsl:choose>
+            <xsl:when test="ends-with(normalize-space(), '¬')">
+                <xsl:value-of select="replace(., '¬\s*$', '')"/>
+            </xsl:when>
+            <xsl:when test="parent::*/preceding-sibling::node()[1][self::text()][ends-with(., '¬')]">
+                <xsl:value-of select="replace(., '^\s+', '')"/>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:value-of select="."/>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
-    <xsl:template match="tei:lb">
+
+    <!-- Keep and enhance this unified template -->
+    <xsl:template match="tei:lb|tei:pb|tei:cb">
         <xsl:copy>
-            <xsl:apply-templates select="node()|@*"/>
+            <xsl:apply-templates select="@*"/>
+            <xsl:if test="tei:has-hyphen(.) or 
+                         (self::tei:lb and preceding-sibling::*[1][descendant-or-self::text()[ends-with(., $hyphen)]])">
+                <xsl:attribute name="break">no</xsl:attribute>
+            </xsl:if>
         </xsl:copy>
+        <xsl:if test="self::tei:lb[following-sibling::*[1][self::tei:pb]]">
+            <xsl:text> </xsl:text>
+        </xsl:if>
     </xsl:template>
+    
     <xsl:template match="tei:italic">
         <hi xmlns="http://www.tei-c.org/ns/1.0" rendition="#em"><xsl:apply-templates/></hi>
     </xsl:template>
@@ -204,4 +238,7 @@
         <rs xmlns="http://www.tei-c.org/ns/1.0" type="person"><xsl:apply-templates/></rs>
     </xsl:template>
     
+    <xsl:template match="tei:ab">
+        <xsl:apply-templates/>
+    </xsl:template>
 </xsl:stylesheet>
