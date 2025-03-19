@@ -85,7 +85,7 @@
                      </respStmt>
                      <imprint>
                         <pubPlace>Leipzig</pubPlace>
-                        <date>1855</date>
+                        <date when="1855">1855</date>
                      </imprint>
                   </monogr>
                </biblStruct>
@@ -104,11 +104,11 @@
          </langUsage>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="awilfling" when="2024-11-01 ">Projektbeginn</change>
-         <change who="awilfling" when="2025-01-20 ">Headers Anpassung</change>
+         <change who="awilfing" when="2024-11-01 ">Projektbeginn</change>
+         <change who="awilfing" when="2025-01-20 ">Headers Anpassung</change>
          <change who="ampfiel" when="2025-02-26">Transkribus OCR und Lektorat.</change>
          <change who="delsner" when="2025-03-06">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
-         <change who="ampfiel" when="2025-03-06">fix header</change>
+         <change who="ampfiel" when="2025-03-06">fix header, Layout</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -243,26 +243,14 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <ab facs="#facs_1_region_1709374382934_1224" type="">
-               <lb facs="#facs_1_region_1709374382934_1224_tl_1" n="N001"/>Die
-      <lb facs="#facs_1_line_1709381552753_2250" n="N002"/>Grenzboten.
-      <lb facs="#facs_1_region_1709374382934_1224_tl_5" n="N003"/>Zeitschrift für Politik und Literatur,
-      <lb facs="#facs_1_region_1709374382934_1224_tl_6" n="N004"/>redigirt von
-      <lb facs="#facs_1_region_1709374382934_1224_tl_7" n="N005"/>Gustav Freytag und Julian Schmidt.
-      <lb facs="#facs_1_region_1709374382934_1224_tl_9" n="N006"/>14. Jahrgang.
-      <lb facs="#facs_1_region_1709374382934_1224_tl_10" n="N007"/>I. Semester. I. Band.
-      <lb facs="#facs_1_region_1709374382934_1224_tl_11" n="N008"/>Leipzig,
-      <lb facs="#facs_1_region_1709374382934_1224_tl_12" n="N009"/>Verlag von Friedrich Ludwig Herbig.
-      <lb facs="#facs_1_region_1709374382934_1224_tl_13" n="N010"/>1855.</ab>
-            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <ab facs="#facs_2_region_1709374399555_1230" type="">
-               <lb facs="#facs_2_region_1709374399555_1230_tl_1" n="N001"/>Wissenschaft und Kunst.
-      <lb facs="#facs_2_region_1709374399555_1230_tl_2" n="N002"/>
-               <hi rendition="#em">Zur musikalischen Literatur</hi>. Die kleine Schrift von Dr. Ed. <hi rendition="#em">
-                  <rs type="person">Hanslick</rs>
-               </hi>:
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>            
+      <head type="h1">
+            <lb facs="#facs_2_region_1709374399555_1230_tl_1" n="N001"/>Wissenschaft und Kunst.</head>
+             <p>     
+      <lb facs="#facs_2_region_1709374399555_1230_tl_2" n="N002"/><hi rendition="#em">Zur musikalischen Literatur</hi>. Die kleine Schrift von Dr. Ed. <hi rendition="#em">
+                  <rs type="person">Hanslick</rs></hi>:
       <lb facs="#facs_2_region_1709374399555_1230_tl_3" n="N003"/>„<rs type="bibl">Vom Musikalisch-Schönen</rs>“ (<rs type="place">Leipzig</rs>, R. <rs type="person">Weigel</rs>
-               <date month="0" day="0" year="0">1854</date>) haben wir mit Vergnügen
+               <date when="1854">1854</date>) haben wir mit Vergnügen
       <lb facs="#facs_2_region_1709374399555_1230_tl_4" n="N004"/>gelesen und empfehlen sie unsern Lesern als eine geistreiche und selbstständige Ab¬
       <lb facs="#facs_2_region_1709374399555_1230_tl_5" n="N005"/>handlung. Nicht „Gefühle“, nicht „Empfindungen“, sondern „<hi rendition="#em">tönend bewegte</hi>
                <lb facs="#facs_2_region_1709374399555_1230_tl_6" n="N006"/>Formen sind einzig und allein Inhalt und Gegenstand der Musik:“ um diesen
@@ -273,7 +261,7 @@
       <lb facs="#facs_2_region_1709374399555_1230_tl_11" n="N011"/>welcher <rs type="person">Fischer</rs>s <rs type="bibl">Aesthetik</rs> mit <hi rendition="#em">Verstand</hi> benutzt hat, nämlich durch Aneignung
       <lb facs="#facs_2_region_1709374399555_1230_tl_12" n="N012"/>ihrer gesunden Principien ohne ihre Form nachzuahmen. Auch zeigt er eine recht
       <lb facs="#facs_2_region_1709374399555_1230_tl_13" n="N013"/>gute Belesenheit in der älteren musikalischen Literatur; doch sind wir überzeugt,
-      <lb facs="#facs_2_region_1709374399555_1230_tl_14" n="N014"/>daß eine eingehendere Prüfung, besonders der Werke von <date month="0" day="0" year="0">1650</date>-<date month="0" day="0" year="0">1750</date>, einen etwas
+      <lb facs="#facs_2_region_1709374399555_1230_tl_14" n="N014"/>daß eine eingehendere Prüfung, besonders der Werke von <date when="1650">1650</date>-<date when="1750">1750</date>, einen etwas
       <lb facs="#facs_2_region_1709374399555_1230_tl_15" n="N015"/>abweichenden Sinn ergibt und zur Lösung der von <rs type="person">Hanslick</rs> behandelten Fragen
       <lb facs="#facs_2_region_1709374399555_1230_tl_16" n="N016"/>noch ohne Bedeutung ist. Das Verhalten zu den praktischen Bestrebungen der je¬
       <lb facs="#facs_2_region_1709374399555_1230_tl_17" n="N017"/>weiligen Gegenwart pflegt immer der Prüfstein theoretischer Untersuchungen zu
@@ -285,7 +273,7 @@
       <lb facs="#facs_2_region_1709374399555_1230_tl_23" n="N023"/>Welt hineingeredet wird. Vor <hi rendition="#em">einem</hi> Abwege möge er auf der Hut sein, nämlich
       <lb facs="#facs_2_region_1709374399555_1230_tl_24" n="N024"/>vor der Ansicht, als sei nur in der Instrumentalmusik die „reine“ Musik zu finden.
       <lb facs="#facs_2_region_1709374399555_1230_tl_25" n="N025"/>So hört man zwar überall, es ist aber nicht richtig und schreibt sich von der zu
-      <lb facs="#facs_2_region_1709374399555_1230_tl_26" n="N026"/>einseitigen Beschäftigung mit <rs type="person">Beethoven</rs>s Werken her. —</ab>
+      <lb facs="#facs_2_region_1709374399555_1230_tl_26" n="N026"/>einseitigen Beschäftigung mit <rs type="person">Beethoven</rs>s Werken her. —</p>
          </div>
       </body>
    </text>

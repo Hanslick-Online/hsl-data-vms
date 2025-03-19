@@ -84,7 +84,7 @@
                      </respStmt>
                      <imprint>
                         <pubPlace>Leipzig</pubPlace>
-                        <date>1855</date>
+                        <date when="1855">1855</date>
                      </imprint>
                   </monogr>
                </biblStruct>
@@ -103,11 +103,11 @@
          </langUsage>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="awilfling" when="2024-11-01 ">Projektbeginn</change>
-         <change who="awilfling" when="2025-01-20 ">Headers Anpassung</change>
+         <change who="awilfing" when="2024-11-01 ">Projektbeginn</change>
+         <change who="awilfing" when="2025-01-20 ">Headers Anpassung</change>
          <change who="ampfiel" when="2025-02-25">Transkribus OCR und Lektorat.</change>
          <change who="delsner" when="2025-03-06">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
-         <change who="ampfiel" when="2025-03-06">fix header</change>
+         <change who="ampfiel" when="2025-03-06">fix header, Layout</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -614,26 +614,12 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <ab facs="#facs_1_region_1709374797667_1395" type="">
-               <lb facs="#facs_1_line_1709381846728_2319" n="N001"/>LEIPZIGER REPERTORIUM
-      <lb facs="#facs_1_line_1709381847862_2322" n="N002"/>der
-      <lb facs="#facs_1_line_1740466414379_20" n="N003"/>deutschen und ausländischen Literatur.
-      <lb facs="#facs_1_region_1709374797667_1395_tl_5" n="N004"/>Unter Mitwirkung der Universität Leipzig
-      <lb facs="#facs_1_line_1740466447192_28" n="N005"/>herausgegeben
-      <lb facs="#facs_1_region_1709374797667_1395_tl_8" n="N006"/>von
-      <lb facs="#facs_1_region_1709374797667_1395_tl_9" n="N007"/>Dr. E. G. Gersdorf,
-      <lb facs="#facs_1_region_1709374797667_1395_tl_10" n="N008"/>Hofrath und Oberbibliothekar, des k. sächs. Albrechts-, des k. griech. Erlöser- und des
-      <lb facs="#facs_1_line_1740466482513_36" n="N009"/>herz. Sachsen-Ernestin. Hausordens Ritter.
-      <lb facs="#facs_1_region_1709374797667_1395_tl_13" n="N010"/>Dreizehnter Jahrgang.
-      <lb facs="#facs_1_region_1709374797667_1395_tl_14" n="N011"/>Erster Band.
-      <lb facs="#facs_1_region_1709374797667_1395_tl_15" n="N012"/>Leipzig,
-      <lb facs="#facs_1_region_1709374797667_1395_tl_16" n="N013"/>T. O. Weigel.
-      <lb facs="#facs_1_region_1709374797667_1395_tl_17" n="N014"/>1855.</ab>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <ab facs="#facs_2_region_1709374833827_1401" type="">
-               <lb facs="#facs_2_region_1709374833827_1401_tl_1" n="N001"/>[21] <rs type="bibl">Vom Musikalisch-Schönen</rs>. Ein Beitrag zur Revision der Aesthetik
-      <lb facs="#facs_2_line_1740466674793_67" n="N002"/>der Tonkunst. Von Dr. Ed. Hanslick. Leipzig, R. Weigel. 1854. VIII
-      <lb facs="#facs_2_region_1709374833827_1401_tl_4" n="N003"/>u. 104 S. gr. 8. (15 Ngr.)
+      <head type="h1">
+            <lb facs="#facs_2_region_1709374833827_1401_tl_1" n="N001"/>[21] <rs type="bibl">Vom Musikalisch-Schönen</rs>. Ein Beitrag zur Revision der Aesthetik
+            <lb facs="#facs_2_line_1740466674793_67" n="N002"/>der Tonkunst. Von Dr. Ed. <rs type="person">Hanslick</rs>. <rs type="place">Leipzig</rs>, R. <rs type="person">Weigel</rs>. <rs type="date" when="1854">1854</rs>. VIII
+            <lb facs="#facs_2_region_1709374833827_1401_tl_4" n="N003"/>u. 104 S. gr. 8. (15 Ngr.)</head>
+               <p>
       <lb facs="#facs_2_region_1709374833827_1401_tl_5" n="N004"/>Die Frage, könnte man sagen, gehört zu der Natur des Men¬
       <lb facs="#facs_2_region_1709374833827_1401_tl_6" n="N005"/>schen. Er ist immer mit Fragen: Was, wie, warum ist dieses oder
       <lb facs="#facs_2_region_1709374833827_1401_tl_7" n="N006"/>jenes? beschäftiget. Das Fragen ist leicht, das Antworten aber oft
@@ -651,7 +637,7 @@
       <lb facs="#facs_2_region_1709374833827_1401_tl_19" n="N018"/>bekannt, dass schon <rs type="person">Nägeli</rs> sich dahin ausgesprochen, die Musik sei
       <lb facs="#facs_2_region_1709374833827_1401_tl_20" n="N019"/>nur ein Spiel mit angenehmen Tönen und könne etwas Anderes
       <lb facs="#facs_2_region_1709374833827_1401_tl_21" n="N020"/>durchaus nicht sein; auch der Verfasser der „<rs type="bibl">Musikalischen Briefe</rs>“
-      <lb facs="#facs_2_region_1709374833827_1401_tl_22" n="N021"/>(<rs type="place">Leipzig</rs>, <date month="0" day="0" year="0">1852</date>) sprach sich, wenn auch nicht mit derselben Be¬
+      <lb facs="#facs_2_region_1709374833827_1401_tl_22" n="N021"/>(<rs type="place">Leipzig</rs>, <date when="1852">1852</date>) sprach sich, wenn auch nicht mit derselben Be¬
       <lb facs="#facs_2_region_1709374833827_1401_tl_23" n="N022"/>stimmtheit, in ähnlicher Weise aus, und es ist vielfach Wider¬
       <lb facs="#facs_2_region_1709374833827_1401_tl_24" n="N023"/>spruch dagegen erhoben worden. Der Vf. des vorlieg. Schriftchens,
       <lb facs="#facs_2_region_1709374833827_1401_tl_25" n="N024"/>welches jedenfalls einen neuen, interessanten Beitrag für die ganze
@@ -668,10 +654,9 @@
       <lb facs="#facs_2_region_1709374833827_1401_tl_36" n="N035"/>was er unter Gefühl verstehe und in welchem Verhältniss er sich
       <lb facs="#facs_2_region_1709374833827_1401_tl_37" n="N036"/>Gefühl und Phantasie denke. Die Musik, fährt er fort, könne wohl
       <lb facs="#facs_2_region_1709374833827_1401_tl_38" n="N037"/>einen Kreis von Ideen darstellen, aber nur solche, welche sich auf
-      <lb facs="#facs_2_region_1709374833827_1401_tl_39" n="N038"/>das Hörbare bezögen. Sie könne das Anschwellende, Absterbende,</ab>
+      <lb facs="#facs_2_region_1709374833827_1401_tl_39" n="N038"/>das Hörbare bezögen. Sie könne das Anschwellende, Absterbende,
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-            <ab facs="#facs_3_region_1709374851651_1407" type="">
-               <lb facs="#facs_3_region_1709374851651_1407_tl_1" n="N001"/>Eilende, Zögernde, Gleitende, Schwellende, Lauschende, Stürmende
+      <lb facs="#facs_3_region_1709374851651_1407_tl_1" n="N001"/>Eilende, Zögernde, Gleitende, Schwellende, Lauschende, Stürmende
       <lb facs="#facs_3_region_1709374851651_1407_tl_2" n="N002"/>aussprechen, sonst aber nichts. Die Musik könne somit nur das
       <lb facs="#facs_3_region_1709374851651_1407_tl_3" n="N003"/>Dynamische des Gefühls, nur die Bewegung darstellen. Die Bewe¬
       <lb facs="#facs_3_region_1709374851651_1407_tl_4" n="N004"/>gung sei also das einzige Element, welches die Musik mit dem Ge¬
@@ -718,10 +703,9 @@
       <lb facs="#facs_3_region_1709374851651_1407_tl_45" n="N045"/>der Töne seien nicht leer, nicht blosse Linearbegränzungen, son¬
       <lb facs="#facs_3_region_1709374851651_1407_tl_46" n="N046"/>dern erfüllt. Sie seien von Innen heraus gestalteter Geist, dem
       <lb facs="#facs_3_region_1709374851651_1407_tl_47" n="N047"/>ein Sinn, aber nur ein musikalischer beiwohne. Deshalb könne die
-      <lb facs="#facs_3_region_1709374851651_1407_tl_48" n="N048"/>Musik die Bedeutsamkeit der Weltgesetze, des Rhythmus insbeson¬</ab>
+      <lb facs="#facs_3_region_1709374851651_1407_tl_48" n="N048"/>Musik die Bedeutsamkeit der Weltgesetze, des Rhythmus insbeson
             <pb facs="#facs_4" n="4" xml:id="img_0004"/>
-            <ab facs="#facs_4_region_1709374866114_1413" type="">
-               <lb facs="#facs_4_region_1709374866114_1413_tl_1" n="N001"/>dere, der Melodie und der Harmonie darstellen und zur Erscheinung
+      <lb facs="#facs_4_region_1709374866114_1413_tl_1" n="N001" break="no"/>dere, der Melodie und der Harmonie darstellen und zur Erscheinung
       <lb facs="#facs_4_region_1709374866114_1413_tl_2" n="N002"/>bringen. Und so hätte man bei dem Vf. allerdings einen gewissen
       <lb facs="#facs_4_region_1709374866114_1413_tl_3" n="N003"/>Inhalt für die Musik gewonnen, da sie ihm nicht ein blosses Spiel
       <lb facs="#facs_4_region_1709374866114_1413_tl_4" n="N004"/>mit Tönen ist. Sie weist symbolisch auf die Gefühle hin und besitzt
@@ -768,12 +752,11 @@
       <lb facs="#facs_4_region_1709374866114_1413_tl_45" n="N045"/>angesehen werden muss. Dieses aber kann nur das Sichaussprechen
       <lb facs="#facs_4_region_1709374866114_1413_tl_46" n="N046"/>eines Gefühls- und Gemüthslebens sein, welches dadurch keinesweges
       <lb facs="#facs_4_region_1709374866114_1413_tl_47" n="N047"/>ein unbestimmtes wird, dass es nicht in Wort und Begriff zusammen¬
-      <lb facs="#facs_4_region_1709374866114_1413_tl_48" n="N048"/>gepresst werden kann. Dieses Gefühls- und Gemüthsleben ist in</ab>
+      <lb facs="#facs_4_region_1709374866114_1413_tl_48" n="N048"/>gepresst werden kann. Dieses Gefühls- und Gemüthsleben ist in
             <pb facs="#facs_5" n="5" xml:id="img_0005"/>
-            <ab facs="#facs_5_region_1709374879787_1419" type="">
-               <lb facs="#facs_5_region_1709374879787_1419_tl_1" n="N001"/>der Musik der gemeinen Wirklichkeit entnommen, in seine wahre
+      <lb facs="#facs_5_region_1709374879787_1419_tl_1" n="N001"/>der Musik der gemeinen Wirklichkeit entnommen, in seine wahre
       <lb facs="#facs_5_region_1709374879787_1419_tl_2" n="N002"/>Heimath, in die ideale Tonwelt versetzt und wirkt von dieser aus
-      <lb facs="#facs_5_region_1709374879787_1419_tl_3" n="N003"/>mit zauberischer Kraft in die menschliche Brust hinein.</ab>
+      <lb facs="#facs_5_region_1709374879787_1419_tl_3" n="N003"/>mit zauberischer Kraft in die menschliche Brust hinein.</p>
          </div>
       </body>
    </text>

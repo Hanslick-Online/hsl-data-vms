@@ -84,7 +84,7 @@
                      </respStmt>
                      <imprint>
                         <pubPlace>Wien</pubPlace>
-                        <date>1855</date>
+                        <date when="1855">1855</date>
                      </imprint>
                   </monogr>
                </biblStruct>
@@ -103,11 +103,11 @@
          </langUsage>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="awilfling" when="2024-11-01 ">Projektbeginn</change>
-         <change who="awilfling" when="2025-01-20 ">Headers Anpassung</change>
+         <change who="awilfing" when="2024-11-01 ">Projektbeginn</change>
+         <change who="awilfing" when="2025-01-20 ">Headers Anpassung</change>
          <change who="ampfiel" when="2025-02-25">Transkribus OCR und Lektorat.</change>
          <change who="delsner" when="2025-03-06">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
-         <change who="ampfiel" when="2025-03-06">fix header</change>
+         <change who="ampfiel" when="2025-03-06">fix header, Layout</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -307,13 +307,12 @@
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>               
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-               <head>Aesthetik.</head>
-            <ab facs="#facs_2_region_1709374685145_1373" type="">
-               <lb facs="#facs_2_region_1709374685145_1373_tl_1" n="N001"/>
-               <rs type="bibl">Vom Musikalisch-Schönen</rs>. <hi rendition="#em">Ein Beitrag zur Revision der
-               <lb facs="#facs_2_region_1709374685145_1373_tl_2" n="N002"/>Aesthetik der Tonkunst</hi> von Dr. Eduard <hi rendition="#em">
-                  <rs type="person">Hanslick</rs></hi>. <rs type="place">Leipzig</rs>
-               <lb facs="#facs_2_region_1709374685145_1373_tl_3" n="N003"/>bei Rudolph <rs type="person">Weigel</rs>
+      <head type="h1">
+            <lb n="N0001"/>Aesthetik.</head>
+            <p>
+      <lb facs="#facs_2_region_1709374685145_1373_tl_1" n="N001"/><rs type="bibl">Vom Musikalisch-Schönen</rs>. <hi rendition="#em">Ein Beitrag zur Revision der
+      <lb facs="#facs_2_region_1709374685145_1373_tl_2" n="N002"/>Aesthetik der Tonkunst</hi> von Dr. Eduard <hi rendition="#em"><rs type="person">Hanslick</rs></hi>. <rs type="place">Leipzig</rs>
+      <lb facs="#facs_2_region_1709374685145_1373_tl_3" n="N003"/>bei Rudolph <rs type="person">Weigel</rs>
                <date when="1854">1854</date>. —
       <lb facs="#facs_2_region_1709374685145_1373_tl_4" n="N004"/>Ueber das Schöne in der Musik ist seit dem Kampf der <rs type="person">Glu¬</rs>
                <lb facs="#facs_2_region_1709374685145_1373_tl_5" n="N005"/>
@@ -344,10 +343,9 @@
       <lb facs="#facs_2_region_1709374685145_1373_tl_29" n="N029"/>Richard <rs type="person">Wagner</rs>s in der Opernmusik; allein wenn auch <rs type="person">Wagner</rs>
                <lb facs="#facs_2_region_1709374685145_1373_tl_30" n="N030"/>unbestreitbar in Uebertreibung verfallen ist, so steht doch sein Streben
       <lb facs="#facs_2_region_1709374685145_1373_tl_31" n="N031"/>nur einer andern Uebertreibung gegenüber, welche die Oper durch
-      <lb facs="#facs_2_region_1709374685145_1373_tl_32" n="N032"/>Verzerrung des Textes zum Ungethüme stempelt. In der Kammer¬</ab>
+      <lb facs="#facs_2_region_1709374685145_1373_tl_32" n="N032"/>Verzerrung des Textes zum Ungethüme stempelt. In der Kammer
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-            <ab facs="#facs_3_region_1709374696443_1379" type="">
-               <lb facs="#facs_3_region_1709374696443_1379_tl_1" n="N001"/>musik steht die Musik für sich allein, und kann als solche das Höchste
+      <lb facs="#facs_3_region_1709374696443_1379_tl_1" n="N001" break="no"/>musik steht die Musik für sich allein, und kann als solche das Höchste
       <lb facs="#facs_3_region_1709374696443_1379_tl_2" n="N002"/>und Vollendetste leisten; allein in der Oper soll sie mit dem Texte
       <lb facs="#facs_3_region_1709374696443_1379_tl_3" n="N003"/>Hand in Hand gehen, ohne diesem darum sich unterordnen zu müssen,
       <lb facs="#facs_3_region_1709374696443_1379_tl_4" n="N004"/>was bei <rs type="person">Wagner</rs> leider bereits der Fall ist. Man geht zu weit, wenn
@@ -364,7 +362,7 @@
       <lb facs="#facs_3_region_1709374696443_1379_tl_15" n="N015"/>Gefühlsmusik, welche er mit vielen Gründen und schönen Argumenten
       <lb facs="#facs_3_region_1709374696443_1379_tl_16" n="N016"/>bekämpft, kann übrigens in anderer Beziehung recht wohl auch Ver¬
       <lb facs="#facs_3_region_1709374696443_1379_tl_18" n="N017"/>standes- oder am besten Reflexionsmusik genannt werden.
-      <lb facs="#facs_3_region_1709374696443_1379_tl_17" n="N018"/>Mz.</ab>
+      <lb facs="#facs_3_region_1709374696443_1379_tl_17" n="N018"/>Mz.</p>
          </div>
       </body>
    </text>
