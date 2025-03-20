@@ -109,6 +109,7 @@
          <change who="ampfiel" when="2025-02-26">Transkribus OCR und Lektorat.</change>
          <change who="delsner" when="2025-03-06">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-03-06">fix header, Layout</change>
+         <change who="ampfiel" when="2025-03-20">Zeilenumbrüche, space, rs ref</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -247,33 +248,31 @@
       <head type="h1">
             <lb facs="#facs_2_region_1709374399555_1230_tl_1" n="N001"/>Wissenschaft und Kunst.</head>
              <p>     
-      <lb facs="#facs_2_region_1709374399555_1230_tl_2" n="N002"/><hi rendition="#em">Zur musikalischen Literatur</hi>. Die kleine Schrift von Dr. Ed. <hi rendition="#em">
-                  <rs type="person">Hanslick</rs></hi>:
-      <lb facs="#facs_2_region_1709374399555_1230_tl_3" n="N003"/>„<rs type="bibl">Vom Musikalisch-Schönen</rs>“ (<rs type="place">Leipzig</rs>, R. <rs type="person">Weigel</rs>
-               <date when="1854">1854</date>) haben wir mit Vergnügen
-      <lb facs="#facs_2_region_1709374399555_1230_tl_4" n="N004"/>gelesen und empfehlen sie unsern Lesern als eine geistreiche und selbstständige Ab¬
-      <lb facs="#facs_2_region_1709374399555_1230_tl_5" n="N005"/>handlung. Nicht „Gefühle“, nicht „Empfindungen“, sondern „<hi rendition="#em">tönend bewegte</hi>
-               <lb facs="#facs_2_region_1709374399555_1230_tl_6" n="N006"/>Formen sind einzig und allein Inhalt und Gegenstand der Musik:“ um diesen
+      <lb facs="#facs_2_region_1709374399555_1230_tl_2" n="N002"/><hi rendition="#em">Zur musikalischen Literatur</hi>. Die kleine Schrift von Dr. Ed. <hi rendition="#em"><rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi>:
+      <lb facs="#facs_2_region_1709374399555_1230_tl_3" n="N003"/>„<rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>“ (<rs type="place" ref="#hsl_place_id_32">Leipzig</rs>, R. <rs type="person" ref="#hsl_person_id_377">Weigel</rs><space quantity="1" unit="char"/><date when="1854">1854</date>) haben wir mit Vergnügen
+      <lb facs="#facs_2_region_1709374399555_1230_tl_4" n="N004"/>gelesen und empfehlen sie unsern Lesern als eine geistreiche und selbstständige Ab
+      <lb facs="#facs_2_region_1709374399555_1230_tl_5" n="N005" break="no"/>handlung. Nicht „Gefühle“, nicht „Empfindungen“, sondern „<hi rendition="#em">tönend bewegte</hi><space quantity="1" unit="char"/>
+      <lb facs="#facs_2_region_1709374399555_1230_tl_6" n="N006"/>Formen sind einzig und allein Inhalt und Gegenstand der Musik:“ um diesen
       <lb facs="#facs_2_region_1709374399555_1230_tl_7" n="N007"/>Satz dreht sich des Verfassers Untersuchung. Obwol wir auch seinem Endergebniß
-      <lb facs="#facs_2_region_1709374399555_1230_tl_8" n="N008"/>im allgemeinen beistimmen müssen, so ist es doch nicht dieses, welches unser Inter¬
-      <lb facs="#facs_2_region_1709374399555_1230_tl_9" n="N009"/>esse vornehmlich in Anspruch nimmt, sondern vielmehr die freie, behende Art, wie
+      <lb facs="#facs_2_region_1709374399555_1230_tl_8" n="N008"/>im allgemeinen beistimmen müssen, so ist es doch nicht dieses, welches unser Inter
+      <lb facs="#facs_2_region_1709374399555_1230_tl_9" n="N009" break="no"/>esse vornehmlich in Anspruch nimmt, sondern vielmehr die freie, behende Art, wie
       <lb facs="#facs_2_region_1709374399555_1230_tl_10" n="N010"/>er dahin gelangt. Der Verfasser ist einer der ersten musikalischen Schriftsteller,
-      <lb facs="#facs_2_region_1709374399555_1230_tl_11" n="N011"/>welcher <rs type="person">Fischer</rs>s <rs type="bibl">Aesthetik</rs> mit <hi rendition="#em">Verstand</hi> benutzt hat, nämlich durch Aneignung
+      <lb facs="#facs_2_region_1709374399555_1230_tl_11" n="N011"/>welcher <rs type="person" ref="#hsl_person_id_379">Fischer</rs>s <rs type="bibl" ref="#hsl_work_id_319">Aesthetik</rs> mit <hi rendition="#em">Verstand</hi> benutzt hat, nämlich durch Aneignung
       <lb facs="#facs_2_region_1709374399555_1230_tl_12" n="N012"/>ihrer gesunden Principien ohne ihre Form nachzuahmen. Auch zeigt er eine recht
       <lb facs="#facs_2_region_1709374399555_1230_tl_13" n="N013"/>gute Belesenheit in der älteren musikalischen Literatur; doch sind wir überzeugt,
       <lb facs="#facs_2_region_1709374399555_1230_tl_14" n="N014"/>daß eine eingehendere Prüfung, besonders der Werke von <date when="1650">1650</date>-<date when="1750">1750</date>, einen etwas
-      <lb facs="#facs_2_region_1709374399555_1230_tl_15" n="N015"/>abweichenden Sinn ergibt und zur Lösung der von <rs type="person">Hanslick</rs> behandelten Fragen
-      <lb facs="#facs_2_region_1709374399555_1230_tl_16" n="N016"/>noch ohne Bedeutung ist. Das Verhalten zu den praktischen Bestrebungen der je¬
-      <lb facs="#facs_2_region_1709374399555_1230_tl_17" n="N017"/>weiligen Gegenwart pflegt immer der Prüfstein theoretischer Untersuchungen zu
+      <lb facs="#facs_2_region_1709374399555_1230_tl_15" n="N015"/>abweichenden Sinn ergibt und zur Lösung der von <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> behandelten Fragen
+      <lb facs="#facs_2_region_1709374399555_1230_tl_16" n="N016"/>noch ohne Bedeutung ist. Das Verhalten zu den praktischen Bestrebungen der je
+      <lb facs="#facs_2_region_1709374399555_1230_tl_17" n="N017" break="no"/>weiligen Gegenwart pflegt immer der Prüfstein theoretischer Untersuchungen zu
       <lb facs="#facs_2_region_1709374399555_1230_tl_18" n="N018"/>sein: der Verfasser konnte kein günstigeres Vorurtheil für seine Schrift erwecken,
-      <lb facs="#facs_2_region_1709374399555_1230_tl_19" n="N019"/>als durch die Art, wie er sich über dieselben ausgesprochen. Ebenfalls über <rs type="person">Gluck</rs>
-               <lb facs="#facs_2_region_1709374399555_1230_tl_20" n="N020"/>hat er sich eine unbefangene, historisch wohlbegründete Ansicht zueigengemacht.
-      <lb facs="#facs_2_region_1709374399555_1230_tl_21" n="N021"/>Das alles bemerken wir um so lieber, als in jüngster Zeit von <rs type="place">Wien</rs> aus durch
+      <lb facs="#facs_2_region_1709374399555_1230_tl_19" n="N019"/>als durch die Art, wie er sich über dieselben ausgesprochen. Ebenfalls über <rs type="person" ref="#hsl_person_id_99">Gluck</rs><space quantity="1" unit="char"/>
+      <lb facs="#facs_2_region_1709374399555_1230_tl_20" n="N020"/>hat er sich eine unbefangene, historisch wohlbegründete Ansicht zueigengemacht.
+      <lb facs="#facs_2_region_1709374399555_1230_tl_21" n="N021"/>Das alles bemerken wir um so lieber, als in jüngster Zeit von <rs type="place" ref="#hsl_place_id_55">Wien</rs> aus durch
       <lb facs="#facs_2_region_1709374399555_1230_tl_22" n="N022"/>dicke Bücher und neuauftauchende musikalische Zeitschriften viel Unnützes in die
       <lb facs="#facs_2_region_1709374399555_1230_tl_23" n="N023"/>Welt hineingeredet wird. Vor <hi rendition="#em">einem</hi> Abwege möge er auf der Hut sein, nämlich
       <lb facs="#facs_2_region_1709374399555_1230_tl_24" n="N024"/>vor der Ansicht, als sei nur in der Instrumentalmusik die „reine“ Musik zu finden.
       <lb facs="#facs_2_region_1709374399555_1230_tl_25" n="N025"/>So hört man zwar überall, es ist aber nicht richtig und schreibt sich von der zu
-      <lb facs="#facs_2_region_1709374399555_1230_tl_26" n="N026"/>einseitigen Beschäftigung mit <rs type="person">Beethoven</rs>s Werken her. —</p>
+      <lb facs="#facs_2_region_1709374399555_1230_tl_26" n="N026"/>einseitigen Beschäftigung mit <rs type="person" ref="#hsl_person_id_25">Beethoven</rs>s Werken her. —</p>
          </div>
       </body>
    </text>

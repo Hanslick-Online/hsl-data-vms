@@ -108,6 +108,7 @@
          <change who="ampfiel" when="2025-02-25">Transkribus OCR und Lektorat.</change>
          <change who="delsner" when="2025-03-06">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-03-06">fix header, Layout</change>
+         <change who="ampfiel" when="2025-03-20">Zeilenumbrüche, space, rs ref</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -310,58 +311,56 @@
       <head type="h1">
             <lb n="N0001"/>Aesthetik.</head>
             <p>
-      <lb facs="#facs_2_region_1709374685145_1373_tl_1" n="N001"/><rs type="bibl">Vom Musikalisch-Schönen</rs>. <hi rendition="#em">Ein Beitrag zur Revision der
-      <lb facs="#facs_2_region_1709374685145_1373_tl_2" n="N002"/>Aesthetik der Tonkunst</hi> von Dr. Eduard <hi rendition="#em"><rs type="person">Hanslick</rs></hi>. <rs type="place">Leipzig</rs>
-      <lb facs="#facs_2_region_1709374685145_1373_tl_3" n="N003"/>bei Rudolph <rs type="person">Weigel</rs>
-               <date when="1854">1854</date>. —
-      <lb facs="#facs_2_region_1709374685145_1373_tl_4" n="N004"/>Ueber das Schöne in der Musik ist seit dem Kampf der <rs type="person">Glu¬</rs>
-               <lb facs="#facs_2_region_1709374685145_1373_tl_5" n="N005"/>
-               <rs type="person" continued="true">k</rs>isten und <rs type="person">Piccini</rs>sten schon viel gestritten, aber noch keine befriedigende
-      <lb facs="#facs_2_region_1709374685145_1373_tl_6" n="N006"/>Ansicht zu Tage gefördert worden. Dr. <rs type="person">Hanslick</rs> hat es unternom¬
-      <lb facs="#facs_2_region_1709374685145_1373_tl_7" n="N007"/>men, die dermal cursirenden Meinungen hierüber einer scharfen Kritik zu
+      <lb facs="#facs_2_region_1709374685145_1373_tl_1" n="N001"/><rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>. <hi rendition="#em">Ein Beitrag zur Revision der
+      <lb facs="#facs_2_region_1709374685145_1373_tl_2" n="N002"/>Aesthetik der Tonkunst</hi> von Dr. Eduard <hi rendition="#em"><rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi>. <rs type="place" ref="#hsl_place_id_32">Leipzig</rs><space quantity="1" unit="char"/>
+      <lb facs="#facs_2_region_1709374685145_1373_tl_3" n="N003"/>bei Rudolph <rs type="person" ref="#hsl_person_id_377">Weigel</rs><space quantity="1" unit="char"/><date when="1854">1854</date>. —
+      <lb facs="#facs_2_region_1709374685145_1373_tl_4" n="N004"/>Ueber das Schöne in der Musik ist seit dem Kampf der <rs type="person" ref="#hsl_person_id_99">Glu
+      <lb facs="#facs_2_region_1709374685145_1373_tl_5" n="N005" break="no"/>k</rs>isten und <rs type="person" ref="#hsl_person_id_215">Piccini</rs>sten schon viel gestritten, aber noch keine befriedigende
+      <lb facs="#facs_2_region_1709374685145_1373_tl_6" n="N006"/>Ansicht zu Tage gefördert worden. Dr. <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> hat es unternom
+      <lb facs="#facs_2_region_1709374685145_1373_tl_7" n="N007" break="no"/>men, die dermal cursirenden Meinungen hierüber einer scharfen Kritik zu
       <lb facs="#facs_2_region_1709374685145_1373_tl_8" n="N008"/>unterziehen, und der Kenner muß ihm fast durchgängig beistimmen.
       <lb facs="#facs_2_region_1709374685145_1373_tl_9" n="N009"/>Er führt zuerst näher durch: die Gefühle sind nicht Zweck der Musik,
       <lb facs="#facs_2_region_1709374685145_1373_tl_10" n="N010"/>dann im 2. Kapitel: die Gefühle sind nicht Inhalt der Musik, und er
       <lb facs="#facs_2_region_1709374685145_1373_tl_11" n="N011"/>bringt hierüber sehr geistvolle Bemerkungen. Im dritten Kapitel, wo
       <lb facs="#facs_2_region_1709374685145_1373_tl_12" n="N012"/>er das musikalisch Schöne bespricht, erwarten wir nun freilich eine
       <lb facs="#facs_2_region_1709374685145_1373_tl_13" n="N013"/>Definition desselben, allein wir erhalten sie nicht, und wir gestehen
-      <lb facs="#facs_2_region_1709374685145_1373_tl_14" n="N014"/>auch, daß sie schwer zu geben ist; denn das seelische Princip im Men¬
-      <lb facs="#facs_2_region_1709374685145_1373_tl_15" n="N015"/>schen ist es zunächst, an das sich die Musik wendet, und da ist des
-      <lb facs="#facs_2_region_1709374685145_1373_tl_16" n="N016"/>Unbestimmten noch zu viel vorhanden, als daß man so leicht klare Be¬
-      <lb facs="#facs_2_region_1709374685145_1373_tl_17" n="N017"/>griffe abstrahiren könnte. Das hindert jedoch nicht, in bestimmten
+      <lb facs="#facs_2_region_1709374685145_1373_tl_14" n="N014"/>auch, daß sie schwer zu geben ist; denn das seelische Princip im Men
+      <lb facs="#facs_2_region_1709374685145_1373_tl_15" n="N015" break="no"/>schen ist es zunächst, an das sich die Musik wendet, und da ist des
+      <lb facs="#facs_2_region_1709374685145_1373_tl_16" n="N016"/>Unbestimmten noch zu viel vorhanden, als daß man so leicht klare Be
+      <lb facs="#facs_2_region_1709374685145_1373_tl_17" n="N017" break="no"/>griffe abstrahiren könnte. Das hindert jedoch nicht, in bestimmten
       <lb facs="#facs_2_region_1709374685145_1373_tl_18" n="N018"/>Gränzen wenigstens einige ästhetische Regeln auch für die Musik zu
-      <lb facs="#facs_2_region_1709374685145_1373_tl_19" n="N019"/>geben. Im 4. Kapitel wird der subjective Eindruck der Musik analy¬
-      <lb facs="#facs_2_region_1709374685145_1373_tl_20" n="N020"/>sirt, im 5. das pathologische Aufnehmen der Musik besprochen, wobei
+      <lb facs="#facs_2_region_1709374685145_1373_tl_19" n="N019"/>geben. Im 4. Kapitel wird der subjective Eindruck der Musik analy
+      <lb facs="#facs_2_region_1709374685145_1373_tl_20" n="N020" break="no"/>sirt, im 5. das pathologische Aufnehmen der Musik besprochen, wobei
       <lb facs="#facs_2_region_1709374685145_1373_tl_21" n="N021"/>der Verf. gründliche Kenntnisse entfaltet, und interessante Thatsachen
       <lb facs="#facs_2_region_1709374685145_1373_tl_22" n="N022"/>aufzählt. Das 6. Kapitel handelt von den Beziehungen der Tonkunst
       <lb facs="#facs_2_region_1709374685145_1373_tl_23" n="N023"/>zur Natur, und das siebente schließt mit Erörterung der Begriffe
       <lb facs="#facs_2_region_1709374685145_1373_tl_24" n="N024"/>»Inhalt« und »Form« in der Musik. So treffend nun die meisten
-      <lb facs="#facs_2_region_1709374685145_1373_tl_25" n="N025"/>Bemerkungen des Hr. Dr. <rs type="person">Hanslick</rs> sind, so richtig seine Ansicht im
+      <lb facs="#facs_2_region_1709374685145_1373_tl_25" n="N025"/>Bemerkungen des Hr. Dr. <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> sind, so richtig seine Ansicht im
       <lb facs="#facs_2_region_1709374685145_1373_tl_26" n="N026"/>Allgemeinen genannt werden muß, so scheint er uns einzelnemale in
       <lb facs="#facs_2_region_1709374685145_1373_tl_27" n="N027"/>seinen Behauptungen zu weit zu gehen, einigemal hinwieder nicht
       <lb facs="#facs_2_region_1709374685145_1373_tl_28" n="N028"/>scharf genug zu distinguiren. Sein Urtheil ist z. B. gegen die Reform
-      <lb facs="#facs_2_region_1709374685145_1373_tl_29" n="N029"/>Richard <rs type="person">Wagner</rs>s in der Opernmusik; allein wenn auch <rs type="person">Wagner</rs>
-               <lb facs="#facs_2_region_1709374685145_1373_tl_30" n="N030"/>unbestreitbar in Uebertreibung verfallen ist, so steht doch sein Streben
+      <lb facs="#facs_2_region_1709374685145_1373_tl_29" n="N029"/>Richard <rs type="person" ref="#hsl_person_id_319">Wagner</rs>s in der Opernmusik; allein wenn auch <rs type="person" ref="#hsl_person_id_319">Wagner</rs><space quantity="1" unit="char"/>
+      <lb facs="#facs_2_region_1709374685145_1373_tl_30" n="N030"/>unbestreitbar in Uebertreibung verfallen ist, so steht doch sein Streben
       <lb facs="#facs_2_region_1709374685145_1373_tl_31" n="N031"/>nur einer andern Uebertreibung gegenüber, welche die Oper durch
       <lb facs="#facs_2_region_1709374685145_1373_tl_32" n="N032"/>Verzerrung des Textes zum Ungethüme stempelt. In der Kammer
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
       <lb facs="#facs_3_region_1709374696443_1379_tl_1" n="N001" break="no"/>musik steht die Musik für sich allein, und kann als solche das Höchste
       <lb facs="#facs_3_region_1709374696443_1379_tl_2" n="N002"/>und Vollendetste leisten; allein in der Oper soll sie mit dem Texte
       <lb facs="#facs_3_region_1709374696443_1379_tl_3" n="N003"/>Hand in Hand gehen, ohne diesem darum sich unterordnen zu müssen,
-      <lb facs="#facs_3_region_1709374696443_1379_tl_4" n="N004"/>was bei <rs type="person">Wagner</rs> leider bereits der Fall ist. Man geht zu weit, wenn
+      <lb facs="#facs_3_region_1709374696443_1379_tl_4" n="N004"/>was bei <rs type="person" ref="#hsl_person_id_319">Wagner</rs> leider bereits der Fall ist. Man geht zu weit, wenn
       <lb facs="#facs_3_region_1709374696443_1379_tl_5" n="N005"/>man die verschiedenartigsten Gefühle durch die Musik schildern will;
       <lb facs="#facs_3_region_1709374696443_1379_tl_6" n="N006"/>allein daß diese Musik einen elegischen, jene einen heitern, die eine einen
       <lb facs="#facs_3_region_1709374696443_1379_tl_7" n="N007"/>feierlichen, die andere einen leidenschaftlichen Charakter weist, daß sie,
       <lb facs="#facs_3_region_1709374696443_1379_tl_8" n="N008"/>zumal der Gesang, welcher in einem gewissen Grade eine potenzirte
       <lb facs="#facs_3_region_1709374696443_1379_tl_9" n="N009"/>Sprache ist, Seelenstimmungen wenigstens anzudeuten vermag, —
-      <lb facs="#facs_3_region_1709374696443_1379_tl_10" n="N010"/>im <rs type="bibl">Hans Heiling</rs> von <rs type="person">Marschner</rs> z. B. zeigt sogar die gewichtige
+      <lb facs="#facs_3_region_1709374696443_1379_tl_10" n="N010"/>im <rs type="bibl" ref="#hsl_work_id_184">Hans Heiling</rs> von <rs type="person" ref="#hsl_person_id_174">Marschner</rs> z. B. zeigt sogar die gewichtige
       <lb facs="#facs_3_region_1709374696443_1379_tl_11" n="N011"/>Pause an, wie schwer ihm das Scheiden von der Erde wird, — das
-      <lb facs="#facs_3_region_1709374696443_1379_tl_12" n="N012"/>kann Niemand läugnen. Wenn Dr. <rs type="person">Hanslick</rs> meint, daß das Volk
-      <lb facs="#facs_3_region_1709374696443_1379_tl_13" n="N013"/>in <rs type="place">Italien</rs> sich auch an einer Opernarie in der Kirche erbaue, so hängt
+      <lb facs="#facs_3_region_1709374696443_1379_tl_12" n="N012"/>kann Niemand läugnen. Wenn Dr. <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> meint, daß das Volk
+      <lb facs="#facs_3_region_1709374696443_1379_tl_13" n="N013"/>in <rs type="place" ref="#hsl_place_id_28">Italien</rs> sich auch an einer Opernarie in der Kirche erbaue, so hängt
       <lb facs="#facs_3_region_1709374696443_1379_tl_14" n="N014"/>das leider mit dem dort tief gesunkenen Geschmacke zusammen. Die
       <lb facs="#facs_3_region_1709374696443_1379_tl_15" n="N015"/>Gefühlsmusik, welche er mit vielen Gründen und schönen Argumenten
-      <lb facs="#facs_3_region_1709374696443_1379_tl_16" n="N016"/>bekämpft, kann übrigens in anderer Beziehung recht wohl auch Ver¬
-      <lb facs="#facs_3_region_1709374696443_1379_tl_18" n="N017"/>standes- oder am besten Reflexionsmusik genannt werden.
+      <lb facs="#facs_3_region_1709374696443_1379_tl_16" n="N016"/>bekämpft, kann übrigens in anderer Beziehung recht wohl auch Ver
+      <lb facs="#facs_3_region_1709374696443_1379_tl_18" n="N017" break="no"/>standes- oder am besten Reflexionsmusik genannt werden.
       <lb facs="#facs_3_region_1709374696443_1379_tl_17" n="N018"/>Mz.</p>
          </div>
       </body>

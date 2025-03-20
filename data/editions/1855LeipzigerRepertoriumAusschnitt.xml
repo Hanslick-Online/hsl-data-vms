@@ -108,6 +108,7 @@
          <change who="ampfiel" when="2025-02-25">Transkribus OCR und Lektorat.</change>
          <change who="delsner" when="2025-03-06">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-03-06">fix header, Layout</change>
+         <change who="ampfiel" when="2025-03-20">Zeilenumbrüche, rs ref</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -616,37 +617,37 @@
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
       <head type="h1">
-            <lb facs="#facs_2_region_1709374833827_1401_tl_1" n="N001"/>[21] <rs type="bibl">Vom Musikalisch-Schönen</rs>. Ein Beitrag zur Revision der Aesthetik
-            <lb facs="#facs_2_line_1740466674793_67" n="N002"/>der Tonkunst. Von Dr. Ed. <rs type="person">Hanslick</rs>. <rs type="place">Leipzig</rs>, R. <rs type="person">Weigel</rs>. <rs type="date" when="1854">1854</rs>. VIII
+            <lb facs="#facs_2_region_1709374833827_1401_tl_1" n="N001"/>[21] <rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>. Ein Beitrag zur Revision der Aesthetik
+            <lb facs="#facs_2_line_1740466674793_67" n="N002"/>der Tonkunst. Von Dr. Ed. <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>. <rs type="place" ref="#hsl_place_id_32">Leipzig</rs>, R. <rs type="person" ref="#hsl_person_id_377">Weigel</rs>. <rs type="date" when="1854">1854</rs>. VIII
             <lb facs="#facs_2_region_1709374833827_1401_tl_4" n="N003"/>u. 104 S. gr. 8. (15 Ngr.)</head>
                <p>
-      <lb facs="#facs_2_region_1709374833827_1401_tl_5" n="N004"/>Die Frage, könnte man sagen, gehört zu der Natur des Men¬
-      <lb facs="#facs_2_region_1709374833827_1401_tl_6" n="N005"/>schen. Er ist immer mit Fragen: Was, wie, warum ist dieses oder
+      <lb facs="#facs_2_region_1709374833827_1401_tl_5" n="N004"/>Die Frage, könnte man sagen, gehört zu der Natur des Men
+      <lb facs="#facs_2_region_1709374833827_1401_tl_6" n="N005" break="no"/>schen. Er ist immer mit Fragen: Was, wie, warum ist dieses oder
       <lb facs="#facs_2_region_1709374833827_1401_tl_7" n="N006"/>jenes? beschäftiget. Das Fragen ist leicht, das Antworten aber oft
       <lb facs="#facs_2_region_1709374833827_1401_tl_8" n="N007"/>sehr schwer. Zu den schwierigsten Antworten dürfte aber wohl die
       <lb facs="#facs_2_region_1709374833827_1401_tl_9" n="N008"/>auf die Frage gehören: „Was ist eigentlich die Musik in Beziehung
       <lb facs="#facs_2_region_1709374833827_1401_tl_10" n="N009"/>auf den fühlenden und denkenden Menschen?“ Die Beantwortung
-      <lb facs="#facs_2_region_1709374833827_1401_tl_11" n="N010"/>dieser Frage würde leichter sein als sie ist, wenn Fühlen und Den¬
-      <lb facs="#facs_2_region_1709374833827_1401_tl_12" n="N011"/>ken anders als in der Reflexion von einander getrennt, wenn sie im
+      <lb facs="#facs_2_region_1709374833827_1401_tl_11" n="N010"/>dieser Frage würde leichter sein als sie ist, wenn Fühlen und Den
+      <lb facs="#facs_2_region_1709374833827_1401_tl_12" n="N011" break="no"/>ken anders als in der Reflexion von einander getrennt, wenn sie im
       <lb facs="#facs_2_region_1709374833827_1401_tl_13" n="N012"/>lebendigen Dasein nicht auf das Innigste verschmolzen wären. Aber
       <lb facs="#facs_2_region_1709374833827_1401_tl_14" n="N013"/>des Streites über die Musik, seit die Frage sich erhoben, was sie
       <lb facs="#facs_2_region_1709374833827_1401_tl_15" n="N014"/>eigentlich bedeute und welchen Inhalt sie auszudrücken vermöge,
       <lb facs="#facs_2_region_1709374833827_1401_tl_16" n="N015"/>ist schon viel in der Welt gewesen und wird auch in aller Zukunft
       <lb facs="#facs_2_region_1709374833827_1401_tl_17" n="N016"/>noch sein, denn man tritt hier in ein flüchtiges, ätherisches Gebiet,
       <lb facs="#facs_2_region_1709374833827_1401_tl_18" n="N017"/>das sich dem Begriffe und dem Beweise durchaus entzieht. Es ist
-      <lb facs="#facs_2_region_1709374833827_1401_tl_19" n="N018"/>bekannt, dass schon <rs type="person">Nägeli</rs> sich dahin ausgesprochen, die Musik sei
+      <lb facs="#facs_2_region_1709374833827_1401_tl_19" n="N018"/>bekannt, dass schon <rs type="person" ref="#hsl_person_id_555">Nägeli</rs> sich dahin ausgesprochen, die Musik sei
       <lb facs="#facs_2_region_1709374833827_1401_tl_20" n="N019"/>nur ein Spiel mit angenehmen Tönen und könne etwas Anderes
-      <lb facs="#facs_2_region_1709374833827_1401_tl_21" n="N020"/>durchaus nicht sein; auch der Verfasser der „<rs type="bibl">Musikalischen Briefe</rs>“
-      <lb facs="#facs_2_region_1709374833827_1401_tl_22" n="N021"/>(<rs type="place">Leipzig</rs>, <date when="1852">1852</date>) sprach sich, wenn auch nicht mit derselben Be¬
-      <lb facs="#facs_2_region_1709374833827_1401_tl_23" n="N022"/>stimmtheit, in ähnlicher Weise aus, und es ist vielfach Wider¬
-      <lb facs="#facs_2_region_1709374833827_1401_tl_24" n="N023"/>spruch dagegen erhoben worden. Der Vf. des vorlieg. Schriftchens,
+      <lb facs="#facs_2_region_1709374833827_1401_tl_21" n="N020"/>durchaus nicht sein; auch der Verfasser der „<rs type="bibl" ref="#hsl_work_id_1191">Musikalischen Briefe</rs>“
+      <lb facs="#facs_2_region_1709374833827_1401_tl_22" n="N021"/>(<rs type="place" ref="#hsl_place_id_32">Leipzig</rs>, <date when="1852">1852</date>) sprach sich, wenn auch nicht mit derselben Be
+      <lb facs="#facs_2_region_1709374833827_1401_tl_23" n="N022" break="no"/>stimmtheit, in ähnlicher Weise aus, und es ist vielfach Wider
+      <lb facs="#facs_2_region_1709374833827_1401_tl_24" n="N023" break="no"/>spruch dagegen erhoben worden. Der Vf. des vorlieg. Schriftchens,
       <lb facs="#facs_2_region_1709374833827_1401_tl_25" n="N024"/>welches jedenfalls einen neuen, interessanten Beitrag für die ganze
-      <lb facs="#facs_2_region_1709374833827_1401_tl_26" n="N025"/>Streitfrage giebt, geht nicht so weit als <rs type="person">Nägeli</rs>, indem sein Streben
+      <lb facs="#facs_2_region_1709374833827_1401_tl_26" n="N025"/>Streitfrage giebt, geht nicht so weit als <rs type="person" ref="#hsl_person_id_555">Nägeli</rs>, indem sein Streben
       <lb facs="#facs_2_region_1709374833827_1401_tl_27" n="N026"/>ist, schärfer in die Tiefen der Sache einzudringen, schliesst sich
       <lb facs="#facs_2_region_1709374833827_1401_tl_28" n="N027"/>deshalb nur gewissermaassen an ihn an, und will seinen eigenen
       <lb facs="#facs_2_region_1709374833827_1401_tl_29" n="N028"/>Weg einschlagen. Er hebt mit der Behauptung an, dass die Musik
-      <lb facs="#facs_2_region_1709374833827_1401_tl_30" n="N029"/>nur auf die Phantasie und nicht auf die Gefühle des Menschen ein¬
-      <lb facs="#facs_2_region_1709374833827_1401_tl_31" n="N030"/>wirke. Eine besondere Eigenthümlichkeit der Musik ist dies aber
+      <lb facs="#facs_2_region_1709374833827_1401_tl_30" n="N029"/>nur auf die Phantasie und nicht auf die Gefühle des Menschen ein
+      <lb facs="#facs_2_region_1709374833827_1401_tl_31" n="N030" break="no"/>wirke. Eine besondere Eigenthümlichkeit der Musik ist dies aber
       <lb facs="#facs_2_region_1709374833827_1401_tl_32" n="N031"/>durchaus nicht, wie der Vf. meint, denn auch die Poesie kann nur
       <lb facs="#facs_2_region_1709374833827_1401_tl_33" n="N032"/>die Phantasie des Hörers oder Lesers anregen wollen, dass sie sich
       <lb facs="#facs_2_region_1709374833827_1401_tl_34" n="N033"/>dasselbe Bild entwürfe, welches vor des Dichters Seele schwebte.
@@ -658,50 +659,50 @@
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
       <lb facs="#facs_3_region_1709374851651_1407_tl_1" n="N001"/>Eilende, Zögernde, Gleitende, Schwellende, Lauschende, Stürmende
       <lb facs="#facs_3_region_1709374851651_1407_tl_2" n="N002"/>aussprechen, sonst aber nichts. Die Musik könne somit nur das
-      <lb facs="#facs_3_region_1709374851651_1407_tl_3" n="N003"/>Dynamische des Gefühls, nur die Bewegung darstellen. Die Bewe¬
-      <lb facs="#facs_3_region_1709374851651_1407_tl_4" n="N004"/>gung sei also das einzige Element, welches die Musik mit dem Ge¬
-      <lb facs="#facs_3_region_1709374851651_1407_tl_5" n="N005"/>fühl gemein habe. Das Gefühl selbst aber könne in ihr in keiner
+      <lb facs="#facs_3_region_1709374851651_1407_tl_3" n="N003"/>Dynamische des Gefühls, nur die Bewegung darstellen. Die Bewe
+      <lb facs="#facs_3_region_1709374851651_1407_tl_4" n="N004" break="no"/>gung sei also das einzige Element, welches die Musik mit dem Ge
+      <lb facs="#facs_3_region_1709374851651_1407_tl_5" n="N005" break="no"/>fühl gemein habe. Das Gefühl selbst aber könne in ihr in keiner
       <lb facs="#facs_3_region_1709374851651_1407_tl_6" n="N006"/>Weise dargestellt werden, schon aus dem Grunde, weil es in der
       <lb facs="#facs_3_region_1709374851651_1407_tl_7" n="N007"/>Menschenseele gar nicht so isolirt stehe, dass es von der Kunst
-      <lb facs="#facs_3_region_1709374851651_1407_tl_8" n="N008"/>gleichsam allein herausgehoben werden könne. Von einem un¬
-      <lb facs="#facs_3_region_1709374851651_1407_tl_9" n="N009"/>bestimmten Gefühle meint er weiter, solle man nun vollends gar
+      <lb facs="#facs_3_region_1709374851651_1407_tl_8" n="N008"/>gleichsam allein herausgehoben werden könne. Von einem un
+      <lb facs="#facs_3_region_1709374851651_1407_tl_9" n="N009" break="no"/>bestimmten Gefühle meint er weiter, solle man nun vollends gar
       <lb facs="#facs_3_region_1709374851651_1407_tl_10" n="N010"/>nicht sprechen, da alle Kunstthätigkeit in einem Individualisiren des
-      <lb facs="#facs_3_region_1709374851651_1407_tl_11" n="N011"/>Allgemeinen bestehe, das Unbestimmte aber eben nicht individuali¬
-      <lb facs="#facs_3_region_1709374851651_1407_tl_12" n="N012"/>sirt werden könne. Im Uebrigen betrachtet der Vf. dabei nur die
+      <lb facs="#facs_3_region_1709374851651_1407_tl_11" n="N011"/>Allgemeinen bestehe, das Unbestimmte aber eben nicht individuali
+      <lb facs="#facs_3_region_1709374851651_1407_tl_12" n="N012" break="no"/>sirt werden könne. Im Uebrigen betrachtet der Vf. dabei nur die
       <lb facs="#facs_3_region_1709374851651_1407_tl_13" n="N013"/>Instrumentalmusik als die wahre und wirkliche Musik. Diese Musik
-      <lb facs="#facs_3_region_1709374851651_1407_tl_14" n="N014"/>könne nun blos symbolisch und durchaus nicht anders sich ausspre¬
-      <lb facs="#facs_3_region_1709374851651_1407_tl_15" n="N015"/>chen. Der Vf. scheint bei diesen Behauptungen nur die Hauptsache,
+      <lb facs="#facs_3_region_1709374851651_1407_tl_14" n="N014"/>könne nun blos symbolisch und durchaus nicht anders sich ausspre
+      <lb facs="#facs_3_region_1709374851651_1407_tl_15" n="N015" break="no"/>chen. Der Vf. scheint bei diesen Behauptungen nur die Hauptsache,
       <lb facs="#facs_3_region_1709374851651_1407_tl_16" n="N016"/>die offenbar in Natur und Wesen des Tones liegt, ganz übersehen
-      <lb facs="#facs_3_region_1709374851651_1407_tl_17" n="N017"/>zu haben. Der Ton ist entweder gar nichts oder er ist der Aus¬
-      <lb facs="#facs_3_region_1709374851651_1407_tl_18" n="N018"/>druck eines Seelen- und Gemüthslebens. Dieses letztere aber ist
+      <lb facs="#facs_3_region_1709374851651_1407_tl_17" n="N017"/>zu haben. Der Ton ist entweder gar nichts oder er ist der Aus
+      <lb facs="#facs_3_region_1709374851651_1407_tl_18" n="N018" break="no"/>druck eines Seelen- und Gemüthslebens. Dieses letztere aber ist
       <lb facs="#facs_3_region_1709374851651_1407_tl_19" n="N019"/>entweder gar nicht wach oder es trägt eine bestimmte Gefühlswelt
       <lb facs="#facs_3_region_1709374851651_1407_tl_20" n="N020"/>in sich. Diese Gefühlswelt, so lange sie nur im Tone lebt, ist noch
       <lb facs="#facs_3_region_1709374851651_1407_tl_21" n="N021"/>nicht zu etwas Abgeschlossenem, Individuellem gelangt. Deshalb
-      <lb facs="#facs_3_region_1709374851651_1407_tl_22" n="N022"/>kann die Musik allerdings auch nie die Gefühle eines bestimmten In¬
-      <lb facs="#facs_3_region_1709374851651_1407_tl_23" n="N023"/>dividuums uns gleichsam vormalen. Sie kann nur das tönende Ge¬
-      <lb facs="#facs_3_region_1709374851651_1407_tl_24" n="N024"/>müthsleben aussprechen, aber sie thut es immer in einer besonderen
+      <lb facs="#facs_3_region_1709374851651_1407_tl_22" n="N022"/>kann die Musik allerdings auch nie die Gefühle eines bestimmten In
+      <lb facs="#facs_3_region_1709374851651_1407_tl_23" n="N023" break="no"/>dividuums uns gleichsam vormalen. Sie kann nur das tönende Ge
+      <lb facs="#facs_3_region_1709374851651_1407_tl_24" n="N024" break="no"/>müthsleben aussprechen, aber sie thut es immer in einer besonderen
       <lb facs="#facs_3_region_1709374851651_1407_tl_25" n="N025"/>und bestimmten Richtung. Hat sie diese nicht, so ist sie ein blosses
       <lb facs="#facs_3_region_1709374851651_1407_tl_26" n="N026"/>Spiel mit angenehmen, aber inhaltslosen Tönen. Die Musik mag
       <lb facs="#facs_3_region_1709374851651_1407_tl_27" n="N027"/>auch dann noch Kunst genannt werden, aber sie steht nur in einer
       <lb facs="#facs_3_region_1709374851651_1407_tl_28" n="N028"/>niedern Sphäre derselben. Die eigentliche, wirkliche, höhere Kunst
       <lb facs="#facs_3_region_1709374851651_1407_tl_29" n="N029"/>muss dem Geiste eine erscheinende Geistigkeit zeigen, möge nun
       <lb facs="#facs_3_region_1709374851651_1407_tl_30" n="N030"/>diese als Gestaltung, als Farbe- und Lichtleben oder als Tonleben
-      <lb facs="#facs_3_region_1709374851651_1407_tl_31" n="N031"/>sich äussern. In der Musik, welche das Tonleben künstlerisch ge¬
-      <lb facs="#facs_3_region_1709374851651_1407_tl_32" n="N032"/>staltet, kommt besonders die innige, unnennbare Sehnsucht zum
+      <lb facs="#facs_3_region_1709374851651_1407_tl_31" n="N031"/>sich äussern. In der Musik, welche das Tonleben künstlerisch ge
+      <lb facs="#facs_3_region_1709374851651_1407_tl_32" n="N032" break="no"/>staltet, kommt besonders die innige, unnennbare Sehnsucht zum
       <lb facs="#facs_3_region_1709374851651_1407_tl_33" n="N033"/>Ausdruck, welche auf der einen Seite in die unmittelbar sinnliche
       <lb facs="#facs_3_region_1709374851651_1407_tl_34" n="N034"/>Gegenwart versenkt und doch auf der andern Seite mit der Ahnung
       <lb facs="#facs_3_region_1709374851651_1407_tl_35" n="N035"/>des unendlichen Daseins erfüllt. In diesem erscheint dann die Liebe,
       <lb facs="#facs_3_region_1709374851651_1407_tl_36" n="N036"/>das Licht, die Freude, die Grösse, die Erhabenheit selber, nicht
-      <lb facs="#facs_3_region_1709374851651_1407_tl_37" n="N037"/>eine bestimmte Liebe zu einem bestimmten Gegenstande in einer in¬
-      <lb facs="#facs_3_region_1709374851651_1407_tl_38" n="N038"/>dividuellen Gestalt, in die Tonwelt übergetragen. Der Vf. will in¬
-      <lb facs="#facs_3_region_1709374851651_1407_tl_39" n="N039"/>dess ebenfalls nicht blos negativ auftreten, sondern auch positiv und
-      <lb facs="#facs_3_region_1709374851651_1407_tl_40" n="N040"/>deshalb erörtern, was nun das Schöne in der Musik sei. Die Schön¬
-      <lb facs="#facs_3_region_1709374851651_1407_tl_41" n="N041"/>heit der Musik, sagt er, dürfe allerdings nicht blos als eine aku¬
-      <lb facs="#facs_3_region_1709374851651_1407_tl_42" n="N042"/>stische und proportionale betrachtet werden; es gebe ja keine Schön¬
-      <lb facs="#facs_3_region_1709374851651_1407_tl_43" n="N043"/>heit ohne Geist. In der Musik aber liege die Schönheit anders als
+      <lb facs="#facs_3_region_1709374851651_1407_tl_37" n="N037"/>eine bestimmte Liebe zu einem bestimmten Gegenstande in einer in
+      <lb facs="#facs_3_region_1709374851651_1407_tl_38" n="N038" break="no"/>dividuellen Gestalt, in die Tonwelt übergetragen. Der Vf. will in
+      <lb facs="#facs_3_region_1709374851651_1407_tl_39" n="N039" break="no"/>dess ebenfalls nicht blos negativ auftreten, sondern auch positiv und
+      <lb facs="#facs_3_region_1709374851651_1407_tl_40" n="N040"/>deshalb erörtern, was nun das Schöne in der Musik sei. Die Schön
+      <lb facs="#facs_3_region_1709374851651_1407_tl_41" n="N041" break="no"/>heit der Musik, sagt er, dürfe allerdings nicht blos als eine aku
+      <lb facs="#facs_3_region_1709374851651_1407_tl_42" n="N042" break="no"/>stische und proportionale betrachtet werden; es gebe ja keine Schön
+      <lb facs="#facs_3_region_1709374851651_1407_tl_43" n="N043" break="no"/>heit ohne Geist. In der Musik aber liege die Schönheit anders als
       <lb facs="#facs_3_region_1709374851651_1407_tl_44" n="N044"/>bei den übrigen Künsten, in der Form selbst. Denn die Formen
-      <lb facs="#facs_3_region_1709374851651_1407_tl_45" n="N045"/>der Töne seien nicht leer, nicht blosse Linearbegränzungen, son¬
-      <lb facs="#facs_3_region_1709374851651_1407_tl_46" n="N046"/>dern erfüllt. Sie seien von Innen heraus gestalteter Geist, dem
+      <lb facs="#facs_3_region_1709374851651_1407_tl_45" n="N045"/>der Töne seien nicht leer, nicht blosse Linearbegränzungen, son
+      <lb facs="#facs_3_region_1709374851651_1407_tl_46" n="N046" break="no"/>dern erfüllt. Sie seien von Innen heraus gestalteter Geist, dem
       <lb facs="#facs_3_region_1709374851651_1407_tl_47" n="N047"/>ein Sinn, aber nur ein musikalischer beiwohne. Deshalb könne die
       <lb facs="#facs_3_region_1709374851651_1407_tl_48" n="N048"/>Musik die Bedeutsamkeit der Weltgesetze, des Rhythmus insbeson
             <pb facs="#facs_4" n="4" xml:id="img_0004"/>
@@ -710,49 +711,49 @@
       <lb facs="#facs_4_region_1709374866114_1413_tl_3" n="N003"/>Inhalt für die Musik gewonnen, da sie ihm nicht ein blosses Spiel
       <lb facs="#facs_4_region_1709374866114_1413_tl_4" n="N004"/>mit Tönen ist. Sie weist symbolisch auf die Gefühle hin und besitzt
       <lb facs="#facs_4_region_1709374866114_1413_tl_5" n="N005"/>die Macht, gewisse Weltgesetze abzuspiegeln; diese Abspiegelung
-      <lb facs="#facs_4_region_1709374866114_1413_tl_6" n="N006"/>gäbe der Seele des Menschen eine geistige Befriedigung, wobei je¬
-      <lb facs="#facs_4_region_1709374866114_1413_tl_7" n="N007"/>der andere Eindruck der Musik geleugnet wird, da er nicht ästhe¬
-      <lb facs="#facs_4_region_1709374866114_1413_tl_8" n="N008"/>tischer Art und Natur sei. Die pathologische Wirkung der Musik
-      <lb facs="#facs_4_region_1709374866114_1413_tl_9" n="N009"/>dürfe hier durchaus nicht in Anschlag gebracht werden. Im We¬
-      <lb facs="#facs_4_region_1709374866114_1413_tl_10" n="N010"/>sentlichen endet die Untersuchung des Vfs. mit dem Satze und des¬
-      <lb facs="#facs_4_region_1709374866114_1413_tl_11" n="N011"/>sen Ausführung, dass der Inhalt der Musik in der Form aufgehe und
+      <lb facs="#facs_4_region_1709374866114_1413_tl_6" n="N006"/>gäbe der Seele des Menschen eine geistige Befriedigung, wobei je
+      <lb facs="#facs_4_region_1709374866114_1413_tl_7" n="N007" break="no"/>der andere Eindruck der Musik geleugnet wird, da er nicht ästhe
+      <lb facs="#facs_4_region_1709374866114_1413_tl_8" n="N008" break="no"/>tischer Art und Natur sei. Die pathologische Wirkung der Musik
+      <lb facs="#facs_4_region_1709374866114_1413_tl_9" n="N009"/>dürfe hier durchaus nicht in Anschlag gebracht werden. Im We
+      <lb facs="#facs_4_region_1709374866114_1413_tl_10" n="N010" break="no"/>sentlichen endet die Untersuchung des Vfs. mit dem Satze und des
+      <lb facs="#facs_4_region_1709374866114_1413_tl_11" n="N011" break="no"/>sen Ausführung, dass der Inhalt der Musik in der Form aufgehe und
       <lb facs="#facs_4_region_1709374866114_1413_tl_12" n="N012"/>schon in ihr enthalten sei, dass die Musik, wenn sie auch so ohne
-      <lb facs="#facs_4_region_1709374866114_1413_tl_13" n="N013"/>einen in der Form ruhenden Inhalt sei, deshalb aber doch keines¬
-      <lb facs="#facs_4_region_1709374866114_1413_tl_14" n="N014"/>weges des Gehaltes entbehre, dieser Gehalt vielmehr darin zu suchen
-      <lb facs="#facs_4_region_1709374866114_1413_tl_15" n="N015"/>sei, dass sie ein tönendes Abbild der grossen Bewegungen des Welt¬
-      <lb facs="#facs_4_region_1709374866114_1413_tl_16" n="N016"/>alls sei. Früher hat er diess einmal so ausgedrückt: die Musik
+      <lb facs="#facs_4_region_1709374866114_1413_tl_13" n="N013"/>einen in der Form ruhenden Inhalt sei, deshalb aber doch keines
+      <lb facs="#facs_4_region_1709374866114_1413_tl_14" n="N014" break="no"/>weges des Gehaltes entbehre, dieser Gehalt vielmehr darin zu suchen
+      <lb facs="#facs_4_region_1709374866114_1413_tl_15" n="N015"/>sei, dass sie ein tönendes Abbild der grossen Bewegungen des Welt
+      <lb facs="#facs_4_region_1709374866114_1413_tl_16" n="N016" break="no"/>alls sei. Früher hat er diess einmal so ausgedrückt: die Musik
       <lb facs="#facs_4_region_1709374866114_1413_tl_17" n="N017"/>besitze die Bedeutsamkeit die Weltgesetze abzuspiegeln. Will man
       <lb facs="#facs_4_region_1709374866114_1413_tl_18" n="N018"/>nun die Bedeutung und den Sinn der musikalischen Kunst in dieser
       <lb facs="#facs_4_region_1709374866114_1413_tl_19" n="N019"/>neuen Wendung und Fassung aussprechen und dem Vf. zustimmen,
-      <lb facs="#facs_4_region_1709374866114_1413_tl_20" n="N020"/>so würde man mit ihm dabei doch auf den zuerst von ihm selbst be¬
-      <lb facs="#facs_4_region_1709374866114_1413_tl_21" n="N021"/>kämpften Punct zurückgelangen. Denn wenn, was wir hier nicht
+      <lb facs="#facs_4_region_1709374866114_1413_tl_20" n="N020"/>so würde man mit ihm dabei doch auf den zuerst von ihm selbst be
+      <lb facs="#facs_4_region_1709374866114_1413_tl_21" n="N021" break="no"/>kämpften Punct zurückgelangen. Denn wenn, was wir hier nicht
       <lb facs="#facs_4_region_1709374866114_1413_tl_22" n="N022"/>bestreiten wollen, die Weltgesetze des Rhythmus, der Melodie und
-      <lb facs="#facs_4_region_1709374866114_1413_tl_23" n="N023"/>der Harmonie in dem Tonkunstwerke der Seele des Menschen er¬
-      <lb facs="#facs_4_region_1709374866114_1413_tl_24" n="N024"/>scheinen, so ist dieses Erscheinen geradehin eine Unmöglichkeit,
+      <lb facs="#facs_4_region_1709374866114_1413_tl_23" n="N023"/>der Harmonie in dem Tonkunstwerke der Seele des Menschen er
+      <lb facs="#facs_4_region_1709374866114_1413_tl_24" n="N024" break="no"/>scheinen, so ist dieses Erscheinen geradehin eine Unmöglichkeit,
       <lb facs="#facs_4_region_1709374866114_1413_tl_25" n="N025"/>wenn ihr nicht damit zugleich Etwas erscheint, was zu ihr spricht
       <lb facs="#facs_4_region_1709374866114_1413_tl_26" n="N026"/>und womit er gleichsam wieder sprechen kann. Jedes Kunstwerk
       <lb facs="#facs_4_region_1709374866114_1413_tl_27" n="N027"/>ist für den Menschen überhaupt nur dadurch Etwas, dass aus ihm
       <lb facs="#facs_4_region_1709374866114_1413_tl_28" n="N028"/>heraus ein Etwas zu ihm redet, worauf er wieder aus den Tiefen
       <lb facs="#facs_4_region_1709374866114_1413_tl_29" n="N029"/>seines Innern eine Antwort geben kann. Nennen wir diese Tiefen
       <lb facs="#facs_4_region_1709374866114_1413_tl_30" n="N030"/>Phantasie, Gefühl, Gemüth oder sonst wie — darauf wird wenig
-      <lb facs="#facs_4_region_1709374866114_1413_tl_31" n="N031"/>ankommen, weil sich oft gar nicht unterscheiden lässt, welche Rich¬
-      <lb facs="#facs_4_region_1709374866114_1413_tl_32" n="N032"/>tung dabei vorzüglich oder allein thätig sei. Redet nun das Welt¬
-      <lb facs="#facs_4_region_1709374866114_1413_tl_33" n="N033"/>gesetz des Rhythmus, der Melodie und der Harmonie in der künst¬
-      <lb facs="#facs_4_region_1709374866114_1413_tl_34" n="N034"/>lerischen Gestaltung zu dem Menschen, so muss diese auch Etwas
-      <lb facs="#facs_4_region_1709374866114_1413_tl_35" n="N035"/>reden, was die Seele wirklich berühren kann. Die blosse Bewe¬
-      <lb facs="#facs_4_region_1709374866114_1413_tl_36" n="N036"/>gung aber mit ihrem Steigen und Fallen, ihrem Aufwallen und Nie¬
-      <lb facs="#facs_4_region_1709374866114_1413_tl_37" n="N037"/>derschweben, ihrem Säuseln und ihrem Wehen kann die Seele nicht
+      <lb facs="#facs_4_region_1709374866114_1413_tl_31" n="N031"/>ankommen, weil sich oft gar nicht unterscheiden lässt, welche Rich
+      <lb facs="#facs_4_region_1709374866114_1413_tl_32" n="N032" break="no"/>tung dabei vorzüglich oder allein thätig sei. Redet nun das Welt
+      <lb facs="#facs_4_region_1709374866114_1413_tl_33" n="N033" break="no"/>gesetz des Rhythmus, der Melodie und der Harmonie in der künst
+      <lb facs="#facs_4_region_1709374866114_1413_tl_34" n="N034" break="no"/>lerischen Gestaltung zu dem Menschen, so muss diese auch Etwas
+      <lb facs="#facs_4_region_1709374866114_1413_tl_35" n="N035"/>reden, was die Seele wirklich berühren kann. Die blosse Bewe
+      <lb facs="#facs_4_region_1709374866114_1413_tl_36" n="N036" break="no"/>gung aber mit ihrem Steigen und Fallen, ihrem Aufwallen und Nie
+      <lb facs="#facs_4_region_1709374866114_1413_tl_37" n="N037" break="no"/>derschweben, ihrem Säuseln und ihrem Wehen kann die Seele nicht
       <lb facs="#facs_4_region_1709374866114_1413_tl_38" n="N038"/>berühren, weil sie so nichts Seelenhaftes zu sagen vermöchte. Die
       <lb facs="#facs_4_region_1709374866114_1413_tl_39" n="N039"/>Musik würde dann also wirkungslos vorüberrauschen und nur den
       <lb facs="#facs_4_region_1709374866114_1413_tl_40" n="N040"/>von dem Vf. selbst lebhaft bekämpften pathologischen Eindruck zu
       <lb facs="#facs_4_region_1709374866114_1413_tl_41" n="N041"/>machen im Stande sein. Es muss also in dieser tönenden Bewegung,
       <lb facs="#facs_4_region_1709374866114_1413_tl_42" n="N042"/>weil die Musik sonst ohne allen ästhetischen und geistigen Einfluss
-      <lb facs="#facs_4_region_1709374866114_1413_tl_43" n="N043"/>bleiben würde, noch Etwas Anderes liegen, wodurch die Seele un¬
-      <lb facs="#facs_4_region_1709374866114_1413_tl_44" n="N044"/>mittelbar getroffen wird und was als der geistige Gehalt der Tonfluth
+      <lb facs="#facs_4_region_1709374866114_1413_tl_43" n="N043"/>bleiben würde, noch Etwas Anderes liegen, wodurch die Seele un
+      <lb facs="#facs_4_region_1709374866114_1413_tl_44" n="N044" break="no"/>mittelbar getroffen wird und was als der geistige Gehalt der Tonfluth
       <lb facs="#facs_4_region_1709374866114_1413_tl_45" n="N045"/>angesehen werden muss. Dieses aber kann nur das Sichaussprechen
       <lb facs="#facs_4_region_1709374866114_1413_tl_46" n="N046"/>eines Gefühls- und Gemüthslebens sein, welches dadurch keinesweges
-      <lb facs="#facs_4_region_1709374866114_1413_tl_47" n="N047"/>ein unbestimmtes wird, dass es nicht in Wort und Begriff zusammen¬
-      <lb facs="#facs_4_region_1709374866114_1413_tl_48" n="N048"/>gepresst werden kann. Dieses Gefühls- und Gemüthsleben ist in
+      <lb facs="#facs_4_region_1709374866114_1413_tl_47" n="N047"/>ein unbestimmtes wird, dass es nicht in Wort und Begriff zusammen
+      <lb facs="#facs_4_region_1709374866114_1413_tl_48" n="N048" break="no"/>gepresst werden kann. Dieses Gefühls- und Gemüthsleben ist in
             <pb facs="#facs_5" n="5" xml:id="img_0005"/>
       <lb facs="#facs_5_region_1709374879787_1419_tl_1" n="N001"/>der Musik der gemeinen Wirklichkeit entnommen, in seine wahre
       <lb facs="#facs_5_region_1709374879787_1419_tl_2" n="N002"/>Heimath, in die ideale Tonwelt versetzt und wirkt von dieser aus
