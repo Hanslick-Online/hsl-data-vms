@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
             <title level="a"/>
-               <author ref="#hsl_person_id_6143">Anonymus</author>
+               <author ref="#hsl_person_id_6143">Anonym</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
             </editor>
@@ -73,7 +73,7 @@
                <biblStruct>
                   <analytic>
                      <title>Aesthetik</title>
-                     <author ref="#hsl_person_id_6143">Anonymus</author>
+                     <author ref="#hsl_person_id_6143">Anonym</author>
                   </analytic>
                   <monogr>
                      <title type="main">Literarische Mittheilungen der St. Galler-Blätter</title>
@@ -662,7 +662,7 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <head type="h1"><lb n="N000"/><hi rendition="#em">Aesthetik</hi>.</head>
+            <lb n="N000"/><head type="h1"><hi rendition="#em">Aesthetik</hi>.</head>
             <p>
       <lb facs="#facs_1_region_1709376309154_1864_tl_1" n="N001"/>Von großer Bedeutung, weil eine bedenkliche Lücke in der Wissenschaft
       <lb facs="#facs_1_region_1709376309154_1864_tl_2" n="N002"/>des Schönen ausfüllend, ist folgende Schrift:

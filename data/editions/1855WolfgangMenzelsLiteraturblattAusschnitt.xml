@@ -102,7 +102,7 @@
             <language ident="de">Deutsch</language>
          </langUsage>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="final">
          <change who="awilfing" when="2024-11-01">Projektbeginn</change>
          <change who="ampfiel" when="2024-12-09">Transkribus OCR und Lektorat.</change>
          <change who="awilfing" when="2025-01-20">Headers Anpassung</change>
@@ -1271,8 +1271,7 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-      <head type="h1">
-            <lb facs="#facs_1_region_1709376192650_1821_tl_1" n="N001"/>Ueber Musik.</head>
+            <lb facs="#facs_1_region_1709376192650_1821_tl_1" n="N001"/><head type="h1">Ueber Musik.</head>
             <p>      
       <lb facs="#facs_1_region_1709376192650_1821_tl_2" n="N002"/><rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>. Ein Beitrag zur Revi
       <lb facs="#facs_1_region_1709376192650_1821_tl_3" n="N003" break="no"/>sion der Aesthetik der Tonkunst. Von Dr. Eduard

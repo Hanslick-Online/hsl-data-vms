@@ -102,7 +102,7 @@
             <language ident="de">Deutsch</language>
          </langUsage>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="final">
          <change who="awilfing" when="2024-11-01">Projektbeginn</change>
          <change who="awilfing" when="2025-01-20">Headers Anpassung</change>
          <change who="ampfiel" when="2025-02-17">Transkribus OCR und Lektorat.</change>
@@ -3651,14 +3651,11 @@
       <body>
    <div n="1">
          <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-      <head type="h1">
-            <lb n="000"/>Bücher, Zeitschriften.</head>
-      <head type="h2">
-            <lb facs="#facs_1_region_1709375117595_1487_tl_1" n="N001"/>Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>, <rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>.
-            <lb facs="#facs_1_region_1709375117595_1487_tl_2" n="N002"/>Ein Beitrag zur Revision der Aesthetik der Ton
-            <lb facs="#facs_1_line_1737314731869_28" n="N003" break="no"/>kunst. — <rs type="place" ref="#hsl_place_id_32">Leipzig</rs>, R. <rs type="person" ref="#hsl_person_id_377">Weigel</rs>, <date when="1854">1854</date>.</head>
-      <head type="h4">
-            <lb facs="#facs_1_region_1709375117595_1487_tl_5" n="N004"/>(Angezeigt von F. <hi rendition="#em"><rs type="person" ref="#hsl_person_id_1745">Brendel</rs></hi>.)</head>
+         <lb n="000"/><head type="h1">Bücher, Zeitschriften.</head>
+         <lb facs="#facs_1_region_1709375117595_1487_tl_1" n="N001"/><head type="h2">Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>, <rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>.
+         <lb facs="#facs_1_region_1709375117595_1487_tl_2" n="N002"/>Ein Beitrag zur Revision der Aesthetik der Ton
+         <lb facs="#facs_1_line_1737314731869_28" n="N003" break="no"/>kunst. — <rs type="place" ref="#hsl_place_id_32">Leipzig</rs>, R. <rs type="person" ref="#hsl_person_id_377">Weigel</rs>, <date when="1854">1854</date>.</head>
+         <lb facs="#facs_1_region_1709375117595_1487_tl_5" n="N004"/><head type="h4">(Angezeigt von F. <hi rendition="#em"><rs type="person" ref="#hsl_person_id_1745">Brendel</rs></hi>.)</head>
             <p>      
       <lb facs="#facs_1_region_1709375117595_1487_tl_6" n="N005"/>Es ist in dies. Bl. wiederholt auf die bedeutungs
       <lb facs="#facs_1_region_1709375117595_1487_tl_7" n="N006" break="no"/>volle Thatsache hingewiesen worden, daß seit einigen

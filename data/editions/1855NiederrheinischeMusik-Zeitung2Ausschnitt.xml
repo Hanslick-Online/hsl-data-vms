@@ -102,7 +102,7 @@
             <language ident="de">Deutsch</language>
          </langUsage>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="final">
          <change who="awilfing" when="2024-11-01 ">Projektbeginn</change>
          <change who="ampfiel" when="2024-12-27">Transkribus OCR und Lektorat.</change>
          <change who="awilfing" when="2025-01-20 ">Headers Anpassung</change>
@@ -763,8 +763,8 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>            
-            <head type="h1"><lb facs="#facs_1_region_1709376061810_1771_tl_1" n="N001"/>Stimmen der Kritik über Richard <rs type="person" ref="#hsl_person_id_319">Wagner</rs>.</head>
-            <head type="h2"><lb facs="#facs_1_line_1735315777802_157" n="N002"/>II.</head>
+            <lb facs="#facs_1_region_1709376061810_1771_tl_1" n="N001"/><head type="h1">Stimmen der Kritik über Richard <rs type="person" ref="#hsl_person_id_319">Wagner</rs>.</head>
+            <lb facs="#facs_1_line_1735315777802_157" n="N002"/><head type="h2">II.</head>
             <p>     
       <lb facs="#facs_1_region_1709376061810_1771_tl_2" n="N003"/>Wir gehen zu <hi rendition="#em">Ed. <rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi> über. Seine ganze
       <lb facs="#facs_1_region_1709376061810_1771_tl_3" n="N004"/>Schrift „<rs type="bibl" ref="#hsl_work_id_1083">Vom Musicalisch-Schönen</rs>“ ist ein Protest gegen

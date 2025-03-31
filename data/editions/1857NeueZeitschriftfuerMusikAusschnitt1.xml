@@ -102,12 +102,13 @@
             <language ident="de">Deutsch</language>
          </langUsage>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="final">
          <change who="awilfing" when="2024-11-01">Projektbeginn</change>
          <change who="ampfiel" when="2024-12-09">Transkribus OCR und Lektorat.</change>
          <change who="delsner" when="2024-12-09">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2024-12-09">header, Absätze, Zeilenumbrüche, space, rs ref, header</change>
          <change who="ampfiel" when="2025-01-24">header richtigstellen</change>
+         <change who="awilfing" when="2025-03-31">Letztkorrektur für Zwischenrelease.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -577,9 +578,8 @@
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
             <cb n="1"/>
-      <head type="h1">
-            <lb facs="#facs_1_region_1709376849201_2027_tl_1" n="N001"/>Die Aesthetik der Tonkunst.</head>
-           <p>
+            <lb facs="#facs_1_region_1709376849201_2027_tl_1" n="N001"/><head type="h1">Die Aesthetik der Tonkunst.</head>
+            <p>
       <lb facs="#facs_1_region_1709376849201_2027_tl_2" n="N002"/>Wir haben bis jetzt fünf Briefe, Referate über die
       <lb facs="#facs_1_region_1709376849201_2027_tl_3" n="N003"/><hi rendition="#em"><rs type="person" ref="#hsl_person_id_379">Vischer</rs></hi>’sche <rs type="bibl" ref="#hsl_work_id_319">Aesthetik</rs> aus der Feder des Hrn. E. v. <hi rendition="#em"><rs type="person" ref="#hsl_person_id_6125">El
       <lb facs="#facs_1_region_1709376849201_2027_tl_4" n="N004" break="no"/>terlein</rs></hi> enthaltend, veröffentlicht, und es werden noch
@@ -587,8 +587,8 @@
       <lb facs="#facs_1_region_1709376849201_2027_tl_6" n="N006" break="no"/>läufig zum Abschluß gebracht, d. h. bis zum Beginn der
       <lb facs="#facs_1_region_1709376849201_2027_tl_7" n="N007"/>Aesthetik der Tonkunst fortgeführt ist. Doch ist mit dem
       <lb facs="#facs_1_region_1709376849201_2027_tl_8" n="N008"/>bereits Gegebenen das Abstracte beseitigt und alles
-      <lb facs="#facs_1_region_1709376849201_2027_tl_9" n="N009"/>Spätere bewegt sich auf concreterem Boden.</p>
-               <p>
+      <lb facs="#facs_1_region_1709376849201_2027_tl_9" n="N009"/>Spätere bewegt sich auf concreterem Boden.
+            </p><p>
       <lb facs="#facs_1_region_1709376849201_2027_tl_10" n="N010"/>Entsteht die Frage nach dem Zweck dieser Mitthei
       <lb facs="#facs_1_region_1709376849201_2027_tl_11" n="N011" break="no"/>lungen, so bemerke ich zunächst, daß diese Auszüge nicht
       <lb facs="#facs_1_region_1709376849201_2027_tl_12" n="N012"/>auf flüchtiges Lesen berechnet, sondern zu wiederholter
@@ -607,15 +607,16 @@
       <lb facs="#facs_1_region_1709376849201_2027_tl_25" n="N025"/>Kreise mindestens zugänglich und in etwas geläufig, und
       <lb facs="#facs_1_region_1709376849201_2027_tl_26" n="N026"/>es ist an sich selbst schon ein Gewinn, auch wenn den
       <lb facs="#facs_1_region_1709376849201_2027_tl_27" n="N027" break="no"/>selben unmittelbar weiter keine Folge gegeben werden
-      <lb facs="#facs_1_region_1709376849201_2027_tl_28" n="N028"/>könnte. Gehören doch die Leistungen der Deutschen auf<space quantity="1" unit="char"/>
+      <lb facs="#facs_1_region_1709376849201_2027_tl_28" n="N028"/>könnte. Gehören doch die Leistungen der Deutschen auf<space quantity="1" unit="char"/></p>
             <cb n="2"/>
+            <p prev="true">
       <lb facs="#facs_1_region_1709376852695_2030_tl_1" n="N001"/>dem Gebiete der Aesthetik zu den größten geistigen Thaten
-      <lb facs="#facs_1_region_1709376852695_2030_tl_2" n="N002"/>derselben.</p>
-               <p>
+      <lb facs="#facs_1_region_1709376852695_2030_tl_2" n="N002"/>derselben.
+            </p><p>
       <lb facs="#facs_1_region_1709376852695_2030_tl_3" n="N003"/>So wichtig indeß die hier angegebenen Zwecke sind,
       <lb facs="#facs_1_region_1709376852695_2030_tl_4" n="N004"/>so erscheinen dieselben doch nur von secundärer Natur im
-      <lb facs="#facs_1_region_1709376852695_2030_tl_5" n="N005"/>Vergleich mit dem Nachstehenden:</p>
-               <p>
+      <lb facs="#facs_1_region_1709376852695_2030_tl_5" n="N005"/>Vergleich mit dem Nachstehenden:
+            </p><p>
       <lb facs="#facs_1_region_1709376852695_2030_tl_6" n="N006"/>Nicht blos um <hi rendition="#em"><rs type="person" ref="#hsl_person_id_379">Vischer</rs>’s</hi> Werk handelt es sich. Ich
       <lb facs="#facs_1_region_1709376852695_2030_tl_7" n="N007"/>glaube, daß die Zeit gekommen ist, wo die Aesthetik der
       <lb facs="#facs_1_region_1709376852695_2030_tl_8" n="N008"/>Tonkunst alles Ernstes in Angriff genommen werden
@@ -646,9 +647,10 @@
       <lb facs="#facs_1_region_1709376852695_2030_tl_33" n="N033"/>Tonstücks heraus ihn zu erkennen, aus der <hi rendition="#em">äußeren 
       <lb facs="#facs_1_region_1709376852695_2030_tl_34" n="N034"/>technischen Gestaltung heraus das Innere, den
       <lb facs="#facs_1_region_1709376852695_2030_tl_35" n="N035"/>geistigen Gehalt zu begreifen</hi>. Das Princip selbst
-      <lb facs="#facs_1_region_1709376852695_2030_tl_36" n="N036"/>habe ich vor langen Jahren schon einmal ausgesprochen,<space quantity="1" unit="char"/>
+      <lb facs="#facs_1_region_1709376852695_2030_tl_36" n="N036"/>habe ich vor langen Jahren schon einmal ausgesprochen,<space quantity="1" unit="char"/></p>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <cb n="3"/>
+            <p prev="true">
       <lb facs="#facs_2_region_1709376886985_2043_tl_1" n="N001"/>und <hi rendition="#em"><rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi> hat neuerdings dasselbe gethan, nur daß
       <lb facs="#facs_2_region_1709376886985_2043_tl_2" n="N002"/>dieser falsche Consequenzen gezogen hat, so daß, streng ge
       <lb facs="#facs_2_region_1709376886985_2043_tl_3" n="N003" break="no"/>nommen, kein einziger seiner Sätze stichhaltig ist. Es
@@ -675,8 +677,8 @@
       <lb facs="#facs_2_region_1709376886985_2043_tl_24" n="N024"/><hi rendition="#em"><rs type="person" ref="#hsl_person_id_379">Vischer</rs>’s</hi><space quantity="1" unit="char"/><rs type="bibl" ref="#hsl_work_id_319">Aesthetik</rs> die Bedeutung, den Gegenstand ein
       <lb facs="#facs_2_region_1709376886985_2043_tl_25" n="N025" break="no"/>zuleiten, ihn vorzubereiten, soweit möglich, eine Orienti
       <lb facs="#facs_2_region_1709376886985_2043_tl_26" n="N026" break="no"/>rung darüber anzubahnen; mit diesem Bewußtsein wurden
-      <lb facs="#facs_2_region_1709376886985_2043_tl_27" n="N027"/>jene Referate aufgenommen.</p>
-               <p>
+      <lb facs="#facs_2_region_1709376886985_2043_tl_27" n="N027"/>jene Referate aufgenommen.
+            </p><p>
       <lb facs="#facs_2_region_1709376886985_2043_tl_28" n="N028"/>Der Werth der Aesthetik der Tonkunst ist nicht blos
       <lb facs="#facs_2_region_1709376886985_2043_tl_29" n="N029"/>ein streng wissenschaftlicher, sie befriedigt nicht ausschließ
       <lb facs="#facs_2_region_1709376886985_2043_tl_30" n="N030" break="no"/>lich nur das Interesse des Erkennens, <hi rendition="#em">auch die prak
@@ -703,8 +705,9 @@
       <lb facs="#facs_2_region_1709376886985_2043_tl_51" n="N051"/>Form willkommen heißen müssen, vorausgesetzt, daß sie
       <lb facs="#facs_2_region_1709376886985_2043_tl_52" n="N052"/><hi rendition="#em">schön</hi> sei, und nicht <hi rendition="#em">willkürlich gemacht</hi>, sondern aus
       <lb facs="#facs_2_region_1709376886985_2043_tl_53" n="N053"/>den bisherigen Gestaltungen naturgemäß hervorwachsend.
-      <lb facs="#facs_2_region_1709376886985_2043_tl_54" n="N054"/>Es geht demnach hier mit dem bezeichneten Fortschritt<space quantity="1" unit="char"/>
+      <lb facs="#facs_2_region_1709376886985_2043_tl_54" n="N054"/>Es geht demnach hier mit dem bezeichneten Fortschritt<space quantity="1" unit="char"/></p>
             <cb n="4"/>
+            <p prev="true">
       <lb facs="#facs_2_region_1709376890177_2046_tl_1" n="N001"/>wie in allen menschlichen Dingen. Ein Zeitalter ist in
       <lb facs="#facs_2_region_1709376890177_2046_tl_2" n="N002"/>Zweifeln und Irrthümern befangen, und spannt vergeb
       <lb facs="#facs_2_region_1709376890177_2046_tl_3" n="N003" break="no"/>lich alle Kräfte an, sich daraus emporzuringen. Ist das
@@ -713,8 +716,8 @@
       <lb facs="#facs_2_region_1709376890177_2046_tl_6" n="N006" break="no"/>tungslosigkeit zusammenschrumpft. Jetzt ist insbesondere
       <lb facs="#facs_2_region_1709376890177_2046_tl_7" n="N007"/>die Möglichkeit zum weitern Vordringen gegeben, da die
       <lb facs="#facs_2_region_1709376890177_2046_tl_8" n="N008"/>beiden bezeichneten Stufen erst ihre Erfüllung gefunden
-      <lb facs="#facs_2_region_1709376890177_2046_tl_9" n="N009"/>haben mußten, bevor weiter fortgegangen werden konnte.</p>
-               <p>
+      <lb facs="#facs_2_region_1709376890177_2046_tl_9" n="N009"/>haben mußten, bevor weiter fortgegangen werden konnte.
+            </p><p>
       <lb facs="#facs_2_region_1709376890177_2046_tl_10" n="N010"/>Natürlich handelt es sich hier zunächst nicht um
       <lb facs="#facs_2_region_1709376890177_2046_tl_11" n="N011"/>philosophische Untersuchungen; im Gegentheil, die Praxis
       <lb facs="#facs_2_region_1709376890177_2046_tl_12" n="N012"/>muß den Ausgangspunct darbieten, und von ihr aus ist

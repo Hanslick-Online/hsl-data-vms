@@ -102,7 +102,7 @@
             <language ident="de">Deutsch</language>
          </langUsage>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="final">
          <change who="awilfing" when="2024-11-01 ">Projektbeginn</change>
          <change who="awilfing" when="2025-01-20 ">Headers Anpassung</change>
          <change who="ampfiel" when="2025-02-19">Transkribus OCR und Lektorat.</change>
@@ -393,10 +393,10 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <head type="h1"><lb facs="#facs_1_line_1739998041122_26" n="N001"/><hi rendition="#em">Literarische Anzeige</hi>.</head>
-            <head type="h2"><lb facs="#facs_1_line_1739998028851_22" n="N002"/>„<rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>“. Ein Beitrag zur
-                            <lb facs="#facs_1_region_1709375039906_1465_tl_3" n="N003"/>Revision der Aesthetik der Tonkunst. Von Dr. Eduard
-                            <lb facs="#facs_1_region_1709375039906_1465_tl_4" n="N004"/><hi rendition="#em"><rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi>. <rs type="place" ref="#hsl_place_id_32">Leipzig</rs>, Rudolf <hi rendition="#em"><rs type="person" ref="#hsl_person_id_377">Weigel</rs></hi><space quantity="1" unit="char"/><date when="1834">1854</date>.</head>
+            <lb facs="#facs_1_line_1739998041122_26" n="N001"/><head type="h1"><hi rendition="#em">Literarische Anzeige</hi>.</head>
+            <lb facs="#facs_1_line_1739998028851_22" n="N002"/><head type="h2">„<rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>“. Ein Beitrag zur
+            <lb facs="#facs_1_region_1709375039906_1465_tl_3" n="N003"/>Revision der Aesthetik der Tonkunst. Von Dr. Eduard
+            <lb facs="#facs_1_region_1709375039906_1465_tl_4" n="N004"/><hi rendition="#em"><rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi>. <rs type="place" ref="#hsl_place_id_32">Leipzig</rs>, Rudolf <hi rendition="#em"><rs type="person" ref="#hsl_person_id_377">Weigel</rs></hi><space quantity="1" unit="char"/><date when="1834">1854</date>.</head>
             <p>      
       <lb facs="#facs_1_region_1709375039906_1465_tl_5" n="N005"/>(<rs type="person" ref="#hsl_person_id_6453">H. — L.</rs>) Dieses Büchlein enthält im engen Rahmen rei
       <lb facs="#facs_1_region_1709375039906_1465_tl_6" n="N006" break="no"/>chen und gehaltvollen Inhalt, der auch bereits in ganz <rs type="place" ref="#hsl_place_id_14">Deutsch

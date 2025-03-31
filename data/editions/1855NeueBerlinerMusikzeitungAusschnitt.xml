@@ -102,7 +102,7 @@
             <language ident="de">Deutsch</language>
          </langUsage>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="final">
          <change who="awilfing" when="2024-11-01">Projektbeginn</change>
          <change who="awilfing" when="2025-01-20">Headers Anpassung</change>
          <change who="ampfiel" when="2025-02-19">Transkribus OCR und Lektorat.</change>
@@ -298,10 +298,10 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <head type="h1"><lb facs="#facs_2_region_1709374989506_1444_tl_1" n="N001"/>Musik-Literatur.</head>
-            <head type="h2"><lb facs="#facs_2_region_1709374989506_1444_tl_2" n="N002"/><hi rendition="#bold">Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi>, <rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>. Ein
-                            <lb facs="#facs_2_region_1709374989506_1444_tl_3" n="N003"/>Beitrag zur Revision der Ästhetik der Tonkunst. <rs type="place" ref="#hsl_place_id_32">Leipzig</rs>,
-                            <lb facs="#facs_2_region_1709374989506_1444_tl_4" n="N004"/>bei R. <rs type="person" ref="#hsl_person_id_377">Weigel</rs>. <date when="1854">1854</date>.</head>
+            <lb facs="#facs_2_region_1709374989506_1444_tl_1" n="N001"/><head type="h1">Musik-Literatur.</head>
+            <lb facs="#facs_2_region_1709374989506_1444_tl_2" n="N002"/><head type="h2"><hi rendition="#bold">Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi>, <rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>. Ein
+            <lb facs="#facs_2_region_1709374989506_1444_tl_3" n="N003"/>Beitrag zur Revision der Ästhetik der Tonkunst. <rs type="place" ref="#hsl_place_id_32">Leipzig</rs>,
+            <lb facs="#facs_2_region_1709374989506_1444_tl_4" n="N004"/>bei R. <rs type="person" ref="#hsl_person_id_377">Weigel</rs>. <date when="1854">1854</date>.</head>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <p>
       <lb facs="#facs_2_region_1709374989506_1444_tl_5" n="N005"/>Diese Schrift, obwohl nur eine Broschüre von 100 und

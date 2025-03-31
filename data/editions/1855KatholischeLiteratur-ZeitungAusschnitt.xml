@@ -102,13 +102,14 @@
             <language ident="de">Deutsch</language>
          </langUsage>
       </profileDesc>
-      <revisionDesc status="draft">
-         <change who="awilfing" when="2024-11-01 ">Projektbeginn</change>
-         <change who="awilfing" when="2025-01-20 ">Headers Anpassung</change>
+      <revisionDesc status="final">
+         <change who="awilfing" when="2024-11-01">Projektbeginn</change>
+         <change who="awilfing" when="2025-01-20">Headers Anpassung</change>
          <change who="ampfiel" when="2025-02-25">Transkribus OCR und Lektorat.</change>
          <change who="delsner" when="2025-03-06">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-03-06">fix header, Layout</change>
          <change who="ampfiel" when="2025-03-20">Zeilenumbrüche, space, rs ref</change>
+         <change who="awilfing" when="2025-03-31">Letztkorrektur für Zwischenrelease.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -307,15 +308,16 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>               
-            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-      <head type="h1">
+            <head type="h1">
             <lb n="N0001"/>Aesthetik.</head>
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <p>
-      <lb facs="#facs_2_region_1709374685145_1373_tl_1" n="N001"/><rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>. <hi rendition="#em">Ein Beitrag zur Revision der
+      <lb facs="#facs_2_region_1709374685145_1373_tl_1" n="N001"/><hi rendition="#bold"><rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs></hi>. <hi rendition="#em">Ein Beitrag zur Revision der
       <lb facs="#facs_2_region_1709374685145_1373_tl_2" n="N002"/>Aesthetik der Tonkunst</hi> von Dr. Eduard <hi rendition="#em"><rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi>. <rs type="place" ref="#hsl_place_id_32">Leipzig</rs><space quantity="1" unit="char"/>
-      <lb facs="#facs_2_region_1709374685145_1373_tl_3" n="N003"/>bei Rudolph <rs type="person" ref="#hsl_person_id_377">Weigel</rs><space quantity="1" unit="char"/><date when="1854">1854</date>. —
-      <lb facs="#facs_2_region_1709374685145_1373_tl_4" n="N004"/>Ueber das Schöne in der Musik ist seit dem Kampf der <rs type="person" ref="#hsl_person_id_99">Glu
-      <lb facs="#facs_2_region_1709374685145_1373_tl_5" n="N005" break="no"/>k</rs>isten und <rs type="person" ref="#hsl_person_id_215">Piccini</rs>sten schon viel gestritten, aber noch keine befriedigende
+      <lb facs="#facs_2_region_1709374685145_1373_tl_3" n="N003"/>bei Rudolph <rs type="person" ref="#hsl_person_id_377">Weigel</rs><space quantity="1" unit="char"/><date when="1854">1854</date>. — 
+            </p><p>
+      <lb facs="#facs_2_region_1709374685145_1373_tl_4" n="N004"/>Ueber das Schöne in der Musik ist seit dem Kampf der Glu
+      <lb facs="#facs_2_region_1709374685145_1373_tl_5" n="N005" break="no"/>kisten und Piccinisten schon viel gestritten, aber noch keine befriedigende
       <lb facs="#facs_2_region_1709374685145_1373_tl_6" n="N006"/>Ansicht zu Tage gefördert worden. Dr. <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> hat es unternom
       <lb facs="#facs_2_region_1709374685145_1373_tl_7" n="N007" break="no"/>men, die dermal cursirenden Meinungen hierüber einer scharfen Kritik zu
       <lb facs="#facs_2_region_1709374685145_1373_tl_8" n="N008"/>unterziehen, und der Kenner muß ihm fast durchgängig beistimmen.
@@ -342,8 +344,9 @@
       <lb facs="#facs_2_region_1709374685145_1373_tl_29" n="N029"/>Richard <rs type="person" ref="#hsl_person_id_319">Wagner</rs>s in der Opernmusik; allein wenn auch <rs type="person" ref="#hsl_person_id_319">Wagner</rs><space quantity="1" unit="char"/>
       <lb facs="#facs_2_region_1709374685145_1373_tl_30" n="N030"/>unbestreitbar in Uebertreibung verfallen ist, so steht doch sein Streben
       <lb facs="#facs_2_region_1709374685145_1373_tl_31" n="N031"/>nur einer andern Uebertreibung gegenüber, welche die Oper durch
-      <lb facs="#facs_2_region_1709374685145_1373_tl_32" n="N032"/>Verzerrung des Textes zum Ungethüme stempelt. In der Kammer
+      <lb facs="#facs_2_region_1709374685145_1373_tl_32" n="N032"/>Verzerrung des Textes zum Ungethüme stempelt. In der Kammer</p>
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
+            <p prev="true">
       <lb facs="#facs_3_region_1709374696443_1379_tl_1" n="N001" break="no"/>musik steht die Musik für sich allein, und kann als solche das Höchste
       <lb facs="#facs_3_region_1709374696443_1379_tl_2" n="N002"/>und Vollendetste leisten; allein in der Oper soll sie mit dem Texte
       <lb facs="#facs_3_region_1709374696443_1379_tl_3" n="N003"/>Hand in Hand gehen, ohne diesem darum sich unterordnen zu müssen,
@@ -361,7 +364,7 @@
       <lb facs="#facs_3_region_1709374696443_1379_tl_15" n="N015"/>Gefühlsmusik, welche er mit vielen Gründen und schönen Argumenten
       <lb facs="#facs_3_region_1709374696443_1379_tl_16" n="N016"/>bekämpft, kann übrigens in anderer Beziehung recht wohl auch Ver
       <lb facs="#facs_3_region_1709374696443_1379_tl_18" n="N017" break="no"/>standes- oder am besten Reflexionsmusik genannt werden.
-      <lb facs="#facs_3_region_1709374696443_1379_tl_17" n="N018"/>Mz.</p>
+      <lb facs="#facs_3_region_1709374696443_1379_tl_17" n="N018"/><rs type="person" ref="#hsl_person_id_6562">Mz</rs>.</p>
          </div>
       </body>
    </text>

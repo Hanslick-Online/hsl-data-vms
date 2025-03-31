@@ -102,7 +102,7 @@
             <language ident="de">Deutsch</language>
          </langUsage>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="final">
          <change who="awilfing" when="2024-11-01 ">Projektbeginn</change>
          <change who="awilfing" when="2025-01-20 ">Headers Anpassung</change>
          <change who="ampfiel" when="2025-01-21">Transkribus OCR und Lektorat.</change>
@@ -3433,10 +3433,8 @@
          <div n="1">
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
             <cb n="1"/>
-      <head type="h1">
-            <lb facs="#facs_1_region_1709375595290_1629_tl_1" n="N001"/>Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>.</head>
-      <head type="h2">
-            <lb facs="#facs_1_line_1735900402825_4" n="N002"/>I.</head>
+            <lb facs="#facs_1_region_1709375595290_1629_tl_1" n="N001"/><head type="h1">Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>.</head>
+            <lb facs="#facs_1_line_1735900402825_4" n="N002"/><head type="h2">I.</head>
             <p>      
       <lb facs="#facs_1_region_1709375595290_1629_tl_2" n="N003"/>Wenn irgend etwas in unserer Zeit der Verwirrung
       <lb facs="#facs_1_region_1709375595290_1629_tl_3" n="N004"/>der Gedanken über Musik noth thut, so ist es die Erkennt
