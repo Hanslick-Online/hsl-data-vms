@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
             <title level="a"/>
-            <author ref="#hsl_person_id_6325">Menzel, Wolfgang</author>
+            <author ref="#hsl_person_id_6612">Anonym</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
             </editor>
@@ -73,7 +73,7 @@
                <biblStruct>
                   <analytic>
                      <title>Ueber Musik</title>
-                     <author ref="#hsl_person_id_6325">Menzel, Wolfgang</author>
+                     <author ref="#hsl_person_id_6612">Anonym</author>
                   </analytic>
                   <monogr>
                      <title type="main">Wolfgang Menzels Literaturblatt</title>
@@ -108,7 +108,7 @@
          <change who="awilfing" when="2025-01-20">Headers Anpassung</change>
          <change who="ampfiel" when="2025-01-24">header richtigstellen, Absätze, Zeilenumbrüche</change>
          <change who="ampfiel" when="2025-01-28">rs ref, space einfügen</change>
-      </revisionDesc>
+         <change who="awilfing" when="2025-04-01">Letztkorrektur für Zwischenrelease.</change></revisionDesc>
    </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2282" lry="2807" xml:id="facs_1">
@@ -1272,14 +1272,13 @@
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
             <lb facs="#facs_1_region_1709376192650_1821_tl_1" n="N001"/><head type="h1">Ueber Musik.</head>
-            <p>      
-      <lb facs="#facs_1_region_1709376192650_1821_tl_2" n="N002"/><rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>. Ein Beitrag zur Revi
-      <lb facs="#facs_1_region_1709376192650_1821_tl_3" n="N003" break="no"/>sion der Aesthetik der Tonkunst. Von Dr. Eduard
-      <lb facs="#facs_1_region_1709376192650_1821_tl_4" n="N004"/><rs type="person" ref="#hsl_person_id_1">Hanslick</rs>. <rs type="place" ref="#hsl_place_id_32">Leipzig</rs>, Rudolf <rs type="person" ref="#hsl_person_id_377">Weigel</rs>, <date when="1854">1854</date>.</p>
-               <p>
+            <lb facs="#facs_1_region_1709376192650_1821_tl_2" n="N002"/><head type="h2"><rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>. Ein Beitrag zur Revi
+            <lb facs="#facs_1_region_1709376192650_1821_tl_3" n="N003" break="no"/>sion der Aesthetik der Tonkunst. Von Dr. Eduard
+            <lb facs="#facs_1_region_1709376192650_1821_tl_4" n="N004"/><rs type="person" ref="#hsl_person_id_1">Hanslick</rs>. <rs type="place" ref="#hsl_place_id_32">Leipzig</rs>, Rudolf <rs type="person" ref="#hsl_person_id_377">Weigel</rs>, <date when="1854">1854</date>.</head>
+            <p>
       <lb facs="#facs_1_region_1709376192650_1821_tl_5" n="N005"/>Eine anregende Schrift, die sehr viel Wahres ent
-      <lb facs="#facs_1_region_1709376192650_1821_tl_6" n="N006" break="no"/>hält, wenn sie auch im Eifer zu viel beweist.</p>
-               <p>
+      <lb facs="#facs_1_region_1709376192650_1821_tl_6" n="N006" break="no"/>hält, wenn sie auch im Eifer zu viel beweist.
+            </p><p>
       <lb facs="#facs_1_region_1709376192650_1821_tl_7" n="N007"/>Der Verfasser sieht in der Musik immer mehr eine
       <lb facs="#facs_1_region_1709376192650_1821_tl_8" n="N008"/>der eigentlichen Musik fremde Richtung vorherrschend
       <lb facs="#facs_1_region_1709376192650_1821_tl_9" n="N009"/>werden und klagt die Aesthetik an, sie mache eine Neben
@@ -1308,7 +1307,7 @@
       <lb facs="#facs_1_region_1709376192650_1821_tl_32" n="N032"/>Wogen der innern Bewegung? Gewiß nicht. Diese
       <lb facs="#facs_1_region_1709376192650_1821_tl_33" n="N033"/>kann bei verschiedenen Gefühlen gleich seyn und auch
       <lb facs="#facs_1_region_1709376192650_1821_tl_34" n="N034"/>wieder bei demselben Gefühl, in mehreren Individuen,
-                     <cb/>
+            <cb/>
       <lb facs="#facs_1_region_1709376196610_1824_tl_1" n="N001"/>zu andern Zeiten verschieden.“ Man sagt frischweg, in
       <lb facs="#facs_1_region_1709376196610_1824_tl_2" n="N002"/>einer Arie flüstre die Zärtlichkeit, in einem Marsch
       <lb facs="#facs_1_region_1709376196610_1824_tl_3" n="N003"/>stürme die Kampflust, aber das ist unwahr. „Um auf
@@ -1320,8 +1319,8 @@
       <lb facs="#facs_1_region_1709376196610_1824_tl_9" n="N009"/>sie kann flüstern, stürmen, rauschen, — das Lieben und
       <lb facs="#facs_1_region_1709376196610_1824_tl_10" n="N010"/>Zürnen aber trägt nur unser eigenes Herz in sie hinein.
       <lb facs="#facs_1_region_1709376196610_1824_tl_11" n="N011"/>Die Darstellung eines Gefühles oder Affectes liegt gar
-      <lb facs="#facs_1_region_1709376196610_1824_tl_12" n="N012"/>nicht in dem eigenen Vermögen der Tonkunst.“ S. 13.</p>
-            <p>
+      <lb facs="#facs_1_region_1709376196610_1824_tl_12" n="N012"/>nicht in dem eigenen Vermögen der Tonkunst.“ S. 13.
+            </p><p>
       <lb facs="#facs_1_region_1709376196610_1824_tl_13" n="N013"/>Um zu beweisen, wie leicht sich der Mensch betrüge,
       <lb facs="#facs_1_region_1709376196610_1824_tl_14" n="N014"/>wenn er Gefühle in ein Musikstück hineintrage, die nicht
       <lb facs="#facs_1_region_1709376196610_1824_tl_15" n="N015"/>nothwendig darin liegen, führt der Verfasser das Thema
@@ -1332,8 +1331,8 @@
       <lb facs="#facs_1_region_1709376196610_1824_tl_20" n="N020"/>noch andre ähnliche Beispiele, z. B. eine Stelle in
       <lb facs="#facs_1_region_1709376196610_1824_tl_21" n="N021"/><rs type="person" ref="#hsl_person_id_25">Beethoven</rs>s <rs type="bibl" ref="#hsl_work_id_348">Fidelio</rs>, die „o namlose Freude“ charakteri
       <lb facs="#facs_1_region_1709376196610_1824_tl_22" n="N022" break="no"/>sirt ist, aber eben so gut heißen kann „er soll mir nicht
-      <lb facs="#facs_1_region_1709376196610_1824_tl_23" n="N023"/>entkommen!“</p>
-               <p>
+      <lb facs="#facs_1_region_1709376196610_1824_tl_23" n="N023"/>entkommen!“
+            </p><p>
       <lb facs="#facs_1_region_1709376196610_1824_tl_24" n="N024"/>„Die schädlichsten und verwirrendsten Anschauungen
       <lb facs="#facs_1_region_1709376196610_1824_tl_25" n="N025"/>sind aus dem Bestreben hervorgegangen, die Musik als
       <lb facs="#facs_1_region_1709376196610_1824_tl_26" n="N026"/>eine Art Sprache aufzufassen; sie weisen uns täglich
@@ -1409,8 +1408,8 @@
       <lb facs="#facs_2_region_1709376213457_1833_tl_7" n="N007"/>keine rein ästhetische, sondern ein unausscheidbarer An
       <lb facs="#facs_2_region_1709376213457_1833_tl_8" n="N008" break="no"/>theil daran körperlich ist. Das ästhetische Recept müßte
       <lb facs="#facs_2_region_1709376213457_1833_tl_9" n="N009"/>lehren, wie der Tonkünstler das Schöne in der Musik
-      <lb facs="#facs_2_region_1709376213457_1833_tl_10" n="N010"/>erzeuge, nicht aber beliebige Affecte im Auditorium.“</p>
-               <p>
+      <lb facs="#facs_2_region_1709376213457_1833_tl_10" n="N010"/>erzeuge, nicht aber beliebige Affecte im Auditorium.“
+            </p><p>
       <lb facs="#facs_2_region_1709376213457_1833_tl_11" n="N011"/>Doch es ist Zeit, dem, was der Verfasser tadelt,
       <lb facs="#facs_2_region_1709376213457_1833_tl_12" n="N012"/>das entgegenzuhalten, was er lobt. „Das Urelement
       <lb facs="#facs_2_region_1709376213457_1833_tl_13" n="N013"/>der Musik ist Wohllaut, ihr Wesen Rhythmus. Rhyth
@@ -1487,8 +1486,8 @@
       <lb facs="#facs_3_region_1709376231895_1839_tl_32" n="N032"/>nichts dadurch, daß man es besser kennen lernt.“ Wir
       <lb facs="#facs_3_region_1709376231895_1839_tl_33" n="N033"/>mußten diese ganze das System des Verfassers am
       <lb facs="#facs_3_region_1709376231895_1839_tl_34" n="N034"/>besten bezeichnende Stelle ausheben, um unsere Ent
-      <lb facs="#facs_3_region_1709376231895_1839_tl_35" n="N035" break="no"/>gegnung zu motiviren.</p>
-               <p>
+      <lb facs="#facs_3_region_1709376231895_1839_tl_35" n="N035" break="no"/>gegnung zu motiviren.
+            </p><p>
       <lb facs="#facs_3_region_1709376231895_1839_tl_36" n="N036"/>Der Verfasser hat gefühlt, daß die Vergleichungen
       <lb facs="#facs_3_region_1709376231895_1839_tl_37" n="N037"/>mit der Arabeske und mit dem Kaleidoskop ärmlich sind.
       <lb facs="#facs_3_region_1709376231895_1839_tl_38" n="N038"/>Er würde besser gethan haben, auf ein vergessenes, aber
@@ -1515,8 +1514,8 @@
       <lb facs="#facs_3_region_1709376235922_1842_tl_8" n="N008"/>unsinnige Musik müßte das seyn, die nichts wäre als
       <lb facs="#facs_3_region_1709376235922_1842_tl_9" n="N009"/>Musik schlechthin und wobei man nicht wüßte, aus
       <lb facs="#facs_3_region_1709376235922_1842_tl_10" n="N010"/>welcher Stimmung der Seele sie hervorgegangen und zu
-      <lb facs="#facs_3_region_1709376235922_1842_tl_11" n="N011"/>welchem Zwecke sie componirt wäre?</p>
-               <p>
+      <lb facs="#facs_3_region_1709376235922_1842_tl_11" n="N011"/>welchem Zwecke sie componirt wäre?
+            </p><p>
       <lb facs="#facs_3_region_1709376235922_1842_tl_12" n="N012"/>Es gibt keine Musik schlechthin und hat nie eine
       <lb facs="#facs_3_region_1709376235922_1842_tl_13" n="N013"/>gegeben. Wie bei den Alten alle Musik in dorische,
       <lb facs="#facs_3_region_1709376235922_1842_tl_14" n="N014"/>phrygische, lydische und äolische, d. i. in heilige, mar
@@ -1541,8 +1540,8 @@
       <lb facs="#facs_3_region_1709376235922_1842_tl_33" n="N033"/>etwas aus, es ist nicht blos Tönespiel. Es verhält
       <lb facs="#facs_3_region_1709376235922_1842_tl_34" n="N034"/>sich zu einem Werk der bildenden Kunst nicht wie ein
       <lb facs="#facs_3_region_1709376235922_1842_tl_35" n="N035"/>Kaleidoscop, sondern wie ein Historien- oder Land
-      <lb facs="#facs_3_region_1709376235922_1842_tl_36" n="N036" break="no"/>schaftsbild.</p>
-               <p>
+      <lb facs="#facs_3_region_1709376235922_1842_tl_36" n="N036" break="no"/>schaftsbild.
+            </p><p>
       <lb facs="#facs_3_region_1709376235922_1842_tl_37" n="N037"/>Dem, was der Verfasser verlangt, soll gebührend
       <lb facs="#facs_3_region_1709376235922_1842_tl_38" n="N038"/>Rechnung getragen werden. „Wie aus dem gleichen
       <lb facs="#facs_3_region_1709376235922_1842_tl_39" n="N039"/>Marmor der eine Bildhauer bezaubernde Formen, der
@@ -1569,8 +1568,8 @@
       <lb facs="#facs_4_region_1709376264801_1848_tl_8" n="N008" break="no"/>delte, so würde die Musik am Ende müssen Frösche quacken
       <lb facs="#facs_4_region_1709376264801_1848_tl_9" n="N009"/>und Esel wiehern oder (wie übrigens schon geschehen
       <lb facs="#facs_4_region_1709376264801_1848_tl_10" n="N010"/>ist) Kanonen abfeuern lassen. Dafür ist sie Musik, daß
-      <lb facs="#facs_4_region_1709376264801_1848_tl_11" n="N011"/>sie sich über die Naturtöne erhebt.</p>
-               <p>
+      <lb facs="#facs_4_region_1709376264801_1848_tl_11" n="N011"/>sie sich über die Naturtöne erhebt.
+            </p><p>
       <lb facs="#facs_4_region_1709376264801_1848_tl_12" n="N012"/>Allein damit ist die Musik nicht absolut losgerissen
       <lb facs="#facs_4_region_1709376264801_1848_tl_13" n="N013"/>von jedem Inhalt oder Anhaltspunkt im Text, so wenig
       <lb facs="#facs_4_region_1709376264801_1848_tl_14" n="N014"/>wie von der ewigen Quelle der Gefühle. Sie wird,
@@ -1582,8 +1581,8 @@
       <lb facs="#facs_4_region_1709376264801_1848_tl_20" n="N020" break="no"/>zudrückenden Gefühle bezeichnet. Gerade an der Man
       <lb facs="#facs_4_region_1709376264801_1848_tl_21" n="N021" break="no"/>nigfaltigkeit der Oratorien-, Opern-, Arien-, Lieder
       <lb facs="#facs_4_region_1709376264801_1848_tl_22" n="N022" break="no"/>texte etc. entfaltet sich der reichste Zauber der Tonkunst,
-      <lb facs="#facs_4_region_1709376264801_1848_tl_23" n="N023"/>was sonst gar nicht möglich wäre.</p>
-               <p>
+      <lb facs="#facs_4_region_1709376264801_1848_tl_23" n="N023"/>was sonst gar nicht möglich wäre.
+            </p><p>
       <lb facs="#facs_4_region_1709376264801_1848_tl_24" n="N024"/>Herr <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> ist S. 69 so weit gegangen, die durch
       <lb facs="#facs_4_region_1709376264801_1848_tl_25" n="N025"/>Musik bewirkte Gefühlserregung eine blos körperliche
       <lb facs="#facs_4_region_1709376264801_1848_tl_26" n="N026"/>zu nennen. Das ist eine Beleidigung gegen das mensch
@@ -1595,19 +1594,19 @@
       <lb facs="#facs_4_region_1709376264801_1848_tl_32" n="N032" break="no"/>kalische Ton. Wo das Wort noch zu gemein ist, da
       <lb facs="#facs_4_region_1709376264801_1848_tl_33" n="N033"/>kann den edelsten Ausdruck das Gefühl nur im Ton
       <lb facs="#facs_4_region_1709376264801_1848_tl_34" n="N034"/>finden. Darauf beruht die ganze Kirchenmusik. Nicht
-      <lb facs="#facs_4_region_1709376264801_1848_tl_35" n="N035"/>minder der höchste Zauber des Liebesliedes.</p>
-               <p>
-      <lb facs="#facs_4_region_1709376264801_1848_tl_36" n="N036"/>Süße Liebe denkt in Tönen,
-      <lb facs="#facs_4_region_1709376264801_1848_tl_37" n="N037"/>Denn Gedanken stehn zu fern,
-      <lb facs="#facs_4_region_1709376264801_1848_tl_38" n="N038"/>Nur in Tönen mag sie gern
-      <lb facs="#facs_4_region_1709376264801_1848_tl_39" n="N039"/>Alles, was sie will, verschönen.</p>
-               <p>
+      <lb facs="#facs_4_region_1709376264801_1848_tl_35" n="N035"/>minder der höchste Zauber des Liebesliedes.
+            </p><p>
+            <lb facs="#facs_4_region_1709376264801_1848_tl_36" n="N036"/><l>Süße Liebe denkt in Tönen,</l>
+            <lb facs="#facs_4_region_1709376264801_1848_tl_37" n="N037"/><l>Denn Gedanken stehn zu fern,</l>
+            <lb facs="#facs_4_region_1709376264801_1848_tl_38" n="N038"/><l>Nur in Tönen mag sie gern</l>
+            <lb facs="#facs_4_region_1709376264801_1848_tl_39" n="N039"/><l>Alles, was sie will, verschönen.</l>
+            </p><p>
       <lb facs="#facs_4_region_1709376264801_1848_tl_40" n="N040"/>Die Musik ist eine höhere Potenz der Sprache; sie ver
       <lb facs="#facs_4_region_1709376264801_1848_tl_41" n="N041" break="no"/>hält sich zur gemeinen Sprache fast wie das magnetische
       <lb facs="#facs_4_region_1709376264801_1848_tl_42" n="N042"/>Schlafwachen zum gemeinen Wachen. Es ist die Sprache
       <lb facs="#facs_4_region_1709376264801_1848_tl_43" n="N043"/>höherer Wesen. Die Musik adelt. Die Musik erhebt
-      <lb facs="#facs_4_region_1709376264801_1848_tl_44" n="N044"/>gewissermaßen aus der gemeinen Welt in die Geisterwelt.</p>
-               <p>
+      <lb facs="#facs_4_region_1709376264801_1848_tl_44" n="N044"/>gewissermaßen aus der gemeinen Welt in die Geisterwelt.
+            </p><p>
       <lb facs="#facs_4_region_1709376264801_1848_tl_45" n="N045"/>Auch von der Macht der Musik denkt Herr <rs type="person" ref="#hsl_person_id_1">H.</rs> zu
       <lb facs="#facs_4_region_1709376264801_1848_tl_46" n="N046"/>gering. Er spottet darüber S. 61. Indeß lag auch
       <lb facs="#facs_4_region_1709376264801_1848_tl_47" n="N047"/>in der groben Magie des Mittelalters, die den Tönen
@@ -1620,8 +1619,8 @@
       <lb facs="#facs_4_region_1709376268610_1851_tl_6" n="N006"/>— wenigstens eine hohe Verehrung vor der Musik und
       <lb facs="#facs_4_region_1709376268610_1851_tl_7" n="N007"/>ihrer Wunder wirkenden Macht. Dem Aberglauben
       <lb facs="#facs_4_region_1709376268610_1851_tl_8" n="N008"/>lag immerhin ein tiefer Sinn für das Wesen der Musik
-      <lb facs="#facs_4_region_1709376268610_1851_tl_9" n="N009"/>zu Grunde.</p>
-               <p>
+      <lb facs="#facs_4_region_1709376268610_1851_tl_9" n="N009"/>zu Grunde.
+            </p><p>
       <lb facs="#facs_4_region_1709376268610_1851_tl_10" n="N010"/>Ein bekanntes Beispiel von der Wirkung der Töne
       <lb facs="#facs_4_region_1709376268610_1851_tl_11" n="N011"/>ist vielleicht am besten geeignet, die Ansichten des Ver
       <lb facs="#facs_4_region_1709376268610_1851_tl_12" n="N012" break="no"/>fassers zu rectificiren. Der <rs type="place" ref="#hsl_place_id_97">Schweiz</rs>er Kuhreigen weckt
@@ -1636,8 +1635,8 @@
       <lb facs="#facs_4_region_1709376268610_1851_tl_21" n="N021"/>ist es doch auch nicht blos die dadurch hervorgerufene
       <lb facs="#facs_4_region_1709376268610_1851_tl_22" n="N022"/>Erinnerung an die Heimath, die den <rs type="place" ref="#hsl_place_id_97">Schweiz</rs>er Sol
       <lb facs="#facs_4_region_1709376268610_1851_tl_23" n="N023" break="no"/>daten bewegt, denn eine solche Erinnerung würde ihm
-      <lb facs="#facs_4_region_1709376268610_1851_tl_24" n="N024"/>durch ein Stück Käse eben so gewiß erweckt.</p>
-               <p>
+      <lb facs="#facs_4_region_1709376268610_1851_tl_24" n="N024"/>durch ein Stück Käse eben so gewiß erweckt.
+            </p><p>
       <lb facs="#facs_4_region_1709376268610_1851_tl_25" n="N025"/>Das, was wir als vollkommen gerechtfertigt in der
       <lb facs="#facs_4_region_1709376268610_1851_tl_26" n="N026"/>vorliegenden Schrift erkennen, wollen wir durch eine
       <lb facs="#facs_4_region_1709376268610_1851_tl_27" n="N027"/>Vergleichung mit der Malerei erhärten. Was Herr
