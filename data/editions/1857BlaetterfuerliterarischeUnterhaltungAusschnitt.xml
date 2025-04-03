@@ -77,7 +77,7 @@
                   </analytic>
                   <monogr>
                      <title type="main">Blätter für literarische Unterhaltung</title>
-                     <title type="sub">Erscheint wöchentlich. — Nr. 23. — 4. Juni 1857</title>
+                     <title type="sub">Nr. 23. — 4. Juni 1857</title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person" ref="#hsl_person_id_6124">Marggraff, Hermann</name>
@@ -108,7 +108,7 @@
          <change who="delsner" when="2024-12-09">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2024-12-10">header, Absätze, Zeilenumbrüche, space, Liste, rs ref, header</change>
          <change who="ampfiel" when="2025-01-24">header richtigstellen</change>
-         <change who="awilfing" when="">Letztkorrektur für Zwischenrelease.</change>
+         <change who="awilfing" when="2025-04-03">Letztkorrektur für Zwischenrelease.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -1925,7 +1925,7 @@
       <lb facs="#facs_3_region_1709376684138_1975_tl_16" n="N016"/>kaum etwas Anderes oder Neueres. So sind ihm z. B. <rs type="person" ref="#hsl_person_id_6126">Zei
       <lb facs="#facs_3_region_1709376684138_1975_tl_17" n="N017" break="no"/>sing</rs>’s „<rs type="bibl" ref="#hsl_work_id_4273">Proportionslehre</rs>“ und „<rs type="bibl" ref="#hsl_work_id_4246">Aesthetische Forschungen</rs>“ fremd
       <lb facs="#facs_3_region_1709376684138_1975_tl_18" n="N018"/>geblieben, und was ich über das Ungenügende von <rs type="person" ref="#hsl_person_id_379">Vischer</rs>’s,
-      <lb facs="#facs_3_region_1709376684138_1975_tl_19" n="N019"/>d. h. <rs type="person" ref="#hsl_person_id_378">Hegel</rs>’s philosophischen Principien in <rs type="person" ref="#hsl_person_id_6140">Fichte</rs>’s <rs type="bibl" ref="#hsl_work_id_4275">Zeitschrift</rs>,
+      <lb facs="#facs_3_region_1709376684138_1975_tl_19" n="N019"/>d. h. <rs type="person" ref="#hsl_person_id_378">Hegel</rs>’s philosophischen Principien in <rs type="person" ref="#hsl_person_id_6614">Fichte</rs>’s <rs type="bibl" ref="#hsl_work_id_4275">Zeitschrift</rs>,
       <lb facs="#facs_3_region_1709376684138_1975_tl_20" n="N020"/>was ich selbständig darstellend in meiner „<rs type="bibl" ref="#hsl_work_id_4274">Poetik</rs>“, namentlich in
       <lb facs="#facs_3_region_1709376684138_1975_tl_21" n="N021"/>den einleitenden Abschnitten veröffentlichte, ist für ihn nicht
       <lb facs="#facs_3_region_1709376684138_1975_tl_22" n="N022"/>geschrieben gewesen. Er will das Schwierige durch einen blü
@@ -1935,8 +1935,8 @@
       <lb facs="#facs_3_region_1709376684138_1975_tl_26" n="N026"/><rs type="person" ref="#hsl_person_id_6127">Grün</rs> die Rede sein; aber ihren Zweck, eine bestimmte Ent
       <lb facs="#facs_3_region_1709376684138_1975_tl_27" n="N027" break="no"/>wickelungsstufe der Aesthetik auf eine leichtfaßliche und ein
       <lb facs="#facs_3_region_1709376684138_1975_tl_28" n="N028"/>größeres Publicum leicht ansprechende Weise popularisirend zu
-      <lb facs="#facs_3_region_1709376684138_1975_tl_29" n="N029"/>schildern, diesen Zweck haben sie glücklich erreicht.</p>
-               <p>
+      <lb facs="#facs_3_region_1709376684138_1975_tl_29" n="N029"/>schildern, diesen Zweck haben sie glücklich erreicht.
+            </p><p>
       <lb facs="#facs_3_region_1709376684138_1975_tl_30" n="N030"/><hi rendition="#em"><rs type="person" ref="#hsl_person_id_6127">Grün</rs>’s</hi> Vorlesungen sind durch jugendliche Frische und
       <lb facs="#facs_3_region_1709376684138_1975_tl_31" n="N031"/>Wärme ausgezeichnet, das lebendige Wort des Redners klingt
       <lb facs="#facs_3_region_1709376684138_1975_tl_32" n="N032"/>auch im Druck durch die stummen Lettern hindurch, er sagt We
@@ -1944,7 +1944,7 @@
       <lb facs="#facs_3_region_1709376684138_1975_tl_34" n="N034"/>dadurch gelöst zu haben, daß er es beschreibt, wie z. B. das Pro
       <lb facs="#facs_3_region_1709376684138_1975_tl_35" n="N035" break="no"/>duciren der Phantasie. Wenn er selbst laut seiner Vorrede
       <lb facs="#facs_3_region_1709376684138_1975_tl_36" n="N036"/>„weit entfernt ist, dem hier von ihm Gebotenen große Bedeu
-      <lb facs="#facs_3_region_1709376684138_1975_tl_37" n="N037" break="no"/>tung beizulegen“, so wird er auch von uns nicht fodern kön
+      <lb facs="#facs_3_region_1709376684138_1975_tl_37" n="N037" break="no"/>tung beizulegen“, so wird er auch von uns nicht fordern kön
       <lb facs="#facs_3_region_1709376684138_1975_tl_38" n="N038" break="no"/>nen, daß wir es thun; aber um einen Ueberblick über das Ge
       <lb facs="#facs_3_region_1709376684138_1975_tl_39" n="N039" break="no"/>biet der Aesthetik zu gewinnen, um einmal, was jetzt Eigen
       <lb facs="#facs_3_region_1709376684138_1975_tl_40" n="N040" break="no"/>thum aller Gebildeten ist, dem heranwachsenden Geschlechte in
@@ -1954,9 +1954,9 @@
       <lb facs="#facs_3_region_1709376684138_1975_tl_44" n="N044" break="no"/>ginnen, der zuliebe Tausende jetzt in die <rs type="place" ref="#hsl_place_id_97">Schweiz</rs> und jetzt ans
       <lb facs="#facs_3_region_1709376684138_1975_tl_45" n="N045"/>Meer reisen, ist eine Consequenz davon, daß er das Schöne
       <lb facs="#facs_3_region_1709376684138_1975_tl_46" n="N046"/>zunächst in den Dingen statt in dem auffassenden Subjecte
-      <lb facs="#facs_3_region_1709376684138_1975_tl_47" n="N047"/>gesucht hat. Diesen Jrrthum theilt er mit <rs type="person" ref="#hsl_person_id_4660">Bayer</rs>. Wir wollen
-      <lb facs="#facs_3_region_1709376684138_1975_tl_48" n="N048"/>etwas näher auf die Frage eingehen.</p>
-               <p>
+      <lb facs="#facs_3_region_1709376684138_1975_tl_47" n="N047"/>gesucht hat. Diesen Irrthum theilt er mit <rs type="person" ref="#hsl_person_id_4660">Bayer</rs>. Wir wollen
+      <lb facs="#facs_3_region_1709376684138_1975_tl_48" n="N048"/>etwas näher auf die Frage eingehen.
+            </p><p>
       <lb facs="#facs_3_region_1709376684138_1975_tl_49" n="N049"/>Wir glauben nach gewöhnlicher Ansicht der Dinge in einer
       <lb facs="#facs_3_region_1709376684138_1975_tl_50" n="N050"/>tönenden, hellen, farbenreichen Welt zu leben und sie, die für
       <lb facs="#facs_3_region_1709376684138_1975_tl_51" n="N051"/>sich fertig ist, mit unsern Sinnen und Gedanken nur aufzu
@@ -1971,7 +1971,7 @@
       <lb facs="#facs_3_region_1709376684138_1975_tl_60" n="N060"/>Sein ist; und wäre kein Bewußtsein, keine Wahrnehmung und
       <lb facs="#facs_3_region_1709376684138_1975_tl_61" n="N061"/>Empfindung, so würde das bloße Dasein einer materiellen Welt
       <lb facs="#facs_3_region_1709376684138_1975_tl_62" n="N062"/>weder genossen, noch angeschaut, noch irgendwie erfaßt werden
-      <lb facs="#facs_3_region_1709376684138_1975_tl_63" n="N063"/>und so gut wie gar nicht vorhanden sein. Ohne <rs type="person" ref="#hsl_person_id_142">Kant</rs>’s „<rs type="bibl" ref="'#hsl_work_id_4243">Kri
+      <lb facs="#facs_3_region_1709376684138_1975_tl_63" n="N063"/>und so gut wie gar nicht vorhanden sein. Ohne <rs type="person" ref="#hsl_person_id_142">Kant</rs>’s „<rs type="bibl" ref="#hsl_work_id_4243">Kri
       <lb facs="#facs_3_region_1709376684138_1975_tl_64" n="N064" break="no"/>tik der reinen Vernunft</rs>“ studirt zu haben, sollte Niemand in
       <lb facs="#facs_3_region_1709376684138_1975_tl_65" n="N065"/>ästhetischen Dingen ein Wort mitreden wollen, aber weder bei
       <lb facs="#facs_3_region_1709376684138_1975_tl_66" n="N066"/><rs type="person" ref="#hsl_person_id_4660">Bayer</rs> noch bei <rs type="person" ref="#hsl_person_id_6127">Grün</rs> sind die Spuren eines Verständnisses
@@ -1991,8 +1991,8 @@
       <lb facs="#facs_3_region_1709376689338_1978_tl_10" n="N010"/>Augen geschlossen sind, aber sie glänzen erst, wenn ihre Strah
       <lb facs="#facs_3_region_1709376689338_1978_tl_11" n="N011" break="no"/>len vom offenen Auge aufgenommen werden; wir hören die
       <lb facs="#facs_3_region_1709376689338_1978_tl_12" n="N012"/>Stimme der Nachtigal nicht außer uns, erst in unserm Ohr,
-      <lb facs="#facs_3_region_1709376689338_1978_tl_13" n="N013"/>erst unserer Empfindung beginnt sie zu tönen.</p>
-               <p>
+      <lb facs="#facs_3_region_1709376689338_1978_tl_13" n="N013"/>erst unserer Empfindung beginnt sie zu tönen.
+            </p><p>
       <lb facs="#facs_3_region_1709376689338_1978_tl_14" n="N014"/>Da nun alles Schöne in Natur und Kunst uns durch die
       <lb facs="#facs_3_region_1709376689338_1978_tl_15" n="N015"/>Sinne vermittelt wird, da es durch Formen, Farben, Töne
       <lb facs="#facs_3_region_1709376689338_1978_tl_16" n="N016"/>unserm Gemüthe mitgetheilt werden muß, so ergibt sich aus
@@ -2007,8 +2007,8 @@
       <lb facs="#facs_3_region_1709376689338_1978_tl_25" n="N025"/>sondern in einem Zusammenwirken bestimmter Vorstellungen
       <lb facs="#facs_3_region_1709376689338_1978_tl_26" n="N026"/>mit unserer Seele entstehen, und wir nennen die Gegenstände
       <lb facs="#facs_3_region_1709376689338_1978_tl_27" n="N027"/>dieser Vorstellungen schön im Unterschiede von andern, welche
-      <lb facs="#facs_3_region_1709376689338_1978_tl_28" n="N028"/>andere Empfindungen in uns erwecken.</p>
-               <p>
+      <lb facs="#facs_3_region_1709376689338_1978_tl_28" n="N028"/>andere Empfindungen in uns erwecken.
+            </p><p>
       <lb facs="#facs_3_region_1709376689338_1978_tl_29" n="N029"/>Hätte <hi rendition="#em"><rs type="person" ref="#hsl_person_id_4660">Bayer</rs></hi> dies erwogen, so würde er es nicht für ein
       <lb facs="#facs_3_region_1709376689338_1978_tl_30" n="N030"/>Besonderes der Schönheit in der unorganischen Natur erachtet
       <lb facs="#facs_3_region_1709376689338_1978_tl_31" n="N031"/>haben, daß dieselbe in uns, in unserm fühlenden Auge, in unserm
@@ -2020,16 +2020,16 @@
       <lb facs="#facs_3_region_1709376689338_1978_tl_37" n="N037"/>muß die Töne in ihrer Folge festhalten und zur Einheit ver
       <lb facs="#facs_3_region_1709376689338_1978_tl_38" n="N038" break="no"/>knüpfen, die Seele hört also die Melodie durch eigene Thätigkeit,
       <lb facs="#facs_3_region_1709376689338_1978_tl_39" n="N039"/>und wer eine Dichtung genießen will, der muß sie miterzeu
-      <lb facs="#facs_3_region_1709376689338_1978_tl_40" n="N040" break="no"/>gen, der muß sie dem Dichter in sich selbst nachschaffen.</p>
-               <p>
+      <lb facs="#facs_3_region_1709376689338_1978_tl_40" n="N040" break="no"/>gen, der muß sie dem Dichter in sich selbst nachschaffen.
+            </p><p>
       <lb facs="#facs_3_region_1709376689338_1978_tl_41" n="N041"/><rs type="person" ref="#hsl_person_id_4660">Bayer</rs> hat von unserm Leben eine sehr schlechte, von der
       <lb facs="#facs_3_region_1709376689338_1978_tl_42" n="N042"/>Aesthetik eine sehr gute Meinung. Er sagt: „Das aus der
       <lb facs="#facs_3_region_1709376689338_1978_tl_43" n="N043"/>Welt geschiedene Schöne, das die Basis einer schönen Wirk
       <lb facs="#facs_3_region_1709376689338_1978_tl_44" n="N044" break="no"/>lichkeit verloren hat, muß in die Sphäre des Gedankens erho
       <lb facs="#facs_3_region_1709376689338_1978_tl_45" n="N045" break="no"/>ben werden, um uns so gesichert und unverloren zu bleiben.“
       <lb facs="#facs_3_region_1709376689338_1978_tl_46" n="N046"/>Aber all seine Erhebungen in den Gedanken würden uns ein
-      <lb facs="#facs_3_region_1709376689338_1978_tl_47" n="N047"/>schlechter Ersatz sein, wenn <hi rendition="#em"><rs type="person" ref="#hsl_person_id_380">Rafael</rs>’s</hi> „<rs type="bibl" ref="'#hsl_work_id_4244">Sixtinische Madonna</rs>“
-      <lb facs="#facs_3_region_1709376689338_1978_tl_48" n="N048"/>oder <hi rendition="#em"><rs type="person" ref="#hsl_person_id_189">Mozart</rs>’s</hi> „<rs type="bibl" ref="'#hsl_work_id_174">Don Juan</rs>“ verlorengingen. Das ist ja gerade
+      <lb facs="#facs_3_region_1709376689338_1978_tl_47" n="N047"/>schlechter Ersatz sein, wenn <hi rendition="#em"><rs type="person" ref="#hsl_person_id_380">Rafael</rs>’s</hi> „<rs type="bibl" ref="#hsl_work_id_4244">Sixtinische Madonna</rs>“
+      <lb facs="#facs_3_region_1709376689338_1978_tl_48" n="N048"/>oder <hi rendition="#em"><rs type="person" ref="#hsl_person_id_189">Mozart</rs>’s</hi> „<rs type="bibl" ref="#hsl_work_id_174">Don Juan</rs>“ verlorengingen. Das ist ja gerade
       <lb facs="#facs_3_region_1709376689338_1978_tl_49" n="N049"/>die Eigenthümlichkeit des Schönen, daß die ewige Idee nicht
       <lb facs="#facs_3_region_1709376689338_1978_tl_50" n="N050"/>blos gedacht, sondern angeschaut und empfunden wird, und
       <lb facs="#facs_3_region_1709376689338_1978_tl_51" n="N051"/>darum ist für den Verstand in jedem schönen Werke ein Un
@@ -2076,11 +2076,11 @@
       <lb facs="#facs_4_region_1709376713762_1984_tl_27" n="N021"/>ihr Zweck, sondern sie ist eine philosophische Wissenschaft, welche
       <lb facs="#facs_4_region_1709376713762_1984_tl_28" n="N022"/>die Wirklichkeit des Schönen erkennen und im Zusammen
       <lb facs="#facs_4_region_1709376713762_1984_tl_29" n="N023" break="no"/>hang des geistigen Lebens begreifen, ihre Idee erfassen und
-      <lb facs="#facs_4_region_1709376713762_1984_tl_30" n="N024"/>daraus ihre Gesetze entwickeln will. Das erfodert freilich das Ver
-      <lb facs="#facs_4_region_1709376713762_1984_tl_31" n="N025" break="no"/>ständniß der Natur und des Geistes, es erfodert eine gründ
+      <lb facs="#facs_4_region_1709376713762_1984_tl_30" n="N024"/>daraus ihre Gesetze entwickeln will. Das erfordert freilich das Ver
+      <lb facs="#facs_4_region_1709376713762_1984_tl_31" n="N025" break="no"/>ständniß der Natur und des Geistes, es erfordert eine gründ
       <lb facs="#facs_4_region_1709376713762_1984_tl_33" n="N026" break="no"/>liche philosophische Bildung, und es ist das Schwerste, über
-      <lb facs="#facs_4_region_1709376713762_1984_tl_34" n="N027"/>den Begriff des Schönen auch volksverständlich zu schreiben.</p>
-               <p>
+      <lb facs="#facs_4_region_1709376713762_1984_tl_34" n="N027"/>den Begriff des Schönen auch volksverständlich zu schreiben.
+            </p><p>
       <lb facs="#facs_4_region_1709376713762_1984_tl_35" n="N028"/>Nachdem ich der Redaction die Besprechung von <rs type="person" ref="#hsl_person_id_4660">Bayer</rs>’s
       <lb facs="#facs_4_region_1709376713762_1984_tl_36" n="N029"/>Buch zugesagt, habe ich es genau durchgenommen und beson
       <lb facs="#facs_4_region_1709376713762_1984_tl_37" n="N030" break="no"/>ders in den ersten Heften eine Menge halbwahrer oder fal
@@ -2107,8 +2107,8 @@
       <lb facs="#facs_4_region_1709376713762_1984_tl_58" n="N051"/>Autor. Aber eben im Künstler muß die Kunstlehre wieder
       <lb facs="#facs_4_region_1709376713762_1984_tl_59" n="N052"/>fruchtbar werden, sonst bleibt es bei dem Distichon:
       <lb facs="#facs_4_region_1709376713762_1984_tl_60" n="N053"/>Fortzupflanzen die Welt sind alle vernünft’gen Discurse
-      <lb facs="#facs_4_region_1709376713762_1984_tl_61" n="N054"/>Ungenügend, auch kommt durch sie kein Kunstwerk hervor.</p>
-               <p>
+      <lb facs="#facs_4_region_1709376713762_1984_tl_61" n="N054"/>Ungenügend, auch kommt durch sie kein Kunstwerk hervor.
+            </p><p>
       <lb facs="#facs_4_region_1709376713762_1984_tl_62" n="N055"/>Für <rs type="person" ref="#hsl_person_id_4660">Bayer</rs>’s Zweck war es ganz angemessen, nicht mit der
       <lb facs="#facs_4_region_1709376713762_1984_tl_63" n="N056"/>Idee des Schönen zu beginnen, sondern mit der Betrachtung
       <lb facs="#facs_4_region_1709376713762_1984_tl_64" n="N057"/>der Wirklichkeit, um aus ihr jene zu gewinnen. So wendet er
@@ -2148,11 +2148,11 @@
       <lb facs="#facs_4_region_1709376720274_1987_tl_22" n="N022"/>den Zufall wieder in die Natur einführen will. Der Geist ist
       <lb facs="#facs_4_region_1709376720274_1987_tl_23" n="N023"/>so wenig ohne Gesetz und Nothwendigkeit, als die Natur ohne
       <lb facs="#facs_4_region_1709376720274_1987_tl_24" n="N024"/>Freiheit. Die Freiheit aber in ihrem ganzen Wesen und in
-      <lb facs="#facs_4_region_1709376720274_1987_tl_25" n="N025"/>ihrem innigen Verhältniß zur Schönheit darzustellen, erfodert
+      <lb facs="#facs_4_region_1709376720274_1987_tl_25" n="N025"/>ihrem innigen Verhältniß zur Schönheit darzustellen, erfordert
       <lb facs="#facs_4_region_1709376720274_1987_tl_26" n="N026"/>eine eigene Abhandlung, die ich bald im systematischen Zusam
       <lb facs="#facs_4_region_1709376720274_1987_tl_27" n="N027" break="no"/>menhang einer Aesthetik den Freunden dieser Wissenschaft vor
-      <lb facs="#facs_4_region_1709376720274_1987_tl_28" n="N028" break="no"/>zulegen hoffe.</p>
-               <p>
+      <lb facs="#facs_4_region_1709376720274_1987_tl_28" n="N028" break="no"/>zulegen hoffe.
+            </p><p>
       <lb facs="#facs_4_region_1709376720274_1987_tl_29" n="N029"/>Was mag sich <rs type="person" ref="#hsl_person_id_4660">Bayer</rs> bei folgender Phrase gedacht haben,
       <lb facs="#facs_4_region_1709376720274_1987_tl_30" n="N030"/>die das <rs type="person" ref="#hsl_person_id_100">Goethe</rs>’sche Wort „Im Anfang war die That“ erläu
       <lb facs="#facs_4_region_1709376720274_1987_tl_31" n="N031" break="no"/>tern soll? Unter That verstehen wir Andern das Werk der
@@ -2161,8 +2161,8 @@
       <lb facs="#facs_4_region_1709376720274_1987_tl_34" n="N034"/>noch nicht selbst denkendes Schaffen.“ Ein Gedanke, der nicht
       <lb facs="#facs_4_region_1709376720274_1987_tl_35" n="N035"/>denkt und nicht gedacht wird, denn das ursprüngliche Schaffen
       <lb facs="#facs_4_region_1709376720274_1987_tl_36" n="N036"/>soll ja nicht denken, wenn das nicht jenes Messer ohne Klinge
-      <lb facs="#facs_4_region_1709376720274_1987_tl_37" n="N037"/>ist, dessen Stiel abhanden kam.</p>
-               <p>
+      <lb facs="#facs_4_region_1709376720274_1987_tl_37" n="N037"/>ist, dessen Stiel abhanden kam.
+            </p><p>
       <lb facs="#facs_4_region_1709376720274_1987_tl_38" n="N038"/>Mit Wohlgefallen liest man dagegen die Schilderung vom
       <lb facs="#facs_4_region_1709376720274_1987_tl_39" n="N039"/>„Geistschönen“, d. h. den Abschnitt, welcher das menschliche
       <lb facs="#facs_4_region_1709376720274_1987_tl_40" n="N040"/>Leben vom ästhetischen Standpunkt betrachtet; hier ist Man
@@ -2189,8 +2189,8 @@
       <lb facs="#facs_4_region_1709376720274_1987_tl_61" n="N061"/>sich erheben wolle, der die Innen- und Ueberweltlichkeit Got
       <lb facs="#facs_4_region_1709376720274_1987_tl_62" n="N062" break="no"/>tes, Gottes Unendlichkeit und freies Selbstbewußtsein zugleich
       <lb facs="#facs_4_region_1709376720274_1987_tl_63" n="N063"/>festhält, sowie die Seele des Menschen allgegenwärtig im Leibe
-      <lb facs="#facs_4_region_1709376720274_1987_tl_64" n="N064"/>lebt und doch über ihm als Geist bei sich selbst ist.</p>
-               <p>
+      <lb facs="#facs_4_region_1709376720274_1987_tl_64" n="N064"/>lebt und doch über ihm als Geist bei sich selbst ist.
+            </p><p>
       <lb facs="#facs_4_region_1709376720274_1987_tl_65" n="N065"/>Im Abschnitt über das Kunstschöne betrachtet der Ver
       <lb facs="#facs_4_region_1709376720274_1987_tl_66" n="N066" break="no"/>fasser das Architektonische, Plastische, Malerische und Musika
       <lb facs="#facs_4_region_1709376720274_1987_tl_67" n="N067" break="no"/>lische, und wir müssen ihm das Zeugniß geben, daß sein Werk
@@ -2217,8 +2217,8 @@
       <lb facs="#facs_5_region_1709376764026_2002_tl_17" n="N017"/>den noch unklaren Gedanken durch einen blühenden Stil auf
       <lb facs="#facs_5_region_1709376764026_2002_tl_18" n="N018" break="no"/>zuputzen und die Schärfe des begrifflichen Ausdrucks durch
       <lb facs="#facs_5_region_1709376764026_2002_tl_19" n="N019"/>Metaphern zu ersetzen, die jene immerhin veranschaulichen mö
-      <lb facs="#facs_5_region_1709376764026_2002_tl_20" n="N020" break="no"/>gen, sobald sie für sich vorhanden ist.</p>
-               <p>
+      <lb facs="#facs_5_region_1709376764026_2002_tl_20" n="N020" break="no"/>gen, sobald sie für sich vorhanden ist.
+            </p><p>
       <lb facs="#facs_5_region_1709376764026_2002_tl_21" n="N021"/>Auch <hi rendition="#em"><rs type="person" ref="#hsl_person_id_717">Ambros</rs></hi> gibt sich in seiner Schrift „<rs type="bibl" ref="#hsl_work_id_4247">Die Grenzen
       <lb facs="#facs_5_region_1709376764026_2002_tl_22" n="N022"/>der Musik und Poesie</rs>“ als gebildeten Dilettanten zu erkennen;
       <lb facs="#facs_5_region_1709376764026_2002_tl_23" n="N023"/>er entwickelt nicht aus Principien, noch steigt er zu ihnen em
@@ -2237,8 +2237,8 @@
       <lb facs="#facs_5_region_1709376764026_2002_tl_36" n="N036"/>willkommen sein und kann ihnen wegen der Richtigkeit der
       <lb facs="#facs_5_region_1709376764026_2002_tl_37" n="N037"/>aufgestellten Ansichten empfohlen werden, wenn auch diese An
       <lb facs="#facs_5_region_1709376764026_2002_tl_38" n="N038" break="no"/>sichten der philosophischen Begründung und Entwickelung noch
-      <lb facs="#facs_5_region_1709376764026_2002_tl_39" n="N039"/>bedürfen.</p>
-               <p>
+      <lb facs="#facs_5_region_1709376764026_2002_tl_39" n="N039"/>bedürfen.
+            </p><p>
       <lb facs="#facs_5_region_1709376764026_2002_tl_40" n="N040"/>Mit Fug erklärt sich <rs type="person" ref="#hsl_person_id_717">Ambros</rs> gegen selche Musiker, welche
       <lb facs="#facs_5_region_1709376764026_2002_tl_41" n="N041"/>(wie Félicien <rs type="person" ref="#hsl_person_id_969">David</rs> im „<rs type="bibl" ref="#hsl_work_id_4276">L’avant d’homme</rs>“) den Zustand des
       <lb facs="#facs_5_region_1709376764026_2002_tl_42" n="N042"/>Planeten in der Lias- oder Keuperperiode malen, welche, wie
@@ -2310,8 +2310,8 @@
       <lb facs="#facs_5_r2_tl_38" n="N038" break="no"/>figuren in der Seele, in jeder andere nach ihren Lebenserfah
       <lb facs="#facs_5_r2_tl_39" n="N039" break="no"/>rungen. Die Musik gibt sozusagen die Buchstabenformel,
       <lb facs="#facs_5_r2_tl_40" n="N040"/>die der Hörer dann mit benannten oder unbenannten Zahlen
-      <lb facs="#facs_5_r2_tl_41" n="N041"/>ausfüllt.</p>
-               <p>
+      <lb facs="#facs_5_r2_tl_41" n="N041"/>ausfüllt.
+            </p><p>
       <lb facs="#facs_5_r2_tl_42" n="N042"/>So sagt denn auch <rs type="person" ref="#hsl_person_id_717">Ambros</rs> viel Treffendes gegen <rs type="person" ref="#hsl_person_id_1">Hans
       <lb facs="#facs_5_r2_tl_43" n="N043" break="no"/>lick</rs>, indem er die Thaten der großen Musiker der mangelhaf
       <lb facs="#facs_5_r2_tl_44" n="N044" break="no"/>ten Theorie des leeren Formalismus entgegenstellt. Er erörtert
@@ -2337,8 +2337,8 @@
       <lb facs="#facs_5_r2_tl_64" n="N064"/>hieße die Malerei auf die bloße Darstellung von Körperformen
       <lb facs="#facs_5_r2_tl_65" n="N065"/>beschränken und es ihr versagen, auch die Seele und den Cha
       <lb facs="#facs_5_r2_tl_66" n="N066" break="no"/>rakter der Personen oder die geistige Bedeutung einer veran
-      <lb facs="#facs_5_r2_tl_67" n="N067" break="no"/>schaulichten Handlung auszudrücken.</p>
-               <p>
+      <lb facs="#facs_5_r2_tl_67" n="N067" break="no"/>schaulichten Handlung auszudrücken.
+            </p><p>
       <lb facs="#facs_5_r2_tl_68" n="N068"/>In jeder Kunst wirkt der ganze Geist; auch im Bildhauer,
       <lb facs="#facs_5_r2_tl_69" n="N069"/>wie im Dichter, ist das Gefühl lebendig, und sein Werk wirkt<space quantity="1" unit="char"/>
             <pb facs="#facs_6" n="6" xml:id="img_0006"/>
@@ -2375,8 +2375,8 @@
       <lb facs="#facs_6_region_1709376794962_2008_tl_31" n="N030" break="no"/>jenige zu, was unsere Subjectivität im Zusammenwirken mit
       <lb facs="#facs_6_region_1709376794962_2008_tl_32" n="N031"/>ihm erzeugt, indem wir uns dieses vorstellen und das in uns
       <lb facs="#facs_6_region_1709376794962_2008_tl_33" n="N032"/>hervorgebrachte Bild wieder außer uns den Gegenstand decken
-      <lb facs="#facs_6_region_1709376794962_2008_tl_34" n="N033"/>lassen, dem wir die Anregung dazu verdanken.</p>
-               <p>
+      <lb facs="#facs_6_region_1709376794962_2008_tl_34" n="N033"/>lassen, dem wir die Anregung dazu verdanken.
+            </p><p>
       <lb facs="#facs_6_region_1709376794962_2008_tl_35" n="N034"/><rs type="person" ref="#hsl_person_id_717">Ambros</rs> bemerkt weiter: „Wenn das <rs type="bibl" ref="#hsl_work_id_4248">erste Buch Samuel</rs><space quantity="1" unit="char"/>
       <lb facs="#facs_6_region_1709376794962_2008_tl_36" n="N035"/>von der Heilung des trübsinnigen <rs type="person" ref="#hsl_person_id_1641">Saul</rs> durch <rs type="person" ref="#hsl_person_id_1945">David</rs>’s Harfen
       <lb facs="#facs_6_region_1709376794962_2008_tl_37" n="N036" break="no"/>spiel erzählt, so hat man sich doch wol keinen Kammermusiker
@@ -2389,8 +2389,8 @@
       <lb facs="#facs_6_region_1709376794962_2008_tl_44" n="N043"/>Sang wilde Thiere sanft wurden, sowie das formale Moment
       <lb facs="#facs_6_region_1709376794962_2008_tl_45" n="N044"/>in der Sage vom <rs type="person" ref="#hsl_person_id_6128">Amphion</rs>, der durch sein Spiel bewirkte,
       <lb facs="#facs_6_region_1709376794962_2008_tl_46" n="N045"/>daß vor dem geordneten Maße der Töne die rohe Materie
-      <lb facs="#facs_6_region_1709376794962_2008_tl_47" n="N046"/>selbst sich zu maßvoller Ordnung zusammenfügte.“</p>
-               <p>
+      <lb facs="#facs_6_region_1709376794962_2008_tl_47" n="N046"/>selbst sich zu maßvoller Ordnung zusammenfügte.“
+            </p><p>
       <lb facs="#facs_6_region_1709376794962_2008_tl_48" n="N047"/>Ein junger Mann hatte <rs type="person" ref="#hsl_person_id_21">Mendelssohn</rs>’s, „<rs type="bibl" ref="#hsl_work_id_1860">Lieder ohne Worte</rs>“
       <lb facs="#facs_6_region_1709376794962_2008_tl_49" n="N048"/>in Worte übersetzen wollen; der Componist gab ihm zur Ant
       <lb facs="#facs_6_region_1709376794962_2008_tl_50" n="N049" break="no"/>wort, daß der Ausdruck der Musik in Regionen reicht und
@@ -2405,15 +2405,15 @@
       <lb facs="#facs_6_region_1709376794962_2008_tl_59" n="N058"/>den gleichlautenden Worten: „Ich bin’s! Du bist’s!“, da die
       <lb facs="#facs_6_region_1709376794962_2008_tl_60" n="N059"/>wiedervereinigten Gatten nur noch ausrufen: „<rs type="person" ref="#hsl_person_id_480">Leonore</rs> — <rs type="person" ref="#hsl_person_id_479">Flo
       <lb facs="#facs_6_region_1709376794962_2008_tl_61" n="N060" break="no"/>restan</rs>!“ und dann verstummen, ausgedrückt, was in den Her
-      <lb facs="#facs_6_region_1709376794962_2008_tl_62" n="N061" break="no"/>zen der Glücklichen Unaussprechliches wogt.</p>
-               <p>
+      <lb facs="#facs_6_region_1709376794962_2008_tl_62" n="N061" break="no"/>zen der Glücklichen Unaussprechliches wogt.
+            </p><p>
       <lb facs="#facs_6_region_1709376794962_2008_tl_63" n="N062"/>Schließlich möchte ich noch aufmerksam machen, daß über
       <lb facs="#facs_6_region_1709376794962_2008_tl_64" n="N063"/><rs type="person" ref="#hsl_person_id_108">Händel</rs>’s „<rs type="bibl" ref="#hsl_work_id_463">Messias</rs>“, über <rs type="person" ref="#hsl_person_id_25">Beethoven</rs>’s „<rs type="bibl" ref="#hsl_work_id_348">Fidelio</rs>“, über einige
       <lb facs="#facs_6_region_1709376794962_2008_tl_65" n="N064"/>Symphonien dieses Meisters vortreffliche Worte künstlerischer
       <lb facs="#facs_6_region_1709376794962_2008_tl_66" n="N065"/>Charakteristik im vorliegenden Büchlein zu finden sind. Auch
       <lb facs="#facs_6_region_1709376794962_2008_tl_67" n="N066"/>der „<rs type="bibl" ref="#hsl_work_id_40">Tanhäuser</rs>“ von Richard <rs type="person" ref="#hsl_person_id_319">Wagner</rs> erfährt eine gerechte
-      <lb facs="#facs_6_region_1709376794962_2008_tl_68" n="N067"/>Würdigung.</p>
-               <p>
+      <lb facs="#facs_6_region_1709376794962_2008_tl_68" n="N067"/>Würdigung.
+            </p><p>
       <lb facs="#facs_6_region_1709376794962_2008_tl_69" n="N068"/>Dies führt uns zu dem Schriftchen, in welchem ein Un
       <lb facs="#facs_6_region_1709376794962_2008_tl_70" n="N069" break="no"/>genannter seinen Beitrag „<rs type="bibl" ref="#hsl_work_id_4271">Zur Reform der modernen Kunst</rs>“<space quantity="1" unit="char"/>
             <cb n="9"/>
