@@ -110,6 +110,7 @@
          <change who="ampfiel" when="2025-03-06">fix header, Layout</change>
          <change who="ampfiel" when="2025-03-13">Zeilenumbrüche, rs ref</change>
          <change who="ampfiel" when="2025-03-20">space</change>
+         <change who="awilfing" when="2025-04-03">Letztkorrektur für Zwischenrelease.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -2421,13 +2422,12 @@
       <body>
          <div n="1">
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <head type="h1"><lb facs="#facs_1_region_1709374423050_1240_tl_1" n="N001"/><rs type="place" ref="#hsl_place_id_32">Leipzig</rs></head>
-            <p>      
-      <lb facs="#facs_1_region_1709374423050_1240_tl_2" n="N002"/>bei Rud. <rs type="person" ref="#hsl_person_id_377">Weigel</rs><space quantity="1" unit="char"/><date when="1854">1854</date>. <rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>.
-      <lb facs="#facs_1_region_1709374423050_1240_tl_3" n="N003"/>Ein Beitrag zur Revision der Aesthetik der Ton
-      <lb facs="#facs_1_region_1709374423050_1240_tl_4" n="N004" break="no"/>kunst. Von Dr. Ed. <hi rendition="#em"><rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi>. IV u. 104 S.
-      <lb facs="#facs_1_region_1709374423050_1240_tl_5" n="N005"/>in Octav.
-            </p><p>
+            <lb facs="#facs_1_region_1709374423050_1240_tl_1" n="N001"/><head type="h1"><rs type="place" ref="#hsl_place_id_32">Leipzig</rs></head>
+            <lb facs="#facs_1_region_1709374423050_1240_tl_2" n="N002"/><head type="h2">bei Rud. <rs type="person" ref="#hsl_person_id_377">Weigel</rs><space quantity="1" unit="char"/><date when="1854">1854</date>. <rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>.
+            <lb facs="#facs_1_region_1709374423050_1240_tl_3" n="N003"/>Ein Beitrag zur Revision der Aesthetik der Ton
+            <lb facs="#facs_1_region_1709374423050_1240_tl_4" n="N004" break="no"/>kunst. Von Dr. Ed. <hi rendition="#em"><rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi>. IV u. 104 S.
+            <lb facs="#facs_1_region_1709374423050_1240_tl_5" n="N005"/>in Octav.</head>
+            <p>
       <lb facs="#facs_1_region_1709374423050_1240_tl_6" n="N006"/>„Die Zeit jener ästhetischen Systeme ist vor
       <lb facs="#facs_1_region_1709374423050_1240_tl_7" n="N007" break="no"/>über, welche das Schöne nur in Bezug auf die
       <lb facs="#facs_1_region_1709374423050_1240_tl_8" n="N008"/>dadurch wachgerufenen Empfindungen betrachtet
@@ -2454,8 +2454,8 @@
       <lb facs="#facs_2_region_1709374438315_1246_tl_8" n="N007" break="no"/>den sollen, seine Reflexionen an die herrschende
       <lb facs="#facs_2_region_1709374438315_1246_tl_9" n="N008"/>Richtung unserer philosophischen Aesthetik an, von
       <lb facs="#facs_2_region_1709374438315_1246_tl_10" n="N009"/>welcher ihm die Theorie der Musik zu ihrem Nach
-      <lb facs="#facs_2_region_1709374438315_1246_tl_11" n="N010" break="no"/>theil bisher zu wenig durchdrungen scheint.</p>
-               <p>
+      <lb facs="#facs_2_region_1709374438315_1246_tl_11" n="N010" break="no"/>theil bisher zu wenig durchdrungen scheint.
+            </p><p>
       <lb facs="#facs_2_region_1709374438315_1246_tl_12" n="N011"/>Je seltener sich das technische Verständniß einer
       <lb facs="#facs_2_region_1709374438315_1246_tl_13" n="N012"/>Kunst mit der Neigung und Fähigkeit zu wissen
       <lb facs="#facs_2_region_1709374438315_1246_tl_14" n="N013" break="no"/>schaftlicher Aesthetik verbunden findet, um so mehr
@@ -2472,8 +2472,8 @@
       <lb facs="#facs_2_region_1709374438315_1246_tl_25" n="N024"/>die richtige und fein empfundene Auffassung des
       <lb facs="#facs_2_region_1709374438315_1246_tl_26" n="N025"/>Musikalisch-Schönen, die er uns gibt, namentlich
       <lb facs="#facs_2_region_1709374438315_1246_tl_27" n="N026"/>in den ersten Abschnitten seiner Schrift nicht ganz
-      <lb facs="#facs_2_region_1709374438315_1246_tl_28" n="N027"/>klar hervortritt.</p>
-               <p>
+      <lb facs="#facs_2_region_1709374438315_1246_tl_28" n="N027"/>klar hervortritt.
+            </p><p>
       <lb facs="#facs_2_region_1709374438315_1246_tl_29" n="N028"/>Ich kann nicht glauben, daß der subjective Ein
       <lb facs="#facs_2_region_1709374438315_1246_tl_30" n="N029" break="no"/>druck des Schönen nur ein Nebenpunkt der Ae
       <lb facs="#facs_2_region_1709374438315_1246_tl_31" n="N030" break="no"/>sthetik sein dürfe; ich bin vielmehr überzeugt, daß
@@ -2550,8 +2550,8 @@
       <lb facs="#facs_4_region_1709374461611_1258_tl_27" n="N027"/>Bestande seiner wandellosen Natur gehörte, son
       <lb facs="#facs_4_region_1709374461611_1258_tl_28" n="N028" break="no"/>dern sie bezeichnen den verhältnißmäßigen Werth,
       <lb facs="#facs_4_region_1709374461611_1258_tl_29" n="N029"/>den seine Erscheinung für verschiedene auffassende
-      <lb facs="#facs_4_region_1709374461611_1258_tl_30" n="N030"/>Subjecte hat.</p>
-               <p>
+      <lb facs="#facs_4_region_1709374461611_1258_tl_30" n="N030"/>Subjecte hat.
+            </p><p>
       <lb facs="#facs_4_region_1709374461611_1258_tl_31" n="N031"/>Gewiß würde es der Untergang aller Aesthetik
       <lb facs="#facs_4_region_1709374461611_1258_tl_32" n="N032"/>sein, wenn wir bei dieser völligen Relativität des
       <lb facs="#facs_4_region_1709374461611_1258_tl_33" n="N033"/>Schönen stehen bleiben wollten, durch die sein
@@ -2702,8 +2702,8 @@
       <lb facs="#facs_8_region_1709374497802_1282_tl_29" n="N029" break="no"/>ren Vortrefflichkeit durchaus keinen Eindruck ma
       <lb facs="#facs_8_region_1709374497802_1282_tl_30" n="N030" break="no"/>chen, hat es in der Kunst nie gefehlt; unsere Zeit
       <lb facs="#facs_8_region_1709374497802_1282_tl_31" n="N031"/>aber scheint Anstalt zu machen, diese Gattung
-      <lb facs="#facs_8_region_1709374497802_1282_tl_32" n="N032"/>vorsätzlich auszubilden.</p>
-               <p>
+      <lb facs="#facs_8_region_1709374497802_1282_tl_32" n="N032"/>vorsätzlich auszubilden.
+            </p><p>
       <lb facs="#facs_8_region_1709374497802_1282_tl_33" n="N033"/>Mit dem Allen streite ich, wie sich zeigen wird,
       <lb facs="#facs_8_region_1709374497802_1282_tl_34" n="N034"/>nicht eigentlich gegen die Ansicht des Verfs selbst,
       <lb facs="#facs_8_region_1709374497802_1282_tl_35" n="N035"/>sondern gegen die wissenschaftliche Einleitung, die
@@ -2793,8 +2793,8 @@
       <lb facs="#facs_11_region_1709374533474_1300_tl_8" n="N008"/>hervorzubringen? Denn freilich in dieser ruhigen
       <lb facs="#facs_11_region_1709374533474_1300_tl_9" n="N009"/>Form, nicht in der eines in veränderlicher Melodie
       <lb facs="#facs_11_region_1709374533474_1300_tl_10" n="N010"/>fortströmenden Gefühls wird sich hier die Anre
-      <lb facs="#facs_11_region_1709374533474_1300_tl_11" n="N011" break="no"/>gung des Gemüthes äußern müssen.</p>
-               <p>
+      <lb facs="#facs_11_region_1709374533474_1300_tl_11" n="N011" break="no"/>gung des Gemüthes äußern müssen.
+            </p><p>
       <lb facs="#facs_11_region_1709374533474_1300_tl_12" n="N012"/>Daß nun gerade Reflexionen über Musik mehr
       <lb facs="#facs_11_region_1709374533474_1300_tl_13" n="N013"/>als über andere Künste sich in jene leere Gefühls
       <lb facs="#facs_11_region_1709374533474_1300_tl_14" n="N014" break="no"/>schwärmerei verlieren, die dem Verf. so anstößig
@@ -2877,7 +2877,7 @@
       <lb facs="#facs_13_region_1709374558962_1312_tl_17" n="N017"/>das Gefühl aber in Tönen schildern zu wollen,
       <lb facs="#facs_13_region_1709374558962_1312_tl_18" n="N018"/>das der fallende Schnee, der zuckende Blitz in uns
       <lb facs="#facs_13_region_1709374558962_1312_tl_19" n="N019"/>hervorbringt, ist widersinnig.“ Auch hier also hebt
-      <lb facs="#facs_13_region_1709374558962_1312_tl_20" n="N020"/>die musikalische Darstellung nur Verknüpfungs-
+      <lb facs="#facs_13_region_1709374558962_1312_tl_20" n="N020"/>die musikalische Darstellung nur Verknüpfungs-<space quantity="1" unit="char"/>
       <lb facs="#facs_13_region_1709374558962_1312_tl_21" n="N021"/>und Bewegungsformen des Mannichfaltigen hervor,
       <lb facs="#facs_13_region_1709374558962_1312_tl_22" n="N022"/>aber sie läßt die empirische Bestimmtheit des Be
       <lb facs="#facs_13_region_1709374558962_1312_tl_23" n="N023" break="no"/>wegten und Verknüpften völlig fallen. Und so
@@ -2916,8 +2916,8 @@
       <lb facs="#facs_14_region_1709374571115_1318_tl_19" n="N019" break="no"/>wendigkeit, den empirischen Gefühlen eine Gattung
       <lb facs="#facs_14_region_1709374571115_1318_tl_20" n="N020"/>anderer entgegenzustellen, und zu derselben Forde
       <lb facs="#facs_14_region_1709374571115_1318_tl_21" n="N021" break="no"/>rung leitet uns die Annahme, von welcher unsere
-      <lb facs="#facs_14_region_1709374571115_1318_tl_22" n="N022"/>ganze Betrachtung ausging.</p>
-               <p>
+      <lb facs="#facs_14_region_1709374571115_1318_tl_22" n="N022"/>ganze Betrachtung ausging.
+            </p><p>
       <lb facs="#facs_14_region_1709374571115_1318_tl_23" n="N023"/>Wie die moralische Beurtheilung auf die allge
       <lb facs="#facs_14_region_1709374571115_1318_tl_24" n="N024" break="no"/>meine Gesinnung, aus der eine Handlung unter
       <lb facs="#facs_14_region_1709374571115_1318_tl_25" n="N025" break="no"/>nommen wurde, aber nur sehr wenig auf die
@@ -2976,8 +2976,8 @@
       <lb facs="#facs_16_region_1709374591051_1330_tl_2" n="N002"/>jeder einzelne lebendige Trieb nicht allein und ver
       <lb facs="#facs_16_region_1709374591051_1330_tl_3" n="N003" break="no"/>lassen sich ins Leere ausbreitet, sondern darauf
       <lb facs="#facs_16_region_1709374591051_1330_tl_4" n="N004"/>hoffen kann, begleitende Bewegungen zu finden,
-      <lb facs="#facs_16_region_1709374591051_1330_tl_5" n="N005"/>die ihn heben, verstärken und zum Ziele führen.</p>
-               <p>
+      <lb facs="#facs_16_region_1709374591051_1330_tl_5" n="N005"/>die ihn heben, verstärken und zum Ziele führen.
+            </p><p>
       <lb facs="#facs_16_region_1709374591051_1330_tl_6" n="N006"/>Und dieses große Bild können wir kaum aus
       <lb facs="#facs_16_region_1709374591051_1330_tl_7" n="N007" break="no"/>sprechen, ohne daß es von selbst sich für uns in
       <lb facs="#facs_16_region_1709374591051_1330_tl_8" n="N008"/>Musik verwandelte; ohne daß wir sogleich inne
@@ -3012,17 +3012,12 @@
       <lb facs="#facs_16_region_1709374591051_1330_tl_37" n="N037"/>(Schluß folgt).</p>
          </div>
          <div n="2">
-               <pb facs="#facs_17" n="17" xml:id="img_0017"/>
-      <head type="h3">
-            <lb facs="#facs_17_region_1709374599843_1336_tl_5" n="N005"/>108. Stück.
-            <lb facs="#facs_17_region_1709374599843_1336_tl_6" n="N006"/>Den 7. Juli <date when="1855">1855</date>.</head>
-      <head type="h1">
-            <lb facs="#facs_17_region_1709374602906_1339_tl_1" n="N001"/><hi rendition="#em">Leipzig</hi></head>
-            <p>      
-      <lb facs="#facs_17_region_1709374602906_1339_tl_2" n="N002"/>Schluß der Anzeige: „<rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schö
-      <lb facs="#facs_17_region_1709374602906_1339_tl_3" n="N003" break="no"/>nen</rs>. Ein Beitrag zur Revision der Aesthetik der
-      <lb facs="#facs_17_region_1709374602906_1339_tl_4" n="N004"/>Tonkunst. Von Dr. Ed. <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>.“</p>
-                  <p>
+      <pb facs="#facs_17" n="17" xml:id="img_0017"/>
+            <lb facs="#facs_17_region_1709374602906_1339_tl_1" n="N001"/><head type="h1"><hi rendition="#em">Leipzig</hi></head>
+            <lb facs="#facs_17_region_1709374602906_1339_tl_2" n="N002"/><head type="h2">Schluß der Anzeige: „<rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schö
+            <lb facs="#facs_17_region_1709374602906_1339_tl_3" n="N003" break="no"/>nen</rs>. Ein Beitrag zur Revision der Aesthetik der
+            <lb facs="#facs_17_region_1709374602906_1339_tl_4" n="N004"/>Tonkunst. Von Dr. Ed. <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>.“</head>
+            <p>
       <lb facs="#facs_17_region_1709374602906_1339_tl_5" n="N005"/>Die Musik wird hierin auf das günstigste durch
       <lb facs="#facs_17_region_1709374602906_1339_tl_6" n="N006"/>die Natur ihres Materials, der Töne, unterstützt.
       <lb facs="#facs_17_region_1709374602906_1339_tl_7" n="N007"/>Ortlos und gestaltlos, aber nicht vorstellbar ohne
@@ -3066,8 +3061,8 @@
       <lb facs="#facs_18_region_1709374618315_1345_tl_23" n="N023"/>Gefühlen verbunden, daß um so mehr die Ver
       <lb facs="#facs_18_region_1709374618315_1345_tl_24" n="N024" break="no"/>knüpfung, welche erst die Kunst seinen Elementen
       <lb facs="#facs_18_region_1709374618315_1345_tl_25" n="N025"/>gibt, jede bedeutungsvolle Form auch zum Gegen
-      <lb facs="#facs_18_region_1709374618315_1345_tl_26" n="N026" break="no"/>stand eines lebhaften ästhetischen Gefühles macht.</p>
-               <p>
+      <lb facs="#facs_18_region_1709374618315_1345_tl_26" n="N026" break="no"/>stand eines lebhaften ästhetischen Gefühles macht.
+            </p><p>
       <lb facs="#facs_18_region_1709374618315_1345_tl_27" n="N027"/>Gewiß also kann die Musik weder ein bestimm
       <lb facs="#facs_18_region_1709374618315_1345_tl_28" n="N028" break="no"/>tes Element der Sittlichkeit, noch ein concretes
       <lb facs="#facs_18_region_1709374618315_1345_tl_29" n="N029"/>Ereigniß oder einen besonderen Gegenstand dar
@@ -3134,8 +3129,8 @@
       <lb facs="#facs_20_region_1709374644395_1357_tl_16" n="N016"/>die kraftlose, dem wirklichen Leben und seinen
       <lb facs="#facs_20_region_1709374644395_1357_tl_17" n="N017"/>praktischen Zielen abgewendete Entnervung, die
       <lb facs="#facs_20_region_1709374644395_1357_tl_18" n="N018"/>ihre ausschließliche populäre Cultur zum großen
-      <lb facs="#facs_20_region_1709374644395_1357_tl_19" n="N019"/>Theil in unserer Zeit mitverschuldet hat.</p>
-               <p>
+      <lb facs="#facs_20_region_1709374644395_1357_tl_19" n="N019"/>Theil in unserer Zeit mitverschuldet hat.
+            </p><p>
       <lb facs="#facs_20_region_1709374644395_1357_tl_20" n="N020"/>Die Aufgabe der Specialästhetiken einzelner Künste
       <lb facs="#facs_20_region_1709374644395_1357_tl_21" n="N021"/>würde es sein, zu zeigen, wie in den verschieden
       <lb facs="#facs_20_region_1709374644395_1357_tl_22" n="N022" break="no"/>sten Weisen sich doch überall diese Figuren wie
@@ -3151,8 +3146,8 @@
       <lb facs="#facs_20_region_1709374644395_1357_tl_32" n="N032" break="no"/>gewandt hat, zu dem Versuch einer ästhetischen
       <lb facs="#facs_20_region_1709374644395_1357_tl_33" n="N033"/>Verwerthung und Erläuterung der in der musi
       <lb facs="#facs_20_region_1709374644395_1357_tl_34" n="N034" break="no"/>kalischen Technik anerkannten einzelnen Formen
-      <lb facs="#facs_20_region_1709374644395_1357_tl_35" n="N035"/>ausdehnte.</p>
-               <p>
+      <lb facs="#facs_20_region_1709374644395_1357_tl_35" n="N035"/>ausdehnte.
+            </p><p>
       <lb facs="#facs_20_region_1709374644395_1357_tl_36" n="N036"/>H. <rs type="person" ref="#hsl_person_id_575">Lotze</rs>.</p>
          </div>
       </body>

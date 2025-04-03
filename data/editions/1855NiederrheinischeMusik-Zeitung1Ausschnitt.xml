@@ -108,6 +108,7 @@
          <change who="ampfiel" when="2025-01-21">Transkribus OCR und Lektorat.</change>
          <change who="ampfiel" when="2025-01-24">Header, Fußnoten, Layout</change>
          <change who="ampfiel" when="2025-01-27">rs ref, space einfügen</change>
+         <change who="awilfing" when="">Letztkorrektur für Zwischenrelease.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -4358,7 +4359,7 @@
       <lb facs="#facs_12_region_1709375974530_1740_tl_22" n="N022"/>allerdings bis zur geistigen Arbeit steigern, aber auch bei
       <lb facs="#facs_12_region_1709375974530_1740_tl_23" n="N023"/>sinnlichen Naturen auf ein Minimum sinken. Es gibt also
       <lb facs="#facs_12_region_1709375974530_1740_tl_24" n="N024"/>eine <hi rendition="#em">Kunst des Hörens</hi>, und sie ist nicht leicht
-                  <note type="footnote" n="*)">
+                  <note type="footnote" n="**)">
                         <lb facs="#facs_12_region_1709375974530_1740_tl_25" n="N025"/>„Die siegende Alleinherrschaft der Oberstimme bei den Ita
                         <lb facs="#facs_12_region_1709375974530_1740_tl_26" n="N026" break="no"/>liänern hat einen Hauptgrund in der geistigen Bequemlichkeit
                         <lb facs="#facs_12_region_1709375974530_1740_tl_27" n="N027"/>dieses Volkes, welchem das ausdauernde Durchdringen uner
@@ -4494,7 +4495,7 @@
       <lb facs="#facs_14_region_1709376025114_1755_tl_9" n="N009"/>Stoffe in der Natur; irgend ein <hi rendition="#em">Naturschönes</hi> regt sie
       <lb facs="#facs_14_region_1709376025114_1755_tl_10" n="N010"/>an, wird ihnen Stoff zu eigener Hervorbringung, wird ihnen
       <lb facs="#facs_14_region_1709376025114_1755_tl_11" n="N011"/>Vorbild
-                  <note type="footnote" n="*)">
+                  <note type="footnote" n="***)">
                         <lb facs="#facs_14_region_1709376025114_1755_tl_42" n="N042"/><hi rendition="#em"><rs type="person" ref="#hsl_person_id_379">Vischer</rs></hi> (<rs type="bibl" ref="#hsl_work_id_319">Aesthetik</rs>, II.), dem <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>, wie er unter dem
                         <lb facs="#facs_14_region_1709376025114_1755_tl_43" n="N043"/>Text bemerkt, hier in den allgemeinen Bestimmungen über
                         <lb facs="#facs_14_region_1709376025114_1755_tl_44" n="N044"/>das Naturschöne folgt, nimmt die <hi rendition="#em">Baukunst</hi> aus, als kein

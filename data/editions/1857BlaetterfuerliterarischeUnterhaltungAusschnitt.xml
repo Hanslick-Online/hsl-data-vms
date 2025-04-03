@@ -108,6 +108,7 @@
          <change who="delsner" when="2024-12-09">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2024-12-10">header, Absätze, Zeilenumbrüche, space, Liste, rs ref, header</change>
          <change who="ampfiel" when="2025-01-24">header richtigstellen</change>
+         <change who="awilfing" when="">Letztkorrektur für Zwischenrelease.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

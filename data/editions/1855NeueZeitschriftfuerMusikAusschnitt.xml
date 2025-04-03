@@ -108,7 +108,7 @@
          <change who="ampfiel" when="2025-02-17">Transkribus OCR und Lektorat.</change>
          <change who="delsner" when="2025-02-22">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-02-24">Header, Layout, rs ref ausfüllen, space einfügen</change>
-      </revisionDesc>
+         <change who="awilfing" when="">Letztkorrektur für Zwischenrelease.</change></revisionDesc>
    </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="9945" lry="12441" xml:id="facs_1">
