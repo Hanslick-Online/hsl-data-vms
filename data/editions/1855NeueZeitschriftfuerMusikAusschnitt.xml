@@ -108,7 +108,7 @@
          <change who="ampfiel" when="2025-02-17">Transkribus OCR und Lektorat.</change>
          <change who="delsner" when="2025-02-22">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-02-24">Header, Layout, rs ref ausfüllen, space einfügen</change>
-         <change who="awilfing" when="">Letztkorrektur für Zwischenrelease.</change></revisionDesc>
+         <change who="awilfing" when="2025-04-04">Letztkorrektur für Zwischenrelease.</change></revisionDesc>
    </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="9945" lry="12441" xml:id="facs_1">
@@ -3652,11 +3652,11 @@
    <div n="1">
          <pb facs="#facs_1" n="1" xml:id="img_0001"/>
          <lb n="000"/><head type="h1">Bücher, Zeitschriften.</head>
-         <lb facs="#facs_1_region_1709375117595_1487_tl_1" n="N001"/><head type="h2">Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>, <rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>.
+         <lb facs="#facs_1_region_1709375117595_1487_tl_1" n="N001"/><head type="h2"><hi rendition="#bold">Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi>, <rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>.
          <lb facs="#facs_1_region_1709375117595_1487_tl_2" n="N002"/>Ein Beitrag zur Revision der Aesthetik der Ton
          <lb facs="#facs_1_line_1737314731869_28" n="N003" break="no"/>kunst. — <rs type="place" ref="#hsl_place_id_32">Leipzig</rs>, R. <rs type="person" ref="#hsl_person_id_377">Weigel</rs>, <date when="1854">1854</date>.</head>
          <lb facs="#facs_1_region_1709375117595_1487_tl_5" n="N004"/><head type="h4">(Angezeigt von F. <hi rendition="#em"><rs type="person" ref="#hsl_person_id_1745">Brendel</rs></hi>.)</head>
-            <p>      
+         <p>      
       <lb facs="#facs_1_region_1709375117595_1487_tl_6" n="N005"/>Es ist in dies. Bl. wiederholt auf die bedeutungs
       <lb facs="#facs_1_region_1709375117595_1487_tl_7" n="N006" break="no"/>volle Thatsache hingewiesen worden, daß seit einigen
       <lb facs="#facs_1_region_1709375117595_1487_tl_8" n="N007"/>Jahren schon eine so rege Thätigkeit auf musikwissen
@@ -3676,13 +3676,13 @@
             <cb/>
       <lb facs="#facs_1_region_1709375124066_1490_tl_1" n="N001"/>auch, was Aesthetik betrifft, ein erneuter, dem wissen
       <lb facs="#facs_1_region_1709375124066_1490_tl_2" n="N002" break="no"/>schaftlichen Standpunkt der Neuzeit entsprechender An
-      <lb facs="#facs_1_region_1709375124066_1490_tl_3" n="N003" break="no"/>fang gemacht worden ist.</p>
-               <p>
+      <lb facs="#facs_1_region_1709375124066_1490_tl_3" n="N003" break="no"/>fang gemacht worden ist.
+            </p><p>
       <lb facs="#facs_1_region_1709375124066_1490_tl_4" n="N004"/>Die Wichtigkeit der Schrift rechtfertigt ein etwas
       <lb facs="#facs_1_region_1709375124066_1490_tl_5" n="N005"/>ausführlicheres Eingehen; ich will zunächst den Leser
       <lb facs="#facs_1_region_1709375124066_1490_tl_6" n="N006"/>mit dem Princip und Gedankengang derselben bekannt
-      <lb facs="#facs_1_region_1709375124066_1490_tl_7" n="N007"/>zu machen suchen.</p>
-               <p>
+      <lb facs="#facs_1_region_1709375124066_1490_tl_7" n="N007"/>zu machen suchen.
+            </p><p>
       <lb facs="#facs_1_region_1709375124066_1490_tl_8" n="N008"/>„Die bisherige Aesthetik der Tonkunst bedarf einer
       <lb facs="#facs_1_region_1709375124066_1490_tl_9" n="N009"/>durchgängigen Revision.“ Dies ist der Grundgedanke
       <lb facs="#facs_1_region_1709375124066_1490_tl_10" n="N010"/>des Verfs., und der Zweck der vorliegenden Schrift
@@ -3701,7 +3701,7 @@
       <lb facs="#facs_1_region_1709375124066_1490_tl_23" n="N023" break="no"/>cip schon in den anderen Künsten gekommen, nur in
       <lb facs="#facs_1_region_1709375124066_1490_tl_24" n="N024"/>der Musik treiben die „Empfindungen“ noch den alten
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <cb />
+            <cb/>
       <lb facs="#facs_2_region_1709375152043_1496_tl_1" n="N001"/>Spuk. Die Musik habe es mit dem Gefühl zu thun,
       <lb facs="#facs_2_region_1709375152043_1496_tl_2" n="N002"/>so werde gelehrt; Zweck und Bestimmung der Musik
       <lb facs="#facs_2_region_1709375152043_1496_tl_3" n="N003"/>sei, schöne Gefühle zu erwecken, auch als Inhalt der
@@ -3727,8 +3727,8 @@
       <lb facs="#facs_2_region_1709375152043_1496_tl_23" n="N023" break="no"/>türlich etwas ganz Vages. Der Verf. will die star
       <lb facs="#facs_2_region_1709375152043_1496_tl_24" n="N024" break="no"/>ken Gefühle, die schmerzlichen Stimmungen u. s. w.,
       <lb facs="#facs_2_region_1709375152043_1496_tl_25" n="N025"/>welche die Musik hervorruft, nicht unterschätzen; nur
-      <lb facs="#facs_2_region_1709375152043_1496_tl_26" n="N026"/>gegen dieselben als <hi rendition="#em">Princip</hi> legt er Protest ein.</p>
-               <p>
+      <lb facs="#facs_2_region_1709375152043_1496_tl_26" n="N026"/>gegen dieselben als <hi rendition="#em">Princip</hi> legt er Protest ein.
+            </p><p>
       <lb facs="#facs_2_region_1709375152043_1496_tl_27" n="N027"/>Eben so wenig sind die Gefühle <hi rendition="#em">Inhalt der
       <lb facs="#facs_2_region_1709375152043_1496_tl_28" n="N028"/>Tonkunst</hi>. Die Begründung und Entwicklung die
       <lb facs="#facs_2_region_1709375152043_1496_tl_29" n="N029" break="no"/>ses Satzes bildet den Gegenstand des zweiten Kapi
@@ -3756,7 +3756,7 @@
       <lb facs="#facs_2_region_1709375152043_1496_tl_51" n="N051"/>psychischen Vorgangs nach den Momenten: schnell,
       <lb facs="#facs_2_region_1709375152043_1496_tl_52" n="N052"/>langsam, stark, schwach, steigend, fallend nachzubilden.
       <lb facs="#facs_2_region_1709375152043_1496_tl_53" n="N053"/>Was uns außerdem in der Musik bestimmte Seelen
-                     <cb break="no"/>
+            <cb/>
       <lb facs="#facs_2_region_1709375155754_1499_tl_1" n="N001" break="no"/>zustände zu malen scheint, ist durchaus <hi rendition="#em">symbolisch</hi>.
       <lb facs="#facs_2_region_1709375155754_1499_tl_2" n="N002"/>Wie die Farben, so besitzen die Töne von Natur aus
       <lb facs="#facs_2_region_1709375155754_1499_tl_3" n="N003"/>und in ihrer Vereinzelung symbolische Bedeutung.
@@ -3821,8 +3821,8 @@
       <lb facs="#facs_3_region_1709375186115_1505_tl_7" n="N007" break="no"/>friedigung, weshalb auch <rs type="person" ref="#hsl_person_id_99">Gluck</rs> und neuerdings <rs type="person" ref="#hsl_person_id_319">Wag
       <lb facs="#facs_3_region_1709375186115_1505_tl_8" n="N008" break="no"/>ner</rs> viel zu weit gegangen sind. In der Oper käm
       <lb facs="#facs_3_region_1709375186115_1505_tl_9" n="N009" break="no"/>pfen dramatische Genauigkeit und musikalische Schön
-      <lb facs="#facs_3_region_1709375186115_1505_tl_10" n="N010" break="no"/>heit unaufhörlich mit einander.</p>
-               <p>
+      <lb facs="#facs_3_region_1709375186115_1505_tl_10" n="N010" break="no"/>heit unaufhörlich mit einander.
+            </p><p>
       <lb facs="#facs_3_region_1709375186115_1505_tl_11" n="N011"/>Der Verf. war bisher <hi rendition="#em">negativ</hi> verfahren. Im
       <lb facs="#facs_3_region_1709375186115_1505_tl_12" n="N012"/>dritten Kapitel ist es demnach seine Aufgabe, die <hi rendition="#em">posi
       <lb facs="#facs_3_region_1709375186115_1505_tl_13" n="N013" break="no"/>tiven</hi> Bestimmungen zu geben, indem er die Frage
@@ -3858,8 +3858,8 @@
       <lb facs="#facs_3_region_1709375186115_1505_tl_43" n="N043"/>übermäßigen Schmerz des Componisten, sondern in
       <lb facs="#facs_3_region_1709375186115_1505_tl_44" n="N044"/>dessen übermäßigen Intervallen, nicht in dem Zittern
       <lb facs="#facs_3_region_1709375186115_1505_tl_45" n="N045"/>seiner Seele, sondern in dem Tremolo der Pauken,
-      <lb facs="#facs_3_region_1709375186115_1505_tl_46" n="N046"/>nicht in seiner Sehnsucht, sondern in der Chromatik.</p>
-               <p>
+      <lb facs="#facs_3_region_1709375186115_1505_tl_46" n="N046"/>nicht in seiner Sehnsucht, sondern in der Chromatik.
+            </p><p>
       <lb facs="#facs_3_region_1709375186115_1505_tl_47" n="N047"/>Obschon es nun zwar die erste Aufgabe einer
       <lb facs="#facs_3_region_1709375186115_1505_tl_48" n="N048"/>musikalischen Aesthetik ist, die usurpirte Herrschaft des
       <lb facs="#facs_3_region_1709375186115_1505_tl_49" n="N049"/>Gefühls unter die berechtigte der Schönheit zu stellen,
@@ -3867,7 +3867,7 @@
       <lb facs="#facs_3_region_1709375186115_1505_tl_51" n="N051"/>Fühlens im praktischen Musikleben eine zu auffallende
       <lb facs="#facs_3_region_1709375186115_1505_tl_52" n="N052"/>und wichtige Rolle, um durch bloße Unterordnung ab
       <lb facs="#facs_3_region_1709375186115_1505_tl_53" n="N053" break="no"/>gethan zu werden. Der Verf. giebt daher im vierten
-            <cb />
+            <cb/>
       <lb facs="#facs_3_region_1709375190642_1508_tl_1" n="N001"/>Kapitel eine Analyse des subjectiven Eindruckes der
       <lb facs="#facs_3_region_1709375190642_1508_tl_2" n="N002"/>Musik. In der Wirklichkeit erweist sich das begrifflich
       <lb facs="#facs_3_region_1709375190642_1508_tl_3" n="N003"/>von unserem Fühlen unabhängige, selbstständige Kunst
@@ -3917,17 +3917,17 @@
       <lb facs="#facs_3_region_1709375190642_1508_tl_47" n="N047"/>auf das Nervensystem</hi>. Je stärker aber eine
       <lb facs="#facs_3_region_1709375190642_1508_tl_48" n="N048"/>Kunstwirkung körperlich überwältigend, also patho
       <lb facs="#facs_3_region_1709375190642_1508_tl_49" n="N049" break="no"/>logisch auftritt, desto geringer ist ihr <hi rendition="#em">ästhetischer</hi><space quantity="1" unit="char"/>
-      <lb facs="#facs_3_region_1709375190642_1508_tl_50" n="N050"/>Antheil.</p>
-               <p>
+      <lb facs="#facs_3_region_1709375190642_1508_tl_50" n="N050"/>Antheil.
+            </p><p>
       <lb facs="#facs_3_region_1709375190642_1508_tl_52" n="N051"/>Der Verf. wird auf diese Weise zur Beschreibung
       <lb facs="#facs_3_region_1709375190642_1508_tl_53" n="N052"/>des wahren Kunstgenusses geführt, der ästhetischen
       <lb facs="#facs_3_region_1709375190642_1508_tl_54" n="N053"/>Wirkung gegenüber der pathologischen, die er im
             <pb facs="#facs_4" n="4" xml:id="img_0004"/>
-            <cb />
+            <cb/>
       <lb facs="#facs_4_region_1709375220490_1514_tl_1" n="N001"/>fünften Kapitel darlegt. Er betont hier das bewußte
       <lb facs="#facs_4_region_1709375220490_1514_tl_2" n="N002"/>Genießen, die Kunst des Hörens, gegenüber falschen
-      <lb facs="#facs_4_region_1709375220490_1514_tl_3" n="N003"/>Aeußerungen des Enthusiasmus, der Berauschung.</p>
-               <p>
+      <lb facs="#facs_4_region_1709375220490_1514_tl_3" n="N003"/>Aeußerungen des Enthusiasmus, der Berauschung.
+            </p><p>
       <lb facs="#facs_4_region_1709375220490_1514_tl_4" n="N004"/>Das sechste Kapitel handelt von den Beziehungen
       <lb facs="#facs_4_region_1709375220490_1514_tl_5" n="N005"/>der Tonkunst zur Natur. Es ist zu untersuchen, was
       <lb facs="#facs_4_region_1709375220490_1514_tl_6" n="N006"/>die Natur für die Tonkunst gethan. Die Antwort
@@ -3935,8 +3935,8 @@
       <lb facs="#facs_4_region_1709375220490_1514_tl_8" n="N008"/>liefert; das eigentliche Material der Tonkunst ist ein
       <lb facs="#facs_4_region_1709375220490_1514_tl_9" n="N009"/>künstliches. Ebensowenig giebt es ein <hi rendition="#em">Naturschönes</hi><space quantity="1" unit="char"/>
       <lb facs="#facs_4_region_1709375220490_1514_tl_10" n="N010"/>für die Musik. Die anderen Künste empfangen Stoffe
-      <lb facs="#facs_4_region_1709375220490_1514_tl_11" n="N011"/>von der Natur, die Musik nicht.</p>
-               <p>
+      <lb facs="#facs_4_region_1709375220490_1514_tl_11" n="N011"/>von der Natur, die Musik nicht.
+            </p><p>
       <lb facs="#facs_4_region_1709375220490_1514_tl_12" n="N012"/>Die Untersuchung über das Verhältniß der Musik
       <lb facs="#facs_4_region_1709375220490_1514_tl_13" n="N013"/>zum Naturschönen hängt deshalb eng zusammen mit
       <lb facs="#facs_4_region_1709375220490_1514_tl_14" n="N014"/>der Frage nach dem <hi rendition="#em">Inhalt</hi> der Musik überhaupt.
@@ -3958,8 +3958,8 @@
       <lb facs="#facs_4_region_1709375220490_1514_tl_30" n="N030"/>Gehalt. Sie ist ein Spiel, aber keine Spielerei. Die
       <lb facs="#facs_4_region_1709375220490_1514_tl_31" n="N031"/>gegenstandlose Formschönheit der Musik hindert sie
       <lb facs="#facs_4_region_1709375220490_1514_tl_32" n="N032"/>nicht, ihren Schöpfungen sogar <hi rendition="#em">Individualität</hi><space quantity="1" unit="char"/>
-      <lb facs="#facs_4_region_1709375220490_1514_tl_33" n="N033"/>aufprägen zu können.</p>
-               <p>
+      <lb facs="#facs_4_region_1709375220490_1514_tl_33" n="N033"/>aufprägen zu können.
+            </p><p>
       <lb facs="#facs_4_region_1709375220490_1514_tl_34" n="N034"/>Betrachten wir jetzt die hier aufgestellten Sätze
       <lb facs="#facs_4_region_1709375220490_1514_tl_35" n="N035"/>näher, so muß ich zunächst meine vollkommene Ueber
       <lb facs="#facs_4_region_1709375220490_1514_tl_36" n="N036" break="no"/>einstimmung mit dem Princip des Verf.’s erklären.
@@ -3980,7 +3980,7 @@
       <lb facs="#facs_4_region_1709375220490_1514_tl_51" n="N051" break="no"/>tionen hineingebannt und hier, so zu sagen, mit Hän
       <lb facs="#facs_4_region_1709375220490_1514_tl_52" n="N052" break="no"/>den zu greifen und zu erfassen. Beide Seiten sind
       <lb facs="#facs_4_region_1709375220490_1514_tl_53" n="N053"/>nur vereint vorzustellen und aus der technischen Ge
-                     <cb />
+            <cb/>
       <lb facs="#facs_4_region_1709375223762_1517_tl_1" n="N001" break="no"/>staltung heraus ist der Geist zu begreifen. <hi rendition="#em">Der bis
       <lb facs="#facs_4_region_1709375223762_1517_tl_2" n="N002" break="no"/>herige Irrthum lag darin, daß zwei Seiten,
       <lb facs="#facs_4_region_1709375223762_1517_tl_3" n="N003"/>die wesentlich eins sind</hi>, die nur die verschiedenen
@@ -4009,8 +4009,8 @@
       <lb facs="#facs_4_region_1709375223762_1517_tl_26" n="N026" break="no"/>ner ist das über die Phantasie, als das vorwaltend
       <lb facs="#facs_4_region_1709375223762_1517_tl_27" n="N027"/>künstlerische Vermögen Gesagte. Richtig und durch
       <lb facs="#facs_4_region_1709375223762_1517_tl_28" n="N028" break="no"/>aus treffend sind die im dritten Kapitel aufgestellten
-      <lb facs="#facs_4_region_1709375223762_1517_tl_29" n="N029"/>Sätze, sowie Alles, was sich hieran schließt.</p>
-               <p>
+      <lb facs="#facs_4_region_1709375223762_1517_tl_29" n="N029"/>Sätze, sowie Alles, was sich hieran schließt.
+            </p><p>
       <lb facs="#facs_4_region_1709375223762_1517_tl_30" n="N030"/>Aber der Verf. wird in dem Drange nach Objec
       <lb facs="#facs_4_region_1709375223762_1517_tl_31" n="N031" break="no"/>tivität der Erkenntniß ungerecht gegen die bisher gel
       <lb facs="#facs_4_region_1709375223762_1517_tl_32" n="N032" break="no"/>tende subjective Auffassungsweise, die ihre große Be
@@ -4036,7 +4036,7 @@
       <lb facs="#facs_4_region_1709375223762_1517_tl_52" n="N052" break="no"/>liche erschien. Der Verf. stellt den Standpunkt der
       <lb facs="#facs_4_region_1709375223762_1517_tl_53" n="N053"/>psychologischen Beschreibung zu sehr als Irrthum dar,
             <pb facs="#facs_5" n="5" xml:id="img_0005"/>
-            <cb />
+            <cb/>
       <lb facs="#facs_5_region_1709375260052_1523_tl_1" n="N001"/>während er nur eine Einseitigkeit war. Unsere Auf
       <lb facs="#facs_5_region_1709375260052_1523_tl_2" n="N002" break="no"/>gabe kann nicht darin bestehen, das auf diese Weise
       <lb facs="#facs_5_region_1709375260052_1523_tl_3" n="N003"/>Gewonnene als etwas Unbrauchbares bei Seite zu
@@ -4051,16 +4051,16 @@
       <lb facs="#facs_5_region_1709375260052_1523_tl_12" n="N012"/>oben angef. Art. den neuen Standpunkt als Ergänzung
       <lb facs="#facs_5_region_1709375260052_1523_tl_13" n="N013"/>und Resultat des bisherigen darstellte, nicht wie der
       <lb facs="#facs_5_region_1709375260052_1523_tl_14" n="N014"/>Verf. thut, als das einzig Wahre einem schlechthin
-      <lb facs="#facs_5_region_1709375260052_1523_tl_15" n="N015"/>Verwerflichen gegenüber.</p>
-               <p>
+      <lb facs="#facs_5_region_1709375260052_1523_tl_15" n="N015"/>Verwerflichen gegenüber.
+            </p><p>
       <lb facs="#facs_5_region_1709375260052_1523_tl_16" n="N016"/>Zunächst freilich könnte der Verf. hierauf erwidern,
       <lb facs="#facs_5_region_1709375260052_1523_tl_17" n="N017"/>daß er einen Gehalt, wie ihn die psychologische Be
       <lb facs="#facs_5_region_1709375260052_1523_tl_18" n="N018" break="no"/>schreibung zu Tage förderte, gar nicht anerkenne, daß
       <lb facs="#facs_5_region_1709375260052_1523_tl_19" n="N019"/>ein solcher gar nicht für ihn existire und daß er erst
       <lb facs="#facs_5_region_1709375260052_1523_tl_20" n="N020"/>in Folge dieser Auffassung zu solchen Consequenzen
       <lb facs="#facs_5_region_1709375260052_1523_tl_21" n="N021"/>gekommen sei. Dieser Einwand jedoch erledigt sich
-      <lb facs="#facs_5_region_1709375260052_1523_tl_22" n="N022"/>durch Nachstehendes.</p>
-               <p>
+      <lb facs="#facs_5_region_1709375260052_1523_tl_22" n="N022"/>durch Nachstehendes.
+            </p><p>
       <lb facs="#facs_5_region_1709375260052_1523_tl_23" n="N023"/>Es ist gegen den Verf. noch ein zweiter, wich
       <lb facs="#facs_5_region_1709375260052_1523_tl_24" n="N024" break="no"/>tigerer Einspruch zu erheben. Der Verf. nämlich wird
       <lb facs="#facs_5_region_1709375260052_1523_tl_25" n="N025"/>in dem Streben nach Objectivität zu weit geführt, er
@@ -4092,7 +4092,7 @@
       <lb facs="#facs_5_region_1709375260052_1523_tl_51" n="N051"/>zu übersehen. Der Geist, der dem Verf. zufolge in
       <lb facs="#facs_5_region_1709375260052_1523_tl_52" n="N052"/>dem Tonwerk enthalten sein soll, ist fast nicht mehr
       <lb facs="#facs_5_region_1709375260052_1523_tl_53" n="N053"/>als ein ganz willkührliches Spiel der Phantasie, jeden
-                <cb break="no"/>
+            <cb/>
       <lb facs="#facs_5_region_1709375264370_1526_tl_1" n="N001" break="no"/>falls ein Geist, den er gar nicht näher bestimmen kann.
       <lb facs="#facs_5_region_1709375264370_1526_tl_2" n="N002"/>Richtig ist, daß der Tonsetzer nicht mit einem Inhalt
       <lb facs="#facs_5_region_1709375264370_1526_tl_3" n="N003"/>zu thun hat, den er gewissermaßen in Töne übersetzt,
@@ -4147,7 +4147,7 @@
       <lb facs="#facs_5_region_1709375264370_1526_tl_52" n="N052" break="no"/>verwandten Tonarten. Eine solche unmittelbare Einheit
       <lb facs="#facs_5_region_1709375264370_1526_tl_53" n="N053"/>aber kam nur für kurze Zeit genügen. Der Geist
             <pb facs="#facs_6" n="6" xml:id="img_0006"/>
-            <cb />
+            <cb/>
       <lb facs="#facs_6_region_1709375289306_1532_tl_1" n="N001"/>schreitet weiter, indem er die nächsten, natürlichen Be
       <lb facs="#facs_6_region_1709375289306_1532_tl_2" n="N002" break="no"/>ziehungen der Accorde negirt und aus diesen fortgesetzten
       <lb facs="#facs_6_region_1709375289306_1532_tl_3" n="N003"/>Negationen sein reicher gestaltetes Gebäude auferbaut.
@@ -4172,8 +4172,8 @@
       <lb facs="#facs_6_region_1709375289306_1532_tl_22" n="N022"/>dann erst die Töne zu betrachten, so, meint der Verf.,
       <lb facs="#facs_6_region_1709375289306_1532_tl_23" n="N023"/>sei es ebenfalls irrig, von dem Letzteren auf das Erstere
       <lb facs="#facs_6_region_1709375289306_1532_tl_24" n="N024"/>zu schließen, in den Tönen selbst das Gefühl zu er
-      <lb facs="#facs_6_region_1709375289306_1532_tl_26" n="N025" break="no"/>kennen.</p>
-               <p>
+      <lb facs="#facs_6_region_1709375289306_1532_tl_26" n="N025" break="no"/>kennen.
+            </p><p>
       <lb facs="#facs_6_region_1709375289306_1532_tl_27" n="N026"/>Im Gegensatz hierzu ist das Wahre, jenen von
       <lb facs="#facs_6_region_1709375289306_1532_tl_28" n="N027"/>dem Verf. sowohl, wie von mir zuerst bezeichneten
       <lb facs="#facs_6_region_1709375289306_1532_tl_29" n="N028"/>Standpunkt der Immanenz festzuhalten, nun aber in
@@ -4197,7 +4197,7 @@
       <lb facs="#facs_6_region_1709375289306_1532_tl_47" n="N046"/>durch objective Betrachtung, welche dann rückwärts auf
       <lb facs="#facs_6_region_1709375289306_1532_tl_48" n="N047"/>das Gefühl zu schließen erlaubt, indem sie die Iden
       <lb facs="#facs_6_region_1709375289306_1532_tl_49" n="N048" break="no"/>dität von Gedanke und Gefühl begreift. Dieser Stein,
-            <cb />
+            <cb/>
       <lb facs="#facs_6_region_1709375295546_1535_tl_1" n="N001"/>dieser Krystall macht diesen bestimmten Eindruck auf
       <lb facs="#facs_6_region_1709375295546_1535_tl_2" n="N002"/>unser Gefühl. Dieses Gefühl ist dasselbe, was im
       <lb facs="#facs_6_region_1709375295546_1535_tl_3" n="N003"/>Reiche des Gedankens das mathematische Gesetz seiner
@@ -4222,8 +4222,8 @@
       <lb facs="#facs_6_region_1709375295546_1535_tl_22" n="N022"/>Eine objective Basis aber wird dadurch erlangt. Die
       <lb facs="#facs_6_region_1709375295546_1535_tl_23" n="N023"/>theoretische Erkenntniß und die subjective Erfahrung
       <lb facs="#facs_6_region_1709375295546_1535_tl_24" n="N024"/>müssen sich weiterhin zu einem Ganzen zusammen
-      <lb facs="#facs_6_region_1709375295546_1535_tl_25" n="N025" break="no"/>schließen.</p>
-               <p>
+      <lb facs="#facs_6_region_1709375295546_1535_tl_25" n="N025" break="no"/>schließen.
+            </p><p>
       <lb facs="#facs_6_region_1709375295546_1535_tl_26" n="N026"/>So viel im Allgemeinen. Ich wende mich nur
       <lb facs="#facs_6_region_1709375295546_1535_tl_27" n="N027"/>zu dem Einzelnen. Aus der schiefen Stellung, welche
       <lb facs="#facs_6_region_1709375295546_1535_tl_28" n="N028"/>der Verf. seinem Princip gegeben hat, erklärt sich eine
@@ -4244,20 +4244,16 @@
       <lb facs="#facs_6_region_1709375295546_1535_tl_43" n="N043" break="no"/>chen seiner Consequenzen warnen können. Er schließt
       <lb facs="#facs_6_region_1709375295546_1535_tl_44" n="N044"/>zu sehr von einer einseitigen Theorie aus auf die Er
       <lb facs="#facs_6_region_1709375295546_1535_tl_45" n="N045" break="no"/>fahrung, statt seine Theorie der Erfahrung gemäß zu
-      <lb facs="#facs_6_region_1709375295546_1535_tl_46" n="N046"/>gestalten.</p>
-               <p>
+      <lb facs="#facs_6_region_1709375295546_1535_tl_46" n="N046"/>gestalten.
+            </p><p>
       <lb facs="#facs_6_region_1709375295546_1535_tl_47" n="N047"/>(Fortsetzung folgt.)</p>
    </div>
    <div n="2">
          <pb facs="#facs_7" n="7" xml:id="img_0007"/>
-      <head type="h3">
-               <lb facs="#facs_7_line_1739736840469_27" n="N001"/>Zweiundvierzigster Band. No. 9. Den 23. Februar <date when="1855">1855</date></head>
-      <head type="h1">
-            <lb n="N000"/>Bücher, Zeitschriften.</head>
-      <head type="h2">
-            <lb facs="#facs_7_region_1709375336162_1547_tl_1" n="N001"/>Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>, <rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>.
-            <lb facs="#facs_7_region_1709375336162_1547_tl_2" n="N002"/>(Fortsetzung.)</head>
-            <p>     
+         <lb n="N000"/><head type="h1">Bücher, Zeitschriften.</head>
+         <lb facs="#facs_7_region_1709375336162_1547_tl_1" n="N001"/><head type="h2">Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>, <rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>.
+         <lb facs="#facs_7_region_1709375336162_1547_tl_2" n="N002"/>(Fortsetzung.)</head>
+         <p>     
       <lb facs="#facs_7_region_1709375336162_1547_tl_3" n="N003"/>Der Verf. tritt (S. 6) jener Ansicht gegenüber,
       <lb facs="#facs_7_region_1709375336162_1547_tl_4" n="N004"/>welche in der Wirkung der Musik auf das Gefühl
       <lb facs="#facs_7_region_1709375336162_1547_tl_5" n="N005"/>etwas derselben specifisch Eigenes erblickt. „Allein
@@ -4277,7 +4273,7 @@
       <lb facs="#facs_7_region_1709375336162_1547_tl_19" n="N019" break="no"/>fühl beschäftige, es ist eben so wenig gesagt, daß hier
       <lb facs="#facs_7_region_1709375336162_1547_tl_20" n="N020"/>das Gefühl <hi rendition="#em">unmittelbar</hi> in Anspruch genommen
       <lb facs="#facs_7_region_1709375336162_1547_tl_21" n="N021"/>werde, in anderen Künsten aber nur durch Vermitt
-               <cb break="no"/>
+            <cb/>
       <lb facs="#facs_7_region_1709375342907_1550_tl_1" n="N001" break="no"/>lung anderer Seelenthätigkeiten; die Bedeutung jenes
       <lb facs="#facs_7_region_1709375342907_1550_tl_2" n="N002"/>Satzes ist diese: Die ästhetische Wirkung der Künste
       <lb facs="#facs_7_region_1709375342907_1550_tl_3" n="N003"/>ist bei allen wesentlich dieselbe, für alle Künste ist die
@@ -4324,8 +4320,8 @@
       <lb facs="#facs_8_region_1709375379842_1565_tl_18" n="N018"/>Wirkung der Musik, sobald dieselbe eine andere, zwin
       <lb facs="#facs_8_region_1709375379842_1565_tl_19" n="N019" break="no"/>gendere wäre, als sie thatsächlich ist, nicht mehr als
       <lb facs="#facs_8_region_1709375379842_1565_tl_20" n="N020"/>eine <hi rendition="#em">geistig freie</hi>, sondern als eine <hi rendition="#em">naturnoth
-      <lb facs="#facs_8_region_1709375379842_1565_tl_21" n="N021" break="no"/>wendige</hi> erschiene.</p>
-         <p>
+      <lb facs="#facs_8_region_1709375379842_1565_tl_21" n="N021" break="no"/>wendige</hi> erschiene.
+            </p><p>
       <lb facs="#facs_8_region_1709375379842_1565_tl_22" n="N022"/>Daß der Verf. (S. 18) das Beispiel der <rs type="person" ref="#hsl_person_id_25">Beet
       <lb facs="#facs_8_region_1709375379842_1565_tl_23" n="N023" break="no"/>hoven</rs>’schen <rs type="bibl" ref="#hsl_work_id_346">Ouvertüre</rs> zu <rs type="bibl" ref="#hsl_work_id_4494">Prometheus</rs> beibringt, um
       <lb facs="#facs_8_region_1709375379842_1565_tl_24" n="N024"/>daran die Unbestimmtheit und Vieldeutigkeit des mu
@@ -4358,7 +4354,7 @@
       <lb facs="#facs_8_region_1709375379842_1565_tl_51" n="N051"/>Irrthum — daß der Versuch einer Fassung in Worte
       <lb facs="#facs_8_region_1709375379842_1565_tl_52" n="N052"/>— gesetzt auch, die eben bezeichneten Schwierigkeiten
       <lb facs="#facs_8_region_1709375379842_1565_tl_53" n="N053"/>seien beseitigt — um so schwieriger wird, je unent
-            <cb break="no"/>
+            <cb/>
       <lb facs="#facs_8_region_1709375369026_1559_tl_1" n="N001" break="no"/>wickelter der musikalische Gedanke ist, der uns vor
       <lb facs="#facs_8_region_1709375369026_1559_tl_2" n="N002" break="no"/>liegt. Will man einen solchen Versuch machen, so
       <lb facs="#facs_8_region_1709375369026_1559_tl_3" n="N003"/>hält man sich natürlich lieber an die ganze Compo
@@ -4366,8 +4362,8 @@
       <lb facs="#facs_8_region_1709375369026_1559_tl_5" n="N005"/>den noch unentwickelten. Der Verf. hat die Frage
       <lb facs="#facs_8_region_1709375369026_1559_tl_6" n="N006"/>falsch gestellt, und weil er auf diesem Wege eine Ant
       <lb facs="#facs_8_region_1709375369026_1559_tl_7" n="N007" break="no"/>wort nicht finden kann, so schließt er, daß die Ant
-      <lb facs="#facs_8_region_1709375369026_1559_tl_8" n="N008" break="no"/>wort überhaupt unmöglich sei.</p>
-         <p>
+      <lb facs="#facs_8_region_1709375369026_1559_tl_8" n="N008" break="no"/>wort überhaupt unmöglich sei.
+            </p><p>
       <lb facs="#facs_8_region_1709375369026_1559_tl_9" n="N009"/>Auch in der Vocalmusik ist es nicht die Musik,
       <lb facs="#facs_8_region_1709375369026_1559_tl_10" n="N010"/>welche dem darzustellenden Gegenstande die nöthige
       <lb facs="#facs_8_region_1709375369026_1559_tl_11" n="N011"/>Bestimmtheit verleiht, sondern der Text. Der Verf.
@@ -4425,8 +4421,8 @@
       <lb facs="#facs_9_region_1709375404914_1571_tl_8" n="N008"/>Vorstellungen vergesellschaftet sein kann, er liegt ferner
       <lb facs="#facs_9_region_1709375404914_1571_tl_9" n="N009"/>darin, daß zur Zeit das bewußte Erkennen noch weit
       <lb facs="#facs_9_region_1709375404914_1571_tl_10" n="N010"/>hinter dem, was der geniale Instinkt gefunden hat,
-      <lb facs="#facs_9_region_1709375404914_1571_tl_11" n="N011"/>zurücksteht.</p>
-         <p>
+      <lb facs="#facs_9_region_1709375404914_1571_tl_11" n="N011"/>zurücksteht.
+            </p><p>
       <lb facs="#facs_9_region_1709375404914_1571_tl_12" n="N012"/>Der Verf. kommt S. 23 auf die Theorie von der
       <lb facs="#facs_9_region_1709375404914_1571_tl_13" n="N013"/>Nachahmung sichtbarer oder unmusikalisch hörbarer
       <lb facs="#facs_9_region_1709375404914_1571_tl_14" n="N014"/>Gegenstände durch die Tonkunst, auf die musikalische
@@ -4469,22 +4465,18 @@
       <lb facs="#facs_9_region_1709375404914_1571_tl_51" n="N051"/>Recht, daß das keine Kunstwerke seien, und erkannte
       <lb facs="#facs_9_region_1709375404914_1571_tl_52" n="N052"/>in der Mitwirkung des Gefühls, d. h. in der künst
       <lb facs="#facs_9_region_1709375404914_1571_tl_53" n="N053" break="no"/>lerischen Erfassung das Wahre, indem man dabei, wie
-            <cb />
+            <cb/>
       <lb facs="#facs_9_region_1709375408472_1574_tl_1" n="N001"/>gesagt, stillschweigend voraussetzte, was schon erreicht
       <lb facs="#facs_9_line_1739826160673_153" n="N002"/>und vorhanden war, die Nachbildung des Aeußeren
-      <lb facs="#facs_9_region_1709375408472_1574_tl_4" n="N003"/>nämlich.</p>
-         <p>
+      <lb facs="#facs_9_region_1709375408472_1574_tl_4" n="N003"/>nämlich.
+            </p><p>
       <lb facs="#facs_9_region_1709375408472_1574_tl_5" n="N004"/>(Schluß folgt.)</p>
    </div>
    <div n="3">
          <pb facs="#facs_10" n="10" xml:id="img_0010"/>
-      <head type="h3">
-            <lb facs="#facs_10_line_1739826805624_189" n="N001"/>Zweiundvierzigster Band. No. 10. Den 2. März <date when="1855">1855</date></head>      
-      <head type="h1">
-            <lb n="N000"/>Bücher, Zeitschriften.</head>
-      <head type="h2">
-            <lb facs="#facs_10_region_1709375441946_1586_tl_1" n="N001"/>Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>, <rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>.
-            <lb facs="#facs_10_region_1709375441946_1586_tl_2" n="N002"/>(Schluß.)</head>
+         <lb n="N000"/><head type="h1">Bücher, Zeitschriften.</head>
+         <lb facs="#facs_10_region_1709375441946_1586_tl_1" n="N001"/><head type="h2">Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>, <rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>.
+         <lb facs="#facs_10_region_1709375441946_1586_tl_2" n="N002"/>(Schluß.)</head>
          <p>      
       <lb facs="#facs_10_region_1709375441946_1586_tl_3" n="N003"/>Noch entschiedener, als der Verf. die <hi rendition="#em">Möglich
       <lb facs="#facs_10_region_1709375441946_1586_tl_4" n="N004" break="no"/>keit</hi> musikalischer Gefühlsdarstellung bekämpft, glaubt
@@ -4504,7 +4496,7 @@
       <lb facs="#facs_10_region_1709375441946_1586_tl_18" n="N018"/>abzuconterfeien suchen. Diese rücksichtslose Wahrheit
       <lb facs="#facs_10_region_1709375441946_1586_tl_19" n="N019"/>steht indeß meist in umgekehrtem Verhältniß zu ihrer
       <lb facs="#facs_10_region_1709375441946_1586_tl_20" n="N020"/>Schönheit. Die <hi rendition="#em">musikalische Schönheit</hi> ist stets
-               <cb />
+            <cb/>
       <lb facs="#facs_10_region_1709375445754_1589_tl_1" n="N001"/>geneigt, dem <hi rendition="#em">speciell Auszudrückenden</hi> zu
       <lb facs="#facs_10_region_1709375445754_1589_tl_2" n="N002"/>weichen, weil jene ein selbstständiges Entfalten, dieses
       <lb facs="#facs_10_region_1709375445754_1589_tl_3" n="N003"/>ein dienendes Verleugnen erheischt. — Das drama
@@ -4529,7 +4521,7 @@
       <lb facs="#facs_10_region_1709375445754_1589_tl_22" n="N022"/>gestatten will. In der Wirklichkeit ist dies auch nie
       <lb facs="#facs_10_region_1709375445754_1589_tl_23" n="N023" break="no"/>mals geleugnet worden, und oft genug bricht bei
             <pb facs="#facs_11" n="11" xml:id="img_0011"/>
-            <cb />
+            <cb/>
       <lb facs="#facs_11_region_1709375465922_1595_tl_1" n="N001"/><rs type="person" ref="#hsl_person_id_99">Gluck</rs> die musikalische Natur durch, seine Theorie Lü
       <lb facs="#facs_11_region_1709375465922_1595_tl_2" n="N002" break="no"/>gen strafend. Dasselbe gilt von <rs type="person" ref="#hsl_person_id_319">Wagner</rs>. Auch
       <lb facs="#facs_11_region_1709375465922_1595_tl_3" n="N003"/><rs type="person" ref="#hsl_person_id_319">Wagner</rs> hätte sich manche Mühe ersparen können,
@@ -4538,8 +4530,8 @@
       <lb facs="#facs_11_region_1709375465922_1595_tl_6" n="N006"/>hätte. Darum steht <rs type="bibl" ref="#hsl_work_id_40">Tannhäuser</rs> (S. 28) höher als
       <lb facs="#facs_11_region_1709375465922_1595_tl_7" n="N007"/><rs type="bibl" ref="#hsl_work_id_97">Lohengrin</rs>. In jenem hatte <rs type="person" ref="#hsl_person_id_319">W</rs>. den Standpunkt echt
       <lb facs="#facs_11_region_1709375465922_1595_tl_8" n="N008"/>musikalischer Schönheit zwar noch nicht erklommen,
-      <lb facs="#facs_11_region_1709375465922_1595_tl_9" n="N009"/>aber auch noch nicht überwunden.</p>
-         <p>
+      <lb facs="#facs_11_region_1709375465922_1595_tl_9" n="N009"/>aber auch noch nicht überwunden.
+            </p><p>
       <lb facs="#facs_11_region_1709375465922_1595_tl_10" n="N010"/>Ich habe diese schon oben in Kürze bezeichnete
       <lb facs="#facs_11_region_1709375465922_1595_tl_11" n="N011"/>Ansicht des Verf.’s hier noch etwas ausführlicher wie
       <lb facs="#facs_11_region_1709375465922_1595_tl_12" n="N012" break="no"/>dergegeben, weil sie von Wichtigkeit ist, reich an Be
@@ -4567,8 +4559,8 @@
       <lb facs="#facs_11_region_1709375465922_1595_tl_34" n="N034"/>die Bemerkung gegenüberstellen, daß die große Mehr
       <lb facs="#facs_11_region_1709375465922_1595_tl_35" n="N035" break="no"/>zahl der Werke, die wirklichen Meisterschöpfungen,
       <lb facs="#facs_11_region_1709375465922_1595_tl_36" n="N036"/>namentlich die der neueren Zeit, insbesondere <rs type="person" ref="#hsl_person_id_25">Beet
-      <lb facs="#facs_11_region_1709375465922_1595_tl_37" n="N037" break="no"/>hoven</rs>’s, beide Forderungen vereinigen.</p>
-         <p>
+      <lb facs="#facs_11_region_1709375465922_1595_tl_37" n="N037" break="no"/>hoven</rs>’s, beide Forderungen vereinigen.
+            </p><p>
       <lb facs="#facs_11_region_1709375465922_1595_tl_38" n="N038"/>Ich muß, bevor ich weiter gehe, noch auf einige
       <lb facs="#facs_11_region_1709375465922_1595_tl_39" n="N039"/>andere Sätze des Verf.’s Rücksicht nehmen. Der Verf.
       <lb facs="#facs_11_region_1709375465922_1595_tl_40" n="N040"/>kämpft (S. 25) gegen die auch von uns vertretene
@@ -4585,7 +4577,7 @@
       <lb facs="#facs_11_region_1709375465922_1595_tl_51" n="N051"/>sich aufnehmen mit Hintanstellung ihrer Eigenthüm
       <lb facs="#facs_11_region_1709375465922_1595_tl_52" n="N052" break="no"/>lichkeit; es heißt: die Musik soll auf der <hi rendition="#em">Grund
       <lb facs="#facs_11_region_1709375465922_1595_tl_53" n="N053" break="no"/>lage ihres Wesens</hi>, mit <hi rendition="#em">Bewahrung ihrer
-            <cb />
+            <cb/>
       <lb facs="#facs_11_region_1709375469922_1598_tl_1" n="N001"/>Eigenthümlichkeit</hi>, so daß dies immer in erster
       <lb facs="#facs_11_region_1709375469922_1598_tl_2" n="N002"/>Linie steht, <hi rendition="#em">sich nach Seite der Bestimmtheit
       <lb facs="#facs_11_region_1709375469922_1598_tl_3" n="N003"/>der Sprache hin möglichst erweitern</hi>, damit
@@ -4595,8 +4587,8 @@
       <lb facs="#facs_11_region_1709375469922_1598_tl_7" n="N007"/>daß nicht von einem Aufgeben des der Tonkunst Eige
       <lb facs="#facs_11_region_1709375469922_1598_tl_8" n="N008" break="no"/>nen die Rede ist, nicht von einem Umschlagen in’s
       <lb facs="#facs_11_region_1709375469922_1598_tl_9" n="N009"/>andere Extrem, sondern von der harmonischen Eini
-      <lb facs="#facs_11_region_1709375469922_1598_tl_10" n="N010" break="no"/>gung beider Forderungen.</p>
-         <p>
+      <lb facs="#facs_11_region_1709375469922_1598_tl_10" n="N010" break="no"/>gung beider Forderungen.
+            </p><p>
       <lb facs="#facs_11_region_1709375469922_1598_tl_11" n="N011"/>Es handelte sich in dem eben Gesagten nur um
       <lb facs="#facs_11_region_1709375469922_1598_tl_12" n="N012"/>die Berichtigung eines einzelnen Mißverständnisses,
       <lb facs="#facs_11_region_1709375469922_1598_tl_13" n="N013"/>nur um die Nachweisung, daß Künstler und Aestheti
@@ -4641,7 +4633,7 @@
       <lb facs="#facs_11_region_1709375469922_1598_tl_52" n="N052"/>der Schönheit zu erreichen, so müßte das etwas sehr
       <lb facs="#facs_11_region_1709375469922_1598_tl_53" n="N053"/>Trostloses genannt werden. Das aber denkt sich der
             <pb facs="#facs_12" n="12" xml:id="img_0012"/>
-            <cb />
+            <cb/>
       <lb facs="#facs_12_region_1709375510626_1604_tl_1" n="N001"/>Verf. Er hat in <rs type="place" ref="#hsl_place_id_55">Wien</rs> keine Gelegenheit gehabt, sich
       <lb facs="#facs_12_region_1709375510626_1604_tl_2" n="N002"/>eine unmittelbare Anschauung, vom <rs type="bibl" ref="#hsl_work_id_97">Lohengrin</rs> z. B.,
       <lb facs="#facs_12_region_1709375510626_1604_tl_3" n="N003"/>zu verschaffen und sieht darum die Wahrheit nur wie
@@ -4652,8 +4644,8 @@
       <lb facs="#facs_12_region_1709375510626_1604_tl_8" n="N008"/>war ein Irrthum etc.“ auf Mißverständniß, so sehr ich
       <lb facs="#facs_12_region_1709375510626_1604_tl_9" n="N009"/>zugestehe, daß dieser Satz, wie ich schon in meiner
       <lb facs="#facs_12_region_1709375510626_1604_tl_10" n="N010"/>„<rs type="bibl" ref="#hsl_work_id_4495">Musik der Gegenwart</rs>“ erwähnt habe, noch einer
-      <lb facs="#facs_12_region_1709375510626_1604_tl_11" n="N011"/>Erläuterung und Ergänzung bedarf.</p>
-         <p>
+      <lb facs="#facs_12_region_1709375510626_1604_tl_11" n="N011"/>Erläuterung und Ergänzung bedarf.
+            </p><p>
       <lb facs="#facs_12_region_1709375510626_1604_tl_12" n="N012"/>S. 37 bemerkt der Verf., es sei nichts irriger und
       <lb facs="#facs_12_region_1709375510626_1604_tl_13" n="N013"/>häufiger, als die Anschauung, welche schöne Musik mit
       <lb facs="#facs_12_region_1709375510626_1604_tl_14" n="N014"/>oder ohne geistigen Gehalt unterscheidet. Auch hier
@@ -4671,8 +4663,8 @@
       <lb facs="#facs_12_region_1709375510626_1604_tl_26" n="N026"/>vertreten. So in dem vorliegenden Fall. Man unter
       <lb facs="#facs_12_region_1709375510626_1604_tl_27" n="N027" break="no"/>scheidet schöne Musik mit — <hi rendition="#em">neuem, eigenthüm
       <lb facs="#facs_12_region_1709375510626_1604_tl_28" n="N028" break="no"/>lichem</hi> — geistigem Gehalt, und schöne Musik, welche
-      <lb facs="#facs_12_region_1709375510626_1604_tl_29" n="N029"/>nur den in einer Zeit herrschenden Geist <hi rendition="#em">reproducirt</hi>.</p>
-         <p>
+      <lb facs="#facs_12_region_1709375510626_1604_tl_29" n="N029"/>nur den in einer Zeit herrschenden Geist <hi rendition="#em">reproducirt</hi>.
+            </p><p>
       <lb facs="#facs_12_region_1709375510626_1604_tl_30" n="N030"/>Es könnte auf diese Weise das Verzeichniß der
       <lb facs="#facs_12_region_1709375510626_1604_tl_31" n="N031"/>Irrthümer des Verf.’s noch um ein sehr Beträchtliches
       <lb facs="#facs_12_region_1709375510626_1604_tl_32" n="N032"/>vermehrt werden. Nur zum kleinsten Theile sind die
@@ -4685,8 +4677,8 @@
       <lb facs="#facs_12_region_1709375510626_1604_tl_39" n="N039" break="no"/>schreiten. Derartige Untersuchungen können überhaupt
       <lb facs="#facs_12_region_1709375510626_1604_tl_40" n="N040"/>nur in Büchern geführt werden. Ich beschränke mich
       <lb facs="#facs_12_region_1709375510626_1604_tl_41" n="N041"/>daher nur noch auf eine kurze Angabe einiger Haupt
-      <lb facs="#facs_12_region_1709375510626_1604_tl_42" n="N042" break="no"/>punkte.</p>
-         <p>
+      <lb facs="#facs_12_region_1709375510626_1604_tl_42" n="N042" break="no"/>punkte.
+            </p><p>
       <lb facs="#facs_12_region_1709375510626_1604_tl_43" n="N043"/>Durchgreifender Ergänzung und Berichtigung be
       <lb facs="#facs_12_region_1709375510626_1604_tl_44" n="N044" break="no"/>darf, was (S. 48) über die Versuche, die Musik mit
       <lb facs="#facs_12_region_1709375510626_1604_tl_45" n="N045"/>der Sprache zu parallelisiren gesagt wird. Unbegrün
@@ -4698,7 +4690,7 @@
       <lb facs="#facs_12_region_1709375510626_1604_tl_51" n="N051"/><rs type="bibl" ref="#hsl_work_id_272">9te Symphonie</rs> (S. 50). In Bezug auf erstgenannten
       <lb facs="#facs_12_region_1709375510626_1604_tl_52" n="N052"/>Punkt gedenke ich ein anderes Mal mich ausführlicher
       <lb facs="#facs_12_region_1709375510626_1604_tl_53" n="N053"/>auszusprechen. Zur Rechtfertigung <rs type="person" ref="#hsl_person_id_414">Becher</rs>’s ist zu
-            <cb />
+            <cb/>
       <lb facs="#facs_12_region_1709375513914_1607_tl_1" n="N001"/>sagen, daß man nicht eher von einem höheren Stand
       <lb facs="#facs_12_region_1709375513914_1607_tl_2" n="N002" break="no"/>punkt aus operiren kann, bevor nicht dieser Stand
       <lb facs="#facs_12_region_1709375513914_1607_tl_3" n="N003" break="no"/>punkt selbst begründet und entwickelt ist. Damals
@@ -4717,8 +4709,8 @@
       <lb facs="#facs_12_region_1709375513914_1607_tl_16" n="N016"/>zum wenigsten unsere Partei dieselbe nie für ein voll
       <lb facs="#facs_12_region_1709375513914_1607_tl_17" n="N017" break="no"/>endetes Kunstwerk ausgegeben, und der Verf. ist da
       <lb facs="#facs_12_region_1709375513914_1607_tl_18" n="N018" break="no"/>her im Irrthum, wenn er die Ansichten über dieselbe
-      <lb facs="#facs_12_region_1709375513914_1607_tl_19" n="N019"/>so schroff einander gegenüber stellt.</p>
-         <p>
+      <lb facs="#facs_12_region_1709375513914_1607_tl_19" n="N019"/>so schroff einander gegenüber stellt.
+            </p><p>
       <lb facs="#facs_12_region_1709375513914_1607_tl_20" n="N020"/>Ebenso bedürfen die im sechsten und siebenten Ka
       <lb facs="#facs_12_region_1709375513914_1607_tl_21" n="N021" break="no"/>pitel verhandelten Fragen noch einer tiefer eingehenden
       <lb facs="#facs_12_region_1709375513914_1607_tl_22" n="N022"/>Erörterung, obschon die Anregungen des Verf.’s, so
@@ -4754,7 +4746,7 @@
       <lb facs="#facs_12_region_1709375513914_1607_tl_52" n="N052"/>Sprache der Töne. Der ganze Vorgang ist ein über
       <lb facs="#facs_12_region_1709375513914_1607_tl_53" n="N053" break="no"/>wiegend bewußtloser, die Tonreihen sind der <hi rendition="#em">unmit
             <pb facs="#facs_13" n="13" xml:id="img_0013"/>
-            <cb break="no"/>
+            <cb/>
       <lb facs="#facs_13_region_1709375549834_1613_tl_1" n="N001" break="no"/>telbare, instinktmäßig</hi>, mit bald größerer, bald
       <lb facs="#facs_13_region_1709375549834_1613_tl_2" n="N002"/>geringerer Naturnothwendigkeit gefundene Ausdruck
       <lb facs="#facs_13_region_1709375549834_1613_tl_3" n="N003"/>dafür. Trennung von Form und Inhalt ist daher
@@ -4775,8 +4767,8 @@
       <lb facs="#facs_13_region_1709375549834_1613_tl_18" n="N018" break="no"/>langt, geschieht für ihn ganz consequent, da er in dem
       <lb facs="#facs_13_region_1709375549834_1613_tl_19" n="N019"/>Bestreben die bisher vernachlässigte, objective Seite
       <lb facs="#facs_13_region_1709375549834_1613_tl_20" n="N020"/>hervorzuheben, von Haus aus die subjective allzusehr
-      <lb facs="#facs_13_region_1709375549834_1613_tl_21" n="N021"/>vernachlässigt hat.</p>
-         <p>
+      <lb facs="#facs_13_region_1709375549834_1613_tl_21" n="N021"/>vernachlässigt hat.
+            </p><p>
       <lb facs="#facs_13_region_1709375549834_1613_tl_22" n="N022"/>Ich habe mit etwas größerer Ausführlichkeit die
       <lb facs="#facs_13_region_1709375549834_1613_tl_23" n="N023"/>vorliegende Schrift besprochen, weil in ihr auf eigen
       <lb facs="#facs_13_region_1709375549834_1613_tl_24" n="N024" break="no"/>thümliche Weise Wahres und Irriges vermengt ist.
@@ -4796,8 +4788,8 @@
       <lb facs="#facs_13_region_1709375549834_1613_tl_38" n="N038"/>zurückzubringen, folgert er aus seinem einseitig erfaßten
       <lb facs="#facs_13_region_1709375549834_1613_tl_39" n="N039"/>Princip gegen die Erfahrung, schlägt ihr ins Gesicht.
       <lb facs="#facs_13_region_1709375549834_1613_tl_40" n="N040"/>Das ist der Grundirrthum in dem Verfahren des
-      <lb facs="#facs_13_region_1709375549834_1613_tl_41" n="N041"/>Verf.’s. Ich wiederhole daher noch einmal:</p>
-         <p>
+      <lb facs="#facs_13_region_1709375549834_1613_tl_41" n="N041"/>Verf.’s. Ich wiederhole daher noch einmal:
+            </p><p>
       <lb facs="#facs_13_region_1709375549834_1613_tl_42" n="N042"/>Daß das musikalische Kunstwerk Nichts <hi rendition="#em">blos aus
       <lb facs="#facs_13_region_1709375549834_1613_tl_43" n="N043" break="no"/>drückt</hi>, Nichts <hi rendition="#em">blos bedeutet</hi>, sondern die Sache
       <lb facs="#facs_13_region_1709375549834_1613_tl_44" n="N044"/>selbst ist, ist richtig. Irrig aber ist, daß wir darum
@@ -4809,10 +4801,10 @@
       <lb facs="#facs_13_region_1709375549834_1613_tl_50" n="N050"/>ein bestimmter geistiger Gehalt den Tonverbindungen
       <lb facs="#facs_13_region_1709375549834_1613_tl_51" n="N051"/>in der Weise immanent ist, daß die verschiedenartige
       <lb facs="#facs_13_region_1709375549834_1613_tl_52" n="N052"/>Verwendung der Mittel des Ausdruckes der Geist
-               <cb />
+            <cb/>
       <lb facs="#facs_13_region_1709375553042_1616_tl_1" n="N001"/>selbst, eine bestimmte Gestaltung dieser bestimmte
-      <lb facs="#facs_13_region_1709375553042_1616_tl_2" n="N002"/>Geist ist.</p>
-         <p>
+      <lb facs="#facs_13_region_1709375553042_1616_tl_2" n="N002"/>Geist ist.
+            </p><p>
       <lb facs="#facs_13_region_1709375553042_1616_tl_3" n="N003"/>Indem ich so meine Auffassung der des Verf.’s
       <lb facs="#facs_13_region_1709375553042_1616_tl_4" n="N004"/>gegenüber stellte, muß ich ausdrücklich betonen, daß
       <lb facs="#facs_13_region_1709375553042_1616_tl_5" n="N005"/>ich weit entfernt bin von der Meinung, als ob durch
@@ -4837,8 +4829,7 @@
       <lb facs="#facs_13_region_1709375553042_1616_tl_24" n="N024"/>zu viele Mißverständnisse mitbringt. Jetzt ist derselbe
       <lb facs="#facs_13_region_1709375553042_1616_tl_25" n="N025"/>in der That unser Gegner. Hoffen und wünschen wir,
       <lb facs="#facs_13_region_1709375553042_1616_tl_26" n="N026"/>daß eine Annäherung stattfinden möge.
-      <lb facs="#facs_13_region_1709375553042_1616_tl_27" n="N027"/>Fr. <rs type="person" ref="#hsl_person_id_1745">Br.</rs>
-            </p>
+      <lb facs="#facs_13_region_1709375553042_1616_tl_27" n="N027"/>Fr. <rs type="person" ref="#hsl_person_id_1745">Br.</rs></p>
          </div>
       </body>
    </text>
