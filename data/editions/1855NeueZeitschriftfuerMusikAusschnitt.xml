@@ -3756,7 +3756,7 @@
       <lb facs="#facs_2_region_1709375152043_1496_tl_51" n="N051"/>psychischen Vorgangs nach den Momenten: schnell,
       <lb facs="#facs_2_region_1709375152043_1496_tl_52" n="N052"/>langsam, stark, schwach, steigend, fallend nachzubilden.
       <lb facs="#facs_2_region_1709375152043_1496_tl_53" n="N053"/>Was uns außerdem in der Musik bestimmte Seelen
-            <cb/>
+            <cb break="no"/>
       <lb facs="#facs_2_region_1709375155754_1499_tl_1" n="N001" break="no"/>zustände zu malen scheint, ist durchaus <hi rendition="#em">symbolisch</hi>.
       <lb facs="#facs_2_region_1709375155754_1499_tl_2" n="N002"/>Wie die Farben, so besitzen die Töne von Natur aus
       <lb facs="#facs_2_region_1709375155754_1499_tl_3" n="N003"/>und in ihrer Vereinzelung symbolische Bedeutung.
@@ -4251,7 +4251,7 @@
    <div n="2">
          <pb facs="#facs_7" n="7" xml:id="img_0007"/>
          <lb n="N000"/><head type="h1">Bücher, Zeitschriften.</head>
-         <lb facs="#facs_7_region_1709375336162_1547_tl_1" n="N001"/><head type="h2">Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>, <rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>.
+         <lb facs="#facs_7_region_1709375336162_1547_tl_1" n="N001"/><head type="h2"><hi rendition="#bold">Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi>, <rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>.
          <lb facs="#facs_7_region_1709375336162_1547_tl_2" n="N002"/>(Fortsetzung.)</head>
          <p>     
       <lb facs="#facs_7_region_1709375336162_1547_tl_3" n="N003"/>Der Verf. tritt (S. 6) jener Ansicht gegenüber,
@@ -4475,7 +4475,7 @@
    <div n="3">
          <pb facs="#facs_10" n="10" xml:id="img_0010"/>
          <lb n="N000"/><head type="h1">Bücher, Zeitschriften.</head>
-         <lb facs="#facs_10_region_1709375441946_1586_tl_1" n="N001"/><head type="h2">Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>, <rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>.
+         <lb facs="#facs_10_region_1709375441946_1586_tl_1" n="N001"/><head type="h2"><hi rendition="#bold">Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi>, <rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>.
          <lb facs="#facs_10_region_1709375441946_1586_tl_2" n="N002"/>(Schluß.)</head>
          <p>      
       <lb facs="#facs_10_region_1709375441946_1586_tl_3" n="N003"/>Noch entschiedener, als der Verf. die <hi rendition="#em">Möglich
