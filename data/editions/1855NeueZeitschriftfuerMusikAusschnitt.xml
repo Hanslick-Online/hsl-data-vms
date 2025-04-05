@@ -3,7 +3,9 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
-            <title level="a"/>
+            <title level="j">Neue Zeitschrift für Musik</title>
+            <title level="a" type="main">Bücher, Zeitschriften.</title>
+            <title level="a" type="sub"><hi rendition="#em">Dr. Eduard Hanslick</hi>, Vom Musikalisch-Schönen. Ein Beitrag zur Revision der Aesthetik der Tonkunst. — Leipzig, R. Weigel, 1854.</title>
             <author ref="#hsl_person_id_1745">Brendel, Franz</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
@@ -108,7 +110,7 @@
          <change who="ampfiel" when="2025-02-17">Transkribus OCR und Lektorat.</change>
          <change who="delsner" when="2025-02-22">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-02-24">Header, Layout, rs ref ausfüllen, space einfügen</change>
-         <change who="awilfing" when="2025-04-04">Letztkorrektur für Zwischenrelease.</change></revisionDesc>
+         <change who="awilfing" when="">Letztkorrektur für Zwischenrelease.</change></revisionDesc>
    </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="9945" lry="12441" xml:id="facs_1">
@@ -3965,7 +3967,7 @@
       <lb facs="#facs_4_region_1709375220490_1514_tl_36" n="N036" break="no"/>einstimmung mit dem Princip des Verf.’s erklären.
       <lb facs="#facs_4_region_1709375220490_1514_tl_37" n="N037"/>Ich kann demselben um so leichter meine Zustimmung
       <lb facs="#facs_4_region_1709375220490_1514_tl_38" n="N038"/>schenken, als ich schon vor einer längeren Reihe von
-      <lb facs="#facs_4_region_1709375220490_1514_tl_39" n="N039"/>Jahren in dies. Bl. (Bd. 22, Nr. 1) dasselbe gesagt
+      <lb facs="#facs_4_region_1709375220490_1514_tl_39" n="N039"/>Jahren in dies. Bl. <rs type="bibl" ref="#hsl_work_id_4638">(Bd. 22, Nr. 1)</rs> dasselbe gesagt
       <lb facs="#facs_4_region_1709375220490_1514_tl_40" n="N040"/>habe. Es heißt dort S. 10: „Die Kunst ist die in
       <lb facs="#facs_4_region_1709375220490_1514_tl_41" n="N041" break="no"/>nigste Vereinigung von Geist und Materie, Idee und
       <lb facs="#facs_4_region_1709375220490_1514_tl_42" n="N042"/>Stoff. Beide Seiten können nicht getrennt existiren
@@ -4048,7 +4050,7 @@
       <lb facs="#facs_5_region_1709375260052_1523_tl_9" n="N009"/>das was dadurch gewonnen wurde aber bleibt in der
       <lb facs="#facs_5_region_1709375260052_1523_tl_10" n="N010"/>Hauptsache in Geltung. Aus diesem Grunde glaube ich
       <lb facs="#facs_5_region_1709375260052_1523_tl_11" n="N011"/>auch das Richtigere gesagt zu haben, wenn ich in dem
-      <lb facs="#facs_5_region_1709375260052_1523_tl_12" n="N012"/>oben angef. Art. den neuen Standpunkt als Ergänzung
+      <lb facs="#facs_5_region_1709375260052_1523_tl_12" n="N012"/>oben angef. <rs type="bibl" ref="#hsl_work_id_4638">Art.</rs> den neuen Standpunkt als Ergänzung
       <lb facs="#facs_5_region_1709375260052_1523_tl_13" n="N013"/>und Resultat des bisherigen darstellte, nicht wie der
       <lb facs="#facs_5_region_1709375260052_1523_tl_14" n="N014"/>Verf. thut, als das einzig Wahre einem schlechthin
       <lb facs="#facs_5_region_1709375260052_1523_tl_15" n="N015"/>Verwerflichen gegenüber.
@@ -4123,7 +4125,7 @@
       <lb facs="#facs_5_region_1709375264370_1526_tl_28" n="N028"/>nicht gelöst, sondern nur nach einer anderen Seite hin
       <lb facs="#facs_5_region_1709375264370_1526_tl_29" n="N029"/>geschoben. Es genügt endlich ebenso wenig, wenn
       <lb facs="#facs_5_region_1709375264370_1526_tl_30" n="N030"/>der Verf. behauptet, daß die Tonkunst nur das <hi rendition="#em">Dy
-      <lb facs="#facs_5_region_1709375264370_1526_tl_31" n="N031" break="no"/>nomische</hi> der Gefühle, d. h. einen bloßen <hi rendition="#em">Abdruck
+      <lb facs="#facs_5_region_1709375264370_1526_tl_31" n="N031" break="no"/>namische</hi> der Gefühle, d. h. einen bloßen <hi rendition="#em">Abdruck
       <lb facs="#facs_5_region_1709375264370_1526_tl_32" n="N032"/>der Form</hi>, in der sich das Gefühl bewegt, zu geben
       <lb facs="#facs_5_region_1709375264370_1526_tl_33" n="N033"/>im Stande sei. Die Tonkunst thut auch dies; aber
       <lb facs="#facs_5_region_1709375264370_1526_tl_34" n="N034"/>sie gewährt mehr. Sie besitzt die Mittel zu wahrhaft

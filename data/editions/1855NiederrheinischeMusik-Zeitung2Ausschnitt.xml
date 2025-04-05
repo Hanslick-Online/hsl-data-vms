@@ -3,7 +3,8 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
-            <title level="a"/>
+            <title level="j">Niederrheinische Musik-Zeitung für Kunstfreunde und Künstler</title>
+            <title level="a" type="main">Stimmen der Kritik über Richard Wagner. II.</title>
             <author ref="#hsl_person_id_4880">Bischoff, Ludwig</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
@@ -763,8 +764,7 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>            
-            <lb facs="#facs_1_region_1709376061810_1771_tl_1" n="N001"/><head type="h1">Stimmen der Kritik über Richard <rs type="person" ref="#hsl_person_id_319">Wagner</rs>.</head>
-            <lb facs="#facs_1_line_1735315777802_157" n="N002"/><head type="h2">II.</head>
+            <lb facs="#facs_1_region_1709376061810_1771_tl_1" n="N001"/><head type="h1">Stimmen der Kritik über Richard <rs type="person" ref="#hsl_person_id_319">Wagner</rs>. II.</head>
             <p>     
       <lb facs="#facs_1_region_1709376061810_1771_tl_2" n="N003"/>Wir gehen zu <hi rendition="#em">Ed. <rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi> über. Seine ganze
       <lb facs="#facs_1_region_1709376061810_1771_tl_3" n="N004"/>Schrift „<rs type="bibl" ref="#hsl_work_id_1083">Vom Musicalisch-Schönen</rs>“ ist ein Protest gegen

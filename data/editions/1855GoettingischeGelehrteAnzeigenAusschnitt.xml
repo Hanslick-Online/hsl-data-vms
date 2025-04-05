@@ -3,7 +3,9 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
-            <title level="a"/>
+            <title level="j">Göttingische gelehrte Anzeigen</title>
+            <title level="a" type="main"><rs type="place" ref="#hsl_place_id_32">Leipzig</rs></title>
+            <title level="a" type="sub">bei Rud. <rs type="person" ref="#hsl_person_id_377">Weigel</rs><space quantity="1" unit="char"/><date when="1854">1854</date>. <rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>. Ein Beitrag zur Revision der Aesthetik der Tonkunst. Von Dr. Ed. <hi rendition="#em"><rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi>. IV u. 104 S. in Octav.</title>
             <author ref="#hsl_person_id_575">Lotze, Hermann</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
