@@ -110,7 +110,7 @@
          <change who="ampfiel" when="2025-02-17">Transkribus OCR und Lektorat.</change>
          <change who="delsner" when="2025-02-22">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-02-24">Header, Layout, rs ref ausfüllen, space einfügen</change>
-         <change who="awilfing" when="">Letztkorrektur für Zwischenrelease.</change></revisionDesc>
+         <change who="awilfing" when="2025-04-07">Letztkorrektur für Zwischenrelease.</change></revisionDesc>
    </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="9945" lry="12441" xml:id="facs_1">
@@ -4409,7 +4409,7 @@
       <lb facs="#facs_8_region_1709375369026_1559_tl_49" n="N049"/>können hier nichts entscheiden, und deshalb ist auch
       <lb facs="#facs_8_region_1709375369026_1559_tl_50" n="N050"/><hi rendition="#em">hier</hi> das Beispiel des Verf.’s falsch gewählt. Eine
       <lb facs="#facs_8_region_1709375369026_1559_tl_51" n="N051"/>so kurze Figur kann mit gleichem Rechte bei der Dar
-      <lb facs="#facs_8_region_1709375369026_1559_tl_52" n="N052" break="no"/>stellung ganz verschiedenartiger Afferte vorkommen.
+      <lb facs="#facs_8_region_1709375369026_1559_tl_52" n="N052" break="no"/>stellung ganz verschiedenartiger Affecte vorkommen.
       <lb facs="#facs_8_region_1709375369026_1559_tl_53" n="N053"/>Es ist dies derselbe Irrthum, wie oben bei der <rs type="bibl" ref="#hsl_work_id_346">Ouver
             <pb facs="#facs_9" n="9" xml:id="img_0009"/>
             <cb break="no"/>
@@ -4509,7 +4509,7 @@
       <lb facs="#facs_10_region_1709375445754_1589_tl_8" n="N008" break="no"/>her das musikalische und das dramatische Princip ein
       <lb facs="#facs_10_region_1709375445754_1589_tl_9" n="N009" break="no"/>ander nothwendig durchschneiden. Die größte kunst
       <lb facs="#facs_10_region_1709375445754_1589_tl_10" n="N010" break="no"/>geschichtliche Bedeutung des Streites zwischen den
-      <lb facs="#facs_10_region_1709375445754_1589_tl_11" n="N011"/><rs type="person" ref="#hsl_person_id_99">Gluck</rs>isten und <rs type="person" ref="#hsl_person_id_215">Piccini</rs>sten liegt daher für den Verf.
+      <lb facs="#facs_10_region_1709375445754_1589_tl_11" n="N011"/>Gluckisten und Piccinisten liegt daher für den Verf.
       <lb facs="#facs_10_region_1709375445754_1589_tl_12" n="N012"/>darin, daß dabei der innere Conflict der Oper durch
       <lb facs="#facs_10_region_1709375445754_1589_tl_13" n="N013"/>den Widerstreit ihrer beiden Factoren, des musikalischen
       <lb facs="#facs_10_region_1709375445754_1589_tl_14" n="N014"/>und des dramatischen, zum ersten Male ausführlich
@@ -4721,7 +4721,7 @@
       <lb facs="#facs_12_region_1709375513914_1607_tl_25" n="N025"/>von den anderen Künsten abweichende Stellung der
       <lb facs="#facs_12_region_1709375513914_1607_tl_26" n="N026"/>Tonkunst zur Natur gesagt wird. Es finden hier
       <lb facs="#facs_12_region_1709375513914_1607_tl_27" n="N027"/>durchgreifende Verschiedenheiten Statt. Aber die ge
-      <lb facs="#facs_12_region_1709375513914_1607_tl_28" n="N028" break="no"/>gebenen Bestimmungen sind doch nur der erste Schrift
+      <lb facs="#facs_12_region_1709375513914_1607_tl_28" n="N028" break="no"/>gebenen Bestimmungen sind doch nur der erste Schritt
       <lb facs="#facs_12_region_1709375513914_1607_tl_29" n="N029"/>für die Erfassung dieses Verhältnisses. Daraus, daß
       <lb facs="#facs_12_region_1709375513914_1607_tl_30" n="N030"/>die Stellung des Tonkünstlers zur Natur eine <hi rendition="#em">andere</hi><space quantity="1" unit="char"/>
       <lb facs="#facs_12_region_1709375513914_1607_tl_31" n="N031"/>ist, folgt nicht, daß er <hi rendition="#em">in gar keiner Beziehung</hi><space quantity="1" unit="char"/>
