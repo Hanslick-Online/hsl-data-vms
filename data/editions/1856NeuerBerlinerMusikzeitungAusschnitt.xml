@@ -251,8 +251,9 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <lb n="N000"/><head type="h1"><hi rendition="#em">Nachrichten</hi>.</head>
+            <head type="h3">Neue Berliner Musikzeitung<lb/>Zehnter Jahrgang No. 50. 10. December 1856</head>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+            <lb n="N000"/><head type="h1"><hi rendition="#em">Nachrichten</hi>.</head>
             <p>     
       <lb facs="#facs_2_region_1709376443874_1904_tl_1" n="N001"/><emph rend="#bold"><rs type="place" ref="#hsl_place_id_9">Berlin</rs></emph>. „Der gegenwärtige Principienstreit über den ästheti
       <lb facs="#facs_2_region_1709376443874_1904_tl_2" n="N002" break="no"/>schen Standpunkt in der Tonkunst“ war die Bezeichnung eines

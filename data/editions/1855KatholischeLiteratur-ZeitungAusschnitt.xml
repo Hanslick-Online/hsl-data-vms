@@ -309,8 +309,9 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>               
-            <lb n="N0001"/><head type="h1">Aesthetik.</head>
+            <head type="h3">Katholische Literatur-Zeitung<lb/>No. 7. Montag, den 12. Februar 1855. II. Jahrg.</head>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+            <lb n="N0001"/><head type="h1">Aesthetik.</head>
             <p>
       <lb facs="#facs_2_region_1709374685145_1373_tl_1" n="N001"/><hi rendition="#bold"><rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs></hi>. <hi rendition="#em">Ein Beitrag zur Revision der
       <lb facs="#facs_2_region_1709374685145_1373_tl_2" n="N002"/>Aesthetik der Tonkunst</hi> von Dr. Eduard <hi rendition="#em"><rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi>. <rs type="place" ref="#hsl_place_id_32">Leipzig</rs><space quantity="1" unit="char"/>

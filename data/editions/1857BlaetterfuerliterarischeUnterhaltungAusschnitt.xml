@@ -1862,9 +1862,10 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <head type="h3">Blätter für literarische Unterhaltung<lb/>Nr. 23. — 4. Juni 1857</head>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <cb n="1"/>
-      <head type="h1">
+            <head type="h1">
             <lb facs="#facs_2_region_1709376667962_1969_tl_1" n="N001"/>Populäre Aesthetik.</head>
                   <list rend="numbered">
                         <item n="1">
@@ -1889,7 +1890,7 @@
                               <lb facs="#facs_2_region_1709376667962_1969_tl_14" n="N014"/>Gr. 8. 15 Ngr.
                         </item>
                   </list>
-               <p>
+            <p>
       <lb facs="#facs_2_region_1709376667962_1969_tl_15" n="N015"/>Wenn auf dem Gebiete der Aesthetik Schriften wie die
       <lb facs="#facs_2_region_1709376667962_1969_tl_16" n="N016"/>beiden erstgenannten erscheinen, die nicht durch neue Ideen
       <lb facs="#facs_2_region_1709376667962_1969_tl_17" n="N017"/>oder Forschungen die Wissenschaft als solche weiterführen,
