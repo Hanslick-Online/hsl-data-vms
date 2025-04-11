@@ -607,9 +607,10 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <head type="h3">Neue Zeitschrift für Musik<lb/>Siebenundvierzigster Band. Nr. 18. Den 30. October 1857</head>
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <cb n="1"/>
             <lb facs="#facs_2_region_1709376989041_2071_tl_1" n="N001"/><head type="h1">Dr. <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> und der „<rs type="bibl" ref="#hsl_work_id_40">Tannhäuser</rs>“.</head>
-            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <p>     
       <lb facs="#facs_2_region_1709376989041_2071_tl_2" n="N002"/>Bei Gelegenheit der ersten Aufführung des „<rs type="bibl" ref="#hsl_work_id_40">Tann
       <lb facs="#facs_2_region_1709376989041_2071_tl_3" n="N003" break="no"/>häuser</rs>“ in <rs type="place" ref="#hsl_place_id_55">Wien</rs> veröffentlichte Dr. Ed. <hi rendition="#em"><rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi> in
