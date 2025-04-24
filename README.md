@@ -1,4 +1,7 @@
 [![Build and publish](https://github.com/Hanslick-Online/hsl-data-vms/actions/workflows/build.yml/badge.svg)](https://github.com/Hanslick-Online/hsl-data-vms/actions/workflows/build.yml)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15274666.svg)](https://doi.org/10.5281/zenodo.15274666)
+
+
 
 
 # Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)
