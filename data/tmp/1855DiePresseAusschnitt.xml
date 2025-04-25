@@ -134,9 +134,6 @@
          <zone points="1124,279 2217,279 2217,925 1124,925"
                rendition="TextRegion"
                xml:id="facs_2_region_1709374273355_1171">
-            <zone points="1136,283 1970,290 1970,258 1918,251 1136,249"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709374273355_1171_tl_1"/>
             <zone points="1237,317 2196,334 2194,296 2021,283 1237,283"
                   rendition="Line"
                   xml:id="facs_2_region_1709374273355_1171_tl_2"/>
@@ -194,7 +191,7 @@
             <zone points="1127,888 2200,899 2198,866 2121,852 1127,850"
                   rendition="Line"
                   xml:id="facs_2_region_1709374273355_1171_tl_20"/>
-            <zone points="1206,931 2045,928 2112,923 2111,893 1204,887"
+            <zone points="1134,914 2047,921 2112,923 2111,893 1130,877"
                   rendition="Line"
                   xml:id="facs_2_region_1709374273355_1171_tl_21"/>
          </zone>
@@ -205,24 +202,34 @@
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
             <lb facs="#facs_1_region_1709374205667_1162_tl_3" n="N001"/>Die Presse
-               <lb facs="#facs_1_line_1709381200769_2208" n="N001"/>No 88. Wien, Dienstag 17. April 1855. 8. Jahrgang
+               <lb facs="#facs_1_line_1709381200769_2208" n="N001"/>No. 88 Wien, Dienstag <date month="0" day="0" year="0">17. April 1855</date>. 8. Jahrgang
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <lb facs="#facs_2_region_1709374273355_1171_tl_1" n="N001"/>das Werk Wienerischen Kunstfleißes und heimischen Gewerbes ist.
-      <lb facs="#facs_2_region_1709374273355_1171_tl_2" n="N002"/>Dr. Eduard Hanslick's Schrift vom Musikalisch=Schönen macht in
-      <lb facs="#facs_2_region_1709374273355_1171_tl_3" n="N003"/>Ausland Aufsehen. Die competenten literarischen und musikalischen Organe sind
-      <lb facs="#facs_2_region_1709374273355_1171_tl_4" n="N004"/>darüber einig, daß sie es hier mit einem in der Musikwissenschaft epochemachenden
-      <lb facs="#facs_2_region_1709374273355_1171_tl_5" n="N005"/>Werke zu thun haben. Julian Schmidt (wol der gefürchtetste Kritiker Deutsch<lb facs="#facs_2_region_1709374273355_1171_tl_6" n="N006" break="no"/>lands) empfiehlt diese geistvolle und selbstständige Untersuchung um so wärmer
-      <lb facs="#facs_2_region_1709374273355_1171_tl_7" n="N007"/>als in jüngster Zeit von Wien aus in Büchern und Zeitschriften gar so viel Un<lb facs="#facs_2_region_1709374273355_1171_tl_8" n="N008" break="no"/>nützes über Musik in die Welt hinaus geredet werde." Die Blätter für literarische
-      <lb facs="#facs_2_region_1709374273355_1171_tl_9" n="N009"/>Unterhaltung (redigirt von Hermann Marggraf) schließen eine ausführliche Be<lb facs="#facs_2_region_1709374273355_1171_tl_10" n="N010" break="no"/>sprechung des Hanslick'schen Buchs mit dem lebhaften Wunsch: dasselbe möchte von
-      <lb facs="#facs_2_region_1709374273355_1171_tl_11" n="N011"/>vielen Musikern und Kunstfreunden recht aufmerksam gelesen werden, damit doch
-      <lb facs="#facs_2_region_1709374273355_1171_tl_12" n="N012"/>endlich einmal die vage Begriffslosigkeit und das Umhertappen im Nebel bei der
-      <lb facs="#facs_2_region_1709374273355_1171_tl_13" n="N013"/>Beurtheilung musikalischer Kunstwerke aufhöre.“ Vom Verfasser scheiden sie mit
-      <lb facs="#facs_2_region_1709374273355_1171_tl_14" n="N014"/>der dankbarsten Anerkennung und Hochachtung für das was er ausgesprochen und
-      <lb facs="#facs_2_region_1709374273355_1171_tl_15" n="N015"/>für die Art, wie er es ausgesprochen hat und hoffen u. s. w." In nach eingehen<lb facs="#facs_2_region_1709374273355_1171_tl_16" n="N016" break="no"/>derer Weise bemächtigen sich die verschiedenen deutschen Musikzeitungen des Buches
-      <lb facs="#facs_2_region_1709374273355_1171_tl_17" n="N017"/>welches die meisten nicht in der üblichen Recensionenform, sondern in einer Reihe
-      <lb facs="#facs_2_region_1709374273355_1171_tl_18" n="N018"/>von Leitartikeln besprechen. Die wenigen Zeilen über Richard Wagner in Hausliike
-      <lb facs="#facs_2_region_1709374273355_1171_tl_19" n="N019"/>Schrift haben sogar eine Polemik zwischen der Leipziger und der rheinischen Musik<lb facs="#facs_2_region_1709374273355_1171_tl_20" n="N020" break="no"/>zeitung hervorgerufen. Die beiden Wiener Musikzeitungen dürften die einzigen
-      <lb facs="#facs_2_region_1709374273355_1171_tl_21" n="N021"/>welche das Buch gar nicht besprochen, ja nicht einmal angezeigt haben.
+            <lb facs="#facs_2_region_1709374273355_1171_tl_2" n="N001"/>
+            <hi rendition="#em">Dr. Eduard <rs type="person">Hanslick</rs>’s</hi> Schrift „<rs type="bibl">vom Musikalisch-Schönen</rs>“ macht im
+      <lb facs="#facs_2_region_1709374273355_1171_tl_3" n="N002"/>Ausland Aufsehen. Die competenten literarischen und musikalischen Organe sind
+      <lb facs="#facs_2_region_1709374273355_1171_tl_4" n="N003"/>darüber einig, daß sie es hier mit einem in der Musikwissenschaft epochemachenden
+      <lb facs="#facs_2_region_1709374273355_1171_tl_5" n="N004"/>Werke zu thun haben. <hi rendition="#em">Julian <rs type="person">Schmidt</rs>
+            </hi> (wol der gefürchtetste Kritiker <rs type="place">Deutsch</rs>
+            <lb facs="#facs_2_region_1709374273355_1171_tl_6" n="N005" break="no"/>
+            <rs type="place">land</rs>s) empfiehlt „diese geistvolle und selbstständige Untersuchung“ um so wärmer,
+      <lb facs="#facs_2_region_1709374273355_1171_tl_7" n="N006"/>als „in jüngster Zeit von <rs type="place">Wien</rs> aus in Büchern und Zeitschriften gar so viel Un<lb facs="#facs_2_region_1709374273355_1171_tl_8" n="N007" break="no"/>nützes über Musik in die Welt hinaus geredet werde.“ Die <rs type="bibl">Blätter für literarische</rs>
+            <lb facs="#facs_2_region_1709374273355_1171_tl_9" n="N008"/>
+            <rs type="bibl">Unterhaltung</rs> (redigirt von Hermann <hi rendition="#em">
+               <rs type="person">Marggraf</rs>
+            </hi>) schließen eine ausführliche Be<lb facs="#facs_2_region_1709374273355_1171_tl_10" n="N009" break="no"/>sprechung des <rs type="person">Hanslick</rs>’schen Buchs „mit dem lebhaften Wunsch: dasselbe möchte von
+      <lb facs="#facs_2_region_1709374273355_1171_tl_11" n="N010"/>vielen Musikern und Kunstfreunden recht aufmerksam gelesen werden, damit doch
+      <lb facs="#facs_2_region_1709374273355_1171_tl_12" n="N011"/>endlich einmal die vage Begriffslosigkeit und das Umhertappen im Nebel bei der
+      <lb facs="#facs_2_region_1709374273355_1171_tl_13" n="N012"/>Beurtheilung musikalischer Kunstwerke aufhöre.“ Vom Verfasser scheiden sie „mit
+      <lb facs="#facs_2_region_1709374273355_1171_tl_14" n="N013"/>der dankbarsten Anerkennung und Hochachtung für das was er ausgesprochen und
+      <lb facs="#facs_2_region_1709374273355_1171_tl_15" n="N014"/>für die Art, wie er es ausgesprochen hat und hoffen u. s. w.“ In nach eingehen<lb facs="#facs_2_region_1709374273355_1171_tl_16" n="N015" break="no"/>derer Weise bemächtigen sich die verschiedenen <rs type="place">deutsch</rs>en Musikzeitungen des Buches,
+      <lb facs="#facs_2_region_1709374273355_1171_tl_17" n="N016"/>welches die meisten nicht in der üblichen Recensionenform, sondern in einer Reihe
+      <lb facs="#facs_2_region_1709374273355_1171_tl_18" n="N017"/>von Leitartikeln besprechen. Die wenigen Zeilen über <hi rendition="#em">Richard <rs type="person">Wagner</rs>
+            </hi> in <rs type="person">Hanslick</rs>’s
+      <lb facs="#facs_2_region_1709374273355_1171_tl_19" n="N018"/>Schrift haben sogar eine Polemik zwischen der <rs type="bibl">Leipziger</rs> und der <rs type="bibl">rheinischen Musik</rs>
+            <lb facs="#facs_2_region_1709374273355_1171_tl_20" n="N019" break="no"/>
+            <rs type="bibl">zeitung</rs> hervorgerufen. Die beiden <rs type="bibl">
+               <hi rendition="#em">Wiener</hi> Musikzeitungen</rs> dürften die einzigen
+      <lb facs="#facs_2_region_1709374273355_1171_tl_21" n="N020"/>sein, welche das Buch gar nicht besprochen, ja nicht einmal angezeigt haben.
          </div>
       </body>
    </text>
