@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
             <title level="j">Dwight’s Journal of Music, A Paper of Art and Literature</title>
-            <title level="a">Music the Exponent of Emotion</title>
+            <title level="a" type="main">Music the Exponent of Emotion</title>
             <author ref="#hsl_person_id_6734">J. H.</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
@@ -109,7 +109,7 @@
          <change who="ampfiel" when="2025-04-06">Transkribus OCR und Lektorat.</change>
          <change who="delsner" when="2025-04-27">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-04-28">fix lb</change>
-         <change who="ampfiel" when="2025-05-05">fill header</change>
+         <change who="ampfiel" when="2025-05-09">fill header, layout</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -1068,6 +1068,7 @@
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+            <cb n="1"/>
       <head type="h1">
             <lb facs="#facs_2_region_1709374311747_1190_tl_1" n="N001"/>Music the Exponent of Emotion.</head>
             <p>  
@@ -1087,8 +1088,8 @@
       <lb facs="#facs_2_region_1709374311747_1190_tl_14" n="N015"/>latter art, we should necessarily fall upon the device
       <lb facs="#facs_2_region_1709374311747_1190_tl_15" n="N016"/>of the color-piano or the eye-organ, the invention
       <lb facs="#facs_2_region_1709374311747_1190_tl_16" n="N017"/>of which evinces that, as far as relates to form, the
-      <lb facs="#facs_2_region_1709374311747_1190_tl_17" n="N018"/>two phenomena rest upon a common basis.</p>
-               <p>
+      <lb facs="#facs_2_region_1709374311747_1190_tl_17" n="N018"/>two phenomena rest upon a common basis.
+            </p><p>
       <lb facs="#facs_2_region_1709374311747_1190_tl_18" n="N019"/>“It is an extremely difficult task to describe this
       <lb facs="#facs_2_region_1709374311747_1190_tl_19" n="N020"/>independent beauty, or that which is specifically
       <lb facs="#facs_2_region_1709374311747_1190_tl_20" n="N021"/>musical in the Art of Tone. Since music is the
@@ -1102,8 +1103,9 @@
       <lb facs="#facs_2_region_1709374311747_1190_tl_28" n="N029"/>description, it is here only metaphor. It is time that
       <lb facs="#facs_2_region_1709374311747_1190_tl_29" n="N030"/>Music should be imbibed, as Music, since its proper
       <lb facs="#facs_2_region_1709374311747_1190_tl_30" n="N031"/>comprehension, as well as its true enjoyment, must
-      <lb facs="#facs_2_region_1709374311747_1190_tl_31" n="N032"/>proceed from itself.” — Dr. E. <rs type="person">Hanslick</rs>, <rs type="bibl">vom Musik
-      <lb facs="#facs_2_region_1709374311747_1190_tl_32" n="N033" break="no"/>alisch Schönen.
+      <lb facs="#facs_2_region_1709374311747_1190_tl_31" n="N032"/>proceed from itself.” — <hi rendition="#em">Dr. E. <rs type="person">Hanslick</rs>, <rs type="bibl">vom Musik
+      <lb facs="#facs_2_region_1709374311747_1190_tl_32" n="N033" break="no"/>alisch Schönen.</rs></hi>
+            </p><p>
       <lb facs="#facs_2_region_1709374311747_1190_tl_33" n="N034"/>The author from whom we extract the above
       <lb facs="#facs_2_region_1709374311747_1190_tl_34" n="N035"/>remarks, in a treatise on the “<rs type="bibl">Musically Beauti
       <lb facs="#facs_2_region_1709374311747_1190_tl_35" n="N036" break="no"/>ful</rs>,” comes forward into the arena of musical
@@ -1119,6 +1121,7 @@
       <lb facs="#facs_2_region_1709374311747_1190_tl_45" n="N046" break="no"/>tral nature with outward forms, leads to the con
       <lb facs="#facs_2_region_1709374311747_1190_tl_46" n="N047" break="no"/>stant alliance between musical imagery and some
       <lb facs="#facs_2_region_1709374311747_1190_tl_47" n="N048"/>counterpart sought for in nature.
+            </p><p>
       <lb facs="#facs_2_region_1709374311747_1190_tl_48" n="N049"/>We profess to describe feeling by the thousand
       <lb facs="#facs_2_region_1709374311747_1190_tl_49" n="N050"/>combinations of tones, that constitute the works
       <lb facs="#facs_2_region_1709374311747_1190_tl_50" n="N051"/>of musical invention, but we have never, as yet,
@@ -1127,6 +1130,7 @@
       <lb facs="#facs_2_region_1709374311747_1190_tl_53" n="N054"/>some nearer approach to a representation or de
       <lb facs="#facs_2_region_1709374311747_1190_tl_54" n="N055" break="no"/>tail of feeling; yet, even with this aid, we can
       <lb facs="#facs_2_region_1709374311747_1190_tl_55" n="N056"/>fall upon no effective language.
+            </p><p>
       <lb facs="#facs_2_region_1709374311747_1190_tl_56" n="N057"/>If each distinct musical idea, as we are wont to
       <lb facs="#facs_2_region_1709374311747_1190_tl_57" n="N058"/>term it, were a language, it should be adapted to
       <lb facs="#facs_2_region_1709374311747_1190_tl_58" n="N059"/>but one set of emotions, and should belong to
@@ -1139,9 +1143,10 @@
       <lb facs="#facs_2_region_1709374311747_1190_tl_65" n="N066"/>having its distinctive phraseology and forms of
       <lb facs="#facs_2_region_1709374311747_1190_tl_66" n="N067"/>expression, so that no intellectual idea can spring
       <lb facs="#facs_2_region_1709374311747_1190_tl_67" n="N068"/>up, without having its special representation in
-            <cb />
+               <cb n="2"/>
       <lb facs="#facs_2_region_1709374316266_1193_tl_1" n="N001"/>written speech. The pretensions of Music, on
       <lb facs="#facs_2_region_1709374316266_1193_tl_2" n="N002"/>this score, are vague, doubtful and assuming.
+            </p><p>
       <lb facs="#facs_2_region_1709374316266_1193_tl_3" n="N003"/>Where the same forms of melody are adapted
       <lb facs="#facs_2_region_1709374316266_1193_tl_4" n="N004"/>to similar or congenial emotions, we have no
       <lb facs="#facs_2_region_1709374316266_1193_tl_5" n="N005"/>reason to doubt the claims of the Tone-Art;
@@ -1152,8 +1157,8 @@
       <lb facs="#facs_2_region_1709374316266_1193_tl_10" n="N010"/>Music appears before us with entirely false pre
       <lb facs="#facs_2_region_1709374316266_1193_tl_11" n="N011" break="no"/>tensions. The poet is able, through his ornamen
       <lb facs="#facs_2_region_1709374316266_1193_tl_12" n="N012" break="no"/>tal structure of word-forms, to give us a subjective
-      <lb facs="#facs_2_region_1709374316266_1193_tl_13" n="N013"/>picture of <rs type="place">Niagara Falls</rs>; but when OLE <rs type="person">BULL</rs>
-            <lb facs="#facs_2_region_1709374316266_1193_tl_14" n="N014"/>attempted the same thing before a credulous ama
+      <lb facs="#facs_2_region_1709374316266_1193_tl_13" n="N013"/>picture of <rs type="place">Niagara Falls</rs>; but when OLE <rs type="person">BULL</rs><space quantity="1" unit="char"/>
+      <lb facs="#facs_2_region_1709374316266_1193_tl_14" n="N014"/>attempted the same thing before a credulous ama
       <lb facs="#facs_2_region_1709374316266_1193_tl_15" n="N015" break="no"/>teur audience, he could do no more than work
       <lb facs="#facs_2_region_1709374316266_1193_tl_16" n="N016"/>their imaginations up into a false belief of what
       <lb facs="#facs_2_region_1709374316266_1193_tl_17" n="N017"/>they could not actually realize. His gentle chro
@@ -1166,9 +1171,8 @@
       <lb facs="#facs_2_region_1709374316266_1193_tl_24" n="N024"/>the same position, have been used to describe
       <lb facs="#facs_2_region_1709374316266_1193_tl_25" n="N025"/>scenes at total variance with <rs type="place">Niagara Falls</rs>, and
       <lb facs="#facs_2_region_1709374316266_1193_tl_26" n="N026"/>acting with opposite influences to those of this
-      <lb facs="#facs_2_region_1709374316266_1193_tl_27" n="N027"/>great natural wonder. The noted “<rs type="bibl">Crambam</rs>
-            <lb facs="#facs_2_region_1709374316266_1193_tl_28" n="N028" break="no"/>
-            <rs type="bibl">buli</rs>,” the drinking-song and jovial accompani
+      <lb facs="#facs_2_region_1709374316266_1193_tl_27" n="N027"/>great natural wonder. The noted “<rs type="bibl">Crambam
+      <lb facs="#facs_2_region_1709374316266_1193_tl_28" n="N028" break="no"/>buli</rs>,” the drinking-song and jovial accompani
       <lb facs="#facs_2_region_1709374316266_1193_tl_29" n="N029" break="no"/>ment of the <rs type="place">German</rs> students’ carousals, is adapted
       <lb facs="#facs_2_region_1709374316266_1193_tl_30" n="N030"/>to sacred melody by our American psalmodists,
       <lb facs="#facs_2_region_1709374316266_1193_tl_31" n="N031"/>a circumstance that would tend to show, if music
@@ -1176,6 +1180,7 @@
       <lb facs="#facs_2_region_1709374316266_1193_tl_33" n="N033"/>there is but a shade of difference between the
       <lb facs="#facs_2_region_1709374316266_1193_tl_34" n="N034"/>incitements of piety and those of the bacchanalian
       <lb facs="#facs_2_region_1709374316266_1193_tl_35" n="N035"/>bowl.
+            </p><p>
       <lb facs="#facs_2_region_1709374316266_1193_tl_36" n="N036"/>This we may say in regard to the identity of
       <lb facs="#facs_2_region_1709374316266_1193_tl_37" n="N037"/>tone-language to express opposite emotions; but
       <lb facs="#facs_2_region_1709374316266_1193_tl_38" n="N038"/>the more difficult problem is involved in the
@@ -1190,6 +1195,7 @@
       <lb facs="#facs_2_region_1709374316266_1193_tl_47" n="N047"/>attempts to exhibit the subjective workings of the
       <lb facs="#facs_2_region_1709374316266_1193_tl_48" n="N048"/>same scene, it departs, invariably, into the pro
       <lb facs="#facs_2_region_1709374316266_1193_tl_49" n="N049" break="no"/>vince of vague theory.
+            </p><p>
       <lb facs="#facs_2_region_1709374316266_1193_tl_50" n="N050"/>Before Music can become a language of emo
       <lb facs="#facs_2_region_1709374316266_1193_tl_51" n="N051" break="no"/>tion, in a strictly analogous sense, she must, neces
       <lb facs="#facs_2_region_1709374316266_1193_tl_52" n="N052" break="no"/>sarily, adapt all ber tone-structures to specific
@@ -1209,13 +1215,16 @@
       <lb facs="#facs_2_region_1709374316266_1193_tl_66" n="N066"/>modulated sounds, and the state into which they
       <lb facs="#facs_2_region_1709374316266_1193_tl_67" n="N067"/>elevate the imagination is, necessarily, akin to
       <lb facs="#facs_2_region_1709374316266_1193_tl_68" n="N068"/>that produced by Nature’s expressive silence.
+            </p><p>
       <lb facs="#facs_2_region_1709374316266_1193_tl_69" n="N069"/>We can, however, give another construction to
       <lb facs="#facs_2_region_1709374316266_1193_tl_70" n="N070"/>the term language, which would not altogether
       <lb facs="#facs_2_region_1709374316266_1193_tl_71" n="N071"/>exclude it from the domain of Music, and that is
       <lb facs="#facs_2_region_1709374316266_1193_tl_72" n="N072"/>when it addresses the mind by association.
+            </p><p>
       <lb facs="#facs_2_region_1709374316266_1193_tl_73" n="N073"/>When the <rs type="bibl">Ranz des Vaches</rs> is heard in distant
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-            <lb facs="#facs_3_region_1709374333587_1199_tl_1" n="N001"/>lands by the Swiss mountainer, it recalls the
+            <cb n="3"/>
+      <lb facs="#facs_3_region_1709374333587_1199_tl_1" n="N001"/>lands by the Swiss mountainer, it recalls the
       <lb facs="#facs_3_region_1709374333587_1199_tl_2" n="N002"/>memories of the past. It does ineffably more
       <lb facs="#facs_3_region_1709374333587_1199_tl_3" n="N003"/>than this, by raising up before the mind’s eye the
       <lb facs="#facs_3_region_1709374333587_1199_tl_4" n="N004"/>whole picture of native scenery, outwardly grand
@@ -1227,6 +1236,7 @@
       <lb facs="#facs_3_region_1709374333587_1199_tl_10" n="N010"/>tone-thought which nothing else could supply.
       <lb facs="#facs_3_region_1709374333587_1199_tl_11" n="N011"/>In so far it is language, but becomes so only by
       <lb facs="#facs_3_region_1709374333587_1199_tl_12" n="N012"/>association.
+            </p><p>
       <lb facs="#facs_3_region_1709374333587_1199_tl_13" n="N013"/>To describe a scene never beheld by the audi
       <lb facs="#facs_3_region_1709374333587_1199_tl_14" n="N014" break="no"/>tor of the piece, through intricate tone-combina
       <lb facs="#facs_3_region_1709374333587_1199_tl_15" n="N015" break="no"/>tions, is one of those erroneous assumptions alluded
@@ -1264,6 +1274,7 @@
       <lb facs="#facs_3_region_1709374333587_1199_tl_47" n="N047" break="no"/>cord the intensity of feeling by the instrumentality
       <lb facs="#facs_3_region_1709374333587_1199_tl_48" n="N048"/>of a harmonious mechanism; the interpreter, if
       <lb facs="#facs_3_region_1709374333587_1199_tl_49" n="N049"/>not the language, of the soul’s experience.
+            </p><p>
       <lb facs="#facs_3_region_1709374333587_1199_tl_50" n="N050"/>If we inquire into the reason why the musical
       <lb facs="#facs_3_region_1709374333587_1199_tl_51" n="N051"/>composer selects a visible picture in order to give
       <lb facs="#facs_3_region_1709374333587_1199_tl_52" n="N052"/>a name to his composition, we can find no other
@@ -1278,19 +1289,23 @@
       <lb facs="#facs_3_region_1709374333587_1199_tl_61" n="N061" break="no"/>rily, be confined within the limits of sense, ex
       <lb facs="#facs_3_region_1709374333587_1199_tl_62" n="N062" break="no"/>pressing that which is tangible and felt, only in
       <lb facs="#facs_3_region_1709374333587_1199_tl_63" n="N063"/>as far as it is seen.
+            </p><p>
       <lb facs="#facs_3_region_1709374333587_1199_tl_64" n="N064"/>Upon this ground also we find the mere popu
       <lb facs="#facs_3_region_1709374333587_1199_tl_65" n="N065" break="no"/>larity of music to rest, in the same manner that a
       <lb facs="#facs_3_region_1709374333587_1199_tl_66" n="N066"/>popular literature proceeds from the actual events
       <lb facs="#facs_3_region_1709374333587_1199_tl_67" n="N067"/>of life, the descriptions of noted scenes and genre
       <lb facs="#facs_3_region_1709374333587_1199_tl_68" n="N068"/>details.
+            </p><p>
       <lb facs="#facs_3_region_1709374333587_1199_tl_69" n="N069"/>The pictorial art places before us all the
       <lb facs="#facs_3_region_1709374333587_1199_tl_70" n="N070"/>outward scenes of life and nature, but how deeply
       <lb facs="#facs_3_region_1709374333587_1199_tl_71" n="N071"/>the soul felt in the study of those scenes it has
       <lb facs="#facs_3_region_1709374333587_1199_tl_72" n="N072"/>never yet revealed. This attribute belongs to the
       <lb facs="#facs_3_line_1743972677398_158" n="N073"/>Art of Tone, and in denying its claims to do all
-               <lb facs="#facs_3_region_1709374338090_1202_tl_1" n="N001"/>it pretends to, we refer more to the phraseology
+               <cb n="4"/>
+      <lb facs="#facs_3_region_1709374338090_1202_tl_1" n="N001"/>it pretends to, we refer more to the phraseology
       <lb facs="#facs_3_region_1709374338090_1202_tl_2" n="N002"/>of description than the intensity of effect which
       <lb facs="#facs_3_region_1709374338090_1202_tl_3" n="N003"/>lies in music.
+            </p><p>
       <lb facs="#facs_3_region_1709374338090_1202_tl_4" n="N004"/>What it describes it does musically, and its na
       <lb facs="#facs_3_region_1709374338090_1202_tl_5" n="N005" break="no"/>ture can be comprehended only musically, and by
       <lb facs="#facs_3_region_1709374338090_1202_tl_6" n="N006"/>those initiated into the whole sphere of musical
@@ -1300,6 +1315,7 @@
       <lb facs="#facs_3_region_1709374338090_1202_tl_10" n="N010"/>to begin where the former leaves off, but that
       <lb facs="#facs_3_region_1709374338090_1202_tl_11" n="N011"/>both can move within the same sphere, is im
       <lb facs="#facs_3_region_1709374338090_1202_tl_12" n="N012" break="no"/>possible.
+            </p><p>
       <lb facs="#facs_3_region_1709374338090_1202_tl_13" n="N013"/>To the painter emotion is a sustenance which
       <lb facs="#facs_3_region_1709374338090_1202_tl_14" n="N014"/>is visible in the emanations of his pencil and
       <lb facs="#facs_3_region_1709374338090_1202_tl_15" n="N015"/>breathes throughout his works. Yet the emo
@@ -1324,6 +1340,7 @@
       <lb facs="#facs_3_region_1709374338090_1202_tl_34" n="N034"/>his feelings in its pursuit, and hence we should
       <lb facs="#facs_3_region_1709374338090_1202_tl_35" n="N035"/>judge its whole value depended upon the susten
       <lb facs="#facs_3_region_1709374338090_1202_tl_36" n="N036" break="no"/>ance derived from emotional influences.
+            </p><p>
       <lb facs="#facs_3_region_1709374338090_1202_tl_37" n="N037"/>It is a remarkable truth that the world of sense
       <lb facs="#facs_3_region_1709374338090_1202_tl_38" n="N038"/>often leads us into the world of Tone. The most
       <lb facs="#facs_3_region_1709374338090_1202_tl_39" n="N039"/>romantic localities are full of musical inspiration,
@@ -1334,11 +1351,12 @@
       <lb facs="#facs_3_region_1709374338090_1202_tl_44" n="N044"/>scenes claimed to be represented by musical com
       <lb facs="#facs_3_region_1709374338090_1202_tl_45" n="N045" break="no"/>positions. The music might have been written at
       <lb facs="#facs_3_region_1709374338090_1202_tl_46" n="N046"/>the place attempted to be described, but it could
-      <lb facs="#facs_3_region_1709374338090_1202_tl_47" n="N047"/>not have been written of it. It exemplifies,
+      <lb facs="#facs_3_region_1709374338090_1202_tl_47" n="N047"/>not have been written <hi rendition="#em">of</hi> it. It exemplifies,
       <lb facs="#facs_3_region_1709374338090_1202_tl_48" n="N048"/>however, very forcibly the necessity of the culti
       <lb facs="#facs_3_region_1709374338090_1202_tl_49" n="N049" break="no"/>vation of the Euterpean art, leading us a step
       <lb facs="#facs_3_region_1709374338090_1202_tl_50" n="N050"/>higher than the platform of Nature into the ethe
       <lb facs="#facs_3_region_1709374338090_1202_tl_51" n="N051" break="no"/>rial region which we term harmony of tone.
+            </p><p>
       <lb facs="#facs_3_region_1709374338090_1202_tl_52" n="N052"/>If, as we have already assumed, the composer
       <lb facs="#facs_3_region_1709374338090_1202_tl_53" n="N053"/>begins where the artist ceases, if the limits of
       <lb facs="#facs_3_region_1709374338090_1202_tl_54" n="N054"/>imitative art form the starting point of musical
@@ -1352,6 +1370,7 @@
       <lb facs="#facs_3_region_1709374338090_1202_tl_62" n="N062"/>to reproduce them, and soaring far beyond the
       <lb facs="#facs_3_region_1709374338090_1202_tl_63" n="N063"/>world of sense, its illimitable nature can, in some
       <lb facs="#facs_3_region_1709374338090_1202_tl_64" n="N064"/>measure, be appreciated.
+            </p><p>
       <lb facs="#facs_3_region_1709374338090_1202_tl_65" n="N065"/>As this branch of human development extends
       <lb facs="#facs_3_region_1709374338090_1202_tl_66" n="N066"/>we shall always be adding to our fund of musical
       <lb facs="#facs_3_region_1709374338090_1202_tl_67" n="N067"/>thought, for which we have as yet but feeble ex
@@ -1361,20 +1380,20 @@
       <lb facs="#facs_3_region_1709374338090_1202_tl_71" n="N071"/>nomenclature of musical thought must become
       <lb facs="#facs_3_region_1709374338090_1202_tl_72" n="N072"/>more exclusively musical, before it can lay open
       <lb facs="#facs_3_line_1743972682649_161" n="N073"/>its real meaning and designs to the mind and ima
-               <lb facs="#facs_3_region_1709374343851_1205_tl_1" n="N001" break="no"/>gination. Every combination of tones, every
+               <cb n="5" break="no"/>
+      <lb facs="#facs_3_region_1709374343851_1205_tl_1" n="N001" break="no"/>gination. Every combination of tones, every
       <lb facs="#facs_3_region_1709374343851_1205_tl_2" n="N002"/>group of symphonious representations, all the
       <lb facs="#facs_3_region_1709374343851_1205_tl_3" n="N003"/>swells and cadences of rhythmical compositions,
       <lb facs="#facs_3_region_1709374343851_1205_tl_4" n="N004"/>all those dashes of discord, which in <rs type="person">BEETHOVEN</rs>,
       <lb facs="#facs_3_region_1709374343851_1205_tl_5" n="N005"/>precede the beautiful ascents into harmony, and
       <lb facs="#facs_3_region_1709374343851_1205_tl_6" n="N006"/>to which we could give no better name than the
-      <lb facs="#facs_3_region_1709374343851_1205_tl_7" n="N007"/>
-            <rs type="person">Beethoven</rs>ism of tone-thought; all these and a
+      <lb facs="#facs_3_region_1709374343851_1205_tl_7" n="N007"/><rs type="person">Beethoven</rs>ism of tone-thought; all these and a
       <lb facs="#facs_3_region_1709374343851_1205_tl_8" n="N008"/>thousand other forms should have a ready vocabu
       <lb facs="#facs_3_region_1709374343851_1205_tl_9" n="N009" break="no"/>lary, to render the science we are but entering
       <lb facs="#facs_3_region_1709374343851_1205_tl_10" n="N010"/>upon, complete and open to the understandings
       <lb facs="#facs_3_region_1709374343851_1205_tl_11" n="N011"/>of all.
-      <lb facs="#facs_3_region_1709374343851_1205_tl_12" n="N012"/>
-            <rs type="person">J. H.</rs></p>
+      <lb facs="#facs_3_region_1709374343851_1205_tl_12" n="N012"/><rs type="person">J. H.</rs>
+            </p>
          </div>
       </body>
    </text>

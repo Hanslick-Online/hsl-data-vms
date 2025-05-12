@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
             <title level="j">Blätter für literarische Unterhaltung</title>
-            <title level="a">Zur musikalischen Literatur</title>
+            <title level="a" type="main">Zur musikalischen Literatur</title>
             <author ref="#hsl_person_id_6737">Anonym</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
@@ -109,7 +109,7 @@
          <change who="ampfiel" when="2025-04-09">Transkribus OCR und Lektorat.</change>
          <change who="delsner" when="2025-04-27">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-04-28">fix lb</change>
-         <change who="ampfiel" when="2025-05-05">fill header</change>
+         <change who="ampfiel" when="2025-05-09">fill header, layout</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -655,13 +655,14 @@
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>               
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+            <cb n="1"/>
       <head type="h1">
             <lb facs="#facs_2_region_1709374155491_1146_tl_1" n="N001"/>Zur musikalischen Literatur.</head>   
       <head type="h2">
             <lb facs="#facs_2_region_1709374155491_1146_tl_2" n="N002"/><rs type="bibl">Vom Musikalisch-Schönen</rs>. Ein Beitrag zur Revision der
-      <lb facs="#facs_2_region_1709374155491_1146_tl_3" n="N003"/>Aesthetik der Tonkunst. Von <hi rendition="#em">Eduard <rs type="person">Hanslick</rs></hi>. <rs type="place">Leipzig</rs>,
-      <lb facs="#facs_2_region_1709374155491_1146_tl_4" n="N004"/>R. <rs type="person">Weigel</rs>. <date when="1854">1854</date>. Gr. 8. 15 Ngr.</head>
-      <p>
+            <lb facs="#facs_2_region_1709374155491_1146_tl_3" n="N003"/>Aesthetik der Tonkunst. Von <hi rendition="#em">Eduard <rs type="person">Hanslick</rs></hi>. <rs type="place">Leipzig</rs>,
+            <lb facs="#facs_2_region_1709374155491_1146_tl_4" n="N004"/>R. <rs type="person">Weigel</rs>. <date when="1854">1854</date>. Gr. 8. 15 Ngr.</head>
+            <p>
       <lb facs="#facs_2_region_1709374155491_1146_tl_5" n="N005"/>Die Relativität der Musik hat von jeher den Leuten viel
       <lb facs="#facs_2_region_1709374155491_1146_tl_6" n="N006"/>Kopfzerbrechens gemacht; die Unfaßbarkeit des Materials einer
       <lb facs="#facs_2_region_1709374155491_1146_tl_7" n="N007" break="no"/>seits und die Unfähigkeit zur begrifflichen Bestimmtheit anderer
@@ -683,6 +684,7 @@
       <lb facs="#facs_2_region_1709374155491_1146_tl_23" n="N023"/>Weltschmerz. Eine dritte Partei erhebt das blos äußerlich Ge
       <lb facs="#facs_2_region_1709374155491_1146_tl_24" n="N024" break="no"/>fällige und sinnlich Reizende aufs Schild und verlacht alle Be
       <lb facs="#facs_2_region_1709374155491_1146_tl_25" n="N025" break="no"/>strebungen, die nicht auf den reinen Effect hinzielen.
+            </p><p>
       <lb facs="#facs_2_region_1709374155491_1146_tl_26" n="N026"/>Das Verhältniß des Genießenden gegenüber dem musikali
       <lb facs="#facs_2_region_1709374155491_1146_tl_27" n="N027" break="no"/>schen Kunstwerk gestaltet sich nun natürlich ebenso vielfältig zer
       <lb facs="#facs_2_region_1709374155491_1146_tl_28" n="N028" break="no"/>splittert und zerspalten: ein Theil der Hörer hat nur Sinn für
@@ -701,7 +703,8 @@
       <lb facs="#facs_2_region_1709374155491_1146_tl_41" n="N041"/>selbst fast immer vernachlässigt, und unsere Aesthetiken decla
       <lb facs="#facs_2_region_1709374155491_1146_tl_42" n="N042" break="no"/>miren zwar viel über die Schönheit an sich, aber die musika
             <pb facs="#facs_3" n="3" xml:id="img_0003" break="no"/>
-            <lb facs="#facs_3_region_1709374174131_1152_tl_1" n="N001" break="no"/>lische Schönheit wird mehr oder weniger mit der Schönheit in
+            <cb n="2" break="no"/>
+      <lb facs="#facs_3_region_1709374174131_1152_tl_1" n="N001" break="no"/>lische Schönheit wird mehr oder weniger mit der Schönheit in
       <lb facs="#facs_3_region_1709374174131_1152_tl_2" n="N002"/>den andern Künsten zusammengeworfen. Zwar gibt es nur
       <lb facs="#facs_3_region_1709374174131_1152_tl_3" n="N003"/>eine Schönheit und unter deren Joch müssen sich alle Künste
       <lb facs="#facs_3_region_1709374174131_1152_tl_4" n="N004"/>beugen; aber es gibt auch Schönheiten, die durch das Material
@@ -733,6 +736,7 @@
       <lb facs="#facs_3_region_1709374174131_1152_tl_30" n="N030"/>Fühlen mit sich. Die Musik bleibt dieselbe; allein es wechselt
       <lb facs="#facs_3_line_1744188688636_143" n="N031"/>ihre Wirkung mit dem wechselnden Standpunkt conventioneller
       <lb facs="#facs_3_region_1709374174131_1152_tl_33" n="N032"/>Befangenheit.“
+            </p><p>
       <lb facs="#facs_3_region_1709374174131_1152_tl_34" n="N033"/>Im zweiten Capitel leugnet der Verfasser geradezu, daß
       <lb facs="#facs_3_region_1709374174131_1152_tl_35" n="N034"/>die Tonkunst Gefühle oder Affecte aus eigenstem Vermögen
       <lb facs="#facs_3_region_1709374174131_1152_tl_36" n="N035"/>darstellen könne, indem „die Bestimmtheit der Gefühle von
@@ -741,8 +745,8 @@
       <lb facs="#facs_3_region_1709374174131_1152_tl_39" n="N038"/>liegen“. „Die Musik kann von den Gefühlen nur das Dy
       <lb facs="#facs_3_region_1709374174131_1152_tl_40" n="N039" break="no"/>namische darstellen. Sie vermag die Bewegung eines psychischen
       <lb facs="#facs_3_region_1709374174131_1152_tl_41" n="N040"/>Vorgangs nach den Momenten: schnell, langsam, stark, schwach,
-      <lb facs="#facs_3_region_1709374174131_1152_tl_42" n="N041"/>steigernd, fallend nachzubilden. Bewegung ist aber nur <hi rendition="#em">eine</hi>
-            <lb facs="#facs_3_region_1709374174131_1152_tl_43" n="N042"/>Eigenschaft, <hi rendition="#em">ein</hi> Moment des Gefühls, nicht dieses selbst.“ Es
+      <lb facs="#facs_3_region_1709374174131_1152_tl_42" n="N041"/>steigernd, fallend nachzubilden. Bewegung ist aber nur <hi rendition="#em">eine</hi><space quantity="1" unit="char"/>
+      <lb facs="#facs_3_region_1709374174131_1152_tl_43" n="N042"/>Eigenschaft, <hi rendition="#em">ein</hi> Moment des Gefühls, nicht dieses selbst.“ Es
       <lb facs="#facs_3_region_1709374174131_1152_tl_44" n="N043"/>ist dieses Capitel überhaupt jener in unserer Einleitung ange
       <lb facs="#facs_3_region_1709374174131_1152_tl_45" n="N044" break="no"/>führten Partei von somnambülen Musikern sehr zum Studium
       <lb facs="#facs_3_region_1709374174131_1152_tl_46" n="N045"/>anzuempfehlen; vielleicht lernen sie daraus, daß die subjective
@@ -770,7 +774,10 @@
       <lb facs="#facs_3_region_1709374174131_1152_tl_68" n="N067"/>weil sie nicht richtig musikalisch hören können, zu allerhand
       <lb facs="#facs_3_region_1709374174131_1152_tl_69" n="N068"/>außermusikalischen Hülfsmitteln greifen, um nur ihre dialektische
       <lb facs="#facs_3_region_1709374174131_1152_tl_70" n="N069"/>Escamotage nicht aufgeben zu müssen.
-               <lb facs="#facs_3_region_1709374179043_1155_tl_1" n="N001"/>Einige Stellen über das rein Musikalisch-Schöne mögen hier
+            </p>
+            <cb n="3"/>
+            <p>
+      <lb facs="#facs_3_region_1709374179043_1155_tl_1" n="N001"/>Einige Stellen über das rein Musikalisch-Schöne mögen hier
       <lb facs="#facs_3_region_1709374179043_1155_tl_2" n="N002"/>noch Platz finden. „Wenn man die Fülle von Schönheit nicht zu
       <lb facs="#facs_3_region_1709374179043_1155_tl_3" n="N003"/>erkennen verstand, die im rein Musikalischen lebt, so trägt die Un
       <lb facs="#facs_3_region_1709374179043_1155_tl_4" n="N004" break="no"/>terschätzung des Sinnlichen viel Schuld, welcher wir in ältern
@@ -781,8 +788,7 @@
       <lb facs="#facs_3_region_1709374179043_1155_tl_9" n="N009"/>Die Musik schaffe für das Herz, meinen sie, das Ohr aber sei
       <lb facs="#facs_3_region_1709374179043_1155_tl_10" n="N010"/>ein triviales Ding; — ja, was sie eben Ohr nennen; — für
       <lb facs="#facs_3_region_1709374179043_1155_tl_11" n="N011"/>das «Labyrinth» oder die «Eustachische Trompete» dichtet kein
-      <lb facs="#facs_3_region_1709374179043_1155_tl_12" n="N012"/>
-            <rs type="person">Beethoven</rs>. Aber die Phantasie, die auf Gehörempfindungen
+      <lb facs="#facs_3_region_1709374179043_1155_tl_12" n="N012"/><rs type="person">Beethoven</rs>. Aber die Phantasie, die auf Gehörempfindungen
       <lb facs="#facs_3_region_1709374179043_1155_tl_13" n="N013"/>organisirt ist und welcher der Sinn etwas ganz Anderes be
       <lb facs="#facs_3_region_1709374179043_1155_tl_14" n="N014" break="no"/>deutet als ein bloßer Trichter an der Oberfläche der Erschei
       <lb facs="#facs_3_region_1709374179043_1155_tl_15" n="N015" break="no"/>nungen, sie genießt in bewußter Sinnlichkeit die klingenden
@@ -796,6 +802,7 @@
       <lb facs="#facs_3_region_1709374179043_1155_tl_25" n="N023"/>von einer <rs type="person">Verdi</rs>’schen Musik? Etwa, daß die eine höhere Ge
       <lb facs="#facs_3_line_1744227086629_115" n="N024" break="no"/>fühle oder dieselben Gefühle richtiger darstellt? Nein, sondern
       <lb facs="#facs_3_region_1709374179043_1155_tl_28" n="N025"/>daß sie schönere Tonformen bildet.“
+            </p><p>
       <lb facs="#facs_3_region_1709374179043_1155_tl_29" n="N026"/>Von den noch übrigen vier Capiteln wollen wir blos noch
       <lb facs="#facs_3_region_1709374179043_1155_tl_30" n="N027"/>die Ueberschriften geben, da es nicht in der Absicht dieser kurzen
       <lb facs="#facs_3_region_1709374179043_1155_tl_31" n="N028"/>Besprechung liegen kann, dem Verfasser in alle Abzweigungen
@@ -809,6 +816,7 @@
       <lb facs="#facs_3_region_1709374179043_1155_tl_39" n="N036" break="no"/>nehmen der Musik, gegenüber dem pathologischen“; „Die Be
       <lb facs="#facs_3_line_1744227118620_138" n="N037" break="no"/>ziehungen der Tonkunst zur Natur“; „Die Begriffe Inhalt und
       <lb facs="#facs_3_region_1709374179043_1155_tl_42" n="N038"/>Form in der Musik“.
+            </p><p>
       <lb facs="#facs_3_region_1709374179043_1155_tl_43" n="N039"/>Zum Schluß können wir nicht anders, als den lebhaften
       <lb facs="#facs_3_region_1709374179043_1155_tl_44" n="N040"/>Wunsch ausdrücken: das vorliegende Buch möge von Vie
       <lb facs="#facs_3_region_1709374179043_1155_tl_45" n="N041" break="no"/>len, Musikern und Kunstfreunden, recht aufmerksam gelesen
@@ -822,7 +830,8 @@
       <lb facs="#facs_3_region_1709374179043_1155_tl_55" n="N049" break="no"/>wenden lassen, sondern daß er bis zur Vollendung des musika
       <lb facs="#facs_3_region_1709374179043_1155_tl_56" n="N050" break="no"/>lisch-ästhetischen Neubaus nicht aufhören wird, Hand und
       <lb facs="#facs_3_region_1709374179043_1155_tl_57" n="N051"/>Auge dem Werke fortwährend zu schenken.
-      <lb facs="#facs_3_line_1744227172584_176" n="N052"/><rs type="person">53.</rs></p>
+      <lb facs="#facs_3_line_1744227172584_176" n="N052"/><rs type="person">53.</rs>
+            </p>
          </div>
       </body>
    </text>
