@@ -109,7 +109,8 @@
          <change who="ampfiel" when="2025-04-06">Transkribus OCR und Lektorat.</change>
          <change who="delsner" when="2025-04-27">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-04-28">fix lb</change>
-         <change who="ampfiel" when="2025-05-09">fill header, layout</change>
+         <change who="ampfiel" when="2025-05-09">fill header, layout, space</change>
+         <change who="ampfiel" when="2025-05-14">rs ref fertig</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -1067,10 +1068,10 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+      <head type="h3">Dwight’s Journal of Music, A Paper of Art and Literature. Whole No. 172. Boston, Saturday, July 21, 1855. Vol. VII. No. 16.</head>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <cb n="1"/>
-      <head type="h1">
-            <lb facs="#facs_2_region_1709374311747_1190_tl_1" n="N001"/>Music the Exponent of Emotion.</head>
+      <lb facs="#facs_2_region_1709374311747_1190_tl_1" n="N001"/><head type="h1">Music the Exponent of Emotion.</head>
             <p>  
       <lb facs="#facs_2_line_1742473596882_28" n="N002"/>“Every one, as a child, has experienced a plea
       <lb facs="#facs_2_region_1709374311747_1190_tl_2" n="N003" break="no"/>sure in studying the changeable forms of the Kalei
@@ -1103,11 +1104,11 @@
       <lb facs="#facs_2_region_1709374311747_1190_tl_28" n="N029"/>description, it is here only metaphor. It is time that
       <lb facs="#facs_2_region_1709374311747_1190_tl_29" n="N030"/>Music should be imbibed, as Music, since its proper
       <lb facs="#facs_2_region_1709374311747_1190_tl_30" n="N031"/>comprehension, as well as its true enjoyment, must
-      <lb facs="#facs_2_region_1709374311747_1190_tl_31" n="N032"/>proceed from itself.” — <hi rendition="#em">Dr. E. <rs type="person">Hanslick</rs>, <rs type="bibl">vom Musik
+      <lb facs="#facs_2_region_1709374311747_1190_tl_31" n="N032"/>proceed from itself.” — <hi rendition="#em">Dr. E. <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>, <rs type="bibl" ref="#hsl_work_id_1083">Vom Musik
       <lb facs="#facs_2_region_1709374311747_1190_tl_32" n="N033" break="no"/>alisch Schönen.</rs></hi>
             </p><p>
       <lb facs="#facs_2_region_1709374311747_1190_tl_33" n="N034"/>The author from whom we extract the above
-      <lb facs="#facs_2_region_1709374311747_1190_tl_34" n="N035"/>remarks, in a treatise on the “<rs type="bibl">Musically Beauti
+      <lb facs="#facs_2_region_1709374311747_1190_tl_34" n="N035"/>remarks, in a treatise on the “<rs type="bibl" ref="#hsl_work_id_1083">Musically Beauti
       <lb facs="#facs_2_region_1709374311747_1190_tl_35" n="N036" break="no"/>ful</rs>,” comes forward into the arena of musical
       <lb facs="#facs_2_region_1709374311747_1190_tl_36" n="N037"/>aesthetics with the assumption that music, although
       <lb facs="#facs_2_region_1709374311747_1190_tl_37" n="N038"/>it be the exponent of feeling, cannot justly lay
@@ -1143,7 +1144,7 @@
       <lb facs="#facs_2_region_1709374311747_1190_tl_65" n="N066"/>having its distinctive phraseology and forms of
       <lb facs="#facs_2_region_1709374311747_1190_tl_66" n="N067"/>expression, so that no intellectual idea can spring
       <lb facs="#facs_2_region_1709374311747_1190_tl_67" n="N068"/>up, without having its special representation in
-               <cb n="2"/>
+            <cb n="2"/>
       <lb facs="#facs_2_region_1709374316266_1193_tl_1" n="N001"/>written speech. The pretensions of Music, on
       <lb facs="#facs_2_region_1709374316266_1193_tl_2" n="N002"/>this score, are vague, doubtful and assuming.
             </p><p>
@@ -1157,7 +1158,7 @@
       <lb facs="#facs_2_region_1709374316266_1193_tl_10" n="N010"/>Music appears before us with entirely false pre
       <lb facs="#facs_2_region_1709374316266_1193_tl_11" n="N011" break="no"/>tensions. The poet is able, through his ornamen
       <lb facs="#facs_2_region_1709374316266_1193_tl_12" n="N012" break="no"/>tal structure of word-forms, to give us a subjective
-      <lb facs="#facs_2_region_1709374316266_1193_tl_13" n="N013"/>picture of <rs type="place">Niagara Falls</rs>; but when OLE <rs type="person">BULL</rs><space quantity="1" unit="char"/>
+      <lb facs="#facs_2_region_1709374316266_1193_tl_13" n="N013"/>picture of <rs type="place" ref="#hsl_place_id_591">Niagara Falls</rs>; but when OLE <rs type="person" ref="#hsl_person_id_3360">BULL</rs><space quantity="1" unit="char"/>
       <lb facs="#facs_2_region_1709374316266_1193_tl_14" n="N014"/>attempted the same thing before a credulous ama
       <lb facs="#facs_2_region_1709374316266_1193_tl_15" n="N015" break="no"/>teur audience, he could do no more than work
       <lb facs="#facs_2_region_1709374316266_1193_tl_16" n="N016"/>their imaginations up into a false belief of what
@@ -1169,11 +1170,11 @@
       <lb facs="#facs_2_region_1709374316266_1193_tl_22" n="N022"/>no doubt, for the occasion represented; yet the
       <lb facs="#facs_2_region_1709374316266_1193_tl_23" n="N023"/>identical combinations of tone, grouped in almost
       <lb facs="#facs_2_region_1709374316266_1193_tl_24" n="N024"/>the same position, have been used to describe
-      <lb facs="#facs_2_region_1709374316266_1193_tl_25" n="N025"/>scenes at total variance with <rs type="place">Niagara Falls</rs>, and
+      <lb facs="#facs_2_region_1709374316266_1193_tl_25" n="N025"/>scenes at total variance with <rs type="place" ref="#hsl_place_id_591">Niagara Falls</rs>, and
       <lb facs="#facs_2_region_1709374316266_1193_tl_26" n="N026"/>acting with opposite influences to those of this
-      <lb facs="#facs_2_region_1709374316266_1193_tl_27" n="N027"/>great natural wonder. The noted “<rs type="bibl">Crambam
+      <lb facs="#facs_2_region_1709374316266_1193_tl_27" n="N027"/>great natural wonder. The noted “<rs type="bibl" ref="#hsl_work_id_4796">Crambam
       <lb facs="#facs_2_region_1709374316266_1193_tl_28" n="N028" break="no"/>buli</rs>,” the drinking-song and jovial accompani
-      <lb facs="#facs_2_region_1709374316266_1193_tl_29" n="N029" break="no"/>ment of the <rs type="place">German</rs> students’ carousals, is adapted
+      <lb facs="#facs_2_region_1709374316266_1193_tl_29" n="N029" break="no"/>ment of the <rs type="place" ref="#hsl_place_id_14">German</rs> students’ carousals, is adapted
       <lb facs="#facs_2_region_1709374316266_1193_tl_30" n="N030"/>to sacred melody by our American psalmodists,
       <lb facs="#facs_2_region_1709374316266_1193_tl_31" n="N031"/>a circumstance that would tend to show, if music
       <lb facs="#facs_2_region_1709374316266_1193_tl_32" n="N032"/>were a language in the common acceptation, that
@@ -1221,7 +1222,7 @@
       <lb facs="#facs_2_region_1709374316266_1193_tl_71" n="N071"/>exclude it from the domain of Music, and that is
       <lb facs="#facs_2_region_1709374316266_1193_tl_72" n="N072"/>when it addresses the mind by association.
             </p><p>
-      <lb facs="#facs_2_region_1709374316266_1193_tl_73" n="N073"/>When the <rs type="bibl">Ranz des Vaches</rs> is heard in distant
+      <lb facs="#facs_2_region_1709374316266_1193_tl_73" n="N073"/>When the Ranz des Vaches is heard in distant
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
             <cb n="3"/>
       <lb facs="#facs_3_region_1709374333587_1199_tl_1" n="N001"/>lands by the Swiss mountainer, it recalls the
@@ -1301,7 +1302,7 @@
       <lb facs="#facs_3_region_1709374333587_1199_tl_71" n="N071"/>the soul felt in the study of those scenes it has
       <lb facs="#facs_3_region_1709374333587_1199_tl_72" n="N072"/>never yet revealed. This attribute belongs to the
       <lb facs="#facs_3_line_1743972677398_158" n="N073"/>Art of Tone, and in denying its claims to do all
-               <cb n="4"/>
+            <cb n="4"/>
       <lb facs="#facs_3_region_1709374338090_1202_tl_1" n="N001"/>it pretends to, we refer more to the phraseology
       <lb facs="#facs_3_region_1709374338090_1202_tl_2" n="N002"/>of description than the intensity of effect which
       <lb facs="#facs_3_region_1709374338090_1202_tl_3" n="N003"/>lies in music.
@@ -1380,19 +1381,19 @@
       <lb facs="#facs_3_region_1709374338090_1202_tl_71" n="N071"/>nomenclature of musical thought must become
       <lb facs="#facs_3_region_1709374338090_1202_tl_72" n="N072"/>more exclusively musical, before it can lay open
       <lb facs="#facs_3_line_1743972682649_161" n="N073"/>its real meaning and designs to the mind and ima
-               <cb n="5" break="no"/>
+            <cb n="5" break="no"/>
       <lb facs="#facs_3_region_1709374343851_1205_tl_1" n="N001" break="no"/>gination. Every combination of tones, every
       <lb facs="#facs_3_region_1709374343851_1205_tl_2" n="N002"/>group of symphonious representations, all the
       <lb facs="#facs_3_region_1709374343851_1205_tl_3" n="N003"/>swells and cadences of rhythmical compositions,
-      <lb facs="#facs_3_region_1709374343851_1205_tl_4" n="N004"/>all those dashes of discord, which in <rs type="person">BEETHOVEN</rs>,
+      <lb facs="#facs_3_region_1709374343851_1205_tl_4" n="N004"/>all those dashes of discord, which in <rs type="person" ref="#hsl_person_id_25">BEETHOVEN</rs>,
       <lb facs="#facs_3_region_1709374343851_1205_tl_5" n="N005"/>precede the beautiful ascents into harmony, and
       <lb facs="#facs_3_region_1709374343851_1205_tl_6" n="N006"/>to which we could give no better name than the
-      <lb facs="#facs_3_region_1709374343851_1205_tl_7" n="N007"/><rs type="person">Beethoven</rs>ism of tone-thought; all these and a
+      <lb facs="#facs_3_region_1709374343851_1205_tl_7" n="N007"/><rs type="person" ref="#hsl_person_id_25">Beethoven</rs>ism of tone-thought; all these and a
       <lb facs="#facs_3_region_1709374343851_1205_tl_8" n="N008"/>thousand other forms should have a ready vocabu
       <lb facs="#facs_3_region_1709374343851_1205_tl_9" n="N009" break="no"/>lary, to render the science we are but entering
       <lb facs="#facs_3_region_1709374343851_1205_tl_10" n="N010"/>upon, complete and open to the understandings
       <lb facs="#facs_3_region_1709374343851_1205_tl_11" n="N011"/>of all.
-      <lb facs="#facs_3_region_1709374343851_1205_tl_12" n="N012"/><rs type="person">J. H.</rs>
+      <lb facs="#facs_3_region_1709374343851_1205_tl_12" n="N012"/><rs type="person" ref="#hsl_person_id_6734">J. H.</rs>
             </p>
          </div>
       </body>

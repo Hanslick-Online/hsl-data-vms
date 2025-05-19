@@ -109,7 +109,8 @@
          <change who="ampfiel" when="2025-04-09">Transkribus OCR und Lektorat.</change>
          <change who="delsner" when="2025-04-27">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-04-28">fix lb</change>
-         <change who="ampfiel" when="2025-05-09">fill header, layout</change>
+         <change who="ampfiel" when="2025-05-09">fill header, layout, space</change>
+         <change who="ampfiel" when="2025-05-14">rs ref fertig</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -653,15 +654,14 @@
    <text>
       <body>
          <div>
-            <pb facs="#facs_1" n="1" xml:id="img_0001"/>               
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+      <head type="h3">Blätter für literarische Unterhaltung. Nr. 15. — 12. April 1855.</head>               
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <cb n="1"/>
-      <head type="h1">
-            <lb facs="#facs_2_region_1709374155491_1146_tl_1" n="N001"/>Zur musikalischen Literatur.</head>   
-      <head type="h2">
-            <lb facs="#facs_2_region_1709374155491_1146_tl_2" n="N002"/><rs type="bibl">Vom Musikalisch-Schönen</rs>. Ein Beitrag zur Revision der
-            <lb facs="#facs_2_region_1709374155491_1146_tl_3" n="N003"/>Aesthetik der Tonkunst. Von <hi rendition="#em">Eduard <rs type="person">Hanslick</rs></hi>. <rs type="place">Leipzig</rs>,
-            <lb facs="#facs_2_region_1709374155491_1146_tl_4" n="N004"/>R. <rs type="person">Weigel</rs>. <date when="1854">1854</date>. Gr. 8. 15 Ngr.</head>
+      <lb facs="#facs_2_region_1709374155491_1146_tl_1" n="N001"/><head type="h1">Zur musikalischen Literatur.</head>   
+      <lb facs="#facs_2_region_1709374155491_1146_tl_2" n="N002"/><head type="h2"><rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>. Ein Beitrag zur Revision der
+      <lb facs="#facs_2_region_1709374155491_1146_tl_3" n="N003"/>Aesthetik der Tonkunst. Von <hi rendition="#em">Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi>. <rs type="place" ref="#hsl_place_id_32">Leipzig</rs>,
+      <lb facs="#facs_2_region_1709374155491_1146_tl_4" n="N004"/>R. <rs type="person" ref="#hsl_person_id_377">Weigel</rs>. <date when="1854">1854</date>. Gr. 8. 15 Ngr.</head>
             <p>
       <lb facs="#facs_2_region_1709374155491_1146_tl_5" n="N005"/>Die Relativität der Musik hat von jeher den Leuten viel
       <lb facs="#facs_2_region_1709374155491_1146_tl_6" n="N006"/>Kopfzerbrechens gemacht; die Unfaßbarkeit des Materials einer
@@ -781,14 +781,14 @@
       <lb facs="#facs_3_region_1709374179043_1155_tl_2" n="N002"/>noch Platz finden. „Wenn man die Fülle von Schönheit nicht zu
       <lb facs="#facs_3_region_1709374179043_1155_tl_3" n="N003"/>erkennen verstand, die im rein Musikalischen lebt, so trägt die Un
       <lb facs="#facs_3_region_1709374179043_1155_tl_4" n="N004" break="no"/>terschätzung des Sinnlichen viel Schuld, welcher wir in ältern
-      <lb facs="#facs_3_region_1709374179043_1155_tl_5" n="N005"/>Aesthetiken zu Gunsten der Moral und des Gemüths, in <rs type="person">Hegel</rs> zu
+      <lb facs="#facs_3_region_1709374179043_1155_tl_5" n="N005"/>Aesthetiken zu Gunsten der Moral und des Gemüths, in <rs type="person" ref="#hsl_person_id_378">Hegel</rs> zu
       <lb facs="#facs_3_region_1709374179043_1155_tl_6" n="N006"/>Gunsten der «Idee» begegnen. Jede Kunst geht vom Sinnlichen
       <lb facs="#facs_3_region_1709374179043_1155_tl_7" n="N007"/>aus und webt darin. Die «Gefühlstheorie» verkennt dies, sie
       <lb facs="#facs_3_region_1709374179043_1155_tl_8" n="N008"/>übersieht das Hören gänzlich und geht unmittelbar ans Fühlen.
       <lb facs="#facs_3_region_1709374179043_1155_tl_9" n="N009"/>Die Musik schaffe für das Herz, meinen sie, das Ohr aber sei
       <lb facs="#facs_3_region_1709374179043_1155_tl_10" n="N010"/>ein triviales Ding; — ja, was sie eben Ohr nennen; — für
       <lb facs="#facs_3_region_1709374179043_1155_tl_11" n="N011"/>das «Labyrinth» oder die «Eustachische Trompete» dichtet kein
-      <lb facs="#facs_3_region_1709374179043_1155_tl_12" n="N012"/><rs type="person">Beethoven</rs>. Aber die Phantasie, die auf Gehörempfindungen
+      <lb facs="#facs_3_region_1709374179043_1155_tl_12" n="N012"/><rs type="person" ref="#hsl_person_id_25">Beethoven</rs>. Aber die Phantasie, die auf Gehörempfindungen
       <lb facs="#facs_3_region_1709374179043_1155_tl_13" n="N013"/>organisirt ist und welcher der Sinn etwas ganz Anderes be
       <lb facs="#facs_3_region_1709374179043_1155_tl_14" n="N014" break="no"/>deutet als ein bloßer Trichter an der Oberfläche der Erschei
       <lb facs="#facs_3_region_1709374179043_1155_tl_15" n="N015" break="no"/>nungen, sie genießt in bewußter Sinnlichkeit die klingenden
@@ -798,8 +798,8 @@
       <lb facs="#facs_3_region_1709374179043_1155_tl_21" n="N019"/>Mit voller Richtigkeit bezeichnen wir ein musikalisches Thema
       <lb facs="#facs_3_region_1709374179043_1155_tl_22" n="N020"/>als großartig, graziös, innig, geistlos, trivial u. s. w.; all
       <lb facs="#facs_3_region_1709374179043_1155_tl_23" n="N021"/>diese Ausdrücke bezeichnen aber den musikalischen Charakter der
-      <lb facs="#facs_3_region_1709374179043_1155_tl_24" n="N022"/>Stelle.“ — „Was unterscheidet eine <rs type="person">Beethoven</rs>’sche Symphonie
-      <lb facs="#facs_3_region_1709374179043_1155_tl_25" n="N023"/>von einer <rs type="person">Verdi</rs>’schen Musik? Etwa, daß die eine höhere Ge
+      <lb facs="#facs_3_region_1709374179043_1155_tl_24" n="N022"/>Stelle.“ — „Was unterscheidet eine <rs type="person" ref="#hsl_person_id_25">Beethoven</rs>’sche Symphonie
+      <lb facs="#facs_3_region_1709374179043_1155_tl_25" n="N023"/>von einer <rs type="person" ref="#hsl_person_id_312">Verdi</rs>’schen Musik? Etwa, daß die eine höhere Ge
       <lb facs="#facs_3_line_1744227086629_115" n="N024" break="no"/>fühle oder dieselben Gefühle richtiger darstellt? Nein, sondern
       <lb facs="#facs_3_region_1709374179043_1155_tl_28" n="N025"/>daß sie schönere Tonformen bildet.“
             </p><p>
@@ -830,7 +830,6 @@
       <lb facs="#facs_3_region_1709374179043_1155_tl_55" n="N049" break="no"/>wenden lassen, sondern daß er bis zur Vollendung des musika
       <lb facs="#facs_3_region_1709374179043_1155_tl_56" n="N050" break="no"/>lisch-ästhetischen Neubaus nicht aufhören wird, Hand und
       <lb facs="#facs_3_region_1709374179043_1155_tl_57" n="N051"/>Auge dem Werke fortwährend zu schenken.
-      <lb facs="#facs_3_line_1744227172584_176" n="N052"/><rs type="person">53.</rs>
             </p>
          </div>
       </body>

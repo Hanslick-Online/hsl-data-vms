@@ -109,7 +109,8 @@
          <change who="ampfiel" when="2025-04-06">Transkribus OCR und Lektorat.</change>
          <change who="delsner" when="2025-04-27">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-04-28">fix lb</change>
-         <change who="ampfiel" when="2025-05-09">fill header, layout</change>
+         <change who="ampfiel" when="2025-05-09">fill header, layout, space</change>
+         <change who="ampfiel" when="2025-05-14">rs ref fertig</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -206,27 +207,28 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+      <head type="h3">Die Presse. No. 88 Wien, Dienstag 17. April 1855. 8. Jahrgang.</head>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <p>
-      <lb facs="#facs_2_region_1709374273355_1171_tl_2" n="N001"/><hi rendition="#em">Dr. Eduard <rs type="person">Hanslick</rs>’s</hi> Schrift „<rs type="bibl">vom Musikalisch-Schönen</rs>“ macht im
+      <lb facs="#facs_2_region_1709374273355_1171_tl_2" n="N001"/><hi rendition="#em">Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>’s</hi> Schrift „<rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>“ macht im
       <lb facs="#facs_2_region_1709374273355_1171_tl_3" n="N002"/>Ausland Aufsehen. Die competenten literarischen und musikalischen Organe sind
       <lb facs="#facs_2_region_1709374273355_1171_tl_4" n="N003"/>darüber einig, daß sie es hier mit einem in der Musikwissenschaft epochemachenden
-      <lb facs="#facs_2_region_1709374273355_1171_tl_5" n="N004"/>Werke zu thun haben. <hi rendition="#em">Julian <rs type="person">Schmidt</rs></hi> (wol der gefürchtetste Kritiker <rs type="place">Deutsch
+      <lb facs="#facs_2_region_1709374273355_1171_tl_5" n="N004"/>Werke zu thun haben. <hi rendition="#em">Julian <rs type="person" ref="#hsl_person_id_408">Schmidt</rs></hi> (wol der gefürchtetste Kritiker <rs type="place" ref="#hsl_place_id_14">Deutsch
       <lb facs="#facs_2_region_1709374273355_1171_tl_6" n="N005" break="no"/>land</rs>s) empfiehlt „diese geistvolle und selbstständige Untersuchung“ um so wärmer,
-      <lb facs="#facs_2_region_1709374273355_1171_tl_7" n="N006"/>als „in jüngster Zeit von <rs type="place">Wien</rs> aus in Büchern und Zeitschriften gar so viel Un
-      <lb facs="#facs_2_region_1709374273355_1171_tl_8" n="N007" break="no"/>nützes über Musik in die Welt hinaus geredet werde.“ Die <rs type="bibl">Blätter für literarische
-      <lb facs="#facs_2_region_1709374273355_1171_tl_9" n="N008"/>Unterhaltung</rs> (redigirt von Hermann <hi rendition="#em"><rs type="person">Marggraf</rs></hi>) schließen eine ausführliche Be
-      <lb facs="#facs_2_region_1709374273355_1171_tl_10" n="N009" break="no"/>sprechung des <rs type="person">Hanslick</rs>’schen Buchs „mit dem lebhaften Wunsch: dasselbe möchte von
+      <lb facs="#facs_2_region_1709374273355_1171_tl_7" n="N006"/>als „in jüngster Zeit von <rs type="place" ref="#hsl_place_id_55">Wien</rs> aus in Büchern und Zeitschriften gar so viel Un
+      <lb facs="#facs_2_region_1709374273355_1171_tl_8" n="N007" break="no"/>nützes über Musik in die Welt hinaus geredet werde.“ Die <rs type="bibl" ref="#hsl_work_id_4797">Blätter für literarische
+      <lb facs="#facs_2_region_1709374273355_1171_tl_9" n="N008"/>Unterhaltung</rs> (redigirt von Hermann <hi rendition="#em"><rs type="person" ref="#hsl_person_id_6124">Marggraf</rs></hi>) schließen eine ausführliche Be
+      <lb facs="#facs_2_region_1709374273355_1171_tl_10" n="N009" break="no"/>sprechung des <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>’schen Buchs „mit dem lebhaften Wunsch: dasselbe möchte von
       <lb facs="#facs_2_region_1709374273355_1171_tl_11" n="N010"/>vielen Musikern und Kunstfreunden recht aufmerksam gelesen werden, damit doch
       <lb facs="#facs_2_region_1709374273355_1171_tl_12" n="N011"/>endlich einmal die vage Begriffslosigkeit und das Umhertappen im Nebel bei der
       <lb facs="#facs_2_region_1709374273355_1171_tl_13" n="N012"/>Beurtheilung musikalischer Kunstwerke aufhöre.“ Vom Verfasser scheiden sie „mit
       <lb facs="#facs_2_region_1709374273355_1171_tl_14" n="N013"/>der dankbarsten Anerkennung und Hochachtung für das was er ausgesprochen und
       <lb facs="#facs_2_region_1709374273355_1171_tl_15" n="N014"/>für die Art, wie er es ausgesprochen hat und hoffen u. s. w.“ In nach eingehen
-      <lb facs="#facs_2_region_1709374273355_1171_tl_16" n="N015" break="no"/>derer Weise bemächtigen sich die verschiedenen <rs type="place">deutsch</rs>en Musikzeitungen des Buches,
+      <lb facs="#facs_2_region_1709374273355_1171_tl_16" n="N015" break="no"/>derer Weise bemächtigen sich die verschiedenen <rs type="place" ref="#hsl_place_id_14">deutsch</rs>en Musikzeitungen des Buches,
       <lb facs="#facs_2_region_1709374273355_1171_tl_17" n="N016"/>welches die meisten nicht in der üblichen Recensionenform, sondern in einer Reihe
-      <lb facs="#facs_2_region_1709374273355_1171_tl_18" n="N017"/>von Leitartikeln besprechen. Die wenigen Zeilen über <hi rendition="#em">Richard <rs type="person">Wagner</rs></hi> in <rs type="person">Hanslick</rs>’s
-      <lb facs="#facs_2_region_1709374273355_1171_tl_19" n="N018"/>Schrift haben sogar eine Polemik zwischen der <rs type="bibl">Leipziger</rs> und der <rs type="bibl">rheinischen Musik
-      <lb facs="#facs_2_region_1709374273355_1171_tl_20" n="N019" break="no"/>zeitung</rs> hervorgerufen. Die beiden <hi rendition="#em">Wiener</hi><space quantity="1" unit="char"/><rs type="bibl">Musikzeitungen</rs> dürften die einzigen
+      <lb facs="#facs_2_region_1709374273355_1171_tl_18" n="N017"/>von Leitartikeln besprechen. Die wenigen Zeilen über <hi rendition="#em">Richard <rs type="person" ref="#hsl_person_id_319">Wagner</rs></hi> in <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>’s
+      <lb facs="#facs_2_region_1709374273355_1171_tl_19" n="N018"/>Schrift haben sogar eine Polemik zwischen der <rs type="bibl" ref="#hsl_work_id_4811">Leipziger</rs> und der <rs type="bibl" ref="#hsl_work_id_4281">rheinischen Musik
+      <lb facs="#facs_2_region_1709374273355_1171_tl_20" n="N019" break="no"/>zeitung</rs> hervorgerufen. Die beiden <hi rendition="#em">Wiener</hi><space quantity="1" unit="char"/><rs type="bibl" ref="#hsl_work_id_4812 #hsl_work_id_4813">Musikzeitungen</rs> dürften die einzigen
       <lb facs="#facs_2_region_1709374273355_1171_tl_21" n="N020"/>sein, welche das Buch gar nicht besprochen, ja nicht einmal angezeigt haben.</p>
          </div>
       </body>
