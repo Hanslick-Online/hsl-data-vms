@@ -213,6 +213,7 @@
                   <valItem ident="jleitner"/>
                   <valItem ident="ampfiel"/>
                   <valItem ident="mwilfing"/>
+                  <valItem ident="fsanzlazaro"/>
                 </valList>
               </attDef>
               <attDef ident="type" mode="change" usage="req">
