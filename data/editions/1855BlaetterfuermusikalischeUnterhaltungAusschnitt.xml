@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
+            <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „<title>Vom Musikalisch-Schönen</title>“ (1854–1857)</title>
             <title level="j">Blätter für literarische Unterhaltung</title>
             <title level="a" type="main">Zur musikalischen Literatur</title>
             <author ref="#hsl_person_id_6737">Anonym</author>
@@ -78,7 +78,7 @@
                   </analytic>
                   <monogr>
                      <title type="main">Blätter für literarische Unterhaltung</title>
-                     <title type="sub">Nr. 15. — 12. April 1855</title>
+                     <title type="sub">Nr. 15. 12. April 1855</title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person" ref="#hsl_person_id_6124">Marggraff, Hermann</name>
@@ -107,10 +107,11 @@
          <change who="awilfing" when="2024-11-01">Projektbeginn</change>
          <change who="awilfing" when="2025-01-20">Headers Anpassung</change>
          <change who="ampfiel" when="2025-04-09">Transkribus OCR und Lektorat.</change>
-         <change who="delsner" when="2025-04-27">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
+         <change who="fsanzl" when="2025-04-27">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-04-28">fix lb</change>
          <change who="ampfiel" when="2025-05-09">fill header, layout, space</change>
          <change who="ampfiel" when="2025-05-14">rs ref fertig</change>
+         <change who="awilfing" when="2025-06-10">Letztkorrektur für Zwischenrelease</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -655,7 +656,7 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-      <head type="h3">Blätter für literarische Unterhaltung. Nr. 15. — 12. April 1855.</head>               
+            <head type="h3">Blätter für literarische Unterhaltung. Nr. 15. 12. April 1855.</head>               
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <cb n="1"/>
       <lb facs="#facs_2_region_1709374155491_1146_tl_1" n="N001"/><head type="h1">Zur musikalischen Literatur.</head>   
@@ -668,7 +669,7 @@
       <lb facs="#facs_2_region_1709374155491_1146_tl_7" n="N007" break="no"/>seits und die Unfähigkeit zur begrifflichen Bestimmtheit anderer
       <lb facs="#facs_2_region_1709374155491_1146_tl_8" n="N008" break="no"/>seits haben in der Tonkunst einem bloßen Symbolisiren und
       <lb facs="#facs_2_region_1709374155491_1146_tl_9" n="N009"/>traumdeuterischen Construiren Thür und Thor geöffnet, und
-      <lb facs="#facs_2_region_1709374155491_1146_tl_10" n="N010"/>die Anfoderungen an die Wirkung und Möglichkeit des durch
+      <lb facs="#facs_2_region_1709374155491_1146_tl_10" n="N010"/>die Anforderungen an die Wirkung und Möglichkeit des durch
       <lb facs="#facs_2_region_1709374155491_1146_tl_11" n="N011"/>Töne Darzustellenden sind über alle Beschreibung widersprechend
       <lb facs="#facs_2_region_1709374155491_1146_tl_12" n="N012"/>und von keiner Norm gebändigt. Ein Theil der Componisten
       <lb facs="#facs_2_region_1709374155491_1146_tl_13" n="N013"/>will z. B. dem Mangel an Concretion unter die Arme greifen

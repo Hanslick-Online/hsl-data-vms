@@ -2,8 +2,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
-            <title level="j">Dwight’s Journal of Music, A Paper of Art and Literature</title>
+            <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „<title>Vom Musikalisch-Schönen</title>“ (1854–1857)</title>
+            <title level="j">Dwight’s Journal of Music: A Paper of Art and Literature</title>
             <title level="a" type="main">Music the Exponent of Emotion</title>
             <author ref="#hsl_person_id_6734">J. H.</author>
             <editor>
@@ -77,7 +77,7 @@
                      <author ref="#hsl_person_id_6734">J. H.</author>
                   </analytic>
                   <monogr>
-                     <title type="main">Dwight’s Journal of Music, A Paper of Art and Literature</title>
+                     <title type="main">Dwight’s Journal of Music: A Paper of Art and Literature</title>
                      <title type="sub">Whole No. 172. Boston, Saturday, July 21, 1855. Vol. VII. No. 16</title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
@@ -107,10 +107,11 @@
          <change who="awilfing" when="2024-11-01">Projektbeginn</change>
          <change who="awilfing" when="2025-01-20">Headers Anpassung</change>
          <change who="ampfiel" when="2025-04-06">Transkribus OCR und Lektorat.</change>
-         <change who="delsner" when="2025-04-27">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
+         <change who="fsanzl" when="2025-04-27">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-04-28">fix lb</change>
          <change who="ampfiel" when="2025-05-09">fill header, layout, space</change>
          <change who="ampfiel" when="2025-05-14">rs ref fertig</change>
+         <change who="awilfing" when="2025-06-10">Letztkorrektur für Zwischenrelease</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -1068,10 +1069,10 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-      <head type="h3">Dwight’s Journal of Music, A Paper of Art and Literature. Whole No. 172. Boston, Saturday, July 21, 1855. Vol. VII. No. 16.</head>
+            <head type="h3">Dwight’s Journal of Music: A Paper of Art and Literature. Whole No. 172. Boston, Saturday, July 21, 1855. Vol. VII. No. 16.</head>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <cb n="1"/>
-      <lb facs="#facs_2_region_1709374311747_1190_tl_1" n="N001"/><head type="h1">Music the Exponent of Emotion.</head>
+            <lb facs="#facs_2_region_1709374311747_1190_tl_1" n="N001"/><head type="h1">Music the Exponent of Emotion.</head>
             <p>  
       <lb facs="#facs_2_line_1742473596882_28" n="N002"/>“Every one, as a child, has experienced a plea
       <lb facs="#facs_2_region_1709374311747_1190_tl_2" n="N003" break="no"/>sure in studying the changeable forms of the Kalei
@@ -1175,7 +1176,7 @@
       <lb facs="#facs_2_region_1709374316266_1193_tl_27" n="N027"/>great natural wonder. The noted “<rs type="bibl" ref="#hsl_work_id_4796">Crambam
       <lb facs="#facs_2_region_1709374316266_1193_tl_28" n="N028" break="no"/>buli</rs>,” the drinking-song and jovial accompani
       <lb facs="#facs_2_region_1709374316266_1193_tl_29" n="N029" break="no"/>ment of the <rs type="place" ref="#hsl_place_id_14">German</rs> students’ carousals, is adapted
-      <lb facs="#facs_2_region_1709374316266_1193_tl_30" n="N030"/>to sacred melody by our American psalmodists,
+      <lb facs="#facs_2_region_1709374316266_1193_tl_30" n="N030"/>to sacred melody by our <rs type="place" ref="#hsl_place_id_176">American</rs> psalmodists,
       <lb facs="#facs_2_region_1709374316266_1193_tl_31" n="N031"/>a circumstance that would tend to show, if music
       <lb facs="#facs_2_region_1709374316266_1193_tl_32" n="N032"/>were a language in the common acceptation, that
       <lb facs="#facs_2_region_1709374316266_1193_tl_33" n="N033"/>there is but a shade of difference between the
@@ -1199,7 +1200,7 @@
             </p><p>
       <lb facs="#facs_2_region_1709374316266_1193_tl_50" n="N050"/>Before Music can become a language of emo
       <lb facs="#facs_2_region_1709374316266_1193_tl_51" n="N051" break="no"/>tion, in a strictly analogous sense, she must, neces
-      <lb facs="#facs_2_region_1709374316266_1193_tl_52" n="N052" break="no"/>sarily, adapt all ber tone-structures to specific
+      <lb facs="#facs_2_region_1709374316266_1193_tl_52" n="N052" break="no"/>sarily, adapt all her tone-structures to specific
       <lb facs="#facs_2_region_1709374316266_1193_tl_53" n="N053"/>purposes, allowing no one to act in the place of
       <lb facs="#facs_2_region_1709374316266_1193_tl_54" n="N054"/>the other, but each to preserve its appropriate
       <lb facs="#facs_2_region_1709374316266_1193_tl_55" n="N055"/>and definite class of emotional thoughts. What
@@ -1225,7 +1226,7 @@
       <lb facs="#facs_2_region_1709374316266_1193_tl_73" n="N073"/>When the Ranz des Vaches is heard in distant
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
             <cb n="3"/>
-      <lb facs="#facs_3_region_1709374333587_1199_tl_1" n="N001"/>lands by the Swiss mountainer, it recalls the
+      <lb facs="#facs_3_region_1709374333587_1199_tl_1" n="N001"/>lands by the <rs type="place" ref="#hsl_place_id_97">Swiss</rs> mountainer, it recalls the
       <lb facs="#facs_3_region_1709374333587_1199_tl_2" n="N002"/>memories of the past. It does ineffably more
       <lb facs="#facs_3_region_1709374333587_1199_tl_3" n="N003"/>than this, by raising up before the mind’s eye the
       <lb facs="#facs_3_region_1709374333587_1199_tl_4" n="N004"/>whole picture of native scenery, outwardly grand

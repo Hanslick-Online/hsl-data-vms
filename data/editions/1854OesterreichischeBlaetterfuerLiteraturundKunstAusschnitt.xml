@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
+            <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „<title>Vom Musikalisch-Schönen</title>“ (1854–1857)</title>
             <title level="j">Oesterreichische Blätter für Literatur und Kunst</title>
             <title level="a" type="main">Zur Aesthetik der Tonkunst</title>
             <author ref="#hsl_person_id_705">Zimmermann, Robert von</author>
@@ -107,7 +107,7 @@
          <change who="awilfing" when="2024-11-01">Projektbeginn</change>
          <change who="awilfing" when="2025-01-20">Headers Anpassung</change>
          <change who="ampfiel" when="2025-04-25">Transkribus OCR und Lektorat.</change>
-         <change who="delsner" when="2025-04-27">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
+         <change who="fsanzl" when="2025-04-27">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-04-28">fix lb</change>
          <change who="ampfiel" when="2025-05-09">fill header, layout, space</change>
          <change who="ampfiel" when="2025-05-14">rs ref fertig</change>
@@ -2448,7 +2448,7 @@
       <lb facs="#facs_1_region_1709373991227_1093_tl_26" n="N050" break="no"/>lens herbeigeführt wird. Gefährlich bleibt aber die
       <lb facs="#facs_1_region_1709373991227_1093_tl_27" n="N051"/>Benennung deßhalb, weil unter „Anschauung“ im
       <lb facs="#facs_1_region_1709373991227_1093_tl_28" n="N052"/><rs type="person" ref="#hsl_person_id_378">Hegel</rs>schen Sinn die „Wahrnehmung des Unendlichen
-      <lb facs="#facs_1_region_1709373991227_1093_tl_29" n="N053"/>im Endlichen“, unter Phantaste das Vermögen dieser
+      <lb facs="#facs_1_region_1709373991227_1093_tl_29" n="N053"/>im Endlichen“, unter Phantasie das Vermögen dieser
       <lb facs="#facs_1_line_1744275171443_704" n="N054"/>Wahrnehmung verstanden, damit also zugleich auf
       <lb facs="#facs_1_line_1744379051935_249" n="N055"/>einen bestimmten und zwar den <hi rendition="#em">einzigen Inhalt</hi><space quantity="1" unit="char"/>
       <lb facs="#facs_1_line_1744275182977_719" n="N056"/>des Schönen hingedeutet wird, was die wichtige Er

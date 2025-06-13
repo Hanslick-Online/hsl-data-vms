@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
+            <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „<title>Vom Musikalisch-Schönen</title>“ (1854–1857)</title>
             <title level="j">Die Presse</title>
             <title level="a" type="main">Tagesneuigkeiten</title>
             <author ref="#hsl_person_id_6736">Anonym</author>
@@ -78,7 +78,7 @@
                   </analytic>
                   <monogr>
                      <title type="main">Die Presse</title>
-                     <title type="sub">No. 88 Wien, Dienstag 17. April 1855. 8. Jahrgang</title>
+                     <title type="sub">No. 88. Wien, Dienstag 17. April 1855. 8. Jahrgang</title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person" ref="#hsl_person_id_6735">Zang, August</name>
@@ -107,11 +107,11 @@
          <change who="awilfing" when="2024-11-01">Projektbeginn</change>
          <change who="awilfing" when="2025-01-20">Headers Anpassung</change>
          <change who="ampfiel" when="2025-04-06">Transkribus OCR und Lektorat.</change>
-         <change who="delsner" when="2025-04-27">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
+         <change who="fsanzl" when="2025-04-27">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-04-28">fix lb</change>
          <change who="ampfiel" when="2025-05-09">fill header, layout, space</change>
          <change who="ampfiel" when="2025-05-14">rs ref fertig</change>
-      </revisionDesc>
+         <change who="awilfing" when="2025-06-10">Letztkorrektur für Zwischenrelease</change></revisionDesc>
    </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
@@ -207,7 +207,8 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-      <head type="h3">Die Presse. No. 88 Wien, Dienstag 17. April 1855. 8. Jahrgang.</head>
+            <head type="h3">Die Presse. No. 88. Wien, Dienstag 17. April 1855. 8. Jahrgang.</head>
+            <lb facs="#facs_1_region_1709376061810_1771_tl_1" n="N001"/><head type="h1">Tagesneuigkeiten</head>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <p>
       <lb facs="#facs_2_region_1709374273355_1171_tl_2" n="N001"/><hi rendition="#em">Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>’s</hi> Schrift „<rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>“ macht im
@@ -223,11 +224,11 @@
       <lb facs="#facs_2_region_1709374273355_1171_tl_12" n="N011"/>endlich einmal die vage Begriffslosigkeit und das Umhertappen im Nebel bei der
       <lb facs="#facs_2_region_1709374273355_1171_tl_13" n="N012"/>Beurtheilung musikalischer Kunstwerke aufhöre.“ Vom Verfasser scheiden sie „mit
       <lb facs="#facs_2_region_1709374273355_1171_tl_14" n="N013"/>der dankbarsten Anerkennung und Hochachtung für das was er ausgesprochen und
-      <lb facs="#facs_2_region_1709374273355_1171_tl_15" n="N014"/>für die Art, wie er es ausgesprochen hat und hoffen u. s. w.“ In nach eingehen
+      <lb facs="#facs_2_region_1709374273355_1171_tl_15" n="N014"/>für die Art, wie er es ausgesprochen hat und hoffen u. s. w.“ In noch eingehen
       <lb facs="#facs_2_region_1709374273355_1171_tl_16" n="N015" break="no"/>derer Weise bemächtigen sich die verschiedenen <rs type="place" ref="#hsl_place_id_14">deutsch</rs>en Musikzeitungen des Buches,
       <lb facs="#facs_2_region_1709374273355_1171_tl_17" n="N016"/>welches die meisten nicht in der üblichen Recensionenform, sondern in einer Reihe
       <lb facs="#facs_2_region_1709374273355_1171_tl_18" n="N017"/>von Leitartikeln besprechen. Die wenigen Zeilen über <hi rendition="#em">Richard <rs type="person" ref="#hsl_person_id_319">Wagner</rs></hi> in <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>’s
-      <lb facs="#facs_2_region_1709374273355_1171_tl_19" n="N018"/>Schrift haben sogar eine Polemik zwischen der <rs type="bibl" ref="#hsl_work_id_4811">Leipziger</rs> und der <rs type="bibl" ref="#hsl_work_id_4281">rheinischen Musik
+      <lb facs="#facs_2_region_1709374273355_1171_tl_19" n="N018"/>Schrift haben sogar eine Polemik zwischen der <rs type="bibl" ref="#hsl_work_id_553">Leipziger</rs> und der <rs type="bibl" ref="#hsl_work_id_4281">rheinischen Musik
       <lb facs="#facs_2_region_1709374273355_1171_tl_20" n="N019" break="no"/>zeitung</rs> hervorgerufen. Die beiden <hi rendition="#em">Wiener</hi><space quantity="1" unit="char"/><rs type="bibl" ref="#hsl_work_id_4812 #hsl_work_id_4813">Musikzeitungen</rs> dürften die einzigen
       <lb facs="#facs_2_region_1709374273355_1171_tl_21" n="N020"/>sein, welche das Buch gar nicht besprochen, ja nicht einmal angezeigt haben.</p>
          </div>

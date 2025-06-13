@@ -108,7 +108,7 @@
          <change who="awilfing" when="2024-11-01">Projektbeginn</change>
          <change who="awilfing" when="2025-01-20">Headers Anpassung</change>
          <change who="ampfiel" when="2025-02-26">Transkribus OCR und Lektorat.</change>
-         <change who="delsner" when="2025-03-06">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
+         <change who="fsanzl" when="2025-03-06">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-03-06">fix header, Layout</change>
          <change who="ampfiel" when="2025-03-20">Zeilenumbrüche, space, rs ref</change>
          <change who="awilfing" when="2025-03-31">Letztkorrektur für Zwischenrelease.</change>

@@ -106,7 +106,7 @@
       <revisionDesc status="final">
          <change who="awilfing" when="2024-11-01">Projektbeginn</change>
          <change who="ampfiel" when="2024-12-09">Transkribus OCR und Lektorat.</change>
-         <change who="delsner" when="2024-12-09">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
+         <change who="fsanzl" when="2024-12-09">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2024-12-09">Absätze, Zeilenumbrüche, space, rs ref, header</change>
          <change who="ampfiel" when="2025-01-24">header richtigstellen</change>
          <change who="awilfing" when="2025-03-07">Letztkorrektur für Zwischenrelease</change>
