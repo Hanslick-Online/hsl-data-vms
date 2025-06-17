@@ -111,6 +111,7 @@
          <change who="ampfiel" when="2025-04-28">fix lb</change>
          <change who="ampfiel" when="2025-05-09">fill header, layout, space</change>
          <change who="ampfiel" when="2025-05-14">rs ref fertig</change>
+         <change who="awilfing" when="2025-06-17">Letztkorrektur für Zwischenrelease</change>        
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -2317,7 +2318,7 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-      <head type="h3">Oesterreichische Blätter für Literatur und Kunst. Montag, den 20. November 1854. No. 47.</head>
+            <head type="h3">Oesterreichische Blätter für Literatur und Kunst. Montag, den 20. November 1854. No. 47.</head>
             <cb n="1"/>
       <lb facs="#facs_1_region_1709373986218_1090_tl_1" n="N001"/><head type="h1">Zur Aesthetik der Tonkunst.</head>
       <lb facs="#facs_1_line_1709378764500_2159" n="N002"/><head type="h2"><rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>. Ein Beitrag zur Revision
@@ -2453,7 +2454,7 @@
       <lb facs="#facs_1_line_1744379051935_249" n="N055"/>einen bestimmten und zwar den <hi rendition="#em">einzigen Inhalt</hi><space quantity="1" unit="char"/>
       <lb facs="#facs_1_line_1744275182977_719" n="N056"/>des Schönen hingedeutet wird, was die wichtige Er
       <lb facs="#facs_1_line_1744275180565_716" n="N057" break="no"/>kenntniß, daß das Schöne bloße <hi rendition="#em">Form</hi> sei, wieder
-      <lb facs="#facs_1_line_1744379036793_232" n="N058"/>aufhebt. Es ist dies-das bedenkliche Dilemma, in
+      <lb facs="#facs_1_line_1744379036793_232" n="N058"/>aufhebt. Es ist dies das bedenkliche Dilemma, in
       <lb facs="#facs_1_line_1744275214297_742" n="N059"/>welches alle spekulative Aesthetik und namentlich der
       <lb facs="#facs_1_region_1709373991227_1093_tl_32" n="N060"/>scharfsinnige und geistreiche <hi rendition="#em"><rs type="person" ref="#hsl_person_id_379">Vischer</rs></hi> geräth, daß sie
       <lb facs="#facs_1_region_1709373991227_1093_tl_33" n="N061"/>einerseits das Schöne richtig in die <hi rendition="#em">Form</hi> setzt, an
@@ -2497,7 +2498,7 @@
       <lb facs="#facs_1_region_1709373996802_1096_tl_19" n="N024" break="no"/>lischen Ideen sind Melodien, Tonfolgen, deren Theile
       <lb facs="#facs_1_region_1709373996802_1096_tl_20" n="N025"/>bestimmte Verhältnisse haben, die um ihrer selbst
       <lb facs="#facs_1_region_1709373996802_1096_tl_21" n="N026"/>willen gefallen. Ueberflüssig erscheint uns, daß, wie
-      <lb facs="#facs_1_line_1744275061976_611" n="N027"/>der Verfasser fortwährt, diese reinen Tonverhältnisse
+      <lb facs="#facs_1_line_1744275061976_611" n="N027"/>der Verfasser fortfährt, diese reinen Tonverhältnisse
       <lb facs="#facs_1_line_1744275059447_608" n="N028"/>noch etwas Anderes als sich selbst zur Erscheinung
       <lb facs="#facs_1_line_1744275056825_605" n="N029"/>bringen, z. B. „bis zur Ahnung des Absoluten stei
       <lb facs="#facs_1_region_1709373996802_1096_tl_25" n="N030" break="no"/>gen.“ Das Absolute ist kein Tonverhältniß und also
@@ -2547,7 +2548,7 @@
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <cb n="4"/>
       <lb facs="#facs_2_line_1744659443104_29" n="N001"/>Und nun bedenke man, daß selbst <rs type="person" ref="#hsl_person_id_100">Goethe</rs> seinen
-      <lb facs="#facs_2_line_1744659711001_275" n="N002"/>Meister sagen läßt: „Das Instrument sollte nur die
+      <lb facs="#facs_2_line_1744659711001_275" n="N002"/><rs type="person" ref="#hsl_person_id_3957">Meister</rs> sagen läßt: „Das Instrument sollte nur die
       <lb facs="#facs_2_line_1744659712690_278" n="N003"/>Stimme begleiten; denn Melodien, Gänge und Läufe
       <lb facs="#facs_2_line_1744659715456_281" n="N004"/>ohne Wort und Sinn schienen ihm Schmetterlingen
       <lb facs="#facs_2_line_1744659718179_284" n="N005"/>oder schönen bunten Vögeln ähnlich zu sein die in
@@ -2649,7 +2650,7 @@
       <lb facs="#facs_2_line_1744660114536_575" n="N007"/>Musik, Tanz, bildende Kunst, alle wirken zusammen.
       <lb facs="#facs_2_region_1709374025339_1105_tl_7" n="N008"/>Jenachdem die Musik oder die Poesie vorwiegt, nen
       <lb facs="#facs_2_line_1744660103021_562" n="N009" break="no"/>nen wir sie dramatisches Tonwerk oder musikalisches
-      <lb facs="#facs_2_region_1709374025339_1105_tl_9" n="N010"/>Drama. Der Streit der <rs type="person" ref="#hsl_person_id_99">Gluck</rs>isten und <rs type="person" ref="#hsl_person_id_215">Piccini</rs>sten
+      <lb facs="#facs_2_region_1709374025339_1105_tl_9" n="N010"/>Drama. Der Streit der Gluckisten und Piccinisten
       <lb facs="#facs_2_region_1709374025339_1105_tl_10" n="N011"/>ist nicht zu entscheiden, weil sein Objekt an sich gar
       <lb facs="#facs_2_line_1744660089744_559" n="N012"/>nicht besteht. Wo der Ausdruck „dramatisch“ von
       <lb facs="#facs_2_line_1744660086493_556" n="N013"/>Tonverhältnissen gar nicht gebraucht werden kann, hat
@@ -2658,7 +2659,7 @@
       <lb facs="#facs_2_line_1744660082503_553" n="N016" break="no"/>der. Vom rein musikalischen Standpunkt handelt es
       <lb facs="#facs_2_region_1709374025339_1105_tl_14" n="N017"/>sich eben nur um Töne. Dès qu’on admet le chant,
       <lb facs="#facs_2_line_1744660079875_550" n="N018"/>il faut l’admettre le plus beau possible, zitirt der
-      <lb facs="#facs_2_region_1709374025339_1105_tl_16" n="N019"/>Verfasser aus <rs type="person" ref="#hsl_person_id_407">La Harpe</rs> und der <rs type="person" ref="#hsl_person_id_215">Piccini</rs>aner hat
+      <lb facs="#facs_2_region_1709374025339_1105_tl_16" n="N019"/>Verfasser aus <rs type="person" ref="#hsl_person_id_407">La Harpe</rs> und der Piccinianer hat
       <lb facs="#facs_2_line_1744660069675_543" n="N020"/>Recht. Erst vom Standpunkte der Oper als keines
       <lb facs="#facs_2_line_1744660067207_540" n="N021"/>rein musikalischen, sondern eines <hi rendition="#em">zusammengesetz
       <lb facs="#facs_2_line_1744659467511_44" n="N022" break="no"/>ten</hi> Kunstwerkes handelt es sich darum, daß der mu
