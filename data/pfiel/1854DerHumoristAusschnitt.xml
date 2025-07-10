@@ -106,6 +106,7 @@
          <change who="ampfiel" when="2025-06-23">Transkribus OCR und Lektorat.</change>
          <change who="fsanzl" when="2025-06-24">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-06-30">header, p+div hinzugefügt</change>
+         <change who="ampfiel" when="2025-07-04">Zeilenumbrüche, Absätze, rs ref</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -755,43 +756,46 @@
          <div>
             <div n="1">
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-                  <head type="h3">Humorist. No. 305. Samstag den 25. November 1854. 18. Jahrgang</head>
+               <head type="h3">Humorist. No. 305. Samstag den 25. November 1854. 18. Jahrgang</head>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-               <p>
-            <lb facs="#facs_2_region_1709365896186_115_tl_1" n="N001"/>
-            <hi rendition="#em">
-               <rs type="bibl">Vom Musikalisch-Schönen</rs>
-            </hi>.
-               <lb facs="#facs_2_region_1709365896186_115_tl_2" n="N002"/>Ein Beitrag zur Revision der Aesthetik der Tonkunst von Dr. Ed. <rs type="person">Hanslick</rs>.
-               <lb facs="#facs_2_region_1709365896186_115_tl_3" n="N003"/>
-            <hi rendition="#em">Von Emil <rs type="person">Kuh</rs></hi>.
-               <lb facs="#facs_2_region_1709365896186_115_tl_4" n="N004"/>Das Werk, mit dem Eduard <rs type="person">Hanslick</rs> zum ersten Mal in die Literatur tritt
-               <lb facs="#facs_2_region_1709365896186_115_tl_5" n="N005"/>und von dem die in der Beilage der „<rs type="bibl">Wiener Zeitung</rs>“ veröffentlichten Bruch<lb facs="#facs_2_region_1709365896186_115_tl_6" n="N006" break="no"/>stücke die Aufmerksamkeit auch der Nichtmusiker erregten, ist so bedeutend,
-               <lb facs="#facs_2_region_1709365896186_115_tl_7" n="N007"/>daß es enthusiastische Anhänger und wüthende Gegner in der <rs type="place">deutsch</rs>en
+               <lb facs="#facs_2_region_1709365896186_115_tl_1" n="N001"/><head type="h1"><hi rendition="#em"><rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs></hi>.</head>
+               <lb facs="#facs_2_region_1709365896186_115_tl_2" n="N002"/><head type="h2">Ein Beitrag zur Revision der Aesthetik der Tonkunst von Dr. Ed. <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>.
+               <lb facs="#facs_2_region_1709365896186_115_tl_3" n="N003"/><hi rendition="#em">Von Emil <rs type="person" ref="#hsl_person_id_6653">Kuh</rs></hi>.</head>
+            <p>      
+               <lb facs="#facs_2_region_1709365896186_115_tl_4" n="N004"/>Das Werk, mit dem Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> zum ersten Mal in die Literatur tritt
+               <lb facs="#facs_2_region_1709365896186_115_tl_5" n="N005"/>und von dem die in der Beilage der „<rs type="bibl" ref="#hsl_work_id_156">Wiener Zeitung</rs>“ veröffentlichten Bruch
+               <lb facs="#facs_2_region_1709365896186_115_tl_6" n="N006" break="no"/>stücke die Aufmerksamkeit auch der Nichtmusiker erregten, ist so bedeutend,
+               <lb facs="#facs_2_region_1709365896186_115_tl_7" n="N007"/>daß es enthusiastische Anhänger und wüthende Gegner in der <rs type="place" ref="#hsl_place_id_14">deutsch</rs>en
                <lb facs="#facs_2_region_1709365896186_115_tl_8" n="N008"/>Kritik finden und einen wichtigen Abschnitt in der Geschichte der Aesthetik dieser
-               <lb facs="#facs_2_region_1709365896186_115_tl_9" n="N009"/>Kunst bilden dürfte. Wer die ersten Seiten des <rs type="person">Hanslick</rs>’schen <rs type="bibl">Buch</rs>s gelesen hat,
+               <lb facs="#facs_2_region_1709365896186_115_tl_9" n="N009"/>Kunst bilden dürfte. Wer die ersten Seiten des <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>’schen <rs type="bibl" ref="#hsl_work_id_1083">Buch</rs>s gelesen hat,
                <lb facs="#facs_2_region_1709365896186_115_tl_10" n="N010"/>der wird ebensowenig leugnen, daß ein tiefer Kenner der Musik und ihrer Theorie
-               <lb facs="#facs_2_region_1709365896186_115_tl_11" n="N011"/>zu ihm spricht, als es ihm entgehen kann, daß hier keine Schlacht auf gewonne<lb facs="#facs_2_region_1709365896186_115_tl_12" n="N012" break="no"/>nem Gebiet geschlagen, sondern das Terrain selbst der Gegenstand des Kampfes
-               <lb facs="#facs_2_region_1709365896186_115_tl_13" n="N013"/>ward. Das <rs type="person">Hanslick</rs>’sche <rs type="bibl">Buch</rs> ist nicht polemischer Natur, es ist ein Feldzug: denn
+               <lb facs="#facs_2_region_1709365896186_115_tl_11" n="N011"/>zu ihm spricht, als es ihm entgehen kann, daß hier keine Schlacht auf gewonne
+               <lb facs="#facs_2_region_1709365896186_115_tl_12" n="N012" break="no"/>nem Gebiet geschlagen, sondern das Terrain selbst der Gegenstand des Kampfes
+               <lb facs="#facs_2_region_1709365896186_115_tl_13" n="N013"/>ward. Das <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>’sche <rs type="bibl" ref="#hsl_work_id_1083">Buch</rs> ist nicht polemischer Natur, es ist ein Feldzug: denn
                <lb facs="#facs_2_region_1709365896186_115_tl_14" n="N014"/>nicht diese oder jene Meinung soll bestritten, nicht eine irrige Ansicht aufgeklärt,
                <lb facs="#facs_2_region_1709365896186_115_tl_15" n="N015"/>ein zweifelhafter Punkt in’s rechte Licht gesetzt werden, nein, sogenannte Resultate
-               <lb facs="#facs_2_region_1709365896186_115_tl_16" n="N016"/>der Aesthetik der Tonkunst, Grundsätze und Begriffsbestimmungen durch viele, mit<lb facs="#facs_2_region_1709365896186_115_tl_17" n="N017" break="no"/>unter würdige Namen in der Wissenschaft, durch die Tradition von Decennien
+               <lb facs="#facs_2_region_1709365896186_115_tl_16" n="N016"/>der Aesthetik der Tonkunst, Grundsätze und Begriffsbestimmungen durch viele, mit
+               <lb facs="#facs_2_region_1709365896186_115_tl_17" n="N017" break="no"/>unter würdige Namen in der Wissenschaft, durch die Tradition von Decennien
                <lb facs="#facs_2_region_1709365896186_115_tl_18" n="N018"/>und die allgemeine Geschmacksrichtung des Publikums sanctionirt, sollen in ihr
-               <lb facs="#facs_2_region_1709365896186_115_tl_19" n="N019"/>Nichts aufgelöst und ihre unberechtigten, dem innersten Wesen dieser Kunst ent<lb facs="#facs_2_region_1709365896186_115_tl_20" n="N020" break="no"/>gegengesetzten Prämissen und Consequenzen gezeigt werden. Richard <rs type="person">Wagner</rs>s
-               <lb facs="#facs_2_region_1709365896186_115_tl_21" n="N021"/>
-            <rs type="bibl">Bilderstürmerei</rs> findet in dem vorliegenden <rs type="bibl">Buch</rs>e einen ganz prächtigen <rs type="person">Alba</rs>,
-               <lb facs="#facs_2_region_1709365896186_115_tl_22" n="N022"/>und es war auch Zeit, jenem wüsten, wenn auch genialen Theoretiker und Produ<lb facs="#facs_2_region_1709365896186_115_tl_23" n="N023" break="no"/>centen in <hi rendition="#em">einer</hi> Person mit aller Energie an den Leib zu rücken. Weil dies aber
+               <lb facs="#facs_2_region_1709365896186_115_tl_19" n="N019"/>Nichts aufgelöst und ihre unberechtigten, dem innersten Wesen dieser Kunst ent
+               <lb facs="#facs_2_region_1709365896186_115_tl_20" n="N020" break="no"/>gegengesetzten Prämissen und Consequenzen gezeigt werden. Richard <rs type="person" ref="#hsl_person_id_319">Wagner</rs>s
+               <lb facs="#facs_2_region_1709365896186_115_tl_21" n="N021"/>Bilderstürmerei findet in dem vorliegenden <rs type="bibl" ref="#hsl_work_id_1083">Buch</rs>e einen ganz prächtigen Alba,
+               <lb facs="#facs_2_region_1709365896186_115_tl_22" n="N022"/>und es war auch Zeit, jenem wüsten, wenn auch genialen Theoretiker und Produ
+               <lb facs="#facs_2_region_1709365896186_115_tl_23" n="N023" break="no"/>centen in <hi rendition="#em">einer</hi> Person mit aller Energie an den Leib zu rücken. Weil dies aber
                <lb facs="#facs_2_region_1709365896186_115_tl_24" n="N024"/>dadurch geschah, daß man den Kreis der Tonkunst neuerdings abgemessen und ihre
                <lb facs="#facs_2_region_1709365896186_115_tl_25" n="N025"/>Aesthetik revidirte, ohne von dem verrückten Ingenieur weiter Notiz zu nehmen,
                <lb facs="#facs_2_region_1709365896186_115_tl_26" n="N026"/>der darin Raum für ein Pantheon, einen Circus, ein Spital und eine Festung
                <lb facs="#facs_2_region_1709365896186_115_tl_27" n="N027"/>entdeckte, so ist die Wirkung eine um so reinere und schlagendere, da die Sache
-               <lb facs="#facs_2_region_1709365896186_115_tl_28" n="N028"/>ihrer selbst willen einer Prüfung unterzogen erscheint.
-               <lb facs="#facs_2_region_1709365896186_115_tl_29" n="N029"/>Das <rs type="person">Hanslick</rs>’sche <rs type="bibl">Buch</rs> zerfällt in sieben Kapitel, unter denen das erste,
+               <lb facs="#facs_2_region_1709365896186_115_tl_28" n="N028"/>ihrer selbst willen einer Prüfung unterzogen erscheint.</p>
+            <p>
+               <lb facs="#facs_2_region_1709365896186_115_tl_29" n="N029"/>Das <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>’sche <rs type="bibl" ref="#hsl_work_id_1083">Buch</rs> zerfällt in sieben Kapitel, unter denen das erste,
                <lb facs="#facs_2_region_1709365896186_115_tl_30" n="N030"/>zweite und letzte, welche die Begriffe Zweck und Inhalt der Musik bestimmen und
-               <lb facs="#facs_2_region_1709365896186_115_tl_31" n="N031"/>die Herrschaft der Gefühle aus dem Centrum der Musik hinausweisen, die wichtig<lb facs="#facs_2_region_1709365896186_115_tl_32" n="N032" break="no"/>sten sind. Wie die Aesthetik der Kunst im Allgemeinen erst in den letzten Decen<lb facs="#facs_2_region_1709365896186_115_tl_33" n="N033" break="no"/>nien dieser einen Selbstzweck vindicirte und deren Aufgabe, auf Staats- und
+               <lb facs="#facs_2_region_1709365896186_115_tl_31" n="N031"/>die Herrschaft der Gefühle aus dem Centrum der Musik hinausweisen, die wichtig
+               <lb facs="#facs_2_region_1709365896186_115_tl_32" n="N032" break="no"/>sten sind. Wie die Aesthetik der Kunst im Allgemeinen erst in den letzten Decen
+               <lb facs="#facs_2_region_1709365896186_115_tl_33" n="N033" break="no"/>nien dieser einen Selbstzweck vindicirte und deren Aufgabe, auf Staats- und
                <lb facs="#facs_2_region_1709365896186_115_tl_34" n="N034"/>Völkerleben, auf Humanität und Sittlichkeit zu wirken, in zweite Linie rückte,
                <lb facs="#facs_2_region_1709365896186_115_tl_35" n="N035"/>wie sie selbst das reinste, d. h. das unabsichtlichste Utilitätsprinzip als mit der
-               <lb facs="#facs_2_region_1709365896186_115_tl_36" n="N036"/>Heiligkeit und Größe der Kunst unverträglich erklärte, ebenso brachte <rs type="person">Hanslick</rs> in
+               <lb facs="#facs_2_region_1709365896186_115_tl_36" n="N036"/>Heiligkeit und Größe der Kunst unverträglich erklärte, ebenso brachte <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> in
                <lb facs="#facs_2_region_1709365896186_115_tl_37" n="N037"/>diese specielle Sphäre der Kunst Verstand und Ordnung und entkleidete die
                <lb facs="#facs_2_region_1709365896186_115_tl_38" n="N038"/>Musik ihres falschen Helmschmuckes, beraubt sie ihrer Piken und Fähnlein, auf
                <lb facs="#facs_2_region_1709365896186_115_tl_39" n="N039"/>welche Dinge bis jetzt grade der einzige Nachdruck gelegt worden war. Man hatte
@@ -801,111 +805,134 @@
                <lb facs="#facs_2_region_1709365896186_115_tl_43" n="N043"/>sei. Die Musik, als die einzig begrifflose Kunst — mit Ausschluß der Architectur
                <lb facs="#facs_2_region_1709365896186_115_tl_44" n="N044"/>— mußte, da man ihr keine Ideen im philosophischen Sinn unterschieben konnte,
                <lb facs="#facs_2_region_1709365896186_115_tl_45" n="N045"/>nothwendig von der Masse als das beste Ausdrucksmittel der Gefühle betrachtet
-               <lb facs="#facs_2_region_1709365896186_115_tl_46" n="N046"/>werden; aber man vergaß, daß auch diese erst durch Begriffe aus einer allgemei<lb facs="#facs_2_region_1709365896186_115_tl_47" n="N047" break="no"/>nen farblosen Empfindung sich zu Gefühlen verdichten und dann in bestimmt
+               <lb facs="#facs_2_region_1709365896186_115_tl_46" n="N046"/>werden; aber man vergaß, daß auch diese erst durch Begriffe aus einer allgemei
+               <lb facs="#facs_2_region_1709365896186_115_tl_47" n="N047" break="no"/>nen farblosen Empfindung sich zu Gefühlen verdichten und dann in bestimmt
                <lb facs="#facs_2_region_1709365896186_115_tl_48" n="N048"/>begrenzte sich zertheilen. Die Gefühle, welche die Musik zum Ausdruck brächte,
                <lb facs="#facs_2_region_1709365896186_115_tl_49" n="N049"/>könnten überirdische, doch nimmer menschliche Wesen durchzittern, in denen ein
                <lb facs="#facs_2_region_1709365896186_115_tl_50" n="N050"/>Endliches angeregt werden muß, das nur durch einschränkende Begriffe im Reiche
                <lb facs="#facs_2_region_1709365896186_115_tl_51" n="N051"/>der Vernunft wie der Anschauung möglich ist. Aber die Musik weiß nichts von
-               <lb facs="#facs_2_region_1709365896186_115_tl_52" n="N052"/>einschränkenden Begriffen, sie kennt bloß eine allgemein-traurige, eine allgemein<lb facs="#facs_2_region_1709365896186_115_tl_53" n="N053" break="no"/>heitere <hi rendition="#em">Stimmung</hi>, und ihr Zweck und ihr Inhalt, welchen letzteren <rs type="person">Hanslick</rs>
+               <lb facs="#facs_2_region_1709365896186_115_tl_52" n="N052"/>einschränkenden Begriffen, sie kennt bloß eine allgemein-traurige, eine allgemein
+               <lb facs="#facs_2_region_1709365896186_115_tl_53" n="N053" break="no"/>heitere <hi rendition="#em">Stimmung</hi>, und ihr Zweck und ihr Inhalt, welchen letzteren <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>
             <lb facs="#facs_2_region_1709365896186_115_tl_54" n="N054"/>auf <hi rendition="#em">Gehalt</hi> reducirt, liegt in ihrem eigensten Kreise und ist nicht allgemein
                <lb facs="#facs_2_region_1709365896186_115_tl_55" n="N055"/>menschlicher, sondern specifisch-musikalischer Natur.
                <lb facs="#facs_2_region_1709365896186_115_tl_56" n="N056"/>(Fortsetzung folgt.)</p>
             </div>
             <div n="2">
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-                  <head type="h3">Humorist. No. 306. Sonntag den 26. November <date when="1854">1854</date>. 18. Jahrgang</head>
+               <head type="h3">Humorist. No. 306. Sonntag den 26. November <date when="1854">1854</date>. 18. Jahrgang</head>
             <pb facs="#facs_4" n="4" xml:id="img_0004"/>
-                  <p>
-            <lb facs="#facs_4_region_1709365927616_130_tl_1" n="N001"/><hi rendition="#em"><rs type="bibl">Vom Musikalisch-Schönen</rs></hi>.
-               <lb facs="#facs_4_region_1709365927616_130_tl_2" n="N002"/>Ein Beitrag zur Revision der Aesthetik der Tonkunst von Dr. Ed. <rs type="person">Hanslick</rs>.
-               <lb facs="#facs_4_region_1709365927616_130_tl_3" n="N003"/>Von Emil <rs type="person">Kuh</rs>.
-               <lb facs="#facs_4_region_1709365927616_130_tl_4" n="N004"/>(<hi rendition="#em">Fortsetzung</hi>.)
-               <lb facs="#facs_4_region_1709365927616_130_tl_5" n="N005"/>
-            <rs type="person">Hanslick</rs> hat auf die eindringlichste und schlagendste Weise bewiesen, daß
+               <lb facs="#facs_4_region_1709365927616_130_tl_1" n="N001"/><head type="h1"><hi rendition="#em"><rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs></hi>.</head>
+               <lb facs="#facs_4_region_1709365927616_130_tl_2" n="N002"/><head type="h2">Ein Beitrag zur Revision der Aesthetik der Tonkunst von Dr. Ed. <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>.
+               <lb facs="#facs_4_region_1709365927616_130_tl_3" n="N003"/>Von Emil <rs type="person" ref="#hsl_person_id_6653">Kuh</rs>.
+               <lb facs="#facs_4_region_1709365927616_130_tl_4" n="N004"/>(<hi rendition="#em">Fortsetzung</hi>.)</head>
+            <p>      
+               <lb facs="#facs_4_region_1709365927616_130_tl_5" n="N005"/><rs type="person" ref="#hsl_person_id_1">Hanslick</rs> hat auf die eindringlichste und schlagendste Weise bewiesen, daß
                <lb facs="#facs_4_region_1709365927616_130_tl_6" n="N006"/>die Musik nicht nur keine bestimmte Freude, keinen bestimmten Schmerz darstellen
                <lb facs="#facs_4_region_1709365927616_130_tl_7" n="N007"/>kann, sondern daß es ihr auch unmöglich ist, mehr als eine Stimmung von
                <lb facs="#facs_4_region_1709365927616_130_tl_8" n="N008"/>Schmerz, eine Stimmung von Freude anzuregen. Er überzeugte uns, daß die
-               <lb facs="#facs_4_region_1709365927616_130_tl_9" n="N009"/>Musik weder die Wuth einer <rs type="person">Medea</rs> von der eines Kärrner’s unterschieden zu
+               <lb facs="#facs_4_region_1709365927616_130_tl_9" n="N009"/>Musik weder die Wuth einer <rs type="person" ref="#hsl_person_id_2257">Medea</rs> von der eines Kärrner’s unterschieden zu
                <lb facs="#facs_4_region_1709365927616_130_tl_10" n="N010"/>schildern, noch durch Töne auszudrücken vermag, daß wir es überhaupt mit
                <lb facs="#facs_4_region_1709365927616_130_tl_11" n="N011"/>Wuth, nicht etwa mit Zorn, Haß, Liebesraserei, Glaubensfanatismus u. dgl. zu
                <lb facs="#facs_4_region_1709365927616_130_tl_12" n="N012"/>thun haben. Wo aber eine solche Individualisirung ersten Grades nicht einmal
-               <lb facs="#facs_4_region_1709365927616_130_tl_13" n="N013"/>möglich, wie soll da noch weiter von einer künstlerischen Manifestation der Ge<lb facs="#facs_4_region_1709365927616_130_tl_14" n="N014" break="no"/>fühle die Rede sein! Dies ist klar. Wenn <rs type="person">Hanslick</rs> aber die Anforderung an den
-               <lb facs="#facs_4_region_1709365927616_130_tl_15" n="N015"/>ästhetisch Gebildeten stellt, sich an der reinen Form dieser Kunst, ohne Neben<lb facs="#facs_4_region_1709365927616_130_tl_16" n="N016" break="no"/>wünsche und Beziehungen zu erfreuen und den Genuß blos in ihrem Specifischen
-               <lb facs="#facs_4_region_1709365927616_130_tl_17" n="N017"/>zu suchen, so verlangt er da nicht das, was jeder Künstler in jeder Kunst ver<lb facs="#facs_4_region_1709365927616_130_tl_18" n="N018" break="no"/>langen muß, nein, er verlangt, meiner Ansicht nach, etwas den Bedingungen der
+               <lb facs="#facs_4_region_1709365927616_130_tl_13" n="N013"/>möglich, wie soll da noch weiter von einer künstlerischen Manifestation der Ge
+               <lb facs="#facs_4_region_1709365927616_130_tl_14" n="N014" break="no"/>fühle die Rede sein! Dies ist klar. Wenn <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> aber die Anforderung an den
+               <lb facs="#facs_4_region_1709365927616_130_tl_15" n="N015"/>ästhetisch Gebildeten stellt, sich an der reinen Form dieser Kunst, ohne Neben
+               <lb facs="#facs_4_region_1709365927616_130_tl_16" n="N016" break="no"/>wünsche und Beziehungen zu erfreuen und den Genuß blos in ihrem Specifischen
+               <lb facs="#facs_4_region_1709365927616_130_tl_17" n="N017"/>zu suchen, so verlangt er da nicht das, was jeder Künstler in jeder Kunst ver
+               <lb facs="#facs_4_region_1709365927616_130_tl_18" n="N018" break="no"/>langen muß, nein, er verlangt, meiner Ansicht nach, etwas den Bedingungen der
                <lb facs="#facs_4_region_1709365927616_130_tl_19" n="N019"/>menschlichen Natur und der Kunst Widerstrebendes. Hier ist für mich der Punkt,
-               <lb facs="#facs_4_region_1709365927616_130_tl_20" n="N020"/>wo ich <rs type="person">Hanslick</rs> nicht beistimmen kann; denn in der Musik sehen wir, wie <rs type="person" continued="true">Hans</rs>
-            <lb facs="#facs_4_region_1709365927616_130_tl_21" n="N021" break="no"/>
-            <rs type="person" continued="true">lick</rs> unwiderleglich darthut, „Inhalt und Form, Stoff und Gestaltung, Bild und
+               <lb facs="#facs_4_region_1709365927616_130_tl_20" n="N020"/>wo ich <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> nicht beistimmen kann; denn in der Musik sehen wir, wie <rs type="person" ref="#hsl_person_id_1">Hans
+               <lb facs="#facs_4_region_1709365927616_130_tl_21" n="N021" break="no"/>lick</rs> unwiderleglich darthut, „Inhalt und Form, Stoff und Gestaltung, Bild und
                <lb facs="#facs_4_region_1709365927616_130_tl_22" n="N022"/>Idee in dunkler, untrennbarer Einheit verschmolzen“ und er bemerkt ganz richtig,
-               <lb facs="#facs_4_region_1709365927616_130_tl_23" n="N023"/>daß „dieser Eigenthümlichkeit der Tonkunst, Form und Inhalt ungetrennt zu be<lb facs="#facs_4_region_1709365927616_130_tl_24" n="N024" break="no"/>sitzen, die dichtenden und bildenden Künste schroff gegenüberstehen.“ Dieser un<lb facs="#facs_4_region_1709365927616_130_tl_25" n="N025" break="no"/>leugbare <hi rendition="#em">Mangel</hi> der Tonkunst kann nun doch nie und nimmer einen Mangel
-               <lb facs="#facs_4_region_1709365927616_130_tl_26" n="N026"/>in der Seele des Genießenden zu seinem Bundesgenossen begehren, um so weni<lb facs="#facs_4_region_1709365927616_130_tl_27" n="N027" break="no"/>ger, als eine Allianz solchen Schlages die ganze Tonkunst selber zu einem inhalt<lb facs="#facs_4_region_1709365927616_130_tl_28" n="N028" break="no"/>losen Spiel, in ästhetischer wie in ethischer Bedeutung herabdrücken müßte, die
+               <lb facs="#facs_4_region_1709365927616_130_tl_23" n="N023"/>daß „dieser Eigenthümlichkeit der Tonkunst, Form und Inhalt ungetrennt zu be
+               <lb facs="#facs_4_region_1709365927616_130_tl_24" n="N024" break="no"/>sitzen, die dichtenden und bildenden Künste schroff gegenüberstehen.“ Dieser un
+               <lb facs="#facs_4_region_1709365927616_130_tl_25" n="N025" break="no"/>leugbare <hi rendition="#em">Mangel</hi> der Tonkunst kann nun doch nie und nimmer einen Mangel
+               <lb facs="#facs_4_region_1709365927616_130_tl_26" n="N026"/>in der Seele des Genießenden zu seinem Bundesgenossen begehren, um so weni
+               <lb facs="#facs_4_region_1709365927616_130_tl_27" n="N027" break="no"/>ger, als eine Allianz solchen Schlages die ganze Tonkunst selber zu einem inhalt
+               <lb facs="#facs_4_region_1709365927616_130_tl_28" n="N028" break="no"/>losen Spiel, in ästhetischer wie in ethischer Bedeutung herabdrücken müßte, die
                <lb facs="#facs_4_region_1709365927616_130_tl_29" n="N029"/>Malerei, die Plastik, namentlich die Poesie haben grade darin ihre künstlerische
-               <lb facs="#facs_4_region_1709365927616_130_tl_30" n="N030"/>Aufgabe zu lösen, „Form“ und „Inhalt“ ineinander zu schmelzen, und dieser ge<lb facs="#facs_4_region_1709365927616_130_tl_31" n="N031" break="no"/>heimnißvolle Act, den man den schöpferischen Prozeß nennt, gebiert erst das Wun<lb facs="#facs_4_region_1709365927616_130_tl_32" n="N032" break="no"/>der jener Form, die als beseelter Leib das Eigentliche, Ewige der Kunst darstellt.
-               <lb facs="#facs_4_region_1709365927616_130_tl_33" n="N033"/>
-            <rs type="person">Shakespeare</rs> fordert daher vom Genießenden die Freude an der Form seines
-               <lb facs="#facs_4_region_1709365927616_130_tl_34" n="N034"/>„<rs type="bibl">Lear</rs>,“ seines „<rs type="bibl">Macbeth</rs>,“ unbekümmert um die rohe Materie, die sich in dieser
+               <lb facs="#facs_4_region_1709365927616_130_tl_30" n="N030"/>Aufgabe zu lösen, „Form“ und „Inhalt“ ineinander zu schmelzen, und dieser ge
+               <lb facs="#facs_4_region_1709365927616_130_tl_31" n="N031" break="no"/>heimnißvolle Act, den man den schöpferischen Prozeß nennt, gebiert erst das Wun
+               <lb facs="#facs_4_region_1709365927616_130_tl_32" n="N032" break="no"/>der jener Form, die als beseelter Leib das Eigentliche, Ewige der Kunst darstellt.
+               <lb facs="#facs_4_region_1709365927616_130_tl_33" n="N033"/><rs type="person" ref="#hsl_person_id_4091">Shakespeare</rs> fordert daher vom Genießenden die Freude an der Form seines
+               <lb facs="#facs_4_region_1709365927616_130_tl_34" n="N034"/>„<rs type="bibl" ref="#hsl_work_id_362">Lear</rs>,“ seines „<rs type="bibl" ref="#hsl_work_id_4843">Macbeth</rs>,“ unbekümmert um die rohe Materie, die sich in dieser
                <lb facs="#facs_4_region_1709365927616_130_tl_35" n="N035"/>Szene, in jener Charakterwendung am leichtesten betasten läßt, und er fordert es
-               <lb facs="#facs_4_region_1709365927616_130_tl_36" n="N036"/>mit Recht; ebenso <rs type="person">Raphael</rs>, wenn er seine <rs type="bibl">sixtinische Madonna</rs> aus dem Himmel
+               <lb facs="#facs_4_region_1709365927616_130_tl_36" n="N036"/>mit Recht; ebenso <rs type="person" ref="#hsl_person_id_380">Raphael</rs>, wenn er seine <rs type="bibl" ref="#hsl_work_id_4244">sixtinische Madonna</rs> aus dem Himmel
                <lb facs="#facs_4_region_1709365927616_130_tl_37" n="N037"/>hervorzaubert; ebenso der Grieche, der die Majestät des olympischen Gottes aus
-               <lb facs="#facs_4_region_1709365927616_130_tl_38" n="N038"/>dem Marmor entbindet. <rs type="person">Beethoven</rs> jedoch, wenn er zwar mit demselben Rechte
-               <lb facs="#facs_4_region_1709365927616_130_tl_39" n="N039"/>begehrt, der Hörer seiner Symphonie soll die „klingend bewegten Formen“ ge<lb facs="#facs_4_region_1709365927616_130_tl_40" n="N040" break="no"/>nießen, kann dies nicht in dem absoluten Maße begehren, wie es den früher ge<lb facs="#facs_4_region_1709365927616_130_tl_41" n="N041" break="no"/>nannten Künstlern zusteht. Dort sollten wir den Inhalt der Welt, alles was den
+               <lb facs="#facs_4_region_1709365927616_130_tl_38" n="N038"/>dem Marmor entbindet. <rs type="person" ref="#hsl_person_id_25">Beethoven</rs> jedoch, wenn er zwar mit demselben Rechte
+               <lb facs="#facs_4_region_1709365927616_130_tl_39" n="N039"/>begehrt, der Hörer seiner Symphonie soll die „klingend bewegten Formen“ ge
+               <lb facs="#facs_4_region_1709365927616_130_tl_40" n="N040" break="no"/>nießen, kann dies nicht in dem absoluten Maße begehren, wie es den früher ge
+               <lb facs="#facs_4_region_1709365927616_130_tl_41" n="N041" break="no"/>nannten Künstlern zusteht. Dort sollten wir den Inhalt der Welt, alles was den
                <lb facs="#facs_4_region_1709365927616_130_tl_42" n="N042"/>Menschengeist und das Menschenherz erfüllt, aus einem Becher edlen Weines trinken
-               <lb facs="#facs_4_region_1709365927616_130_tl_43" n="N043"/>und hier uns plötzlich mit der Glut und Flüßigkeit des Weines allein begnügen?!
-               <lb facs="#facs_4_region_1709365927616_130_tl_44" n="N044"/>Die Musik hat ihre spezifische Schönheit in den „klingend bewegten For<lb facs="#facs_4_region_1709365927616_130_tl_45" n="N045" break="no"/>men“ und nach dieser muß zuerst gefragt werden, Gefühle sind nicht ihr Zweck
-               <lb facs="#facs_4_region_1709365927616_130_tl_46" n="N046"/>und nicht ihr Inhalt, aber sie muß Bilder, Gefühle und Gedanken im ästhe<lb facs="#facs_4_region_1709365927616_130_tl_47" n="N047" break="no"/>tischsten, „musikalischsten“ Zuhörer erwecken und sie thut es auch. Hundert
-               <lb facs="#facs_4_region_1709365927616_130_tl_48" n="N048"/>Menschen, wenn sie aus einer <rs type="person">Beethoven</rs>’schen Symphonie kämen und aufgefordert
-               <lb facs="#facs_4_region_1709365927616_130_tl_49" n="N049"/>würden, das von der Musik Erregte zu Papier zu bringen, müßten, wie <rs type="person">Hanslick</rs>
+               <lb facs="#facs_4_region_1709365927616_130_tl_43" n="N043"/>und hier uns plötzlich mit der Glut und Flüßigkeit des Weines allein begnügen?!</p>
+            <p>
+               <lb facs="#facs_4_region_1709365927616_130_tl_44" n="N044"/>Die Musik hat ihre spezifische Schönheit in den „klingend bewegten For
+               <lb facs="#facs_4_region_1709365927616_130_tl_45" n="N045" break="no"/>men“ und nach dieser muß zuerst gefragt werden, Gefühle sind nicht ihr Zweck
+               <lb facs="#facs_4_region_1709365927616_130_tl_46" n="N046"/>und nicht ihr Inhalt, aber sie muß Bilder, Gefühle und Gedanken im ästhe
+               <lb facs="#facs_4_region_1709365927616_130_tl_47" n="N047" break="no"/>tischsten, „musikalischsten“ Zuhörer erwecken und sie thut es auch. Hundert
+               <lb facs="#facs_4_region_1709365927616_130_tl_48" n="N048"/>Menschen, wenn sie aus einer <rs type="person" ref="#hsl_person_id_25">Beethoven</rs>’schen Symphonie kämen und aufgefordert
+               <lb facs="#facs_4_region_1709365927616_130_tl_49" n="N049"/>würden, das von der Musik Erregte zu Papier zu bringen, müßten, wie <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>
             <lb facs="#facs_4_region_1709365927616_130_tl_50" n="N050"/>mit Recht behauptet, jeder etwas Anderes zu notiren haben. Wohl, doch jeder
-               <lb facs="#facs_4_region_1709365927616_130_tl_51" n="N051"/>
-            <hi rendition="#em">würde</hi> etwas zu notiren haben, keiner setzte sich von den Tönen unbefruchtet an
-            
+               <lb facs="#facs_4_region_1709365927616_130_tl_51" n="N051"/><hi rendition="#em">würde</hi> etwas zu notiren haben, keiner setzte sich von den Tönen unbefruchtet an
+            <cb n="1"/>
                <lb facs="#facs_4_region_1709365935304_133_tl_1" n="N001"/>das Pult. Das Materiale dieser Kunst ist eben der Art, daß der Genießende
                <lb facs="#facs_4_region_1709365935304_133_tl_2" n="N002"/>nicht gebunden wird, daß er im Gegentheil umherschwärmen kann, wie es ihm
-               <lb facs="#facs_4_region_1709365935304_133_tl_3" n="N003"/>gefällt. <rs type="person">Hebbel</rs>’s tiefsinniges Epigramm:
-               <lb facs="#facs_4_region_1709365935304_133_tl_4" n="N004"/>Jede Form ist ein Kerker, wie hält die Natur denn das Leben
-               <lb facs="#facs_4_region_1709365935304_133_tl_5" n="N005"/>Fest in allen? Sie hat keinen mit Fenstern versehen,
+               <lb facs="#facs_4_region_1709365935304_133_tl_3" n="N003"/>gefällt. <rs type="person" ref="#hsl_person_id_115">Hebbel</rs>’s tiefsinniges Epigramm:
+               <lb facs="#facs_4_region_1709365935304_133_tl_4" n="N004"/><lg><l>Jede Form ist ein Kerker, wie hält die Natur denn das Leben</l>
+               <lb facs="#facs_4_region_1709365935304_133_tl_5" n="N005"/><l>Fest in allen? Sie hat keinen mit Fenstern versehen,</l></lg>
                <lb facs="#facs_4_region_1709365935304_133_tl_6" n="N006"/>stößt im Umkreise von Natur und Kunst in der Musik zum ersten und letzten Mal
-               <lb facs="#facs_4_region_1709365935304_133_tl_7" n="N007"/>auf eine Ausnahme. Dieser Kerker ist mit Fenstern versehen, wenigstens mit Luft<lb facs="#facs_4_region_1709365935304_133_tl_8" n="N008" break="no"/>löchern und das Leben strömt wechselseitig, zerstörend und erzeugend, aus und ein.
+               <lb facs="#facs_4_region_1709365935304_133_tl_7" n="N007"/>auf eine Ausnahme. Dieser Kerker ist mit Fenstern versehen, wenigstens mit Luft
+               <lb facs="#facs_4_region_1709365935304_133_tl_8" n="N008" break="no"/>löchern und das Leben strömt wechselseitig, zerstörend und erzeugend, aus und ein.
                <lb facs="#facs_4_region_1709365935304_133_tl_9" n="N009"/>(Schluß folgt.)</p></div>
             <div n="3">
             <pb facs="#facs_5" n="5" xml:id="img_0005"/>
-                  <head type="h3">No. 309. Mittwoch den 29. November <date when="1854">1854</date>. 18. Jahrgang</head>
+               <head type="h3">No. 309. Mittwoch den 29. November <date when="1854">1854</date>. 18. Jahrgang</head>
             <pb facs="#facs_6" n="6" xml:id="img_0006"/>
-                  <p>
-            <lb facs="#facs_6_region_1709365964991_148_tl_1" n="N001"/><hi rendition="#em"><rs type="bibl">Vom Musikalisch-Schönen</rs></hi>.
-               <lb facs="#facs_6_region_1709365964991_148_tl_2" n="N002"/>Ein Beitrag zur Revision der Aesthetik der Tonkunst von Dr. Ed. <rs type="person">Hanslick</rs>.
-               <lb facs="#facs_6_region_1709365964991_148_tl_3" n="N003"/>Von Emil <rs type="person">Kuh</rs>.
-               <lb facs="#facs_6_region_1709365964991_148_tl_4" n="N004"/>(Schluß.)
-               <lb facs="#facs_6_region_1709365964991_148_tl_5" n="N005"/>Wenn <rs type="person">Hanslick</rs> sagt, daß den Componisten nicht irgend ein Gefühl, eine
+               <lb facs="#facs_6_region_1709365964991_148_tl_1" n="N001"/><head type="h1"><hi rendition="#em"><rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs></hi>.</head>
+               <lb facs="#facs_6_region_1709365964991_148_tl_2" n="N002"/><head type="h2">Ein Beitrag zur Revision der Aesthetik der Tonkunst von Dr. Ed. <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>.
+               <lb facs="#facs_6_region_1709365964991_148_tl_3" n="N003"/>Von Emil <rs type="person" ref="#hsl_person_id_6653">Kuh</rs>.
+               <lb facs="#facs_6_region_1709365964991_148_tl_4" n="N004"/>(Schluß.)</head>
+            <p>            
+               <lb facs="#facs_6_region_1709365964991_148_tl_5" n="N005"/>Wenn <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> sagt, daß den Componisten nicht irgend ein Gefühl, eine
                <lb facs="#facs_6_region_1709365964991_148_tl_6" n="N006"/>Idee zum Schaffen anrege, sondern daß er eine Melodie, ein Thema klingen höre,
                <lb facs="#facs_6_region_1709365964991_148_tl_7" n="N007"/>so erleidet das keinen Widerspruch; auch der Dichter sieht eine Gestalt, vernimmt
-               <lb facs="#facs_6_region_1709365964991_148_tl_8" n="N008"/>eine Stimme, dem bildenden Künstler geht eine Erscheinung auf, und dann com<lb facs="#facs_6_region_1709365964991_148_tl_9" n="N009" break="no"/>poniren, dichten und malen die Leute. Aber jeder unter ihnen, mit Einschluß des
-               <lb facs="#facs_6_region_1709365964991_148_tl_10" n="N010"/>Componisten, wird von der Zeit und ihren Schicksalen, von den Ideen und Con<lb facs="#facs_6_region_1709365964991_148_tl_11" n="N011" break="no"/>flicten der Welt berührt, und bei der Produktion eines jeden influenziren ganz
+               <lb facs="#facs_6_region_1709365964991_148_tl_8" n="N008"/>eine Stimme, dem bildenden Künstler geht eine Erscheinung auf, und dann com
+               <lb facs="#facs_6_region_1709365964991_148_tl_9" n="N009" break="no"/>poniren, dichten und malen die Leute. Aber jeder unter ihnen, mit Einschluß des
+               <lb facs="#facs_6_region_1709365964991_148_tl_10" n="N010"/>Componisten, wird von der Zeit und ihren Schicksalen, von den Ideen und Con
+               <lb facs="#facs_6_region_1709365964991_148_tl_11" n="N011" break="no"/>flicten der Welt berührt, und bei der Produktion eines jeden influenziren ganz
                <lb facs="#facs_6_region_1709365964991_148_tl_12" n="N012"/>gewaltig die individuellen Leiden und Freuden, und das Alles theilt sich nun
                <lb facs="#facs_6_region_1709365964991_148_tl_13" n="N013"/>unbewußt dem künstlerischen Gebilde mit. Die Musik ist dem Feuer vergleichbar.
-               <lb facs="#facs_6_region_1709365964991_148_tl_14" n="N014"/>Dieses verzehrt Kronen und Papierstreifen, Blumen und Metall, und diese Gegen<lb facs="#facs_6_region_1709365964991_148_tl_15" n="N015" break="no"/>stände werden Feuer und nur Feuer, bald rothstrahlend, bald bläulich züngelnd,
+               <lb facs="#facs_6_region_1709365964991_148_tl_14" n="N014"/>Dieses verzehrt Kronen und Papierstreifen, Blumen und Metall, und diese Gegen
+               <lb facs="#facs_6_region_1709365964991_148_tl_15" n="N015" break="no"/>stände werden Feuer und nur Feuer, bald rothstrahlend, bald bläulich züngelnd,
                <lb facs="#facs_6_region_1709365964991_148_tl_16" n="N016"/>bald in Flammen emporschlagend, bald als Glut sich zusammenpressend, doch das
-               <lb facs="#facs_6_region_1709365964991_148_tl_17" n="N017"/>Feuer hat Kronen und Papierstreifen, Blumen und Metall gefressen. <rs type="place">Rom</rs>s Unter<lb facs="#facs_6_region_1709365964991_148_tl_18" n="N018" break="no"/>gang und <rs type="person">Napoleon</rs>s Kaisergröße, Lieb’ und Haß, Conflicte der tiefsten und der
+               <lb facs="#facs_6_region_1709365964991_148_tl_17" n="N017"/>Feuer hat Kronen und Papierstreifen, Blumen und Metall gefressen. <rs type="place" ref="#hsl_place_id_47">Rom</rs>s Unter
+               <lb facs="#facs_6_region_1709365964991_148_tl_18" n="N018" break="no"/>gang und <rs type="person" ref="#hsl_person_id_39">Napoleon</rs>s Kaisergröße, Lieb’ und Haß, Conflicte der tiefsten und der
                <lb facs="#facs_6_region_1709365964991_148_tl_19" n="N019"/>schmerzlichsten Art, wenn sie auch den Componisten im Innersten durchzittern,
                <lb facs="#facs_6_region_1709365964991_148_tl_20" n="N020"/>sie sind nur Klänge, Tonfiguren, Schallwellen, harmonisch verknüpft, zur Melodie
-               <lb facs="#facs_6_region_1709365964991_148_tl_21" n="N021"/>crystallisirt, sobald sie uns als Musik entgegentreten; alle bestimmten Linien er<lb facs="#facs_6_region_1709365964991_148_tl_22" n="N022" break="no"/>bleichen, jede Grenze verschwindet, das Individuelle, Concrete des Gedankens und
+               <lb facs="#facs_6_region_1709365964991_148_tl_21" n="N021"/>crystallisirt, sobald sie uns als Musik entgegentreten; alle bestimmten Linien er
+               <lb facs="#facs_6_region_1709365964991_148_tl_22" n="N022" break="no"/>bleichen, jede Grenze verschwindet, das Individuelle, Concrete des Gedankens und
                <lb facs="#facs_6_region_1709365964991_148_tl_23" n="N023"/>Gefühls wird zum allgemeinen Feuer, aber im Genießenden wandeln die Schatten
-               <lb facs="#facs_6_region_1709365964991_148_tl_24" n="N024"/>sich in lebendige Individuen um, und Gefühle und Gestalten, wenn auch schein<lb facs="#facs_6_region_1709365964991_148_tl_25" n="N025" break="no"/>bar mit ungezügelter Willkühr, steigen in ihm auf. Daß die Musik nun ein
-               <lb facs="#facs_6_region_1709365964991_148_tl_26" n="N026"/>solcher Conductor des Menschengeistes ist, daß sie ebenfalls an den „großen Be<lb facs="#facs_6_region_1709365964991_148_tl_27" n="N027" break="no"/>wegungen im Weltall“ participirt, dafür liefert uns die „reine Kunst,” als welche
-               <lb facs="#facs_6_region_1709365964991_148_tl_28" n="N028"/>
-            <rs type="person">Hanslick</rs> bloß die Instrumentalmusik betrachtet, keinen Beweis, wohl aber die
+               <lb facs="#facs_6_region_1709365964991_148_tl_24" n="N024"/>sich in lebendige Individuen um, und Gefühle und Gestalten, wenn auch schein
+               <lb facs="#facs_6_region_1709365964991_148_tl_25" n="N025" break="no"/>bar mit ungezügelter Willkühr, steigen in ihm auf. Daß die Musik nun ein
+               <lb facs="#facs_6_region_1709365964991_148_tl_26" n="N026"/>solcher Conductor des Menschengeistes ist, daß sie ebenfalls an den „großen Be
+               <lb facs="#facs_6_region_1709365964991_148_tl_27" n="N027" break="no"/>wegungen im Weltall“ participirt, dafür liefert uns die „reine Kunst,” als welche
+               <lb facs="#facs_6_region_1709365964991_148_tl_28" n="N028"/><rs type="person" ref="#hsl_person_id_1">Hanslick</rs> bloß die Instrumentalmusik betrachtet, keinen Beweis, wohl aber die
                <lb facs="#facs_6_region_1709365964991_148_tl_29" n="N029"/>Vocalmusik, oder die Musik überhaupt, sobald sie mit den übrigen Künsten und
-               <lb facs="#facs_6_region_1709365964991_148_tl_30" n="N030"/>mit dem empirischen Leben sich verbindet, sobald sie mit einem Wort einen dienen<lb facs="#facs_6_region_1709365964991_148_tl_31" n="N031" break="no"/>den Charakter annimmt, wie wir dies an jedem vortrefflichen Liede täglich
-               <lb facs="#facs_6_region_1709365964991_148_tl_32" n="N032"/>erfahren können.
-               <lb facs="#facs_6_region_1709365964991_148_tl_33" n="N033"/>Das sechste Capitel des <rs type="person">Hanslick</rs>’schen <rs type="bibl">Buch</rs>es, das „von den Beziehungen
+               <lb facs="#facs_6_region_1709365964991_148_tl_30" n="N030"/>mit dem empirischen Leben sich verbindet, sobald sie mit einem Wort einen dienen
+               <lb facs="#facs_6_region_1709365964991_148_tl_31" n="N031" break="no"/>den Charakter annimmt, wie wir dies an jedem vortrefflichen Liede täglich
+               <lb facs="#facs_6_region_1709365964991_148_tl_32" n="N032"/>erfahren können.</p>
+            <p>
+               <lb facs="#facs_6_region_1709365964991_148_tl_33" n="N033"/>Das sechste Capitel des <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>’schen <rs type="bibl" ref="#hsl_work_id_1083">Buch</rs>es, das „von den Beziehungen
                <lb facs="#facs_6_region_1709365964991_148_tl_34" n="N034"/>der Tonkunst zur Natur“ handelt, erläutert uns das merkwürdige Phänomen der
-               <lb facs="#facs_6_region_1709365964991_148_tl_35" n="N035"/>Musik: Inhalt und Form ungetrennt zu besitzen und gibt uns einen Erklärungs<lb facs="#facs_6_region_1709365964991_148_tl_36" n="N036" break="no"/>grund für das mysteriöse Gesetz, das in dieser sinnlichsten aller Künste waltet,
-               <lb facs="#facs_6_region_1709365964991_148_tl_37" n="N037"/>welches in uns dennoch einen übersinnlichen Eindruck hervorruft, indem <rs type="person">Hanslick</rs>
-            <lb facs="#facs_6_region_1709365964991_148_tl_38" n="N038"/>auf eben so gelehrte als anschauliche Weise <hi rendition="#em">die Nichtexistenz eines</hi>
-            <lb facs="#facs_6_region_1709365964991_148_tl_39" n="N039"/>
-            <hi rendition="#em">Naturschönen</hi> für die Mustk darthut. Die Musik ist ausschließlich ein Pro<lb facs="#facs_6_region_1709365964991_148_tl_40" n="N040" break="no"/>dukt des Menschengeistes nach Form und Inhalt und trotzdem seine sinnlichste
+               <lb facs="#facs_6_region_1709365964991_148_tl_35" n="N035"/>Musik: Inhalt und Form ungetrennt zu besitzen und gibt uns einen Erklärungs
+               <lb facs="#facs_6_region_1709365964991_148_tl_36" n="N036" break="no"/>grund für das mysteriöse Gesetz, das in dieser sinnlichsten aller Künste waltet,
+               <lb facs="#facs_6_region_1709365964991_148_tl_37" n="N037"/>welches in uns dennoch einen übersinnlichen Eindruck hervorruft, indem <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>
+            <lb facs="#facs_6_region_1709365964991_148_tl_38" n="N038"/>auf eben so gelehrte als anschauliche Weise <hi rendition="#em">die Nichtexistenz eines
+               <lb facs="#facs_6_region_1709365964991_148_tl_39" n="N039"/>Naturschönen</hi> für die Mustk darthut. Die Musik ist ausschließlich ein Pro
+               <lb facs="#facs_6_region_1709365964991_148_tl_40" n="N040" break="no"/>dukt des Menschengeistes nach Form und Inhalt und trotzdem seine sinnlichste
                <lb facs="#facs_6_region_1709365964991_148_tl_41" n="N041"/>Emanation. „Hat Jemand in der Natur einen Dreiklang gehört, einen Sext- oder
-               <lb facs="#facs_6_region_1709365964991_148_tl_42" n="N042"/>Septim-Accord? Wie die Melodie so war auch (nur in viel langsamerem Fort<lb facs="#facs_6_region_1709365964991_148_tl_43" n="N043" break="no"/>schreiten) die Harmonie ein Erzeugniß menschlichen Geistes.” —„Dadurch, daß
+               <lb facs="#facs_6_region_1709365964991_148_tl_42" n="N042"/>Septim-Accord? Wie die Melodie so war auch (nur in viel langsamerem Fort
+               <lb facs="#facs_6_region_1709365964991_148_tl_43" n="N043" break="no"/>schreiten) die Harmonie ein Erzeugniß menschlichen Geistes.” —„Dadurch, daß
                <lb facs="#facs_6_region_1709365964991_148_tl_44" n="N044"/>in der Musik Alles commensurabel sein muß, in den Naturlauten aber nichts
                <lb facs="#facs_6_region_1709365964991_148_tl_45" n="N045"/>commensurabel ist, stehen diese beiden Schallreiche unvermittelt nebeneinander.
                <lb facs="#facs_6_region_1709365964991_148_tl_46" n="N046"/>Die Natur gibt uns nicht das künstlerische Material eines fertigen, vorgebildeten
@@ -913,18 +940,21 @@
                <lb facs="#facs_6_region_1709365964991_148_tl_48" n="N048"/>machen. Nicht die Stimmen der Thiere, sondern ihre Gedärme sind uns wichtig,
                <lb facs="#facs_6_region_1709365964991_148_tl_49" n="N049"/>und das Thier, dem die Musik am meisten verdankt, ist nicht die Nachtigall,
                <lb facs="#facs_6_region_1709365964991_148_tl_50" n="N050"/>sondern das Schaf.“ Ich müßte das ganze Capitel exerciren, wollte ich von der
-               <lb facs="#facs_6_region_1709365964991_148_tl_51" n="N051"/>wunderbaren Entwicklung der Ideen <rs type="person">Hanslick</rs>’s über das Verhältniß der Musik zur
-               <lb facs="#facs_6_region_1709365964991_148_tl_52" n="N052"/>Natur einen Begriff geben.
+               <lb facs="#facs_6_region_1709365964991_148_tl_51" n="N051"/>wunderbaren Entwicklung der Ideen <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>’s über das Verhältniß der Musik zur
+               <lb facs="#facs_6_region_1709365964991_148_tl_52" n="N052"/>Natur einen Begriff geben.</p>
+            <p>
                <lb facs="#facs_6_region_1709365964991_148_tl_53" n="N053"/>Das ganze Buch zeichnet sich durch schärfste Analyse und klarste Darstellung
-               <lb facs="#facs_6_region_1709365964991_148_tl_54" n="N054"/>vor den meisten wissenschaftlichen Arbeiten, die in <rs type="place">Deutschland</rs> hervortreten, aus,
+               <lb facs="#facs_6_region_1709365964991_148_tl_54" n="N054"/>vor den meisten wissenschaftlichen Arbeiten, die in <rs type="place" ref="#hsl_place_id_14">Deutschland</rs> hervortreten, aus,
                <lb facs="#facs_6_region_1709365964991_148_tl_55" n="N055"/>und namentlich ward, was schon einige Kritiker hervorhoben, die merkwürdige
                <lb facs="#facs_6_region_1709365964991_148_tl_56" n="N056"/>Ehe zwischen unerbittlicher Dialektik und poetischer Anschauung darin vollzogen.
                <lb facs="#facs_6_region_1709365964991_148_tl_57" n="N057"/>Man wird auch auf keinem Kunstgebiet etwas Ersprießliches fördern, wenn nicht
                <lb facs="#facs_6_region_1709365964991_148_tl_58" n="N058"/>in einem und demselben Aesthetiker jene beiden Eigenschaften zusammenfallen,
                <lb facs="#facs_6_region_1709365964991_148_tl_59" n="N059"/>denn es existiren Punkte in der Kunst, und das sind leider die wichtigsten, wo
-               <lb facs="#facs_6_region_1709365964991_148_tl_60" n="N060"/>man durchaus nur mit der Anschauung den Dingen an den Leib zu rücken ver<lb facs="#facs_6_region_1709365964991_148_tl_61" n="N061" break="no"/>mag, wo man nur mit einem Bilde dem Bilde nahe kommt; Glas kann bloß
-               <lb facs="#facs_6_region_1709365964991_148_tl_62" n="N062"/>mit Diamanten geschnitten werden.
-               <lb facs="#facs_6_region_1709365964991_148_tl_63" n="N063"/>Die Ausstattung des Buches von Rudolph <rs type="person">Weigel</rs> in <rs type="place">Leipzig</rs> ist eine sehr
+               <lb facs="#facs_6_region_1709365964991_148_tl_60" n="N060"/>man durchaus nur mit der Anschauung den Dingen an den Leib zu rücken ver
+               <lb facs="#facs_6_region_1709365964991_148_tl_61" n="N061" break="no"/>mag, wo man nur mit einem Bilde dem Bilde nahe kommt; Glas kann bloß
+               <lb facs="#facs_6_region_1709365964991_148_tl_62" n="N062"/>mit Diamanten geschnitten werden.</p>
+            <p>
+               <lb facs="#facs_6_region_1709365964991_148_tl_63" n="N063"/>Die Ausstattung des Buches von Rudolph <rs type="person" ref="#hsl_person_id_1">Weigel</rs> in <rs type="place" ref="#hsl_place_id_32">Leipzig</rs> ist eine sehr
                <lb facs="#facs_6_region_1709365964991_148_tl_64" n="N064"/>gefällige und dürfte zur größeren Verbreitung desselben beitragen, obgleich es an
                <lb facs="#facs_6_region_1709365964991_148_tl_65" n="N065"/>und für sich gute Beine hat.
             </p></div>

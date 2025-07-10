@@ -106,6 +106,7 @@
          <change who="ampfiel" when="2025-06-12">Transkribus OCR und Lektorat.</change>
          <change who="fsanzl" when="2025-06-24">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-06-30">header, p hinzugefügt</change>
+         <change who="ampfiel" when="2025-07-04">Zeilenmbrüche, rs ref</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -314,48 +315,48 @@
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-               <p>
-            <lb facs="#facs_2_region_1709365032466_18_tl_1" n="N001"/>Wissenschaften und Künste.
-               <lb facs="#facs_2_region_1709365032466_18_tl_2" n="N002"/>
-            <hi rendition="#em">
-               <rs type="place">Wien</rs>
-            </hi>. Unter dem Titel, „<rs type="bibl">Vom musikalisch Schönen</rs>, ein
+               <lb facs="#facs_2_region_1709365032466_18_tl_1" n="N001"/><head type="h1">Wissenschaften und Künste.</head>
+            <p>      
+               <lb facs="#facs_2_region_1709365032466_18_tl_2" n="N002"/><hi rendition="#em"><rs type="place" ref="#hsl_place_id_55">Wien</rs></hi>. Unter dem Titel, „<rs type="bibl" ref="#hsl_work_id_1083">Vom musikalisch Schönen</rs>, ein
                <lb facs="#facs_2_region_1709365032466_18_tl_3" n="N003"/>Beitrag zur Revision der Aesthetik der Tonkunst, von
-               <lb facs="#facs_2_region_1709365032466_18_tl_4" n="N004"/>Dr. Eduard <rs type="person">Hanslick</rs> in <rs type="place">Wien</rs>“ ist bei R. <rs type="person">Weigel</rs> in
-               <lb facs="#facs_2_region_1709365032466_18_tl_5" n="N005"/>
-            <rs type="place">Leipzig</rs> eine Broschüre erschienen, welche in unseren
+               <lb facs="#facs_2_region_1709365032466_18_tl_4" n="N004"/>Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> in <rs type="place" ref="#hsl_place_id_55">Wien</rs>“ ist bei R. <rs type="person" ref="#hsl_person_id_1">Weigel</rs> in
+               <lb facs="#facs_2_region_1709365032466_18_tl_5" n="N005"/><rs type="place" ref="#hsl_place_id_32">Leipzig</rs> eine Broschüre erschienen, welche in unseren
                <lb facs="#facs_2_region_1709365032466_18_tl_6" n="N006"/>gelehrten und kunstgebildeten Kreisen Aufsehen erregt.
-               <lb facs="#facs_2_region_1709365032466_18_tl_7" n="N007"/>Der Verfasser, der gegenwärtig im Bureau des Unter<lb facs="#facs_2_region_1709365032466_18_tl_8" n="N008" break="no"/>richtsministers Grafen Leo <rs type="person">Thun</rs> arbeitet, bekämpft die
+               <lb facs="#facs_2_region_1709365032466_18_tl_7" n="N007"/>Der Verfasser, der gegenwärtig im Bureau des Unter
+               <lb facs="#facs_2_region_1709365032466_18_tl_8" n="N008" break="no"/>richtsministers Grafen Leo <rs type="person" ref="#hsl_person_id_2816">Thun</rs> arbeitet, bekämpft die
                <lb facs="#facs_2_region_1709365032466_18_tl_9" n="N009"/>Principien der bisherigen Aesthetik der Tonkunst in so
                <lb facs="#facs_2_region_1709365032466_18_tl_10" n="N010"/>eindringender und geistvoller Weise, daß er mit dieser
                <lb facs="#facs_2_region_1709365032466_18_tl_11" n="N011"/>Schrift sich einen dauernden litterarischen Ruf gegründet
                <lb facs="#facs_2_region_1709365032466_18_tl_12" n="N012"/>haben dürfte. Der „Wanderer“ macht bei Beurtheilung
                <lb facs="#facs_2_region_1709365032466_18_tl_13" n="N013"/>des Buches die Bemerkung, daß von drei in jüngster
-               <lb facs="#facs_2_region_1709365032466_18_tl_14" n="N014"/>Zeit erschienenen in <rs type="place">Wien</rs> entstandenen musikalisch-lit<lb facs="#facs_2_region_1709365032466_18_tl_15" n="N015" break="no"/>terarischen Werken, deren jedes in seiner Art tüchtig
-               <lb facs="#facs_2_line_1709365114356_28" n="N016"/>und bedeutend ist, nämlich <rs type="person">Sechter</rs>s „<rs type="bibl">Generalbaß- und</rs>
-            <lb facs="#facs_2_region_1709365032466_18_tl_17" n="N017"/>
-            <rs type="bibl">Harmonielehre</rs>,“ <rs type="person">Schmidt</rs>s „<rs type="bibl">Leben Glucks</rs>“ und <rs type="person">Hans
-            <lb facs="#facs_2_region_1709365032466_18_tl_18" n="N018" break="no"/>lick</rs>’s oben erwähnte Abhandlung, keines in <rs type="place">Wien</rs> einen
-               <lb facs="#facs_2_region_1709365032466_18_tl_19" n="N019"/>Verleger finden konnte. Wir müssen von dieser That<lb facs="#facs_2_region_1709365032466_18_tl_20" n="N020" break="no"/>sache Act nehmen, die in allen litterarischen Kreisen
-               <lb facs="#facs_2_region_1709365032466_18_tl_21" n="N021"/>
-            <rs type="place">Wien</rs>s große Sensation erregt. Es ist bekannt, daß
-               <lb facs="#facs_2_region_1709365032466_18_tl_22" n="N022"/>hier mit Ausnahme medicinischer Schriften, die ein ge<lb facs="#facs_2_region_1709365032466_18_tl_23" n="N023" break="no"/>sichertes Lesepublicum haben, fast nichts verlegt wird
-               <lb facs="#facs_2_region_1709365032466_18_tl_24" n="N024"/>als Lehrbücher und ähnliche für praktische Zwecke be<lb facs="#facs_2_region_1709365032466_18_tl_25" n="N025" break="no"/>stimmte Werke. Was insbesondere die Romanlitteratur,
+               <lb facs="#facs_2_region_1709365032466_18_tl_14" n="N014"/>Zeit erschienenen in <rs type="place" ref="#hsl_place_id_55">Wien</rs> entstandenen musikalisch-lit
+               <lb facs="#facs_2_region_1709365032466_18_tl_15" n="N015" break="no"/>terarischen Werken, deren jedes in seiner Art tüchtig
+               <lb facs="#facs_2_line_1709365114356_28" n="N016"/>und bedeutend ist, nämlich <rs type="person" ref="#hsl_person_id_5136">Sechter</rs>s „<rs type="bibl" ref="#hsl_work_id_4840">Generalbaß- und
+               <lb facs="#facs_2_region_1709365032466_18_tl_17" n="N017"/>Harmonielehre</rs>,“ <rs type="person" ref="#hsl_person_id_6373">Schmidt</rs>s „<rs type="bibl" ref="#hsl_work_id_4437">Leben Glucks</rs>“ und <rs type="person" ref="#hsl_person_id_1">Hans
+               <lb facs="#facs_2_region_1709365032466_18_tl_18" n="N018" break="no"/>lick</rs>’s oben erwähnte Abhandlung, keines in <rs type="place" ref="#hsl_place_id_55">Wien</rs> einen
+               <lb facs="#facs_2_region_1709365032466_18_tl_19" n="N019"/>Verleger finden konnte. Wir müssen von dieser That
+               <lb facs="#facs_2_region_1709365032466_18_tl_20" n="N020" break="no"/>sache Act nehmen, die in allen litterarischen Kreisen
+               <lb facs="#facs_2_region_1709365032466_18_tl_21" n="N021"/><rs type="place" ref="#hsl_place_id_55">Wien</rs>s große Sensation erregt. Es ist bekannt, daß
+               <lb facs="#facs_2_region_1709365032466_18_tl_22" n="N022"/>hier mit Ausnahme medicinischer Schriften, die ein ge
+               <lb facs="#facs_2_region_1709365032466_18_tl_23" n="N023" break="no"/>sichertes Lesepublicum haben, fast nichts verlegt wird
+               <lb facs="#facs_2_region_1709365032466_18_tl_24" n="N024"/>als Lehrbücher und ähnliche für praktische Zwecke be
+               <lb facs="#facs_2_region_1709365032466_18_tl_25" n="N025" break="no"/>stimmte Werke. Was insbesondere die Romanlitteratur,
                <lb facs="#facs_2_region_1709365032466_18_tl_26" n="N026"/>ein für die Volkserziehung nicht unwichtiges Moment,
                <lb facs="#facs_2_region_1709365032466_18_tl_27" n="N027"/>betrifft, so haben unsere Buchhändler keine Sympathieen
                <lb facs="#facs_2_region_1709365032466_18_tl_28" n="N028"/>für eine ernstere litterarische Richtung; wohl aber kann
                <lb facs="#facs_2_region_1709365032466_18_tl_29" n="N029"/>man ohne Uebertreibung behaupten, daß hier ein Roman,
                <lb facs="#facs_2_region_1709365032466_18_tl_30" n="N030"/>je schlechter er ist, desto leichter einen Verleger findet.
-               <lb facs="#facs_2_region_1709365032466_18_tl_31" n="N031"/>Mit Ausnahme der Eduard <rs type="person">Breier</rs>’schen Romane, die
-               <lb facs="#facs_2_region_1709365032466_18_tl_32" n="N032"/>bekanntlich zu dem schlechtesten gehören, was die <rs type="place">deutsch</rs>e
-               <lb facs="#facs_2_region_1709365032466_18_tl_33" n="N033"/>Litteratur producirt hat, wird in <rs type="place">Wien</rs> auf diesem Ge<lb facs="#facs_2_region_1709365032466_18_tl_34" n="N034" break="no"/>biete nichts verlegt. Wie ganz anders der <rs type="place">deutsch</rs>e
+               <lb facs="#facs_2_region_1709365032466_18_tl_31" n="N031"/>Mit Ausnahme der Eduard <rs type="person" ref="#hsl_person_id_6910">Breier</rs>’schen Romane, die
+               <lb facs="#facs_2_region_1709365032466_18_tl_32" n="N032"/>bekanntlich zu dem schlechtesten gehören, was die <rs type="place" ref="#hsl_place_id_14">deutsch</rs>e
+               <lb facs="#facs_2_region_1709365032466_18_tl_33" n="N033"/>Litteratur producirt hat, wird in <rs type="place" ref="#hsl_place_id_55">Wien</rs> auf diesem Ge
+               <lb facs="#facs_2_region_1709365032466_18_tl_34" n="N034" break="no"/>biete nichts verlegt. Wie ganz anders der <rs type="place" ref="#hsl_place_id_14">deutsch</rs>e
                <lb facs="#facs_2_region_1709365032466_18_tl_35" n="N035"/>Buchhandel, der nicht bloß ein lucratives sondern auch
                <lb facs="#facs_2_region_1709365032466_18_tl_36" n="N036"/>ein ethisches Element in sich hat, und seit den letzten
                <lb facs="#facs_2_region_1709365032466_18_tl_37" n="N037"/>Jahren bemüht, ist eine bessere Romanlectüre in den
                <lb facs="#facs_2_region_1709365032466_18_tl_38" n="N038"/>Mittelstand zu bringen, den besseren Romanschriftstellern
                <lb facs="#facs_2_region_1709365032466_18_tl_39" n="N039"/>ein Lesepublicum zu sichern! Es ist eine ganz richtige
                <lb facs="#facs_2_region_1709365032466_18_tl_40" n="N040"/>Bemerkung des „Wanderers“, die Schuld liege nicht an
-               <lb facs="#facs_2_region_1709365032466_18_tl_41" n="N041"/>den Autoren daß ihre Bücher nicht in <rs type="place">Wien</rs> gedruckt
+               <lb facs="#facs_2_region_1709365032466_18_tl_41" n="N041"/>den Autoren daß ihre Bücher nicht in <rs type="place" ref="#hsl_place_id_55">Wien</rs> gedruckt
                <lb facs="#facs_2_region_1709365032466_18_tl_42" n="N042"/>werden, an Autoren die seit Jahren hier leben und sich
                <lb facs="#facs_2_region_1709365032466_18_tl_43" n="N043"/>in allen Kreisen der Gesellschaft eine sehr geachtete
                <lb facs="#facs_2_region_1709365032466_18_tl_44" n="N044"/>Stellung erworben haben. Diese Erscheinung hängt
@@ -364,8 +365,8 @@
                <lb facs="#facs_2_region_1709365032466_18_tl_47" n="N047" break="no"/>men, kann ein anerkennendes aufmunterndes Urtheil,
                <lb facs="#facs_2_region_1709365032466_18_tl_48" n="N048"/>geschweige denn reele Unterstützung, eher im Auslande
                <lb facs="#facs_2_region_1709365032466_18_tl_49" n="N049"/>als im Inlande erwarten. Der Mangel eines intelli
-               <lb facs="#facs_2_line_1709365126023_35" n="N050" break="no"/>genten Patriotismus ist leider ein Kennzeichen <rs type="place">öster
-               <lb facs="#facs_2_region_1709365032466_18_tl_51" n="N051" break="no"/>reichisch</rs>er Kritik und <rs type="place">österreichisch</rs>er Kunstvereine. Ist
+               <lb facs="#facs_2_line_1709365126023_35" n="N050" break="no"/>genten Patriotismus ist leider ein Kennzeichen <rs type="place" ref="#hsl_place_id_43">öster
+               <lb facs="#facs_2_region_1709365032466_18_tl_51" n="N051" break="no"/>reichisch</rs>er Kritik und <rs type="place" ref="#hsl_place_id_43">österreichisch</rs>er Kunstvereine. Ist
                <lb facs="#facs_2_region_1709365032466_18_tl_52" n="N052"/>es dann zu wundern, daß sich der bessere Schriftsteller
                <lb facs="#facs_2_region_1709365032466_18_tl_53" n="N053"/>lieber nach dem Auslande wendet?
             </p>

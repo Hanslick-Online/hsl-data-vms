@@ -106,6 +106,7 @@
          <change who="ampfiel" when="2025-06-09">Transkribus OCR und Lektorat.</change>
          <change who="fsanzl" when="2025-06-24">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-06-30">header, p hinzugefügt</change>
+         <change who="ampfiel" when="2025-07-04">Zeilenumbrüche, Absätze, rs ref</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -335,50 +336,68 @@
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-               <p>
-            <lb facs="#facs_2_region_1709372669268_416_tl_1" n="N001"/>„<hi rendition="#em">
-               <rs type="bibl">Vom Musikalisch-Schönen</rs>
-            </hi>. Ein Beitrag zur Revi<lb facs="#facs_2_region_1709372669268_416_tl_2" n="N002" break="no"/>sion der Aesthetik der Tonkunst, von Dr. <hi rendition="#em">Eduard <rs type="person">Hanslick</rs>
-            </hi>.“ Der Verf.
-               <lb facs="#facs_2_region_1709372669268_416_tl_3" n="N003"/>sucht in dem vorliegenden Schriftchen zu beweisen, daß die Musik keinen an<lb facs="#facs_2_line_1709373334355_517" n="N004" break="no"/>dern als rein tonlichen Inhalt habe. Nur Anschauungen gebe sie der Phanta<lb facs="#facs_2_line_1709373350587_523" n="N005" break="no"/>tasie. Die Gefühle, welche wir allenfalls dabei empfinden könnten, seien kein
-               <lb facs="#facs_2_line_1709373357348_529" n="N006"/>unmittelbares Product der Töne, sondern unsere subjectiven Stimmungen. Die<lb facs="#facs_2_line_1709373362275_535" n="N007" break="no"/>ser Ansicht können wir nicht beipflichten. Doch bedürfte es zur Widerlegung
+            <p>
+               <lb facs="#facs_2_region_1709372669268_416_tl_1" n="N001"/>„<hi rendition="#em"><rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs></hi>. Ein Beitrag zur Revi
+               <lb facs="#facs_2_region_1709372669268_416_tl_2" n="N002" break="no"/>sion der Aesthetik der Tonkunst, von Dr. <hi rendition="#em">Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi>.“ Der Verf.
+               <lb facs="#facs_2_region_1709372669268_416_tl_3" n="N003"/>sucht in dem vorliegenden Schriftchen zu beweisen, daß die Musik keinen an
+               <lb facs="#facs_2_line_1709373334355_517" n="N004" break="no"/>dern als rein tonlichen Inhalt habe. Nur Anschauungen gebe sie der Phanta
+               <lb facs="#facs_2_line_1709373350587_523" n="N005" break="no"/>tasie. Die Gefühle, welche wir allenfalls dabei empfinden könnten, seien kein
+               <lb facs="#facs_2_line_1709373357348_529" n="N006"/>unmittelbares Product der Töne, sondern unsere subjectiven Stimmungen. Die
+               <lb facs="#facs_2_line_1709373362275_535" n="N007" break="no"/>ser Ansicht können wir nicht beipflichten. Doch bedürfte es zur Widerlegung
                <lb facs="#facs_2_region_1709372669268_416_tl_12" n="N008"/>eines Buches; denn der Autor kämpft mit scharfen Waffen und Beweisen, die
                <lb facs="#facs_2_region_1709372669268_416_tl_13" n="N009"/>oft aus unwiderleglichen Thatsachen geschöpft sind. Allein in der Wahl dieser
                <lb facs="#facs_2_line_1709373369469_543" n="N010"/>Thatsachen scheint er seinem Hauptsatz zu Liebe parteiisch gewesen und solchen
                <lb facs="#facs_2_line_1709373374531_549" n="N011"/>Phänomenen, welche sich demselben entgegen stellen, aus dem Wege gegangen
                <lb facs="#facs_2_region_1709372669268_416_tl_18" n="N012"/>zu sein. Wenn er z. B. Stellen aus der Instrumentalmusik anführt, die ein
                <lb facs="#facs_2_line_1709373381667_556" n="N013"/>Gefühl nicht, oder in jedem Individuum ein anderes hervorrufen, so ist damit
-               <lb facs="#facs_2_region_1709372669268_416_tl_21" n="N014"/>die Inhaltlosigkeit dieser Citate, aber schwerlich die absolute Ausdrucksunfähig<lb facs="#facs_2_region_1709372669268_416_tl_22" n="N015" break="no"/>keit der Tonkunst überhaupt bewiesen. Wird irgend ein gebildeter Mensch,
-               <lb facs="#facs_2_region_1709372669268_416_tl_23" n="N016"/>der mit freier Gemüthsstimmung an die Musik herantritt, aus einem <rs type="person">Strauß</rs>’<lb facs="#facs_2_region_1709372669268_416_tl_24" n="N017" break="no"/>schen Walzer Trauer, aus dem Trauermarsch der <rs type="bibl">Eroica</rs> (auch wenn er das
+               <lb facs="#facs_2_region_1709372669268_416_tl_21" n="N014"/>die Inhaltlosigkeit dieser Citate, aber schwerlich die absolute Ausdrucksunfähig
+               <lb facs="#facs_2_region_1709372669268_416_tl_22" n="N015" break="no"/>keit der Tonkunst überhaupt bewiesen. Wird irgend ein gebildeter Mensch,
+               <lb facs="#facs_2_region_1709372669268_416_tl_23" n="N016"/>der mit freier Gemüthsstimmung an die Musik herantritt, aus einem <rs type="person" ref="#hsl_person_id_299">Strauß</rs>’
+               <lb facs="#facs_2_region_1709372669268_416_tl_24" n="N017" break="no"/>schen Walzer Trauer, aus dem Trauermarsch der <rs type="bibl" ref="#hsl_work_id_42">Eroica</rs> (auch wenn er das
                <lb facs="#facs_2_region_1709372669268_416_tl_25" n="N018"/>Programm nicht kennt) Freude hören und nachempfinden? Oder werden beide
                <lb facs="#facs_2_region_1709372669268_416_tl_26" n="N019"/>Tonstücke gar keine Wirkung auf sein Gemüth hervorbringen? Der Verf. führt
                <lb facs="#facs_2_region_1709372669268_416_tl_27" n="N020"/>ferner als Beweise, daß die Musik an sich keine bestimmten Gefühle ausdrücken
-               <lb facs="#facs_2_line_1709373393580_570" n="N021"/>könne, Stellen aus Opern an, denen man den ganz entgegengesetzten Text un<lb facs="#facs_2_line_1709373399508_576" n="N022" break="no"/>terlegen könne, ohne daß die Musik dazu unpassend erschiene. Auch diese Er<lb facs="#facs_2_line_1709373405531_582" n="N023" break="no"/>fahrung läßt sich nicht wegdemonstriren. Solcher Stellen gibt es viele. Da<lb facs="#facs_2_region_1709372669268_416_tl_35" n="N024" break="no"/>gegen möge der Verfasser einmal <rs type="person">Mozart</rs>’s „<rs type="bibl">dies Bildniß ist bezaubernd schön</rs>“
+               <lb facs="#facs_2_line_1709373393580_570" n="N021"/>könne, Stellen aus Opern an, denen man den ganz entgegengesetzten Text un
+               <lb facs="#facs_2_line_1709373399508_576" n="N022" break="no"/>terlegen könne, ohne daß die Musik dazu unpassend erschiene. Auch diese Er
+               <lb facs="#facs_2_line_1709373405531_582" n="N023" break="no"/>fahrung läßt sich nicht wegdemonstriren. Solcher Stellen gibt es viele. Da
+               <lb facs="#facs_2_region_1709372669268_416_tl_35" n="N024" break="no"/>gegen möge der Verfasser einmal <rs type="person" ref="#hsl_person_id_189">Mozart</rs>’s „<rs type="bibl" ref="#hsl_work_id_4841">dies Bildniß ist bezaubernd schön</rs>“
                <lb facs="#facs_2_line_1709373414236_589" n="N025"/>die Worte unterlegen „der Hölle Rache kocht in meinem Herzen“ und umgekehrt
-               <lb facs="#facs_2_line_1709373418539_594" n="N026"/>dieser <rs type="bibl">Arie</rs> die Worte „dies Bildniß ist bezaubernd schön“ — er wird sogleich
+               <lb facs="#facs_2_line_1709373418539_594" n="N026"/>dieser <rs type="bibl" ref="#hsl_work_id_4841">Arie</rs> die Worte „dies Bildniß ist bezaubernd schön“ — er wird sogleich
                <lb facs="#facs_2_region_1709372669268_416_tl_41" n="N027"/>empfinden, daß Töne einem Texte <hi rendition="#em">ent</hi>sprechen und <hi rendition="#em">wider</hi>sprechen können.
-               <lb facs="#facs_2_region_1709372669268_416_tl_42" n="N028"/>Die Ursachen dieser bejahenden oder verneinenden Fähigkeit der Tonkunst lie<lb facs="#facs_2_line_1709373425116_601" n="N029" break="no"/>gen in den Analogien der musikalischen Elemente mit den Gemüthsregungen.
-               <lb facs="#facs_2_line_1709373430836_608" n="N030"/>Seit Jahrtausenden hat man über „das Schöne“ in den Künsten ge<lb facs="#facs_2_line_1709373436884_614" n="N031" break="no"/>schrieben, und noch haben wir keine Erklärung dieses Phänomens, der man
+               <lb facs="#facs_2_region_1709372669268_416_tl_42" n="N028"/>Die Ursachen dieser bejahenden oder verneinenden Fähigkeit der Tonkunst lie
+               <lb facs="#facs_2_line_1709373425116_601" n="N029" break="no"/>gen in den Analogien der musikalischen Elemente mit den Gemüthsregungen.</p>
+            <p>
+               <lb facs="#facs_2_line_1709373430836_608" n="N030"/>Seit Jahrtausenden hat man über „das Schöne“ in den Künsten ge
+               <lb facs="#facs_2_line_1709373436884_614" n="N031" break="no"/>schrieben, und noch haben wir keine Erklärung dieses Phänomens, der man
                <lb facs="#facs_2_line_1709373444419_619" n="N032"/>Allgemeinheit zugestehen könnte. Auch bei dieser allerneuesten Deduction des
-               <lb facs="#facs_2_line_1709373448668_625" n="N033"/>„<rs type="bibl">Musikalisch-Schönen</rs>“ werden sich Wenige beruhigt fühlen. Worin liegt
-               <lb facs="#facs_2_line_1709373452035_630" n="N034"/>der Grund dieses vergeblichen Ringens? Er ist schon von <rs type="person">Plato</rs> in seiner
-               <lb facs="#facs_2_region_1709372669268_416_tl_56" n="N035"/><rs type="bibl">Aesthetik</rs> und von <rs type="person">Schiller</rs> in seinem <rs type="bibl">Briefwechsel</rs> erkannt, neuerlich in den
-               <lb facs="#facs_2_region_1709372669268_416_tl_57" n="N036"/><rs type="bibl">Fliegenden Blättern für Musik</rs> dargelegt worden: in dem Kunstwerke nur das
+               <lb facs="#facs_2_line_1709373448668_625" n="N033"/>„<rs type="bibl" ref="#hsl_work_id_1083">Musikalisch-Schönen</rs>“ werden sich Wenige beruhigt fühlen. Worin liegt
+               <lb facs="#facs_2_line_1709373452035_630" n="N034"/>der Grund dieses vergeblichen Ringens? Er ist schon von <rs type="person" ref="#hsl_person_id_411">Plato</rs> in seiner
+               <lb facs="#facs_2_region_1709372669268_416_tl_56" n="N035"/>Aesthetik und von <rs type="person" ref="#hsl_person_id_248">Schiller</rs> in seinem <rs type="bibl" ref="#hsl_work_id_1465">Briefwechsel</rs> erkannt, neuerlich in den
+               <lb facs="#facs_2_region_1709372669268_416_tl_57" n="N036"/><rs type="bibl" ref="#hsl_work_id_4842">Fliegenden Blättern für Musik</rs> dargelegt worden: in dem Kunstwerke nur das
                <lb facs="#facs_2_line_1744662750279_1976" n="N037"/>Schöne suchen zu wollen. Das Schöne aber ist in allen Künsten, auch in der
                <lb facs="#facs_2_line_1709373481371_647" n="N038"/>Musik, nur das eine Moment, die gefallende Form der Erscheinung, das zweite
-               <lb facs="#facs_2_line_1709373494251_659" n="N039"/>Moment ist die Wahrheit in der Darstellung eines Objectes. Die Nachah<lb facs="#facs_2_line_1709373499252_665" n="N040" break="no"/>mungsobjecte für die Musik wohnen in der Menschenbrust und können von dem
-               <lb facs="#facs_2_line_1709373505251_670" n="N041"/>Componisten so versinnlicht werden, daß sie die Hörer sympathetisch mitempfin<lb facs="#facs_2_line_1709373515012_679" n="N042" break="no"/>den müssen. Wir fühlen wol, daß der Verf. diese Gedanken nur für eine Wie<lb facs="#facs_2_region_1709372669268_416_tl_73" n="N043" break="no"/>derholung der alten falschen Ansichten erklären wird, die er eben bekämpfen
+               <lb facs="#facs_2_line_1709373494251_659" n="N039"/>Moment ist die Wahrheit in der Darstellung eines Objectes. Die Nachah
+               <lb facs="#facs_2_line_1709373499252_665" n="N040" break="no"/>mungsobjecte für die Musik wohnen in der Menschenbrust und können von dem
+               <lb facs="#facs_2_line_1709373505251_670" n="N041"/>Componisten so versinnlicht werden, daß sie die Hörer sympathetisch mitempfin
+               <lb facs="#facs_2_line_1709373515012_679" n="N042" break="no"/>den müssen. Wir fühlen wol, daß der Verf. diese Gedanken nur für eine Wie
+               <lb facs="#facs_2_region_1709372669268_416_tl_73" n="N043" break="no"/>derholung der alten falschen Ansichten erklären wird, die er eben bekämpfen
                <lb facs="#facs_2_region_1709372669268_416_tl_74" n="N044"/>will. Es steht indessen zu hoffen, daß dem gefährlichen Satze, der unserer
                <lb facs="#facs_2_region_1709372669268_416_tl_75" n="N045"/>Kunst kaum mehr als die Bedeutung eines Ton-Kaleidoskops zugestehen will,
                <lb facs="#facs_2_line_1709373530540_696" n="N046"/>ausführlichere und gründlichere Widerlegungen entgegentreten werden, als hier
                <lb facs="#facs_2_line_1709373538860_703" n="N047"/>zu geben der Raum erlaubt. Hat indessen der Verfasser unserer Meinung
                <lb facs="#facs_2_region_1709372669268_416_tl_84" n="N048"/>nach die Gefühlsseite der Tonkunst mehr als billig beeinträchtigt, so ist ihm
-               <lb facs="#facs_2_region_1709372669268_416_tl_85" n="N049"/>dagegen die Aufhellung eines andern Punktes, der bisher noch in tiefem Dun<lb facs="#facs_2_line_1709373552139_716" n="N050" break="no"/>kel lag, auf’s Trefflichste gelungen: die Bestimmung des Verhältnisses der Mu<lb facs="#facs_2_line_1709373557211_721" n="N051" break="no"/>sik zu der anschauenden Phantasie. Das Meiste, was der Verf. darüber sagt,
+               <lb facs="#facs_2_region_1709372669268_416_tl_85" n="N049"/>dagegen die Aufhellung eines andern Punktes, der bisher noch in tiefem Dun
+               <lb facs="#facs_2_line_1709373552139_716" n="N050" break="no"/>kel lag, auf’s Trefflichste gelungen: die Bestimmung des Verhältnisses der Mu
+               <lb facs="#facs_2_line_1709373557211_721" n="N051" break="no"/>sik zu der anschauenden Phantasie. Das Meiste, was der Verf. darüber sagt,
                <lb facs="#facs_2_line_1709373561819_726" n="N052"/>ist überzeugend und wird künftigen Aesthetikern sehr zu Gute kommen. Es
-               <lb facs="#facs_2_line_1709373567067_732" n="N053"/>hat uns überhaupt wohlgethan, das ästhetische Gebiet, auf welchem sich heut<lb facs="#facs_2_region_1709372669268_416_tl_94" n="N054" break="no"/>zutage so viele kenntnißlose und unklare Köpfe mit ihrem „modernen Bewußt<lb facs="#facs_2_line_1709373572996_739" n="N055" break="no"/>sein“ und ihrem <rs type="person">Hegel</rs>’schen Gottdünkel in vagen Allgemeinphrasen herum<lb facs="#facs_2_line_1709373578571_745" n="N056" break="no"/>tummeln, von einem Geiste betreten zu sehen, der mit gründlichen Kenntnissen
+               <lb facs="#facs_2_line_1709373567067_732" n="N053"/>hat uns überhaupt wohlgethan, das ästhetische Gebiet, auf welchem sich heut
+               <lb facs="#facs_2_region_1709372669268_416_tl_94" n="N054" break="no"/>zutage so viele kenntnißlose und unklare Köpfe mit ihrem „modernen Bewußt
+               <lb facs="#facs_2_line_1709373572996_739" n="N055" break="no"/>sein“ und ihrem <rs type="person" ref="#hsl_person_id_378">Hegel</rs>’schen Gottdünkel in vagen Allgemeinphrasen herum
+               <lb facs="#facs_2_line_1709373578571_745" n="N056" break="no"/>tummeln, von einem Geiste betreten zu sehen, der mit gründlichen Kenntnissen
                <lb facs="#facs_2_line_1709373588707_758" n="N057"/>und umfassender Belesenheit ausgerüstet, das Concrete scharf ins Auge faßt und
                <lb facs="#facs_2_line_1709373594955_765" n="N058"/>selbständige Gedanken mit überall deutlichen und allgemein begreiflichen Wor
-               <lb facs="#facs_2_line_1709373599659_770" n="N059" break="no"/>ten auszudrücken und zu entwickeln versteht. Möge Keiner, der sich für un<lb facs="#facs_2_line_1709373611116_781" n="N060" break="no"/>sere Kunst interessirt, das Schriftchen unbeachtet lassen. Es ist jedenfalls mehr
+               <lb facs="#facs_2_line_1709373599659_770" n="N059" break="no"/>ten auszudrücken und zu entwickeln versteht. Möge Keiner, der sich für un
+               <lb facs="#facs_2_line_1709373611116_781" n="N060" break="no"/>sere Kunst interessirt, das Schriftchen unbeachtet lassen. Es ist jedenfalls mehr
                <lb facs="#facs_2_region_1709372669268_416_tl_111" n="N061"/>werth, als aller Zukunftsjammer, womit wir seit einigen Jahren bis zum
                <lb facs="#facs_2_region_1709372669268_416_tl_112" n="N062"/>Ueberdruß heimgesucht werden.
             </p>

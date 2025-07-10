@@ -106,6 +106,7 @@
          <change who="ampfiel" when="2025-05-19">Transkribus OCR und Lektorat.</change>
          <change who="fsanzl" when="2025-06-24">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-06-30">header, p hinzugefügt</change>
+         <change who="ampfiel" when="2025-07-04">Zeilenumbrüche, Absätze, rs ref</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -460,82 +461,103 @@
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
             <pb facs="#facs_4" n="4" xml:id="img_0004"/>
-               <p>
-            <lb facs="#facs_4_region_1709372998067_455_tl_1" n="N001"/>
-            <rs type="place">Wien</rs>er Briefe.
-               <lb facs="#facs_4_region_1709372998067_455_tl_2" n="N002"/>Den 30. <hi rendition="#em">October</hi>
-            <date when="1854">1854</date>:
-               <lb facs="#facs_4_region_1709372998067_455_tl_3" n="N003"/>Unter dem Titel: „<hi rendition="#em">
-               <rs type="bibl">Vom Musicalisch-Schönen</rs>.
-            <lb facs="#facs_4_region_1709372998067_455_tl_4" n="N004"/>Ein Beitrag zur Revision der Aesthetik der</hi>
-            <lb facs="#facs_4_region_1709372998067_455_tl_5" n="N005"/>
-            <hi rendition="#em">Tonkunst von Dr. Eduard <rs type="person">Hanslick</rs>
-            </hi>“ (<rs type="place">Leipzig</rs>, bei
-               <lb facs="#facs_4_region_1709372998067_455_tl_6" n="N006"/>R. <rs type="person">Weigel</rs>), hat der geistvolle musicalische Schriftsteller Dr.
-               <lb facs="#facs_4_region_1709372998067_455_tl_7" n="N007"/>Eduard <rs type="person">Hanslick</rs> kürzlich ein Büchlein veröffentlicht, wel
+               <lb facs="#facs_4_region_1709372998067_455_tl_1" n="N001"/><head type="h1"><rs type="place" ref="#hsl_place_id_55">Wien</rs>er Briefe.</head>
+               <lb facs="#facs_4_region_1709372998067_455_tl_2" n="N002"/><head type="h2">Den 30. <hi rendition="#em">October</hi><date when="1854">1854</date>.</head>
+            <p>         
+               <lb facs="#facs_4_region_1709372998067_455_tl_3" n="N003"/>Unter dem Titel: „<hi rendition="#em"><rs type="bibl" ref="#hsl_work_id_1083">Vom Musicalisch-Schönen</rs>.
+               <lb facs="#facs_4_region_1709372998067_455_tl_4" n="N004"/>Ein Beitrag zur Revision der Aesthetik der
+               <lb facs="#facs_4_region_1709372998067_455_tl_5" n="N005"/>Tonkunst von Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi>“ (<rs type="place" ref="#hsl_place_id_32">Leipzig</rs>, bei
+               <lb facs="#facs_4_region_1709372998067_455_tl_6" n="N006"/>R. <rs type="person" ref="#hsl_person_id_1">Weigel</rs>), hat der geistvolle musicalische Schriftsteller Dr.
+               <lb facs="#facs_4_region_1709372998067_455_tl_7" n="N007"/>Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> kürzlich ein Büchlein veröffentlicht, wel
                <lb facs="#facs_4_region_1709372998067_455_tl_8" n="N008" break="no"/>ches nicht verfehlen wird, die allgemeine Aufmerksamkeit
                <lb facs="#facs_4_region_1709372998067_455_tl_9" n="N009"/>zu erregen, und dessen Lecture nicht lebhaft genug em
                <lb facs="#facs_4_region_1709372998067_455_tl_10" n="N010" break="no"/>pfohlen werden kann. Ich zweifle sehr, ob über Musik je
                <lb facs="#facs_4_region_1709372998067_455_tl_11" n="N011" break="no"/>mals so nach allen Seiten hin gleich vortrefflich geschrieben
                <lb facs="#facs_4_region_1709372998067_455_tl_12" n="N012"/>worden ist, und ob es unter den Schriften, deren Thema
             <pb facs="#facs_5" n="5" xml:id="img_0005"/>
-                  <cb/>
-            <lb facs="#facs_5_region_1709373023683_461_tl_1" n="N001"/>die Musik bildet, viele geben wird, welche gleich dieser
+            <cb n="1"/>
+               <lb facs="#facs_5_region_1709373023683_461_tl_1" n="N001"/>die Musik bildet, viele geben wird, welche gleich dieser
                <lb facs="#facs_5_region_1709373023683_461_tl_2" n="N002"/>auch den Nichtmusiker fesseln und jedem nur überhaupt
                <lb facs="#facs_5_region_1709373023683_461_tl_3" n="N003"/>tiefer Gebildeten Genuss und Belehrung bereiten muss.
                <lb facs="#facs_5_region_1709373023683_461_tl_4" n="N004"/>Dass man dies von musicalischen Schriften so selten sagen
                <lb facs="#facs_5_region_1709373023683_461_tl_5" n="N005"/>kann, rührt nicht allein daher, weil geistreiche Menschen
-               <lb facs="#facs_5_region_1709373023683_461_tl_6" n="N006"/>und die zugleich einen Blick in die Tiefen einer Kunst ha<lb facs="#facs_5_region_1709373023683_461_tl_7" n="N007" break="no"/>ben, überhaupt nicht gar zu häufig sind, sondern auch da<lb facs="#facs_5_region_1709373023683_461_tl_8" n="N008" break="no"/>her, weil man bei musicalischen Schriftstellern so selten ne-
+               <lb facs="#facs_5_region_1709373023683_461_tl_6" n="N006"/>und die zugleich einen Blick in die Tiefen einer Kunst ha
+               <lb facs="#facs_5_region_1709373023683_461_tl_7" n="N007" break="no"/>ben, überhaupt nicht gar zu häufig sind, sondern auch da
+               <lb facs="#facs_5_region_1709373023683_461_tl_8" n="N008" break="no"/>her, weil man bei musicalischen Schriftstellern so selten ne-
                <lb facs="#facs_5_region_1709373023683_461_tl_9" n="N009"/>ben tiefer Einsicht in die Kunst und lebendiger Erkenntniss
-               <lb facs="#facs_5_region_1709373023683_461_tl_10" n="N010"/>deren Werke jenen Fonds echter, allgemeiner Bildung fin<lb facs="#facs_5_region_1709373023683_461_tl_11" n="N011" break="no"/>det, wie ihn unser Autor an den Tag legt. Vorläufig vom
+               <lb facs="#facs_5_region_1709373023683_461_tl_10" n="N010"/>deren Werke jenen Fonds echter, allgemeiner Bildung fin
+               <lb facs="#facs_5_region_1709373023683_461_tl_11" n="N011" break="no"/>det, wie ihn unser Autor an den Tag legt. Vorläufig vom
                <lb facs="#facs_5_region_1709373023683_461_tl_12" n="N012"/>Inhalt der obigen Broschüre ganz abgesehen, so ist die
-               <lb facs="#facs_5_region_1709373023683_461_tl_13" n="N013"/>blosse formelle Darstellung derselben an sich so meister<lb facs="#facs_5_region_1709373023683_461_tl_14" n="N014" break="no"/>haft, ein mit der Schärfe eines Schwertes einschneidender
+               <lb facs="#facs_5_region_1709373023683_461_tl_13" n="N013"/>blosse formelle Darstellung derselben an sich so meister
+               <lb facs="#facs_5_region_1709373023683_461_tl_14" n="N014" break="no"/>haft, ein mit der Schärfe eines Schwertes einschneidender
                <lb facs="#facs_5_region_1709373023683_461_tl_15" n="N015"/>Geist wirkt darin mit einer lebhaften, warmen Phantasie so
                <lb facs="#facs_5_region_1709373023683_461_tl_16" n="N016"/>schön zusammen, dass man schon daran allein seine Freude
                <lb facs="#facs_5_region_1709373023683_461_tl_17" n="N017"/>haben muss. Man sieht es dem Büchlein mit Vergnügen an,
                <lb facs="#facs_5_region_1709373023683_461_tl_18" n="N018"/>dass es aus einem starken geistigen Drange hervorgegangen
-               <lb facs="#facs_5_region_1709373023683_461_tl_19" n="N019"/>ist; eine energische Natur spricht hier ihre innersten Ueber<lb facs="#facs_5_region_1709373023683_461_tl_20" n="N020" break="no"/>zeugungen aus, hier wahre künstlerische Lebens-Resultate.
-               <lb facs="#facs_5_region_1709373023683_461_tl_21" n="N021"/>Wenn wir den Autor und sein Werk als geistreich bezeich<lb facs="#facs_5_region_1709373023683_461_tl_22" n="N022" break="no"/>neten, so entspringt hier das Geistreiche nicht bloss aus
+               <lb facs="#facs_5_region_1709373023683_461_tl_19" n="N019"/>ist; eine energische Natur spricht hier ihre innersten Ueber
+               <lb facs="#facs_5_region_1709373023683_461_tl_20" n="N020" break="no"/>zeugungen aus, hier wahre künstlerische Lebens-Resultate.
+               <lb facs="#facs_5_region_1709373023683_461_tl_21" n="N021"/>Wenn wir den Autor und sein Werk als geistreich bezeich
+               <lb facs="#facs_5_region_1709373023683_461_tl_22" n="N022" break="no"/>neten, so entspringt hier das Geistreiche nicht bloss aus
                <lb facs="#facs_5_region_1709373023683_461_tl_23" n="N023"/>einzelnen Apperçus und so genannten Coups d’esprit, sondern
                <lb facs="#facs_5_region_1709373023683_461_tl_24" n="N024"/>aus einer tiefen Erkenntniss künstlerischen Wesens und
                <lb facs="#facs_5_region_1709373023683_461_tl_25" n="N025"/>Unwesens, die mit Feuereifer für das als wahr Erkannte
                <lb facs="#facs_5_region_1709373023683_461_tl_26" n="N026"/>kämpft und das Falsche, innerlich Haltlose meist spielend
                <lb facs="#facs_5_region_1709373023683_461_tl_27" n="N027"/>und mit Humor vernichtet. Namentlich weiss unser Autor
                <lb facs="#facs_5_region_1709373023683_461_tl_28" n="N028"/>oft auf das glücklichste in ein Bild einzufangen, was durch
-               <lb facs="#facs_5_region_1709373023683_461_tl_29" n="N029"/>Begriffe niemals so prägnant und eindringlich veranschau<lb facs="#facs_5_region_1709373023683_461_tl_30" n="N030" break="no"/>licht werden kann.
-               <lb facs="#facs_5_region_1709373023683_461_tl_31" n="N031"/>Ihren vollen Werth erhalten aber diese formellen Vor<lb facs="#facs_5_region_1709373023683_461_tl_32" n="N032" break="no"/>züge freilich erst durch den materiellen Gehalt, welchem sie
+               <lb facs="#facs_5_region_1709373023683_461_tl_29" n="N029"/>Begriffe niemals so prägnant und eindringlich veranschau
+               <lb facs="#facs_5_region_1709373023683_461_tl_30" n="N030" break="no"/>licht werden kann.</p>
+            <p>
+               <lb facs="#facs_5_region_1709373023683_461_tl_31" n="N031"/>Ihren vollen Werth erhalten aber diese formellen Vor
+               <lb facs="#facs_5_region_1709373023683_461_tl_32" n="N032" break="no"/>züge freilich erst durch den materiellen Gehalt, welchem sie
                <lb facs="#facs_5_region_1709373023683_461_tl_33" n="N033"/>dienen. Der wesentliche Haupt-Inhalt unseres Büchleins ist,
                <lb facs="#facs_5_region_1709373023683_461_tl_34" n="N034"/>in wenige Sätze zusammengedrängt, dieser: Die Gefühle
                <lb facs="#facs_5_region_1709373023683_461_tl_35" n="N035"/>sind weder Inhalt noch Zweck der Musik, vielmehr hat sie
                <lb facs="#facs_5_region_1709373023683_461_tl_36" n="N036"/>keinen anderen <hi rendition="#em">wesentlichen</hi> Inhalt, als sich selbst, und
                <lb facs="#facs_5_region_1709373023683_461_tl_37" n="N037"/>an diesem Inhalte besitzt sie zugleich ihren Selbstzweck;
-               <lb facs="#facs_5_region_1709373023683_461_tl_38" n="N038"/>nicht das Gefühl in seiner abstracten Einseitigkeit und dun<lb facs="#facs_5_region_1709373023683_461_tl_39" n="N039" break="no"/>kelen Verworrenheit ist der eigentliche treibende Nerv im
-               <lb facs="#facs_5_region_1709373023683_461_tl_40" n="N040"/>Componisten, sondern die Phantasie in ihrer alle vereinzel<lb facs="#facs_5_region_1709373023683_461_tl_41" n="N041" break="no"/>ten Seelen- und Geisteskräfte concentrirenden Thätigkeit;
+               <lb facs="#facs_5_region_1709373023683_461_tl_38" n="N038"/>nicht das Gefühl in seiner abstracten Einseitigkeit und dun
+               <lb facs="#facs_5_region_1709373023683_461_tl_39" n="N039" break="no"/>kelen Verworrenheit ist der eigentliche treibende Nerv im
+               <lb facs="#facs_5_region_1709373023683_461_tl_40" n="N040"/>Componisten, sondern die Phantasie in ihrer alle vereinzel
+               <lb facs="#facs_5_region_1709373023683_461_tl_41" n="N041" break="no"/>ten Seelen- und Geisteskräfte concentrirenden Thätigkeit;
                <lb facs="#facs_5_region_1709373023683_461_tl_42" n="N042"/>eben so soll es sich beim Empfangenden verhalten. Das
-               <lb facs="#facs_5_region_1709373023683_461_tl_43" n="N043"/>ästhetische Verhalten ist in der Musik von dem rein patho<lb facs="#facs_5_region_1709373023683_461_tl_44" n="N044" break="no"/>logischen wohl zu unterscheiden. Man sieht, dass diese Sätze
+               <lb facs="#facs_5_region_1709373023683_461_tl_43" n="N043"/>ästhetische Verhalten ist in der Musik von dem rein patho
+               <lb facs="#facs_5_region_1709373023683_461_tl_44" n="N044" break="no"/>logischen wohl zu unterscheiden. Man sieht, dass diese Sätze
                <lb facs="#facs_5_region_1709373023683_461_tl_45" n="N045"/>eine Kriegserklärung gegen althergebrachte, vielfach in
                <lb facs="#facs_5_region_1709373023683_461_tl_46" n="N046"/>Schwung befindliche Anschauungen enthalten, die Vielen
                <lb facs="#facs_5_region_1709373023683_461_tl_47" n="N047"/>von vorn herein wie eine ketzerische Proclamation erschei
-                     <cb/>
+            <cb n="2" break="no"/>
                <lb facs="#facs_5_region_1709373029460_464_tl_1" n="N001" break="no"/>nen wird. Man sehe sich aber das Büchlein nur selbst an,
-               <lb facs="#facs_5_region_1709373029460_464_tl_2" n="N002"/>und wer über dem Fühlen das Denken nicht ganz abge<lb facs="#facs_5_region_1709373029460_464_tl_3" n="N003" break="no"/>schworen, wird sich gegen dessen leuchtende Wahrheiten
+               <lb facs="#facs_5_region_1709373029460_464_tl_2" n="N002"/>und wer über dem Fühlen das Denken nicht ganz abge
+               <lb facs="#facs_5_region_1709373029460_464_tl_3" n="N003" break="no"/>schworen, wird sich gegen dessen leuchtende Wahrheiten
                <lb facs="#facs_5_region_1709373029460_464_tl_4" n="N004"/>nicht verschliessen können. Wohl mag es sein, dass der
                <lb facs="#facs_5_region_1709373029460_464_tl_5" n="N005"/>Verfasser hin und wieder eine Linie zu tief schneidet; aber
                <lb facs="#facs_5_region_1709373029460_464_tl_6" n="N006"/>bei einem ersten Kampfe gegen ein eingerostetes Uebel ist
-               <lb facs="#facs_5_region_1709373029460_464_tl_7" n="N007"/>nichts natürlicher als das. Auch ist es wahr, dass das Büch<lb facs="#facs_5_region_1709373029460_464_tl_8" n="N008" break="no"/>lein, wie der Autor im Vorworte selbst gesteht, noch man<lb facs="#facs_5_region_1709373029460_464_tl_9" n="N009" break="no"/>che Lücken hat, dass es noch nicht alle Zweifel und Be<lb facs="#facs_5_region_1709373029460_464_tl_10" n="N010" break="no"/>denklichkeiten hebt, seinen Gegenstand noch nicht nach al<lb facs="#facs_5_region_1709373029460_464_tl_11" n="N011" break="no"/>len Beziehungen hin durcharbeitet, dass es mehr erst Unter<lb facs="#facs_5_region_1709373029460_464_tl_12" n="N012" break="no"/>bau und Haupt-Mauerwerk einer künftigen Festung ist.
+               <lb facs="#facs_5_region_1709373029460_464_tl_7" n="N007"/>nichts natürlicher als das. Auch ist es wahr, dass das Büch
+               <lb facs="#facs_5_region_1709373029460_464_tl_8" n="N008" break="no"/>lein, wie der Autor im Vorworte selbst gesteht, noch man
+               <lb facs="#facs_5_region_1709373029460_464_tl_9" n="N009" break="no"/>che Lücken hat, dass es noch nicht alle Zweifel und Be
+               <lb facs="#facs_5_region_1709373029460_464_tl_10" n="N010" break="no"/>denklichkeiten hebt, seinen Gegenstand noch nicht nach al
+               <lb facs="#facs_5_region_1709373029460_464_tl_11" n="N011" break="no"/>len Beziehungen hin durcharbeitet, dass es mehr erst Unter
+               <lb facs="#facs_5_region_1709373029460_464_tl_12" n="N012" break="no"/>bau und Haupt-Mauerwerk einer künftigen Festung ist.
                <lb facs="#facs_5_region_1709373029460_464_tl_13" n="N013"/>Wer aber der Erste Hand anlegt an eine so grosse Arbeit,
                <lb facs="#facs_5_region_1709373029460_464_tl_14" n="N014"/>noch überdies mit so viel Muth und Geschicklichkeit, dem
                <lb facs="#facs_5_region_1709373029460_464_tl_15" n="N015"/>gebührt auch Ehre und Dank vor allen Nachfolgenden. Der
-               <lb facs="#facs_5_region_1709373029460_464_tl_16" n="N016"/>Nachfolger, welchen wir Herrn Dr. <rs type="person">Hanslick</rs> aber in dem
+               <lb facs="#facs_5_region_1709373029460_464_tl_16" n="N016"/>Nachfolger, welchen wir Herrn Dr. <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> aber in dem
                <lb facs="#facs_5_region_1709373029460_464_tl_17" n="N017"/>begonnenen Werke am liebsten setzen möchten, wäre doch
-               <lb facs="#facs_5_region_1709373029460_464_tl_18" n="N018"/>am Ende wieder er selbst. In eine weitere Inhalts-Specifi<lb facs="#facs_5_region_1709373029460_464_tl_19" n="N019" break="no"/>cirung seines trefflichen Buches können wir uns nicht ein<lb facs="#facs_5_region_1709373029460_464_tl_20" n="N020" break="no"/>lassen, da wir mit demselben fast so identisch sind, dass
-               <lb facs="#facs_5_region_1709373029460_464_tl_21" n="N021"/>wir, um unsere Meinung darüber zu sagen, es geradezu ab<lb facs="#facs_5_region_1709373029460_464_tl_22" n="N022" break="no"/>schreiben müssten. Man informire sich daher selbst, und man
+               <lb facs="#facs_5_region_1709373029460_464_tl_18" n="N018"/>am Ende wieder er selbst. In eine weitere Inhalts-Specifi
+               <lb facs="#facs_5_region_1709373029460_464_tl_19" n="N019" break="no"/>cirung seines trefflichen Buches können wir uns nicht ein
+               <lb facs="#facs_5_region_1709373029460_464_tl_20" n="N020" break="no"/>lassen, da wir mit demselben fast so identisch sind, dass
+               <lb facs="#facs_5_region_1709373029460_464_tl_21" n="N021"/>wir, um unsere Meinung darüber zu sagen, es geradezu ab
+               <lb facs="#facs_5_region_1709373029460_464_tl_22" n="N022" break="no"/>schreiben müssten. Man informire sich daher selbst, und man
                <lb facs="#facs_5_region_1709373029460_464_tl_23" n="N023"/>wird es nicht bereuen. Hätten wir hin und wieder Manches
-               <lb facs="#facs_5_region_1709373029460_464_tl_24" n="N024"/>im Einzelnen noch anders gewünscht, so ist dies ein Mini<lb facs="#facs_5_region_1709373029460_464_tl_25" n="N025" break="no"/>mum gegen die Vortrefflichkeit des Ganzen, und wird sol<lb facs="#facs_5_region_1709373029460_464_tl_26" n="N026" break="no"/>che Erweiterung und Berichtigung der Autor seinem Werke
-               <lb facs="#facs_5_region_1709373029460_464_tl_27" n="N027"/>hoffentlich noch späterhin selbst angedeihen lassen. Denje<lb facs="#facs_5_region_1709373029460_464_tl_28" n="N028" break="no"/>nigen aber, welche etwa nach den obigen Andeutungen in
-               <lb facs="#facs_5_region_1709373029460_464_tl_29" n="N029"/>dem <rs type="person">Hanslick</rs>’schen Buche eine Degradation der Tonkunst
+               <lb facs="#facs_5_region_1709373029460_464_tl_24" n="N024"/>im Einzelnen noch anders gewünscht, so ist dies ein Mini
+               <lb facs="#facs_5_region_1709373029460_464_tl_25" n="N025" break="no"/>mum gegen die Vortrefflichkeit des Ganzen, und wird sol
+               <lb facs="#facs_5_region_1709373029460_464_tl_26" n="N026" break="no"/>che Erweiterung und Berichtigung der Autor seinem Werke
+               <lb facs="#facs_5_region_1709373029460_464_tl_27" n="N027"/>hoffentlich noch späterhin selbst angedeihen lassen. Denje
+               <lb facs="#facs_5_region_1709373029460_464_tl_28" n="N028" break="no"/>nigen aber, welche etwa nach den obigen Andeutungen in
+               <lb facs="#facs_5_region_1709373029460_464_tl_29" n="N029"/>dem <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>’schen Buche eine Degradation der Tonkunst
                <lb facs="#facs_5_region_1709373029460_464_tl_30" n="N030"/>wittern sollten, können wir nur entgegnen, dass man von
-               <lb facs="#facs_5_region_1709373029460_464_tl_31" n="N031"/>der Musik als Kunst keine grössere und würdigere An<lb facs="#facs_5_region_1709373029460_464_tl_32" n="N032" break="no"/>schauung haben kann, als sie unser Autor, richtig verstan<lb facs="#facs_5_region_1709373029460_464_tl_33" n="N033" break="no"/>den, überall documentirt. Und so möge denn seine Arbeit
+               <lb facs="#facs_5_region_1709373029460_464_tl_31" n="N031"/>der Musik als Kunst keine grössere und würdigere An
+               <lb facs="#facs_5_region_1709373029460_464_tl_32" n="N032" break="no"/>schauung haben kann, als sie unser Autor, richtig verstan
+               <lb facs="#facs_5_region_1709373029460_464_tl_33" n="N033" break="no"/>den, überall documentirt. Und so möge denn seine Arbeit
                <lb facs="#facs_5_region_1709373029460_464_tl_34" n="N034"/>überall hin weiteste Verbreitung finden! Die guten Wir
                <lb facs="#facs_5_region_1709373029460_464_tl_35" n="N035" break="no"/>kungen werden nicht ausbleiben.
                <lb n="036"/><rs type="person" ref="#hsl_person_id_6875">—r—</rs></p>
