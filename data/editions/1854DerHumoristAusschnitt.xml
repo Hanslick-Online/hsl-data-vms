@@ -106,7 +106,7 @@
          <change who="ampfiel" when="2025-06-23">Transkribus OCR und Lektorat.</change>
          <change who="fsanzl" when="2025-06-24">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-06-30">header, p+div hinzugefügt</change>
-         <change who="ampfiel" when="2025-07-04">Zeilenumbrüche, Absätze, rs ref</change>
+         <change who="ampfiel" when="2025-07-04">Zeilenumbrüche, Absätze, rs ref, space</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -812,8 +812,8 @@
                <lb facs="#facs_2_region_1709365896186_115_tl_50" n="N050"/>Endliches angeregt werden muß, das nur durch einschränkende Begriffe im Reiche
                <lb facs="#facs_2_region_1709365896186_115_tl_51" n="N051"/>der Vernunft wie der Anschauung möglich ist. Aber die Musik weiß nichts von
                <lb facs="#facs_2_region_1709365896186_115_tl_52" n="N052"/>einschränkenden Begriffen, sie kennt bloß eine allgemein-traurige, eine allgemein
-               <lb facs="#facs_2_region_1709365896186_115_tl_53" n="N053" break="no"/>heitere <hi rendition="#em">Stimmung</hi>, und ihr Zweck und ihr Inhalt, welchen letzteren <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>
-            <lb facs="#facs_2_region_1709365896186_115_tl_54" n="N054"/>auf <hi rendition="#em">Gehalt</hi> reducirt, liegt in ihrem eigensten Kreise und ist nicht allgemein
+               <lb facs="#facs_2_region_1709365896186_115_tl_53" n="N053" break="no"/>heitere <hi rendition="#em">Stimmung</hi>, und ihr Zweck und ihr Inhalt, welchen letzteren <rs type="person" ref="#hsl_person_id_1">Hanslick</rs><space quantity="1" unit="char"/>
+               <lb facs="#facs_2_region_1709365896186_115_tl_54" n="N054"/>auf <hi rendition="#em">Gehalt</hi> reducirt, liegt in ihrem eigensten Kreise und ist nicht allgemein
                <lb facs="#facs_2_region_1709365896186_115_tl_55" n="N055"/>menschlicher, sondern specifisch-musikalischer Natur.
                <lb facs="#facs_2_region_1709365896186_115_tl_56" n="N056"/>(Fortsetzung folgt.)</p>
             </div>
@@ -871,8 +871,8 @@
                <lb facs="#facs_4_region_1709365927616_130_tl_46" n="N046"/>und nicht ihr Inhalt, aber sie muß Bilder, Gefühle und Gedanken im ästhe
                <lb facs="#facs_4_region_1709365927616_130_tl_47" n="N047" break="no"/>tischsten, „musikalischsten“ Zuhörer erwecken und sie thut es auch. Hundert
                <lb facs="#facs_4_region_1709365927616_130_tl_48" n="N048"/>Menschen, wenn sie aus einer <rs type="person" ref="#hsl_person_id_25">Beethoven</rs>’schen Symphonie kämen und aufgefordert
-               <lb facs="#facs_4_region_1709365927616_130_tl_49" n="N049"/>würden, das von der Musik Erregte zu Papier zu bringen, müßten, wie <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>
-            <lb facs="#facs_4_region_1709365927616_130_tl_50" n="N050"/>mit Recht behauptet, jeder etwas Anderes zu notiren haben. Wohl, doch jeder
+               <lb facs="#facs_4_region_1709365927616_130_tl_49" n="N049"/>würden, das von der Musik Erregte zu Papier zu bringen, müßten, wie <rs type="person" ref="#hsl_person_id_1">Hanslick</rs><space quantity="1" unit="char"/>
+               <lb facs="#facs_4_region_1709365927616_130_tl_50" n="N050"/>mit Recht behauptet, jeder etwas Anderes zu notiren haben. Wohl, doch jeder
                <lb facs="#facs_4_region_1709365927616_130_tl_51" n="N051"/><hi rendition="#em">würde</hi> etwas zu notiren haben, keiner setzte sich von den Tönen unbefruchtet an
             <cb n="1"/>
                <lb facs="#facs_4_region_1709365935304_133_tl_1" n="N001"/>das Pult. Das Materiale dieser Kunst ist eben der Art, daß der Genießende
@@ -926,8 +926,8 @@
                <lb facs="#facs_6_region_1709365964991_148_tl_34" n="N034"/>der Tonkunst zur Natur“ handelt, erläutert uns das merkwürdige Phänomen der
                <lb facs="#facs_6_region_1709365964991_148_tl_35" n="N035"/>Musik: Inhalt und Form ungetrennt zu besitzen und gibt uns einen Erklärungs
                <lb facs="#facs_6_region_1709365964991_148_tl_36" n="N036" break="no"/>grund für das mysteriöse Gesetz, das in dieser sinnlichsten aller Künste waltet,
-               <lb facs="#facs_6_region_1709365964991_148_tl_37" n="N037"/>welches in uns dennoch einen übersinnlichen Eindruck hervorruft, indem <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>
-            <lb facs="#facs_6_region_1709365964991_148_tl_38" n="N038"/>auf eben so gelehrte als anschauliche Weise <hi rendition="#em">die Nichtexistenz eines
+               <lb facs="#facs_6_region_1709365964991_148_tl_37" n="N037"/>welches in uns dennoch einen übersinnlichen Eindruck hervorruft, indem <rs type="person" ref="#hsl_person_id_1">Hanslick</rs><space quantity="1" unit="char"/>
+               <lb facs="#facs_6_region_1709365964991_148_tl_38" n="N038"/>auf eben so gelehrte als anschauliche Weise <hi rendition="#em">die Nichtexistenz eines
                <lb facs="#facs_6_region_1709365964991_148_tl_39" n="N039"/>Naturschönen</hi> für die Mustk darthut. Die Musik ist ausschließlich ein Pro
                <lb facs="#facs_6_region_1709365964991_148_tl_40" n="N040" break="no"/>dukt des Menschengeistes nach Form und Inhalt und trotzdem seine sinnlichste
                <lb facs="#facs_6_region_1709365964991_148_tl_41" n="N041"/>Emanation. „Hat Jemand in der Natur einen Dreiklang gehört, einen Sext- oder
