@@ -5,6 +5,7 @@
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
             <title level="j">Niederrheinische Musik-Zeitung für Kunstfreunde und Künstler</title>
             <title level="a" type="main">Wiener Briefe</title>
+            <title level="a" type="sub"><title rend="italics">Den</title> 30. <title rend="italics">October</title> <date when="1854">1854</date>.</title>
             <author ref="#hsl_person_id_6875">—r—</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
@@ -462,7 +463,7 @@
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
             <pb facs="#facs_4" n="4" xml:id="img_0004"/>
                <lb facs="#facs_4_region_1709372998067_455_tl_1" n="N001"/><head type="h1"><rs type="place" ref="#hsl_place_id_55">Wien</rs>er Briefe.</head>
-               <lb facs="#facs_4_region_1709372998067_455_tl_2" n="N002"/><head type="h2">Den 30. <hi rendition="#em">October</hi><space quantity="1" unit="char"/><date when="1854">1854</date>.</head>
+               <lb facs="#facs_4_region_1709372998067_455_tl_2" n="N002"/><head type="h2"><hi rendition="#em">Den</hi> 30. <hi rendition="#em">October</hi><space quantity="1" unit="char"/><date when="1854">1854</date>.</head>
             <p>         
                <lb facs="#facs_4_region_1709372998067_455_tl_3" n="N003"/>Unter dem Titel: „<hi rendition="#em"><rs type="bibl" ref="#hsl_work_id_1083">Vom Musicalisch-Schönen</rs>.
                <lb facs="#facs_4_region_1709372998067_455_tl_4" n="N004"/>Ein Beitrag zur Revision der Aesthetik der
