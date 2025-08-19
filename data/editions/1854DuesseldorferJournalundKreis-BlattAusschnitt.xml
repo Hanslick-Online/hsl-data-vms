@@ -108,7 +108,7 @@
          <change who="fsanzl" when="2025-06-24">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-06-30">header, p hinzugefügt</change>
          <change who="ampfiel" when="2025-07-04">Zeilenmbrüche, rs ref</change>
-         <change who="awilfing" when="">Letztkorrektur für Zwischenrelease.</change>
+         <change who="awilfing" when="2025-08-19">Letztkorrektur für Zwischenrelease.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -330,13 +330,13 @@
                <lb facs="#facs_2_region_1709365032466_18_tl_9" n="N009"/>Principien der bisherigen Aesthetik der Tonkunst in so
                <lb facs="#facs_2_region_1709365032466_18_tl_10" n="N010"/>eindringender und geistvoller Weise, daß er mit dieser
                <lb facs="#facs_2_region_1709365032466_18_tl_11" n="N011"/>Schrift sich einen dauernden litterarischen Ruf gegründet
-               <lb facs="#facs_2_region_1709365032466_18_tl_12" n="N012"/>haben dürfte. Der „Wanderer“ macht bei Beurtheilung
+               <lb facs="#facs_2_region_1709365032466_18_tl_12" n="N012"/>haben dürfte. Der „<rs type="bilb" ref="#hsl_work_id_4910">Wanderer</rs>“ macht bei Beurtheilung
                <lb facs="#facs_2_region_1709365032466_18_tl_13" n="N013"/>des Buches die Bemerkung, daß von drei in jüngster
                <lb facs="#facs_2_region_1709365032466_18_tl_14" n="N014"/>Zeit erschienenen in <rs type="place" ref="#hsl_place_id_55">Wien</rs> entstandenen musikalisch-lit
                <lb facs="#facs_2_region_1709365032466_18_tl_15" n="N015" break="no"/>terarischen Werken, deren jedes in seiner Art tüchtig
                <lb facs="#facs_2_line_1709365114356_28" n="N016"/>und bedeutend ist, nämlich <rs type="person" ref="#hsl_person_id_5136">Sechter</rs>s „<rs type="bibl" ref="#hsl_work_id_4840">Generalbaß- und
                <lb facs="#facs_2_region_1709365032466_18_tl_17" n="N017"/>Harmonielehre</rs>,“ <rs type="person" ref="#hsl_person_id_6373">Schmidt</rs>s „<rs type="bibl" ref="#hsl_work_id_4437">Leben Glucks</rs>“ und <rs type="person" ref="#hsl_person_id_1">Hans
-               <lb facs="#facs_2_region_1709365032466_18_tl_18" n="N018" break="no"/>lick</rs>’s oben erwähnte Abhandlung, keines in <rs type="place" ref="#hsl_place_id_55">Wien</rs> einen
+               <lb facs="#facs_2_region_1709365032466_18_tl_18" n="N018" break="no"/>lick</rs>’s oben erwähnte <rs type="bibl" ref="#hsl_work_id_1083">Abhandlung</rs>, keines in <rs type="place" ref="#hsl_place_id_55">Wien</rs> einen
                <lb facs="#facs_2_region_1709365032466_18_tl_19" n="N019"/>Verleger finden konnte. Wir müssen von dieser That
                <lb facs="#facs_2_region_1709365032466_18_tl_20" n="N020" break="no"/>sache Act nehmen, die in allen litterarischen Kreisen
                <lb facs="#facs_2_region_1709365032466_18_tl_21" n="N021"/><rs type="place" ref="#hsl_place_id_55">Wien</rs>s große Sensation erregt. Es ist bekannt, daß
@@ -358,7 +358,7 @@
                <lb facs="#facs_2_region_1709365032466_18_tl_37" n="N037"/>Jahren bemüht, ist eine bessere Romanlectüre in den
                <lb facs="#facs_2_region_1709365032466_18_tl_38" n="N038"/>Mittelstand zu bringen, den besseren Romanschriftstellern
                <lb facs="#facs_2_region_1709365032466_18_tl_39" n="N039"/>ein Lesepublicum zu sichern! Es ist eine ganz richtige
-               <lb facs="#facs_2_region_1709365032466_18_tl_40" n="N040"/>Bemerkung des „Wanderers“, die Schuld liege nicht an
+               <lb facs="#facs_2_region_1709365032466_18_tl_40" n="N040"/>Bemerkung des „<rs type="bilb" ref="#hsl_work_id_4910">Wanderer</rs>s“, die Schuld liege nicht an
                <lb facs="#facs_2_region_1709365032466_18_tl_41" n="N041"/>den Autoren daß ihre Bücher nicht in <rs type="place" ref="#hsl_place_id_55">Wien</rs> gedruckt
                <lb facs="#facs_2_region_1709365032466_18_tl_42" n="N042"/>werden, an Autoren die seit Jahren hier leben und sich
                <lb facs="#facs_2_region_1709365032466_18_tl_43" n="N043"/>in allen Kreisen der Gesellschaft eine sehr geachtete

@@ -109,7 +109,7 @@
          <change who="fsanzl" when="2025-06-24">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-06-30">header, p+div hinzugefügt</change>
          <change who="ampfiel" when="2025-07-04">Zeilenumbrüche, Absätze, rs ref, space</change>
-         <change who="awilfing" when="">Letztkorrektur für Zwischenrelease.</change>
+         <change who="awilfing" when="2025-08-19">Letztkorrektur für Zwischenrelease.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -766,8 +766,8 @@
                <lb facs="#facs_2_region_1709365896186_115_tl_3" n="N003"/><hi rendition="#em">Von Emil <rs type="person" ref="#hsl_person_id_6653">Kuh</rs></hi>.</head>
             <p>      
                <lb facs="#facs_2_region_1709365896186_115_tl_4" n="N004"/>Das Werk, mit dem Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> zum ersten Mal in die Literatur tritt
-               <lb facs="#facs_2_region_1709365896186_115_tl_5" n="N005"/>und von dem die in der Beilage der „<rs type="bibl" ref="#hsl_work_id_156">Wiener Zeitung</rs>“ veröffentlichten Bruch
-               <lb facs="#facs_2_region_1709365896186_115_tl_6" n="N006" break="no"/>stücke die Aufmerksamkeit auch der Nichtmusiker erregten, ist so bedeutend,
+                  <lb facs="#facs_2_region_1709365896186_115_tl_5" n="N005"/>und von dem die in der Beilage der „<rs type="bibl" ref="#hsl_work_id_156">Wiener Zeitung</rs>“ veröffentlichten <rs type="bibl" ref="#hsl_work_id_4912 #hsl_work_id_4911">Bruch
+               <lb facs="#facs_2_region_1709365896186_115_tl_6" n="N006" break="no"/>stücke</rs> die Aufmerksamkeit auch der Nichtmusiker erregten, ist so bedeutend,
                <lb facs="#facs_2_region_1709365896186_115_tl_7" n="N007"/>daß es enthusiastische Anhänger und wüthende Gegner in der <rs type="place" ref="#hsl_place_id_14">deutsch</rs>en
                <lb facs="#facs_2_region_1709365896186_115_tl_8" n="N008"/>Kritik finden und einen wichtigen Abschnitt in der Geschichte der Aesthetik dieser
                <lb facs="#facs_2_region_1709365896186_115_tl_9" n="N009"/>Kunst bilden dürfte. Wer die ersten Seiten des <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>’schen <rs type="bibl" ref="#hsl_work_id_1083">Buch</rs>s gelesen hat,
@@ -782,7 +782,7 @@
                <lb facs="#facs_2_region_1709365896186_115_tl_18" n="N018"/>und die allgemeine Geschmacksrichtung des Publikums sanctionirt, sollen in ihr
                <lb facs="#facs_2_region_1709365896186_115_tl_19" n="N019"/>Nichts aufgelöst und ihre unberechtigten, dem innersten Wesen dieser Kunst ent
                <lb facs="#facs_2_region_1709365896186_115_tl_20" n="N020" break="no"/>gegengesetzten Prämissen und Consequenzen gezeigt werden. Richard <rs type="person" ref="#hsl_person_id_319">Wagner</rs>s
-               <lb facs="#facs_2_region_1709365896186_115_tl_21" n="N021"/>Bilderstürmerei findet in dem vorliegenden <rs type="bibl" ref="#hsl_work_id_1083">Buch</rs>e einen ganz prächtigen Alba,
+               <lb facs="#facs_2_region_1709365896186_115_tl_21" n="N021"/>Bilderstürmerei findet in dem vorliegenden <rs type="bibl" ref="#hsl_work_id_1083">Buch</rs>e einen ganz prächtigen <rs type="person" ref="#hsl_person_id_7118">Alba</rs>,
                <lb facs="#facs_2_region_1709365896186_115_tl_22" n="N022"/>und es war auch Zeit, jenem wüsten, wenn auch genialen Theoretiker und Produ
                <lb facs="#facs_2_region_1709365896186_115_tl_23" n="N023" break="no"/>centen in <hi rendition="#em">einer</hi> Person mit aller Energie an den Leib zu rücken. Weil dies aber
                <lb facs="#facs_2_region_1709365896186_115_tl_24" n="N024"/>dadurch geschah, daß man den Kreis der Tonkunst neuerdings abgemessen und ihre
@@ -804,7 +804,7 @@
                <lb facs="#facs_2_region_1709365896186_115_tl_39" n="N039"/>welche Dinge bis jetzt grade der einzige Nachdruck gelegt worden war. Man hatte
                <lb facs="#facs_2_region_1709365896186_115_tl_40" n="N040"/>sich gewöhnt, eine bemalte, mit der Farbenpracht des Colibri künstlich ausgestattete
                <lb facs="#facs_2_region_1709365896186_115_tl_41" n="N041"/>Nachtigall in der Musik zu sehen und man wird von Profanation, Verstandes-
-               <lb facs="#facs_2_region_1709365896186_115_tl_42" n="N042"/>Construction u. s. w. sprechen, wenn man hört, daß „Vhilomele“ ein grauer Vogel
+               <lb facs="#facs_2_region_1709365896186_115_tl_42" n="N042"/>Construction u. s. w. sprechen, wenn man hört, daß „<rs type="person" ref="#hsl_person_id_7119">Philomele</rs>“ ein grauer Vogel
                <lb facs="#facs_2_region_1709365896186_115_tl_43" n="N043"/>sei. Die Musik, als die einzig begrifflose Kunst — mit Ausschluß der Architectur
                <lb facs="#facs_2_region_1709365896186_115_tl_44" n="N044"/>— mußte, da man ihr keine Ideen im philosophischen Sinn unterschieben konnte,
                <lb facs="#facs_2_region_1709365896186_115_tl_45" n="N045"/>nothwendig von der Masse als das beste Ausdrucksmittel der Gefühle betrachtet
@@ -833,7 +833,7 @@
                <lb facs="#facs_4_region_1709365927616_130_tl_6" n="N006"/>die Musik nicht nur keine bestimmte Freude, keinen bestimmten Schmerz darstellen
                <lb facs="#facs_4_region_1709365927616_130_tl_7" n="N007"/>kann, sondern daß es ihr auch unmöglich ist, mehr als eine Stimmung von
                <lb facs="#facs_4_region_1709365927616_130_tl_8" n="N008"/>Schmerz, eine Stimmung von Freude anzuregen. Er überzeugte uns, daß die
-               <lb facs="#facs_4_region_1709365927616_130_tl_9" n="N009"/>Musik weder die Wuth einer <rs type="person" ref="#hsl_person_id_2257">Medea</rs> von der eines Kärrner’s unterschieden zu
+               <lb facs="#facs_4_region_1709365927616_130_tl_9" n="N009"/>Musik weder die Wuth einer <rs type="person" ref="#hsl_person_id_2588">Medea</rs> von der eines Kärrner’s unterschieden zu
                <lb facs="#facs_4_region_1709365927616_130_tl_10" n="N010"/>schildern, noch durch Töne auszudrücken vermag, daß wir es überhaupt mit
                <lb facs="#facs_4_region_1709365927616_130_tl_11" n="N011"/>Wuth, nicht etwa mit Zorn, Haß, Liebesraserei, Glaubensfanatismus u. dgl. zu
                <lb facs="#facs_4_region_1709365927616_130_tl_12" n="N012"/>thun haben. Wo aber eine solche Individualisirung ersten Grades nicht einmal
@@ -881,8 +881,8 @@
                <lb facs="#facs_4_region_1709365935304_133_tl_1" n="N001"/>das Pult. Das Materiale dieser Kunst ist eben der Art, daß der Genießende
                <lb facs="#facs_4_region_1709365935304_133_tl_2" n="N002"/>nicht gebunden wird, daß er im Gegentheil umherschwärmen kann, wie es ihm
                <lb facs="#facs_4_region_1709365935304_133_tl_3" n="N003"/>gefällt. <rs type="person" ref="#hsl_person_id_115">Hebbel</rs>’s tiefsinniges Epigramm:
-               <lb facs="#facs_4_region_1709365935304_133_tl_4" n="N004"/><lg><l>Jede Form ist ein Kerker, wie hält die Natur denn das Leben</l>
-               <lb facs="#facs_4_region_1709365935304_133_tl_5" n="N005"/><l>Fest in allen? Sie hat keinen mit Fenstern versehen,</l></lg>
+               <lb facs="#facs_4_region_1709365935304_133_tl_4" n="N004"/><l>Jede Form ist ein Kerker, wie hält die Natur denn das Leben</l>
+               <lb facs="#facs_4_region_1709365935304_133_tl_5" n="N005"/><l>Fest in allen? Sie hat keinen mit Fenstern versehen,</l>
                <lb facs="#facs_4_region_1709365935304_133_tl_6" n="N006"/>stößt im Umkreise von Natur und Kunst in der Musik zum ersten und letzten Mal
                <lb facs="#facs_4_region_1709365935304_133_tl_7" n="N007"/>auf eine Ausnahme. Dieser Kerker ist mit Fenstern versehen, wenigstens mit Luft
                <lb facs="#facs_4_region_1709365935304_133_tl_8" n="N008" break="no"/>löchern und das Leben strömt wechselseitig, zerstörend und erzeugend, aus und ein.

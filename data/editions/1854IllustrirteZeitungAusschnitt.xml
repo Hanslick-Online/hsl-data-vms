@@ -101,14 +101,14 @@
             <language ident="de">Deutsch</language>
          </langUsage>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="final">
          <change who="awilfing" when="2024-11-01">Projektbeginn</change>
          <change who="awilfing" when="2025-01-20">Headers Anpassung</change>
          <change who="ampfiel" when="2025-06-09">Transkribus OCR und Lektorat.</change>
          <change who="fsanzl" when="2025-06-24">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-06-30">header, p hinzugefügt</change>
          <change who="ampfiel" when="2025-07-04">Zeilenumbrüche, Absätze, rs ref</change>
-         <change who="awilfing" when="">Letztkorrektur für Zwischenrelease.</change>
+         <change who="awilfing" when="2025-08-19">Letztkorrektur für Zwischenrelease.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -337,13 +337,14 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+               <head type="h3">Illustrirte Zeitung. No. 599. — Leipzig, 23. December 1854. — XXIII. Band.</head>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <p>
                <lb facs="#facs_2_region_1709372669268_416_tl_1" n="N001"/>„<hi rendition="#em"><rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs></hi>. Ein Beitrag zur Revi
                <lb facs="#facs_2_region_1709372669268_416_tl_2" n="N002" break="no"/>sion der Aesthetik der Tonkunst, von Dr. <hi rendition="#em">Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi>.“ Der Verf.
                <lb facs="#facs_2_region_1709372669268_416_tl_3" n="N003"/>sucht in dem vorliegenden Schriftchen zu beweisen, daß die Musik keinen an
                <lb facs="#facs_2_line_1709373334355_517" n="N004" break="no"/>dern als rein tonlichen Inhalt habe. Nur Anschauungen gebe sie der Phanta
-               <lb facs="#facs_2_line_1709373350587_523" n="N005" break="no"/>tasie. Die Gefühle, welche wir allenfalls dabei empfinden könnten, seien kein
+               <lb facs="#facs_2_line_1709373350587_523" n="N005" break="no"/>sie. Die Gefühle, welche wir allenfalls dabei empfinden könnten, seien kein
                <lb facs="#facs_2_line_1709373357348_529" n="N006"/>unmittelbares Product der Töne, sondern unsere subjectiven Stimmungen. Die
                <lb facs="#facs_2_line_1709373362275_535" n="N007" break="no"/>ser Ansicht können wir nicht beipflichten. Doch bedürfte es zur Widerlegung
                <lb facs="#facs_2_region_1709372669268_416_tl_12" n="N008"/>eines Buches; denn der Autor kämpft mit scharfen Waffen und Beweisen, die
@@ -354,7 +355,7 @@
                <lb facs="#facs_2_line_1709373381667_556" n="N013"/>Gefühl nicht, oder in jedem Individuum ein anderes hervorrufen, so ist damit
                <lb facs="#facs_2_region_1709372669268_416_tl_21" n="N014"/>die Inhaltlosigkeit dieser Citate, aber schwerlich die absolute Ausdrucksunfähig
                <lb facs="#facs_2_region_1709372669268_416_tl_22" n="N015" break="no"/>keit der Tonkunst überhaupt bewiesen. Wird irgend ein gebildeter Mensch,
-               <lb facs="#facs_2_region_1709372669268_416_tl_23" n="N016"/>der mit freier Gemüthsstimmung an die Musik herantritt, aus einem <rs type="person" ref="#hsl_person_id_299">Strauß</rs>’
+               <lb facs="#facs_2_region_1709372669268_416_tl_23" n="N016"/>der mit freier Gemüthsstimmung an die Musik herantritt, aus einem <rs type="person" ref="#hsl_person_id_1150 #hsl_person_id_299">Strauß</rs>’
                <lb facs="#facs_2_region_1709372669268_416_tl_24" n="N017" break="no"/>schen Walzer Trauer, aus dem Trauermarsch der <rs type="bibl" ref="#hsl_work_id_42">Eroica</rs> (auch wenn er das
                <lb facs="#facs_2_region_1709372669268_416_tl_25" n="N018"/>Programm nicht kennt) Freude hören und nachempfinden? Oder werden beide
                <lb facs="#facs_2_region_1709372669268_416_tl_26" n="N019"/>Tonstücke gar keine Wirkung auf sein Gemüth hervorbringen? Der Verf. führt
@@ -362,9 +363,9 @@
                <lb facs="#facs_2_line_1709373393580_570" n="N021"/>könne, Stellen aus Opern an, denen man den ganz entgegengesetzten Text un
                <lb facs="#facs_2_line_1709373399508_576" n="N022" break="no"/>terlegen könne, ohne daß die Musik dazu unpassend erschiene. Auch diese Er
                <lb facs="#facs_2_line_1709373405531_582" n="N023" break="no"/>fahrung läßt sich nicht wegdemonstriren. Solcher Stellen gibt es viele. Da
-               <lb facs="#facs_2_region_1709372669268_416_tl_35" n="N024" break="no"/>gegen möge der Verfasser einmal <rs type="person" ref="#hsl_person_id_189">Mozart</rs>’s „<rs type="bibl" ref="#hsl_work_id_4841">dies Bildniß ist bezaubernd schön</rs>“
+               <lb facs="#facs_2_region_1709372669268_416_tl_35" n="N024" break="no"/>gegen möge der Verfasser einmal <rs type="person" ref="#hsl_person_id_189">Mozart</rs>’s „<rs type="bibl" ref="#hsl_work_id_350">dies Bildniß ist bezaubernd schön</rs>“
                <lb facs="#facs_2_line_1709373414236_589" n="N025"/>die Worte unterlegen „der Hölle Rache kocht in meinem Herzen“ und umgekehrt
-               <lb facs="#facs_2_line_1709373418539_594" n="N026"/>dieser <rs type="bibl" ref="#hsl_work_id_4841">Arie</rs> die Worte „dies Bildniß ist bezaubernd schön“ — er wird sogleich
+               <lb facs="#facs_2_line_1709373418539_594" n="N026"/>dieser Arie die Worte „dies Bildniß ist bezaubernd schön“ — er wird sogleich
                <lb facs="#facs_2_region_1709372669268_416_tl_41" n="N027"/>empfinden, daß Töne einem Texte <hi rendition="#em">ent</hi>sprechen und <hi rendition="#em">wider</hi>sprechen können.
                <lb facs="#facs_2_region_1709372669268_416_tl_42" n="N028"/>Die Ursachen dieser bejahenden oder verneinenden Fähigkeit der Tonkunst lie
                <lb facs="#facs_2_line_1709373425116_601" n="N029" break="no"/>gen in den Analogien der musikalischen Elemente mit den Gemüthsregungen.</p>
@@ -372,9 +373,9 @@
                <lb facs="#facs_2_line_1709373430836_608" n="N030"/>Seit Jahrtausenden hat man über „das Schöne“ in den Künsten ge
                <lb facs="#facs_2_line_1709373436884_614" n="N031" break="no"/>schrieben, und noch haben wir keine Erklärung dieses Phänomens, der man
                <lb facs="#facs_2_line_1709373444419_619" n="N032"/>Allgemeinheit zugestehen könnte. Auch bei dieser allerneuesten Deduction des
-               <lb facs="#facs_2_line_1709373448668_625" n="N033"/>„<rs type="bibl" ref="#hsl_work_id_1083">Musikalisch-Schönen</rs>“ werden sich Wenige beruhigt fühlen. Worin liegt
+               <lb facs="#facs_2_line_1709373448668_625" n="N033"/>„Musikalisch-Schönen“ werden sich Wenige beruhigt fühlen. Worin liegt
                <lb facs="#facs_2_line_1709373452035_630" n="N034"/>der Grund dieses vergeblichen Ringens? Er ist schon von <rs type="person" ref="#hsl_person_id_411">Plato</rs> in seiner
-               <lb facs="#facs_2_region_1709372669268_416_tl_56" n="N035"/>Aesthetik und von <rs type="person" ref="#hsl_person_id_248">Schiller</rs> in seinem <rs type="bibl" ref="#hsl_work_id_1465">Briefwechsel</rs> erkannt, neuerlich in den
+               <lb facs="#facs_2_region_1709372669268_416_tl_56" n="N035"/>Aesthetik und von <rs type="person" ref="#hsl_person_id_248">Schiller</rs> in seinem Briefwechsel erkannt, neuerlich in den
                <lb facs="#facs_2_region_1709372669268_416_tl_57" n="N036"/><rs type="bibl" ref="#hsl_work_id_4842">Fliegenden Blättern für Musik</rs> dargelegt worden: in dem Kunstwerke nur das
                <lb facs="#facs_2_line_1744662750279_1976" n="N037"/>Schöne suchen zu wollen. Das Schöne aber ist in allen Künsten, auch in der
                <lb facs="#facs_2_line_1709373481371_647" n="N038"/>Musik, nur das eine Moment, die gefallende Form der Erscheinung, das zweite
