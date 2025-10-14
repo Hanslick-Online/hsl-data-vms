@@ -9,8 +9,8 @@
             <title level="a" type="sub"><rs type="bibl" ref="#hsl_work_id_1083"><title rend="italics">Vom Musikalisch-Schönen</title></rs>. Ein Beitrag zur Revision der Aesthetik der Tonkunst. Von Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>. <rs type="place" ref="#hsl_place_id_32">Leipzig</rs>, Rudolf <rs type="person" ref="#hsl_person_id_377">Weigel</rs>, <date when="1854">1854</date></title>
             <author ref="#hsl_person_id_6612">Anonym</author>
             <editor>
-               <name ref="https://orcid.org/0000-0002-0117-3574" xml:id="aw">Wilfing, Alexander</name>
-               <name ref="https://orcid.org/0000-0002-7722-4091" xml:id="amp">Pfiel, Anna-Maria</name>
+               <name ref="https://orcid.org/0000-0002-0117-3574" xml:id="awilfing">Wilfing, Alexander</name>
+               <name ref="https://orcid.org/0000-0002-7722-4091" xml:id="ampfiel">Pfiel, Anna-Maria</name>
             </editor>
             <funder>
                <name ref="http://d-nb.info/gnd/4540825-7">Stadt Wien (MA7)</name>
@@ -29,12 +29,12 @@
             <respStmt>
                <resp>Herausgegeben von</resp>
                <name ref="#aw">Wilfing, Alexander</name>
-               <name ref="#amp">Pfiel, Anna-Maria</name>
+               <name ref="#ampfiel">Pfiel, Anna-Maria</name>
             </respStmt>
             <respStmt>
                <resp>Projektmitarbeiterinnen</resp>
-               <name ref="https://orcid.org/0000-0002-0636-4476" xml:id="dst">Elsner, Daniel</name>
-               <name ref="https://orcid.org/0000-0002-8815-6741" xml:id="fsl">Sanz-Lázaro, Fernando</name>
+               <name ref="https://orcid.org/0000-0002-0636-4476" xml:id="delsner">Elsner, Daniel</name>
+               <name ref="https://orcid.org/0000-0002-8815-6741" xml:id="fsanzl">Sanz-Lázaro, Fernando</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
