@@ -28,7 +28,7 @@ jobs:
         ant -f scripts/ant/build_preprocess.xml
     - name: fetch data
       run: |
-        ./scripts/sh/fetch_data.sh
+        ./scripts/sh/fetch_data_arche.sh
     - name: add attributes and denormalize
       run: |
         ./scripts/sh/attr_denorm.sh
