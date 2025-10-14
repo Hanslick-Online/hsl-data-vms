@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen" xml:id="v__1854DuesseldorferJournalundKreis-BlattAusschnitt.xml" prev="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1854DerHumoristAusschnitt.xml" next="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1854IllustrirteZeitungAusschnitt.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -26,8 +27,8 @@
             <edition>Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</edition>
             <respStmt>
                <resp>Herausgegeben von</resp>
-               <name ref="https://orcid.org/0000-0002-0117-3574" xml:id="aw">Wilfing, Alexander</name>
-               <name ref="https://orcid.org/0000-0002-7722-4091" xml:id="amp">Pfiel, Anna-Maria</name>
+               <name ref="#aw">Wilfing, Alexander</name>
+               <name ref="#amp">Pfiel, Anna-Maria</name>
             </respStmt>
             <respStmt>
                <resp>Projektmitarbeiterinnen</resp>
@@ -113,202 +114,74 @@
    </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="3600" lry="4560" xml:id="facs_1">
-         <graphic url="1854DuesseldorferJournalundKreis-BlattAusschnitt-0001.jpeg"
-                  width="3600px"
-                  height="4560px"/>
-         <graphic url="1854DuesseldorferJournalundKreis-BlattAusschnitt-0001.jpeg"
-                  width="3600px"
-                  height="4560px"/>
-         <zone points="100,162 3096,162 3096,826 100,826"
-               rendition="TextRegion"
-               xml:id="facs_1_region_1709365006076_9">
-            <zone points="159,141 3048,141 3048,514 159,514"
-                  rendition="Line"
-                  xml:id="facs_1_line_1709365782657_90"/>
-            <zone points="1409,469 1685,469 1685,616 1409,616"
-                  rendition="Line"
-                  xml:id="facs_1_line_1733832972410_1538"/>
-            <zone points="954,589 2219,589 2219,774 954,774"
-                  rendition="Line"
-                  xml:id="facs_1_line_1733832973976_1541"/>
+         <graphic url="1854DuesseldorferJournalundKreis-BlattAusschnitt-0001.jpeg" width="3600px" height="4560px"/>
+         <graphic url="1854DuesseldorferJournalundKreis-BlattAusschnitt-0001.jpeg" width="3600px" height="4560px"/>
+         <zone points="100,162 3096,162 3096,826 100,826" rendition="TextRegion" xml:id="facs_1_region_1709365006076_9">
+            <zone points="159,141 3048,141 3048,514 159,514" rendition="Line" xml:id="facs_1_line_1709365782657_90"/>
+            <zone points="1409,469 1685,469 1685,616 1409,616" rendition="Line" xml:id="facs_1_line_1733832972410_1538"/>
+            <zone points="954,589 2219,589 2219,774 954,774" rendition="Line" xml:id="facs_1_line_1733832973976_1541"/>
          </zone>
-         <zone points="125,849 3059,849 3059,1035 125,1035"
-               rendition="TextRegion"
-               xml:id="facs_1_region_1709365008700_12">
-            <zone points="134,901 3029,901 3029,989 134,989"
-                  rendition="Line"
-                  xml:id="facs_1_line_1709365802727_96"/>
+         <zone points="125,849 3059,849 3059,1035 125,1035" rendition="TextRegion" xml:id="facs_1_region_1709365008700_12">
+            <zone points="134,901 3029,901 3029,989 134,989" rendition="Line" xml:id="facs_1_line_1709365802727_96"/>
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="3600" lry="4560" xml:id="facs_2">
-         <graphic url="1854DuesseldorferJournalundKreis-BlattAusschnitt-0002.jpeg"
-                  width="3600px"
-                  height="4560px"/>
-         <graphic url="1854DuesseldorferJournalundKreis-BlattAusschnitt-0002.jpeg"
-                  width="3600px"
-                  height="4560px"/>
-         <zone points="1546,1106 2519,1106 2519,3468 1546,3468"
-               rendition="TextRegion"
-               xml:id="facs_2_region_1709365032466_18">
-            <zone points="1750,1116 2320,1116 2320,1205 1750,1205"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_1"/>
-            <zone points="1605,1163 2495,1163 2495,1246 1605,1246"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_2"/>
-            <zone points="1551,1232 2489,1232 2489,1282 1551,1282"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_3"/>
-            <zone points="1557,1275 2487,1275 2487,1331 1557,1331"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_4"/>
-            <zone points="1557,1321 2488,1321 2488,1373 1557,1373"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_5"/>
-            <zone points="1557,1355 2489,1355 2489,1422 1557,1422"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_6"/>
-            <zone points="1553,1414 2487,1414 2487,1456 1553,1456"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_7"/>
-            <zone points="1551,1450 2483,1450 2483,1508 1551,1508"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_8"/>
-            <zone points="1559,1492 2483,1492 2483,1550 1559,1550"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_9"/>
-            <zone points="1557,1534 2481,1534 2481,1592 1557,1592"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_10"/>
-            <zone points="1553,1577 2489,1577 2489,1631 1553,1631"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_11"/>
-            <zone points="1553,1630 2487,1630 2487,1677 1553,1677"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_12"/>
-            <zone points="1551,1663 2482,1663 2482,1720 1551,1720"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_13"/>
-            <zone points="1550,1705 2482,1705 2482,1760 1550,1760"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_14"/>
-            <zone points="1551,1748 2487,1748 2487,1804 1551,1804"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_15"/>
-            <zone points="1545,1793 2506,1793 2506,1851 1545,1851"
-                  rendition="Line"
-                  xml:id="facs_2_line_1709365114356_28"/>
-            <zone points="1552,1838 2482,1838 2482,1891 1552,1891"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_17"/>
-            <zone points="1551,1879 2482,1879 2482,1930 1551,1930"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_18"/>
-            <zone points="1547,1924 2484,1924 2484,1971 1547,1971"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_19"/>
-            <zone points="1559,1966 2483,1966 2483,2022 1559,2022"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_20"/>
-            <zone points="1551,2014 2483,2014 2483,2065 1551,2065"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_21"/>
-            <zone points="1547,2055 2483,2055 2483,2108 1547,2108"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_22"/>
-            <zone points="1550,2102 2476,2102 2476,2156 1550,2156"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_23"/>
-            <zone points="1553,2138 2483,2138 2483,2192 1553,2192"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_24"/>
-            <zone points="1557,2184 2476,2184 2476,2238 1557,2238"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_25"/>
-            <zone points="1553,2227 2489,2227 2489,2276 1553,2276"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_26"/>
-            <zone points="1551,2269 2488,2269 2488,2317 1551,2317"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_27"/>
-            <zone points="1559,2311 2485,2311 2485,2368 1559,2368"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_28"/>
-            <zone points="1545,2352 2487,2352 2487,2404 1545,2404"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_29"/>
-            <zone points="1553,2402 2488,2402 2488,2451 1553,2451"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_30"/>
-            <zone points="1545,2437 2481,2437 2481,2490 1545,2490"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_31"/>
-            <zone points="1553,2483 2483,2483 2483,2537 1553,2537"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_32"/>
-            <zone points="1545,2531 2483,2531 2483,2587 1545,2587"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_33"/>
-            <zone points="1544,2572 2482,2572 2482,2626 1544,2626"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_34"/>
-            <zone points="1553,2615 2483,2615 2483,2666 1553,2666"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_35"/>
-            <zone points="1553,2660 2483,2660 2483,2706 1553,2706"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_36"/>
-            <zone points="1545,2692 2487,2692 2487,2756 1545,2756"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_37"/>
-            <zone points="1551,2735 2488,2735 2488,2799 1551,2799"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_38"/>
-            <zone points="1547,2789 2473,2789 2473,2842 1547,2842"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_39"/>
-            <zone points="1553,2825 2482,2825 2482,2882 1553,2882"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_40"/>
-            <zone points="1551,2877 2475,2877 2475,2925 1551,2925"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_41"/>
-            <zone points="1553,2913 2477,2913 2477,2968 1553,2968"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_42"/>
-            <zone points="1553,2955 2477,2955 2477,3018 1553,3018"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_43"/>
-            <zone points="1553,3002 2487,3002 2487,3057 1553,3057"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_44"/>
-            <zone points="1553,3045 2477,3045 2477,3102 1553,3102"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_45"/>
-            <zone points="1553,3091 2477,3091 2477,3140 1553,3140"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_46"/>
-            <zone points="1547,3139 2484,3139 2484,3195 1547,3195"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_47"/>
-            <zone points="1545,3179 2475,3179 2475,3237 1545,3237"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_48"/>
-            <zone points="1547,3221 2483,3221 2483,3272 1547,3272"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_49"/>
-            <zone points="1512,3264 2476,3264 2476,3327 1512,3327"
-                  rendition="Line"
-                  xml:id="facs_2_line_1709365126023_35"/>
-            <zone points="1553,3311 2483,3311 2483,3366 1553,3366"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_51"/>
-            <zone points="1551,3349 2482,3349 2482,3413 1551,3413"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_52"/>
-            <zone points="1553,3390 2147,3390 2147,3456 1553,3456"
-                  rendition="Line"
-                  xml:id="facs_2_region_1709365032466_18_tl_53"/>
+         <graphic url="1854DuesseldorferJournalundKreis-BlattAusschnitt-0002.jpeg" width="3600px" height="4560px"/>
+         <graphic url="1854DuesseldorferJournalundKreis-BlattAusschnitt-0002.jpeg" width="3600px" height="4560px"/>
+         <zone points="1546,1106 2519,1106 2519,3468 1546,3468" rendition="TextRegion" xml:id="facs_2_region_1709365032466_18">
+            <zone points="1750,1116 2320,1116 2320,1205 1750,1205" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_1"/>
+            <zone points="1605,1163 2495,1163 2495,1246 1605,1246" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_2"/>
+            <zone points="1551,1232 2489,1232 2489,1282 1551,1282" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_3"/>
+            <zone points="1557,1275 2487,1275 2487,1331 1557,1331" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_4"/>
+            <zone points="1557,1321 2488,1321 2488,1373 1557,1373" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_5"/>
+            <zone points="1557,1355 2489,1355 2489,1422 1557,1422" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_6"/>
+            <zone points="1553,1414 2487,1414 2487,1456 1553,1456" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_7"/>
+            <zone points="1551,1450 2483,1450 2483,1508 1551,1508" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_8"/>
+            <zone points="1559,1492 2483,1492 2483,1550 1559,1550" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_9"/>
+            <zone points="1557,1534 2481,1534 2481,1592 1557,1592" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_10"/>
+            <zone points="1553,1577 2489,1577 2489,1631 1553,1631" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_11"/>
+            <zone points="1553,1630 2487,1630 2487,1677 1553,1677" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_12"/>
+            <zone points="1551,1663 2482,1663 2482,1720 1551,1720" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_13"/>
+            <zone points="1550,1705 2482,1705 2482,1760 1550,1760" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_14"/>
+            <zone points="1551,1748 2487,1748 2487,1804 1551,1804" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_15"/>
+            <zone points="1545,1793 2506,1793 2506,1851 1545,1851" rendition="Line" xml:id="facs_2_line_1709365114356_28"/>
+            <zone points="1552,1838 2482,1838 2482,1891 1552,1891" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_17"/>
+            <zone points="1551,1879 2482,1879 2482,1930 1551,1930" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_18"/>
+            <zone points="1547,1924 2484,1924 2484,1971 1547,1971" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_19"/>
+            <zone points="1559,1966 2483,1966 2483,2022 1559,2022" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_20"/>
+            <zone points="1551,2014 2483,2014 2483,2065 1551,2065" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_21"/>
+            <zone points="1547,2055 2483,2055 2483,2108 1547,2108" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_22"/>
+            <zone points="1550,2102 2476,2102 2476,2156 1550,2156" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_23"/>
+            <zone points="1553,2138 2483,2138 2483,2192 1553,2192" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_24"/>
+            <zone points="1557,2184 2476,2184 2476,2238 1557,2238" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_25"/>
+            <zone points="1553,2227 2489,2227 2489,2276 1553,2276" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_26"/>
+            <zone points="1551,2269 2488,2269 2488,2317 1551,2317" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_27"/>
+            <zone points="1559,2311 2485,2311 2485,2368 1559,2368" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_28"/>
+            <zone points="1545,2352 2487,2352 2487,2404 1545,2404" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_29"/>
+            <zone points="1553,2402 2488,2402 2488,2451 1553,2451" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_30"/>
+            <zone points="1545,2437 2481,2437 2481,2490 1545,2490" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_31"/>
+            <zone points="1553,2483 2483,2483 2483,2537 1553,2537" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_32"/>
+            <zone points="1545,2531 2483,2531 2483,2587 1545,2587" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_33"/>
+            <zone points="1544,2572 2482,2572 2482,2626 1544,2626" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_34"/>
+            <zone points="1553,2615 2483,2615 2483,2666 1553,2666" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_35"/>
+            <zone points="1553,2660 2483,2660 2483,2706 1553,2706" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_36"/>
+            <zone points="1545,2692 2487,2692 2487,2756 1545,2756" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_37"/>
+            <zone points="1551,2735 2488,2735 2488,2799 1551,2799" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_38"/>
+            <zone points="1547,2789 2473,2789 2473,2842 1547,2842" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_39"/>
+            <zone points="1553,2825 2482,2825 2482,2882 1553,2882" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_40"/>
+            <zone points="1551,2877 2475,2877 2475,2925 1551,2925" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_41"/>
+            <zone points="1553,2913 2477,2913 2477,2968 1553,2968" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_42"/>
+            <zone points="1553,2955 2477,2955 2477,3018 1553,3018" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_43"/>
+            <zone points="1553,3002 2487,3002 2487,3057 1553,3057" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_44"/>
+            <zone points="1553,3045 2477,3045 2477,3102 1553,3102" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_45"/>
+            <zone points="1553,3091 2477,3091 2477,3140 1553,3140" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_46"/>
+            <zone points="1547,3139 2484,3139 2484,3195 1547,3195" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_47"/>
+            <zone points="1545,3179 2475,3179 2475,3237 1545,3237" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_48"/>
+            <zone points="1547,3221 2483,3221 2483,3272 1547,3272" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_49"/>
+            <zone points="1512,3264 2476,3264 2476,3327 1512,3327" rendition="Line" xml:id="facs_2_line_1709365126023_35"/>
+            <zone points="1553,3311 2483,3311 2483,3366 1553,3366" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_51"/>
+            <zone points="1551,3349 2482,3349 2482,3413 1551,3413" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_52"/>
+            <zone points="1553,3390 2147,3390 2147,3456 1553,3456" rendition="Line" xml:id="facs_2_region_1709365032466_18_tl_53"/>
          </zone>
       </surface>
    </facsimile>
@@ -375,5 +248,5 @@
             </p>
          </div>
       </body>
-   </text>
+   <back/></text>
 </TEI>
