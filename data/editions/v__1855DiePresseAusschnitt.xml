@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „<title>Vom Musikalisch-Schönen</title>“ (1854–1857)</title>
+            <title level="j">Die Presse</title>
+            <title level="a" type="main">Tagesneuigkeiten</title>
+            <author ref="#hsl_person_id_6736">Anonym</author>
+            <editor>
+               <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
+               <name ref="https://orcid.org/0000-0002-7722-4091">Pfiel, Anna-Maria</name>
+            </editor>
+            <funder>
+               <name ref="http://d-nb.info/gnd/4540825-7">Stadt Wien (MA7)</name>
+               <address>
+                  <street>Friedrich-Schmidt-Platz 5</street>
+                  <postCode>1080 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
+               <name ref="https://orcid.org/0000-0002-7722-4091">Pfiel, Anna-Maria</name>
+            </respStmt>
+            <respStmt>
+               <resp>Projektmitarbeiterinnen</resp>
+               <name ref="https://orcid.org/0000-0002-0636-4476">Elsner, Daniel</name>
+               <name ref="https://orcid.org/0000-0002-8815-6741">Sanz-Lázaro, Fernando</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2025">2025</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+                        vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für
+                        beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                        Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                        Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
+                        Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
+                        nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
+                        oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder
+                        technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen,
+                        was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                        Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
+                        Ausnahmen und Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                        verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                        jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                        Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des
+                        Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Maschinenlesbares Transkript der Rezensionen der ersten Auflage von Eduard Hanslicks Ästhetik-Traktat „Vom Musikalisch-Schönen“.</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listBibl>
+               <biblStruct>
+                  <analytic>
+                     <title>Tagesneuigkeiten</title>
+                     <author ref="#hsl_person_id_6736">Anonym</author>
+                  </analytic>
+                  <monogr>
+                     <title type="main">Die Presse</title>
+                     <title type="sub">No. 88. Wien, Dienstag 17. April 1855. 8. Jahrgang</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#hsl_person_id_6735">Zang, August</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1855-04-17">1855-04-17</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="draft">
+         <change who="awilfing" when="2024-11-01">Projektbeginn</change>
+         <change who="awilfing" when="2025-01-20">Headers Anpassung</change>
+         <change who="ampfiel" when="2025-04-06">Transkribus OCR und Lektorat.</change>
+         <change who="fsanzl" when="2025-04-27">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
+         <change who="ampfiel" when="2025-04-28">fix lb</change>
+         <change who="ampfiel" when="2025-05-09">fill header, layout, space</change>
+         <change who="ampfiel" when="2025-05-14">rs ref fertig</change>
+         <change who="awilfing" when="2025-06-10">Letztkorrektur für Zwischenrelease</change></revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
+         <graphic url="1855DiePresseAusschnitt-0001.jpeg"
+                  width="2479px"
+                  height="3508px"/>
+         <zone points="610,42 1658,42 1658,307 610,307"
+               rendition="TextRegion"
+               xml:id="facs_1_region_1709374205667_1162">
+            <zone points="776,196 821,196 865,196 910,196 955,199 1000,199 1044,202 1089,199 1134,196 1179,190 1224,190 1268,190 1313,190 1358,190 1403,190 1447,187 1492,187 1537,187 1582,187 1615,196 1615,246 1582,237 1537,237 1492,237 1447,237 1403,240 1358,240 1313,240 1268,240 1224,240 1179,240 1134,246 1089,249 1044,252 1000,249 955,249 910,246 865,246 821,246 776,246"
+                  rendition="Line"
+                  xml:id="facs_1_region_1709374205667_1162_tl_3"/>
+         </zone>
+         <zone points="53,389 2252,389 2252,477 53,477"
+               rendition="TextRegion"
+               xml:id="facs_1_region_1709374208635_1165">
+            <zone points="56,414 98,411 143,408 188,405 773,399 818,399 1265,399 1310,399 1355,399 1400,399 2239,402 2239,452 2197,455 56,464"
+                  rendition="Line"
+                  xml:id="facs_1_line_1709381200769_2208"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
+         <graphic url="1855DiePresseAusschnitt-0002.jpeg"
+                  width="2479px"
+                  height="3508px"/>
+         <zone points="1124,279 2217,279 2217,925 1124,925"
+               rendition="TextRegion"
+               xml:id="facs_2_region_1709374273355_1171">
+            <zone points="1237,317 2196,334 2194,296 2021,283 1237,283"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709374273355_1171_tl_2"/>
+            <zone points="1136,345 2205,372 2204,337 2063,315 1136,308"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709374273355_1171_tl_3"/>
+            <zone points="1136,376 2204,397 2070,355 1136,343"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709374273355_1171_tl_4"/>
+            <zone points="1137,409 2189,435 2205,397 1136,377"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709374273355_1171_tl_5"/>
+            <zone points="1132,443 2205,467 2204,436 2110,418 1132,405"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709374273355_1171_tl_6"/>
+            <zone points="1136,475 2201,491 2201,464 1135,443"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709374273355_1171_tl_7"/>
+            <zone points="1137,503 2188,526 2201,491 1136,475"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709374273355_1171_tl_8"/>
+            <zone points="1136,532 2194,555 2177,519 2080,507 1136,502"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709374273355_1171_tl_9"/>
+            <zone points="1132,569 2205,585 2204,554 1997,539 1132,536"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709374273355_1171_tl_10"/>
+            <zone points="1136,600 2204,618 2193,583 2068,573 1136,570"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709374273355_1171_tl_11"/>
+            <zone points="1132,628 2200,644 2146,602 1132,597"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709374273355_1171_tl_12"/>
+            <zone points="1136,661 2197,675 2196,644 2112,633 1136,628"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709374273355_1171_tl_13"/>
+            <zone points="1132,689 2200,707 2200,676 2114,669 1132,660"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709374273355_1171_tl_14"/>
+            <zone points="1132,726 2197,739 2157,700 1132,689"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709374273355_1171_tl_15"/>
+            <zone points="1132,755 2200,774 2200,740 2098,732 1132,727"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709374273355_1171_tl_16"/>
+            <zone points="1128,787 2197,802 2197,773 1127,755"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709374273355_1171_tl_17"/>
+            <zone points="1127,820 2200,833 2200,801 2066,791 1127,789"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709374273355_1171_tl_18"/>
+            <zone points="1127,850 2204,865 2149,826 1127,820"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709374273355_1171_tl_19"/>
+            <zone points="1127,888 2200,899 2198,866 2121,852 1127,850"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709374273355_1171_tl_20"/>
+            <zone points="1134,914 2047,921 2112,923 2111,893 1130,877"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709374273355_1171_tl_21"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <head type="h3">Die Presse. No. 88. Wien, Dienstag 17. April 1855. 8. Jahrgang.</head>
+            <lb facs="#facs_1_region_1709376061810_1771_tl_1" n="N001"/><head type="h1">Tagesneuigkeiten</head>
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+            <p>
+      <lb facs="#facs_2_region_1709374273355_1171_tl_2" n="N001"/><hi rendition="#em">Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>’s</hi> Schrift „<rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>“ macht im
+      <lb facs="#facs_2_region_1709374273355_1171_tl_3" n="N002"/>Ausland Aufsehen. Die competenten literarischen und musikalischen Organe sind
+      <lb facs="#facs_2_region_1709374273355_1171_tl_4" n="N003"/>darüber einig, daß sie es hier mit einem in der Musikwissenschaft epochemachenden
+      <lb facs="#facs_2_region_1709374273355_1171_tl_5" n="N004"/>Werke zu thun haben. <hi rendition="#em">Julian <rs type="person" ref="#hsl_person_id_408">Schmidt</rs></hi> (wol der gefürchtetste Kritiker <rs type="place" ref="#hsl_place_id_14">Deutsch
+      <lb facs="#facs_2_region_1709374273355_1171_tl_6" n="N005" break="no"/>land</rs>s) empfiehlt „diese geistvolle und selbstständige Untersuchung“ um so wärmer,
+      <lb facs="#facs_2_region_1709374273355_1171_tl_7" n="N006"/>als „in jüngster Zeit von <rs type="place" ref="#hsl_place_id_55">Wien</rs> aus in Büchern und Zeitschriften gar so viel Un
+      <lb facs="#facs_2_region_1709374273355_1171_tl_8" n="N007" break="no"/>nützes über Musik in die Welt hinaus geredet werde.“ Die <rs type="bibl" ref="#hsl_work_id_4797">Blätter für literarische
+      <lb facs="#facs_2_region_1709374273355_1171_tl_9" n="N008"/>Unterhaltung</rs> (redigirt von Hermann <hi rendition="#em"><rs type="person" ref="#hsl_person_id_6124">Marggraf</rs></hi>) schließen eine ausführliche Be
+      <lb facs="#facs_2_region_1709374273355_1171_tl_10" n="N009" break="no"/>sprechung des <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>’schen Buchs „mit dem lebhaften Wunsch: dasselbe möchte von
+      <lb facs="#facs_2_region_1709374273355_1171_tl_11" n="N010"/>vielen Musikern und Kunstfreunden recht aufmerksam gelesen werden, damit doch
+      <lb facs="#facs_2_region_1709374273355_1171_tl_12" n="N011"/>endlich einmal die vage Begriffslosigkeit und das Umhertappen im Nebel bei der
+      <lb facs="#facs_2_region_1709374273355_1171_tl_13" n="N012"/>Beurtheilung musikalischer Kunstwerke aufhöre.“ Vom Verfasser scheiden sie „mit
+      <lb facs="#facs_2_region_1709374273355_1171_tl_14" n="N013"/>der dankbarsten Anerkennung und Hochachtung für das was er ausgesprochen und
+      <lb facs="#facs_2_region_1709374273355_1171_tl_15" n="N014"/>für die Art, wie er es ausgesprochen hat und hoffen u. s. w.“ In noch eingehen
+      <lb facs="#facs_2_region_1709374273355_1171_tl_16" n="N015" break="no"/>derer Weise bemächtigen sich die verschiedenen <rs type="place" ref="#hsl_place_id_14">deutsch</rs>en Musikzeitungen des Buches,
+      <lb facs="#facs_2_region_1709374273355_1171_tl_17" n="N016"/>welches die meisten nicht in der üblichen Recensionenform, sondern in einer Reihe
+      <lb facs="#facs_2_region_1709374273355_1171_tl_18" n="N017"/>von Leitartikeln besprechen. Die wenigen Zeilen über <hi rendition="#em">Richard <rs type="person" ref="#hsl_person_id_319">Wagner</rs></hi> in <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>’s
+      <lb facs="#facs_2_region_1709374273355_1171_tl_19" n="N018"/>Schrift haben sogar eine Polemik zwischen der <rs type="bibl" ref="#hsl_work_id_553">Leipziger</rs> und der <rs type="bibl" ref="#hsl_work_id_4281">rheinischen Musik
+      <lb facs="#facs_2_region_1709374273355_1171_tl_20" n="N019" break="no"/>zeitung</rs> hervorgerufen. Die beiden <hi rendition="#em">Wiener</hi><space quantity="1" unit="char"/><rs type="bibl" ref="#hsl_work_id_4812 #hsl_work_id_4813">Musikzeitungen</rs> dürften die einzigen
+      <lb facs="#facs_2_region_1709374273355_1171_tl_21" n="N020"/>sein, welche das Buch gar nicht besprochen, ja nicht einmal angezeigt haben.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
