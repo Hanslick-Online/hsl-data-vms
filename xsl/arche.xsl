@@ -43,7 +43,7 @@
                     <acdh:hasCreator rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
                     <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
                     <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
-                    <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/ampfiel"/>
+                    <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
                     <acdh:hasMetadataCreator rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
                     <xsl:copy-of select="$constants"/>
                     <xsl:for-each select=".//acdh:*">
