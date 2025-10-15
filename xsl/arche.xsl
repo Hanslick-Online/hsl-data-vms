@@ -107,9 +107,9 @@
                 <acdh:hasSeriesInformation xml:lang="de">1. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity xml:lang="de">Leipzig</acdh:hasCity>
             </acdh:Publication>
-            <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/logo_font_blau.svg">
+            <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/logo_rezensionen.svg">
                 <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen"/>
-                <acdh:hasTitle xml:lang="de">Hanslick Online Logo</acdh:hasTitle>
+                <acdh:hasTitle xml:lang="de">Hanslick Online Logo: Rezensionen</acdh:hasTitle>
                 <acdh:hasPid>create</acdh:hasPid>
                 <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
                 <acdh:hasContact rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
@@ -125,6 +125,7 @@
                 <acdh:isTitleImageOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen"/>
                 <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
                 <acdh:hasCreator rdf:resource="https://id.acdh.oeaw.ac.at/oreichl"/>
+                <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
                 <acdh:hasFunder rdf:resource="https://id.acdh.oeaw.ac.at/org-ma7"/>
             </acdh:Resource>
             <acdh:Metadata rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/vms.odd">
