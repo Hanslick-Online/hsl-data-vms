@@ -7,9 +7,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>ODD Hanslick: Vom Musikalisch-Schönen</title>
+        <title>ODD Hanslick: Die Rezensionen zu Eduard Hanslicks VMS</title>
         <author ref="https://orcid.org/0000-0002-0636-4476" role="main">Daniel Elsner</author>
-	<author ref="https://orcid.org/0000-0002-8815-6741" role="contributor">Fernando Sanz-Lázaro</author>
+	<author ref="https://orcid.org/0000-0002-8815-6741" role="contributor" xml:id="fsanzl">Fernando Sanz-Lázaro</author>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -31,6 +31,9 @@
         <p>Born digital.</p>
       </sourceDesc>
     </fileDesc>
+    <revisionDesc status="draft">
+      <change who="fsanzl" when="2025-10-15">Title, publisher, attList</change>          
+    </revisionDesc>
   </teiHeader>
 
 <!-- Text der ODD -->
@@ -39,9 +42,10 @@
     <front>
       <titlePage>
         <docTitle>
-          <titlePart type="main">ODD Vom Musikalisch-Schönen</titlePart>
+          <titlePart type="main">ODD Hanslick: Die Rezensionen zu Eduard Hanslicks VMS</titlePart>
         </docTitle>
-        <docAuthor>Daniel Elsner</docAuthor>
+        <docAuthor type="main">Daniel Elsner</docAuthor>
+        <docAuthor type="contributor">Fernando Sanz-Lázaro</docAuthor>
       </titlePage>
     </front>
     <body>
