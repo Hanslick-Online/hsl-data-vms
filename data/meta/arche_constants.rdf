@@ -9,7 +9,7 @@
 	<acdh:hasTitle xml:lang="de">Die Rezensionen zu Eduard Hanslicks „Vom Musikalisch-Schönen“ (1854–1857)</acdh:hasTitle> 
 	<acdh:hasDescription xml:lang="de">Digitale Edition von 26 Rezensionen der ersten Auflage von Eduard Hanslicks Traktat „Vom Musikalisch-Schönen. Ein Beitrag zur Revision der Ästhetik der Tonkunst“ (1854). Die Rezensionen reichen von kurzen Berichten bis hin zu mehrteiligen Besprechungen in deutschsprachigen sowie einer englischsprachigen Zeitschrift. Sie wurden mittels Suche in digitalen Repositorien erfasst und als XML/TEI-Dateien ediert. Diese Dateien enthalten die Rezensionen selbst, annotierte Entitäten (Personen, Figuren, Werke, Orte) und werden durch aus Repositorien bezogene Faksimiles ergänzt.</acdh:hasDescription>
         <acdh:hasContact rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
-        <acdh:hasCreator rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+        <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
         <acdh:hasMetadataCreator rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
         <acdh:hasMetadataCreator rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
         <acdh:hasActor rdf:resource="http://d-nb.info/gnd/118545825"/>
@@ -28,24 +28,33 @@
         <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/605007"/>
         <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/605008"/>
         <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/604024"/>
-        <acdh:hasNamingScheme xml:lang="de">XML/TEI Editionsdateien sind benannt als "t__[01-10]_VMS_[1854-1902]_TEI_AW_26-01-21-TEI-P5.xml", TIF-Dateien sind benannt als "vms_[1854-1902]_[000-999].tif"</acdh:hasNamingScheme>
+        <acdh:hasNamingScheme xml:lang="de">XML/TEI Editionsdateien sind benannt als "v__185[4-7]_DescriptiveName.xml"</acdh:hasNamingScheme>
         <acdh:hasLifeCycleStatus rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelifecyclestatus/completed"/>
         <acdh:hasFunder rdf:resource="https://id.acdh.oeaw.ac.at/org-ma7"/>
-        
         <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
         <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
         <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"/>
         <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/none"/>
         <acdh:hasPrincipalInvestigator rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/> 
         <acdh:hasUrl>https://hanslick.acdh.oeaw.ac.at/</acdh:hasUrl>
-	<acdh:hasCreatedStartDate>2024-10-01</acdh:hasCreatedStartDate>
+	    <acdh:hasCreatedStartDate>2024-10-01</acdh:hasCreatedStartDate>
         <acdh:hasCreatedEndDate>2025-10-15</acdh:hasCreatedEndDate>
     </acdh:TopCollection>
     <acdh:Cols>
         <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions">
             <acdh:hasPid>create</acdh:hasPid>
-            <acdh:hasTitle xml:lang="de">Edition: Vom Musikalisch-Schönen (VMS) - Auflage 1 bis 10</acdh:hasTitle>
-            <acdh:hasDescription xml:lang="de">Digitale Edition der 10 Auflagen (1854–1902) von Eduard Hanslicks Traktat „Vom Musikalisch-Schönen. Ein Beitrag zur Revision der Ästhetik der Tonkunst“, der sich mit dem Wesen der Musik, dem Verhältnis von Musik und Gefühl, aber auch der psychologischen und physiologischen Verarbeitung von Musik im Hörer befasst. Die 10 Auflagen wurden als XML/TEI-Dateien ediert und die Möglichkeit eines automatischen Auflagenvergleichs implementiert. Sie enthalten den Traktat selbst und annotierte Entitäten (Personen, Werke, Orte).</acdh:hasDescription>
+            <acdh:hasTitle xml:lang="de">Edition: Die Rezensionen zu Eduard Hanslicks „Vom Musikalisch-Schönen“ (1854–1857)</acdh:hasTitle>
+            <acdh:hasDescription xml:lang="de">XML-TEI-Editionen der 26 Rezensionen der ersten Auflage von Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854)</acdh:hasDescription>
+            <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
+            <acdh:hasLifeCycleStatus rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelifecyclestatus/completed"/>
+            <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen"/>
+            <acdh:hasActor rdf:resource="http://d-nb.info/gnd/118545825"/>
+            <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
+        </acdh:Collection>
+        <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/meta">
+            <acdh:hasPid>create</acdh:hasPid>
+            <acdh:hasTitle xml:lang="de">Metadaten</acdh:hasTitle>
+            <acdh:hasDescription xml:lang="de">XML-Schemas und Bilder</acdh:hasDescription>
             <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
             <acdh:hasLifeCycleStatus rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelifecyclestatus/completed"/>
             <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen"/>
@@ -83,7 +92,6 @@
         <acdh:hasMetadataCreator rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
         <acdh:hasMetadataCreator rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
         <acdh:hasCurator rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
-        <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"/>
     </acdh:RepoObject>
     <acdh:ImgObject>
         <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
@@ -94,9 +102,7 @@
         <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/605008"/>
         <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/604024"/>
         <acdh:hasDepositor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
-        <acdh:hasMetadataCreator rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
         <acdh:hasMetadataCreator rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
         <acdh:hasCurator rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
-        <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"/>
     </acdh:ImgObject>
 </acdh:ACDH>

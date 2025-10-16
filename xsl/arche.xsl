@@ -8,7 +8,7 @@
     version="2.0" exclude-result-prefixes="#all">
 
     <xsl:output encoding="UTF-8" media-type="text/xml" method="xml" version="1.0" indent="yes" omit-xml-declaration="yes"/>
-    
+    <xsl:variable name="Meta" select="'https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/meta'"/>
     <xsl:template match="/">
         <xsl:variable name="constants">
             <xsl:for-each select=".//node()[parent::acdh:RepoObject]">
@@ -97,8 +97,8 @@
                     <xsl:copy-of select="$constants"/>
                 </acdh:Resource>
             </xsl:for-each>
-            <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/meta/logo_rezensionen.svg">
-                <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen"/>
+            <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/logo_rezensionen.svg">
+                <acdh:isPartOf rdf:resource="{$Meta}"/>
                 <acdh:hasTitle xml:lang="de">Hanslick Online Logo: Rezensionen</acdh:hasTitle>
                 <acdh:hasPid>create</acdh:hasPid>
                 <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
@@ -118,8 +118,8 @@
                 <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
                 <acdh:hasFunder rdf:resource="https://id.acdh.oeaw.ac.at/org-ma7"/>
             </acdh:Resource>
-            <acdh:Metadata rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/meta/vms.odd">
-                <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
+            <acdh:Metadata rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/vms.odd">
+                 <acdh:isPartOf rdf:resource="{$Meta}"/>
                 <acdh:hasTitle xml:lang="de">XML/TEI Schema ODD für „Die Rezensionen zu Eduard Hanslicks „Vom Musikalisch-Schönen“ (1854–1857)“</acdh:hasTitle>
                 <acdh:hasDescription xml:lang="de">XML/TEI Schema ODD für „Die Rezensionen zu Eduard Hanslicks „Vom Musikalisch-Schönen“ (1854–1857)“</acdh:hasDescription>
                 <acdh:hasPid>create</acdh:hasPid>
@@ -134,12 +134,12 @@
                 <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
                 <acdh:hasCreatedStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-07-19</acdh:hasCreatedStartDate>
                 <acdh:hasCreatedEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-15</acdh:hasCreatedEndDate>
-                <acdh:isMetadataFor rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
+                <acdh:isMetadataFor rdf:resource="concat(string(@xml:base), '/editions'"/>
                 <acdh:hasCreator rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
                 <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
             </acdh:Metadata>
-            <acdh:Metadata rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/meta/vms.rng">
-                <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-rezensionen/editions"/>
+            <acdh:Metadata rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/vms.rng">
+                                <acdh:isPartOf rdf:resource="{$Meta}"/>
                 <acdh:hasTitle xml:lang="de">TEI/XML Schema RNG für „Die Rezensionen zu Eduard Hanslicks „Vom Musikalisch-Schönen“ (1854–1857)“</acdh:hasTitle>
                 <acdh:hasDescription xml:lang="de">XML/TEI Schema RNG für „Die Rezensionen zu Eduard Hanslicks „Vom Musikalisch-Schönen“ (1854–1857)“</acdh:hasDescription>
                 <acdh:hasPid>create</acdh:hasPid>
@@ -155,6 +155,7 @@
                 <acdh:hasCreatedStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-07-19</acdh:hasCreatedStartDate>
                 <acdh:hasCreatedEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-15</acdh:hasCreatedEndDate>
                 <acdh:isMetadataFor rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
+                <acdh:isMetadataFor rdf:resource="concat(string(@xml:base), '/editions'"/>
                 <acdh:hasCreator rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
                 <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
             </acdh:Metadata>
