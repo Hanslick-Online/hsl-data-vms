@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen" xml:id="listplace.xml" prev="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/listperson.xml" >
    <teiHeader>
       <fileDesc>
@@ -5,28 +6,27 @@
             <title type="main">Ortsregister der Hanslick Edition</title>
             <respStmt>
                <resp>Lektorat</resp>
-               <name xml:id="awilfinger">Wilfing, Alexander</name>
+               <name xml:id="awilfinger" ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
                <name>Bamer, Katharina</name>
-               <name>Pfiel, Anna</name>
+               <name ref="https://orcid.org/0000-0002-7722-4091">Pfiel, Anna</name>
             </respStmt>
             <respStmt>
                <resp>XML/TEI Serialisierung der Daten</resp>
-               <name>Elsner, Daniel</name>
+               <name ref="https://orcid.org/0000-0002-0636-4476">Elsner, Daniel</name>
             </respStmt>
-            <funder xmlns="http://www.tei-c.org/ns/1.0">
-               <name>FWF Der Wissenschaftsfond.</name>
+            <funder>
                <address>
-                     <street>Sensengasse 1</street>
-                     <postCode>1090 Wien</postCode>
-                     <placeName>
-                        <country>Österreich</country>
-                        <settlement>Wien</settlement>
-                     </placeName>
+                  <street>Friedrich-Schmidt-Platz 5</street>
+                  <postCode>1080 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
                </address>
             </funder>
          </titleStmt>
          <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
             <pubPlace>Wien</pubPlace>
             <date when="2022">2022</date>
             <availability>
