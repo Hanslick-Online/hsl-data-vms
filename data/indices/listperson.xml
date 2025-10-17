@@ -12,10 +12,11 @@
             </respStmt>
             <respStmt>
                <resp>XML/TEI Serialisierung der Daten</resp>
-               <name ref="https://orcid.org/0000-0002-0636-4476">Stoxreiter, Daniel</name>
+               <name ref="https://orcid.org/0000-0002-0636-4476">Elsner, Daniel</name>
+	       <name ref="https://orcid.org/0000-0002-8815-6741">Sanz-Lázaro, Fernando</name>
             </respStmt>
             <funder>
-               <name ref="http://d-nb.info/gnd/4540825-7">Stadt Wien (MA7)</name>                                                                                                                                                                              
+               <name ref="http://d-nb.info/gnd/4540825-7">Stadt Wien (MA7)</name>
                <address>
                   <street>Friedrich-Schmidt-Platz 5</street>
                   <postCode>1080 Wien</postCode>
