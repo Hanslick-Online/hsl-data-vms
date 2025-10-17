@@ -62,8 +62,8 @@
         </acdh:Collection>
         <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/indices">
             <acdh:hasPid>create</acdh:hasPid>
-            <acdh:hasTitle xml:lang="de">Metadaten</acdh:hasTitle>
-            <acdh:hasDescription xml:lang="de">Verzeichnisse: Personen, Orte und Bibliographisch</acdh:hasDescription>
+            <acdh:hasTitle xml:lang="de">Register</acdh:hasTitle>
+            <acdh:hasDescription xml:lang="de">Register: Personen, Orte und Werke</acdh:hasDescription>
             <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
             <acdh:hasLifeCycleStatus rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelifecyclestatus/completed"/>
             <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen"/>
