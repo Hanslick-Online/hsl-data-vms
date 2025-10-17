@@ -48,10 +48,9 @@
             <xsl:for-each select=".//acdh:Collection[@rdf:about=$Editions or @rdf:about=$Meta or @rdf:about=$Indices]">
                 <acdh:Collection>
                     <xsl:attribute name="rdf:about"><xsl:value-of select="@rdf:about"/></xsl:attribute>
-                    <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+                    <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
                     <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
                     <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
-                    <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
                     <acdh:hasMetadataCreator rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
                     <xsl:copy-of select="$constants"/>
                     <xsl:for-each select=".//acdh:*">
@@ -124,8 +123,8 @@
                             </xsl:choose>
                         </xsl:when>
                     </xsl:choose>
-                    <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
                     <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
+                    <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
                     <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
                     <xsl:copy-of select="$constants"/>
                 </acdh:Resource>
@@ -147,9 +146,9 @@
                     <acdh:isPartOf rdf:resource="{$Indices}"/>
                     <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
                     <acdh:hasCreator rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
-                    <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
                     <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
                     <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
+                    <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
                     <xsl:copy-of select="$constants"/>
                 </acdh:Resource>
             </xsl:for-each>

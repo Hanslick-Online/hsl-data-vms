@@ -14,8 +14,8 @@
         <acdh:hasActor rdf:resource="http://d-nb.info/gnd/118545825"/>
         <acdh:hasDepositor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/> 
         <acdh:hasCurator rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
-        <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
         <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
+        <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
         <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
         <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1854-01-01</acdh:hasCoverageStartDate>
         <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1902-12-31</acdh:hasCoverageEndDate>
