@@ -100,6 +100,7 @@
                     <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
                     <acdh:isPartOf rdf:resource="{$partOf}"/>
                     <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
+                    <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
                     <xsl:choose>
                         <xsl:when test=".//tei:titleStmt/tei:author/@ref">
                             <xsl:variable name="personId" select="substring-after(.//tei:titleStmt/tei:author/@ref, '#')"/>

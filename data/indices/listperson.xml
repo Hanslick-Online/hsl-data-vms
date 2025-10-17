@@ -81856,6 +81856,7 @@
                   </persName>
                   <birth>unbekannt (19. Jhdt.)</birth>
                   <death>unbekannt (19. Jhdt.)</death>
+			<idno type="URI" subtype="ARCHE">https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/npz</acdh:idno>
                   <occupation style="background-color: darker-orange;">unbekannt</occupation>
                </person>
                <person xml:id="hsl_person_id_6141" resp="#awilfing" cert="high">
@@ -85479,6 +85480,7 @@
                   </persName>
                   <birth>unbekannt (19. Jhdt.)</birth>
                   <death>unbekannt (19. Jhdt.)</death>
+                  <idno type="URI" subtype="ACDH">https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/hl</idno>
                   <occupation style="background-color: darker-orange;">unbekannt</occupation>
                </person>
                <person xml:id="hsl_person_id_6454" resp="#awilfing" cert="high">
@@ -86645,6 +86647,7 @@
                   </persName>
                   <birth>unbekannt (19. Jhdt.)</birth>
                   <death>unbekannt (19. Jhdt.)</death>
+                  <idno type="URI" subtype="ACDH">https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/mz</idno>
                   <occupation style="background-color: darker-orange;">unbekannt</occupation>
                </person>
                <person xml:id="hsl_person_id_6563" resp="#awilfing" cert="high">
@@ -88593,6 +88596,7 @@
                   <birth>unbekannt (19. Jhdt.)</birth>
                   <death>unbekannt (19. Jhdt.)</death>
                   <occupation style="background-color: light-gray;">Musikautor</occupation>
+		  <idno type="URI" subtype="ACDH">https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/jh</idno>
                </person>
                <person xml:id="hsl_person_id_6735" resp="#awilfing" cert="medium">
                   <persName type="main">
@@ -88621,6 +88625,7 @@
                      <forename/>
                      <surname>Modestus</surname>
                   </persName>
+	          <idno type="URI" subtype="ACDH">https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/modestus</idno>
                </person>
                <person xml:id="hsl_person_id_6739" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
@@ -90137,6 +90142,7 @@
                   </persName>
                   <birth>unbekannt (19. Jhdt.)</birth>
                   <death>unbekannt (19. Jhdt.)</death>
+                  <idno type="URI" subtype="ACDH">https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/r</idno>
                   <occupation style="background-color: light-gray;">Musikautor</occupation>
                </person>
                <person xml:id="hsl_person_id_6876" role="fictional" resp="#awilfing" cert="high">
