@@ -45,12 +45,25 @@
                 <xsl:copy-of select="."/>
             </xsl:for-each>
 
-            <xsl:for-each select=".//acdh:Collection[@rdf:about=$Editions or @rdf:about=$Meta or @rdf:about=$Indices]">
+            <xsl:for-each select=".//acdh:Collection[@rdf:about=$Editions or @rdf:about=$Indices]">
                 <acdh:Collection>
                     <xsl:attribute name="rdf:about"><xsl:value-of select="@rdf:about"/></xsl:attribute>
                     <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
+                    <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/> 
                     <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
-                    <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
+                    <acdh:hasMetadataCreator rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
+                    <xsl:copy-of select="$constants"/>
+                    <xsl:for-each select=".//acdh:*">
+                        <xsl:copy-of select="."/>
+                    </xsl:for-each>
+                </acdh:Collection>
+            </xsl:for-each>
+
+             <xsl:for-each select=".//acdh:Collection[@rdf:about=$Meta]">
+                <acdh:Collection>
+                    <xsl:attribute name="rdf:about"><xsl:value-of select="@rdf:about"/></xsl:attribute>
+                    <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/> 
+                    <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
                     <acdh:hasMetadataCreator rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
                     <xsl:copy-of select="$constants"/>
                     <xsl:for-each select=".//acdh:*">
@@ -123,6 +136,44 @@
                             </xsl:choose>
                         </xsl:when>
                     </xsl:choose>
+                    <acdh:hasCustomCitation xml:lang="de">
+                        <xsl:variable name="uniqueId" select="translate(@xml:id, '.', '_')"/>
+                        <xsl:variable name="title" select=".//tei:titleStmt/tei:title[@type='main' or @level='a'][1]"/>
+                        <xsl:variable name="authorName" select="if (.//tei:titleStmt/tei:author/@ref) then normalize-space(concat(normalize-space($listPersonDoc//tei:person[@xml:id=substring-after(current()//tei:titleStmt/tei:author/@ref, '#')]//tei:persName[@type='main']/tei:forename), ' ', normalize-space($listPersonDoc//tei:person[@xml:id=substring-after(current()//tei:titleStmt/tei:author/@ref, '#')]//tei:persName[@type='main']/tei:surname))) else ''"/>
+                        <xsl:variable name="authorCitation">
+                            <xsl:if test=".//tei:titleStmt/tei:author/@ref">
+                                <xsl:variable name="personNode" select="$listPersonDoc//tei:person[@xml:id=substring-after(current()//tei:titleStmt/tei:author/@ref, '#')]"/>
+                                <xsl:variable name="surname" select="normalize-space($personNode//tei:persName[@type='main']/tei:surname)"/>
+                                <xsl:variable name="forename" select="normalize-space($personNode//tei:persName[@type='main']/tei:forename)"/>
+                                <xsl:choose>
+                                    <xsl:when test="$surname != '' and $forename != ''">
+                                        <xsl:value-of select="concat($surname, ', ', $forename)"/>
+                                    </xsl:when>
+                                    <xsl:when test="$surname != ''">
+                                        <xsl:value-of select="concat('{', $surname, '}')"/>
+                                    </xsl:when>
+                                    <xsl:when test="$forename != ''">
+                                        <xsl:value-of select="concat('{', $forename, '}')"/>
+                                    </xsl:when>
+                                </xsl:choose>
+                            </xsl:if>
+                        </xsl:variable>
+                        <xsl:text>@incollection{Wilfing_2025_</xsl:text>
+                        <xsl:value-of select="$uniqueId"/>
+                        <xsl:text>,&#10;  title = {</xsl:text>
+                        <xsl:value-of select="$title"/>
+                        <xsl:text>},&#10;</xsl:text>
+                        <xsl:if test="$authorName != '' and $authorName != 'Anonym'">
+                            <xsl:text>  author = {</xsl:text>
+                            <xsl:value-of select="$authorCitation"/>
+                            <xsl:text>},&#10;</xsl:text>
+                        </xsl:if>
+                        <xsl:text>  date = {2025-10-16},&#10;  publisher = {ARCHE},&#10;  url = {</xsl:text>
+                        <xsl:value-of select="concat(string($TopColId), '/', string(@xml:id))"/>
+                        <xsl:text>},&#10;  editor = {Wilfing, Alexander},&#10;  language = {DE},&#10;  booktitle = {</xsl:text>
+                        <xsl:value-of select="$rc-title"/>
+                        <xsl:text>},&#10;  keywords = {Cultural heritage, Digital humanities, Musicology}&#10;}</xsl:text>
+                    </acdh:hasCustomCitation>
                     <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
                     <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
                     <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
@@ -148,7 +199,9 @@
                     <acdh:hasCreator rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
                     <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
                     <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
-                    <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
+                    <xsl:if test="@xml:id = 'listperson.xml'">
+                        <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
+                    </xsl:if>
                     <xsl:copy-of select="$constants"/>
                 </acdh:Resource>
             </xsl:for-each>
@@ -166,7 +219,7 @@
                 <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
                 <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
                 <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
-                <acdh:hasFormat>image/svg</acdh:hasFormat>
+                <acdh:hasFormat>image/+xml</acdh:hasFormat>
                 <acdh:isTitleImageOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen"/>
                 <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
                 <acdh:hasCreator rdf:resource="https://id.acdh.oeaw.ac.at/oreichl"/>
