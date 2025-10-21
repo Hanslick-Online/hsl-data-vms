@@ -113,7 +113,7 @@
                     <acdh:isPartOf rdf:resource="{$partOf}"/>
                     <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
                     <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
-                    <acdh:hasEditor rdf:about="https://orcid.org/0000-0002-7722-4091">
+                    <acdh:hasEditor rdf:about="https://orcid.org/0000-0002-7722-4091"/>
                     <xsl:choose>
                         <xsl:when test=".//tei:titleStmt/tei:author/@ref">
                             <xsl:variable name="personId" select="substring-after(.//tei:titleStmt/tei:author/@ref, '#')"/>
