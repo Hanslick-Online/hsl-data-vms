@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen" xml:id="listperson.xml" next="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/listplace.xml" prev="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/listbibl.xml" >          
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen" xml:id="listperson.xml" next="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/listplace.xml" prev="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/listbibl.xml">          
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -13,7 +13,10 @@
             <respStmt>
                <resp>XML/TEI Serialisierung der Daten</resp>
                <name ref="https://orcid.org/0000-0002-0636-4476">Elsner, Daniel</name>
-	       <name ref="https://orcid.org/0000-0002-8815-6741">Sanz-Lázaro, Fernando</name>
+            </respStmt>
+            <respStmt>
+		<resp>Mitarbeiter</resp>
+                <name ref="https://orcid.org/0000-0002-8815-6741">Sanz-Lázaro, Fernando</name>
             </respStmt>
             <funder>
                <name ref="http://d-nb.info/gnd/4540825-7">Stadt Wien (MA7)</name>
@@ -108,7 +111,7 @@
                      <bibl n="hsl_work_id_4911">Ueber den subjektiven Eindruck der Musik und seine Stellung in der Aesthetik</bibl>
                      <bibl n="hsl_work_id_4912">Die Tonkunst in ihren Beziehungen zur Natur</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_DerHumoristAusschnitt.xml" type="mentions" corresp="1854-11-25">Vom Musikalisch-Schönen No. 305. Samstag den 25. November 1854. 18. Jahrgang</note><note target="v__1854_DuesseldorferJournalundKreis-BlattAusschnitt.xml" type="mentions" corresp="1854-11-08">Wissenschaften und Künste No. 265. Mittwoch den 8. November 1854. 16. Jahrg.</note><note target="v__1854_IllustrirteZeitungAusschnitt.xml" type="mentions" corresp="1854-12-23">Literatur No. 599. — Leipzig, 23. December 1854. — XXIII. Band</note><note target="v__1854_NiederrheinischeMusikzeitungAusschnitt.xml" type="mentions" corresp="1854-11-04">Wiener Briefe Nr. 44. KÖLN, 4. November 1854. II. Jahrgang</note><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note><note target="v__1854_SignalefuerdieMusikalischeWeltAusschnitt.xml" type="mentions" corresp="1854-11">Signale aus Wien No. 46. Leipzig, November. 1854</note><note target="v__1855_BlaetterfuermusikalischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1855-04-12">Zur musikalischen Literatur Nr. 15. 12. April 1855</note><note target="v__1855_DiePresseAusschnitt.xml" type="mentions" corresp="1855-04-17">Tagesneuigkeiten No. 88. Wien, Dienstag 17. April 1855. 8. Jahrgang</note><note target="v__1855_DwightsJournalofMusicAuschnitt.xml" type="mentions" corresp="1855-07-21">Music the Exponent of Emotion Whole No. 172. Boston, Saturday, July 21, 1855. Vol. VII. No. 16</note><note target="v__1855_GoettingischeGelehrteAnzeigenAusschnitt.xml" type="mentions" corresp="1855-07-05">Göttingische gelehrte Anzeigen 106. 107. Stück. Den 5. Juli 1855</note><note target="v__1855_GrenzbotenAusschnitt.xml" type="mentions" corresp="1855">Wissenschaft und Kunst 14. Jahrgang. I. Semester. I. Band. 1855</note><note target="v__1855_KatholischeLiteratur-ZeitungAusschnitt.xml" type="mentions" corresp="1855">Aesthetik No. 7. Montag, den 12. Februar 1855. II. Jahrg.</note><note target="v__1855_LeipzigerRepertoriumAusschnitt.xml" type="mentions" corresp="1855">Schöne Künste Dreizehnter Jahrgang. Erster Band. 1855</note><note target="v__1855_NeueBerlinerMusikzeitungAusschnitt.xml" type="mentions" corresp="1855-10-17">Musik-Literatur Neunter Jahrgang. No. 42. 17. October 1855</note><note target="v__1855_NeueWienerMusik-ZeitungAusschnitt.xml" type="mentions" corresp="1855-05-24">Literarische Anzeige Vierter Jahrgang Nr. 21. 24. Mai 1855</note><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1855_NiederrheinischeMusik-Zeitung2Ausschnitt.xml" type="mentions" corresp="1855-03-24">Stimmen der Kritik über Richard Wagner. II. Nr. 12. 24. März 1855. III. Jahrgang</note><note target="v__1855_UnterhaltungenamhaeuslichenHerdAusschnitt.xml" type="mentions" corresp="1855">Unterhaltungen am häuslichen Herd Nr. 43</note><note target="v__1855_WolfgangMenzelsLiteraturblattAusschnitt.xml" type="mentions" corresp="1855-04-25">Ueber Musik Mittwoch, No 33. 25. April 1855</note><note target="v__1856_LiterarischeMittheilungenderStGaller-BlaetterAusschnitt.xml" type="mentions" corresp="1856">Aesthetik No. 3. 1856</note><note target="v__1856_NeuerBerlinerMusikzeitungAusschnitt.xml" type="mentions" corresp="1856-12-10">Nachrichten Zehnter Jahrgang No. 50. 10. December 1856</note><note target="v__1857_AnregungenfuerKunstLebenundWissenschaftAusschnitt.xml" type="mentions" corresp="1857">Ueber das musikalisch Schöne Zweiter Band (Jahrgang 1857.)</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note><note target="v__1857_NeueZeitschriftfuerMusikAusschnitt1.xml" type="mentions" corresp="1857-05-01">Die Aesthetik der Tonkunst. Sechsundvierzigster Band. Nr. 18. Den 1. Mai 1857</note><note target="v__1857_NeueZeitschriftfuerMusikAusschnitt2.xml" type="mentions" corresp="1857-10-30">Dr.  Siebenundvierzigster Band. Nr. 18. Den 30. October 1857</note></noteGrp><noteGrp><note target="v__1854_DerHumoristAusschnitt.xml" type="mentions" corresp="1854-11-25">Vom Musikalisch-Schönen No. 305. Samstag den 25. November 1854. 18. Jahrgang</note><note target="v__1854_DuesseldorferJournalundKreis-BlattAusschnitt.xml" type="mentions" corresp="1854-11-08">Wissenschaften und Künste No. 265. Mittwoch den 8. November 1854. 16. Jahrg.</note><note target="v__1854_IllustrirteZeitungAusschnitt.xml" type="mentions" corresp="1854-12-23">Literatur No. 599. — Leipzig, 23. December 1854. — XXIII. Band</note><note target="v__1854_NiederrheinischeMusikzeitungAusschnitt.xml" type="mentions" corresp="1854-11-04">Wiener Briefe Nr. 44. KÖLN, 4. November 1854. II. Jahrgang</note><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note><note target="v__1854_SignalefuerdieMusikalischeWeltAusschnitt.xml" type="mentions" corresp="1854-11">Signale aus Wien No. 46. Leipzig, November. 1854</note><note target="v__1855_BlaetterfuermusikalischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1855-04-12">Zur musikalischen Literatur Nr. 15. 12. April 1855</note><note target="v__1855_DiePresseAusschnitt.xml" type="mentions" corresp="1855-04-17">Tagesneuigkeiten No. 88. Wien, Dienstag 17. April 1855. 8. Jahrgang</note><note target="v__1855_DwightsJournalofMusicAuschnitt.xml" type="mentions" corresp="1855-07-21">Music the Exponent of Emotion Whole No. 172. Boston, Saturday, July 21, 1855. Vol. VII. No. 16</note><note target="v__1855_GoettingischeGelehrteAnzeigenAusschnitt.xml" type="mentions" corresp="1855-07-05">Göttingische gelehrte Anzeigen 106. 107. Stück. Den 5. Juli 1855</note><note target="v__1855_GrenzbotenAusschnitt.xml" type="mentions" corresp="1855">Wissenschaft und Kunst 14. Jahrgang. I. Semester. I. Band. 1855</note><note target="v__1855_KatholischeLiteratur-ZeitungAusschnitt.xml" type="mentions" corresp="1855">Aesthetik No. 7. Montag, den 12. Februar 1855. II. Jahrg.</note><note target="v__1855_LeipzigerRepertoriumAusschnitt.xml" type="mentions" corresp="1855">Schöne Künste Dreizehnter Jahrgang. Erster Band. 1855</note><note target="v__1855_NeueBerlinerMusikzeitungAusschnitt.xml" type="mentions" corresp="1855-10-17">Musik-Literatur Neunter Jahrgang. No. 42. 17. October 1855</note><note target="v__1855_NeueWienerMusik-ZeitungAusschnitt.xml" type="mentions" corresp="1855-05-24">Literarische Anzeige Vierter Jahrgang Nr. 21. 24. Mai 1855</note><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1855_NiederrheinischeMusik-Zeitung2Ausschnitt.xml" type="mentions" corresp="1855-03-24">Stimmen der Kritik über Richard Wagner. II. Nr. 12. 24. März 1855. III. Jahrgang</note><note target="v__1855_UnterhaltungenamhaeuslichenHerdAusschnitt.xml" type="mentions" corresp="1855">Unterhaltungen am häuslichen Herd Nr. 43</note><note target="v__1855_WolfgangMenzelsLiteraturblattAusschnitt.xml" type="mentions" corresp="1855-04-25">Ueber Musik Mittwoch, No 33. 25. April 1855</note><note target="v__1856_LiterarischeMittheilungenderStGaller-BlaetterAusschnitt.xml" type="mentions" corresp="1856">Aesthetik No. 3. 1856</note><note target="v__1856_NeuerBerlinerMusikzeitungAusschnitt.xml" type="mentions" corresp="1856-12-10">Nachrichten Zehnter Jahrgang No. 50. 10. December 1856</note><note target="v__1857_AnregungenfuerKunstLebenundWissenschaftAusschnitt.xml" type="mentions" corresp="1857">Ueber das musikalisch Schöne Zweiter Band (Jahrgang 1857.)</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note><note target="v__1857_NeueZeitschriftfuerMusikAusschnitt1.xml" type="mentions" corresp="1857-05-01">Die Aesthetik der Tonkunst. Sechsundvierzigster Band. Nr. 18. Den 1. Mai 1857</note><note target="v__1857_NeueZeitschriftfuerMusikAusschnitt2.xml" type="mentions" corresp="1857-10-30">Dr.  Siebenundvierzigster Band. Nr. 18. Den 30. October 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_2" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Sophie</forename>
@@ -651,7 +654,7 @@
                      <bibl n="hsl_work_id_4402">Marco Spada, AWV43</bibl>
                      <bibl n="hsl_work_id_4403">Jenny Bell, AWV44</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note></noteGrp><noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note></noteGrp></person>
                <person xml:id="hsl_person_id_17" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Carl Philipp Emanuel</forename>
@@ -783,7 +786,7 @@
                      <bibl n="hsl_work_id_5076">Lass, Fürstin, lass noch einen Strahl, BWV198</bibl>
                      <bibl n="hsl_work_id_5121">Chaconne für Violine und Orchester in d-Moll, BWV1004 Nr. 5 (Bearbeitung)</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note></noteGrp><noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note></noteGrp></person>
                <person xml:id="hsl_person_id_19" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Carlo</forename>
@@ -907,7 +910,7 @@
                      <bibl n="hsl_work_id_4902">Volkslied, MWV K 102</bibl>
                      <bibl n="hsl_work_id_4903">6 Gesänge für Singstimme und Klavier, op. 47</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1856_LiterarischeMittheilungenderStGaller-BlaetterAusschnitt.xml" type="mentions" corresp="1856">Aesthetik No. 3. 1856</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1856_LiterarischeMittheilungenderStGaller-BlaetterAusschnitt.xml" type="mentions" corresp="1856">Aesthetik No. 3. 1856</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_22" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Eduard von</forename>
@@ -1107,7 +1110,7 @@
                      <bibl n="hsl_work_id_4788">24 Variationen über "Venni Amore" von Vincenzio Righini für Klavier, WoO65</bibl>
                      <bibl n="hsl_work_id_4989">Sonate für Violine und Klavier in Es-Dur, op. 12 Nr. 3</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_DerHumoristAusschnitt.xml" type="mentions" corresp="1854-11-25">Vom Musikalisch-Schönen No. 305. Samstag den 25. November 1854. 18. Jahrgang</note><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note><note target="v__1855_BlaetterfuermusikalischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1855-04-12">Zur musikalischen Literatur Nr. 15. 12. April 1855</note><note target="v__1855_DwightsJournalofMusicAuschnitt.xml" type="mentions" corresp="1855-07-21">Music the Exponent of Emotion Whole No. 172. Boston, Saturday, July 21, 1855. Vol. VII. No. 16</note><note target="v__1855_GrenzbotenAusschnitt.xml" type="mentions" corresp="1855">Wissenschaft und Kunst 14. Jahrgang. I. Semester. I. Band. 1855</note><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1855_WolfgangMenzelsLiteraturblattAusschnitt.xml" type="mentions" corresp="1855-04-25">Ueber Musik Mittwoch, No 33. 25. April 1855</note><note target="v__1856_LiterarischeMittheilungenderStGaller-BlaetterAusschnitt.xml" type="mentions" corresp="1856">Aesthetik No. 3. 1856</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1854_DerHumoristAusschnitt.xml" type="mentions" corresp="1854-11-25">Vom Musikalisch-Schönen No. 305. Samstag den 25. November 1854. 18. Jahrgang</note><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note><note target="v__1855_BlaetterfuermusikalischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1855-04-12">Zur musikalischen Literatur Nr. 15. 12. April 1855</note><note target="v__1855_DwightsJournalofMusicAuschnitt.xml" type="mentions" corresp="1855-07-21">Music the Exponent of Emotion Whole No. 172. Boston, Saturday, July 21, 1855. Vol. VII. No. 16</note><note target="v__1855_GrenzbotenAusschnitt.xml" type="mentions" corresp="1855">Wissenschaft und Kunst 14. Jahrgang. I. Semester. I. Band. 1855</note><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1855_WolfgangMenzelsLiteraturblattAusschnitt.xml" type="mentions" corresp="1855-04-25">Ueber Musik Mittwoch, No 33. 25. April 1855</note><note target="v__1856_LiterarischeMittheilungenderStGaller-BlaetterAusschnitt.xml" type="mentions" corresp="1856">Aesthetik No. 3. 1856</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_26" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Vincenzo</forename>
@@ -1201,7 +1204,7 @@
                      <bibl n="hsl_work_id_4693">Orfeo ed Euridice, Wq. 30 (Bearbeitung)</bibl>
                      <bibl n="hsl_work_id_4712">Le chef d'orchestre. Théorie de son art</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1857_AnregungenfuerKunstLebenundWissenschaftAusschnitt.xml" type="mentions" corresp="1857">Ueber das musikalisch Schöne Zweiter Band (Jahrgang 1857.)</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_AnregungenfuerKunstLebenundWissenschaftAusschnitt.xml" type="mentions" corresp="1857">Ueber das musikalisch Schöne Zweiter Band (Jahrgang 1857.)</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_29" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Henri-Montan</forename>
@@ -1404,7 +1407,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118586408</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q517</idno>
                   <idno type="URI" subtype="PMB">https://pmb.acdh.oeaw.ac.at/entity/4769</idno>
-               </person>
+               <noteGrp><note target="v__1854_DerHumoristAusschnitt.xml" type="mentions" corresp="1854-11-25">Vom Musikalisch-Schönen No. 305. Samstag den 25. November 1854. 18. Jahrgang</note></noteGrp><noteGrp><note target="v__1854_DerHumoristAusschnitt.xml" type="mentions" corresp="1854-11-25">Vom Musikalisch-Schönen No. 305. Samstag den 25. November 1854. 18. Jahrgang</note></noteGrp></person>
                <person xml:id="hsl_person_id_40" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Ludwig</forename>
@@ -1891,7 +1894,7 @@
                      <bibl n="hsl_work_id_2727">Polyeucte</bibl>
                      <bibl n="hsl_work_id_4219">Théodore vierge et martyre</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_52" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Claudina</forename>
@@ -2112,7 +2115,7 @@
                      <bibl n="hsl_work_id_1509">Lettere inedite di Gaetano Donizetti a diversi e letter di Rossini, Scribe, Dumas, Spontini, Adam, Verdi a Gaetano Donizetti</bibl>
                      <bibl n="hsl_work_id_4521">Catarina Cornaro</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp><noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp></person>
                <person xml:id="hsl_person_id_64" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Franz</forename>
@@ -2298,7 +2301,7 @@
                      <bibl n="hsl_work_id_4801">Messe in C-Dur</bibl>
                      <bibl n="hsl_work_id_4973">Mahomet's Gesang</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_SignalefuerdieMusikalischeWeltAusschnitt.xml" type="mentions" corresp="1854-11">Signale aus Wien No. 46. Leipzig, November. 1854</note></noteGrp><noteGrp><note target="v__1854_SignalefuerdieMusikalischeWeltAusschnitt.xml" type="mentions" corresp="1854-11">Signale aus Wien No. 46. Leipzig, November. 1854</note></noteGrp></person>
                <person xml:id="hsl_person_id_75" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Caroline</forename>
@@ -2705,7 +2708,7 @@
                      <bibl n="hsl_work_id_4693">Orfeo ed Euridice, Wq. 30 (Bearbeitung)</bibl>
                      <bibl n="hsl_work_id_4854">L'arbre enchanté</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note><note target="v__1855_GrenzbotenAusschnitt.xml" type="mentions" corresp="1855">Wissenschaft und Kunst 14. Jahrgang. I. Semester. I. Band. 1855</note><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1855_NiederrheinischeMusik-Zeitung2Ausschnitt.xml" type="mentions" corresp="1855-03-24">Stimmen der Kritik über Richard Wagner. II. Nr. 12. 24. März 1855. III. Jahrgang</note></noteGrp><noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note><note target="v__1855_GrenzbotenAusschnitt.xml" type="mentions" corresp="1855">Wissenschaft und Kunst 14. Jahrgang. I. Semester. I. Band. 1855</note><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1855_NiederrheinischeMusik-Zeitung2Ausschnitt.xml" type="mentions" corresp="1855-03-24">Stimmen der Kritik über Richard Wagner. II. Nr. 12. 24. März 1855. III. Jahrgang</note></noteGrp></person>
                <person xml:id="hsl_person_id_100" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Johann Wolfgang von</forename>
@@ -2806,7 +2809,7 @@
                      <bibl n="hsl_work_id_4969">In das Stammbuch meinem lieben Enkel Walther von Goethe</bibl>
                      <bibl n="hsl_work_id_4973">Mahomet's Gesang</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1855_NiederrheinischeMusik-Zeitung2Ausschnitt.xml" type="mentions" corresp="1855-03-24">Stimmen der Kritik über Richard Wagner. II. Nr. 12. 24. März 1855. III. Jahrgang</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1855_NiederrheinischeMusik-Zeitung2Ausschnitt.xml" type="mentions" corresp="1855-03-24">Stimmen der Kritik über Richard Wagner. II. Nr. 12. 24. März 1855. III. Jahrgang</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_101" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Karl</forename>
@@ -3010,7 +3013,7 @@
                      <bibl n="hsl_work_id_1175">Souvenirs et portraits. Etudes sur les beaux-arts</bibl>
                      <bibl n="hsl_work_id_1195">La dame de pique</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note></noteGrp><noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note></noteGrp></person>
                <person xml:id="hsl_person_id_107" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Johann Georg</forename>
@@ -3094,7 +3097,7 @@
                      <bibl n="hsl_work_id_4542">Konzert für Orgel</bibl>
                      <bibl n="hsl_work_id_4555">Te Deum in D-Dur, HWV283</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_109" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Richard</forename>
@@ -3143,7 +3146,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q562246</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_H/Hasselt-Barth_Wilhelmine.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_H/Hasselt-Barth_Anna-Maria-Wilhelmine_1813_1881.xml</idno>
-               </person>
+               <noteGrp><note target="v__1854_SignalefuerdieMusikalischeWeltAusschnitt.xml" type="mentions" corresp="1854-11">Signale aus Wien No. 46. Leipzig, November. 1854</note></noteGrp><noteGrp><note target="v__1854_SignalefuerdieMusikalischeWeltAusschnitt.xml" type="mentions" corresp="1854-11">Signale aus Wien No. 46. Leipzig, November. 1854</note></noteGrp></person>
                <person xml:id="hsl_person_id_112" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Hans Leo</forename>
@@ -3251,7 +3254,7 @@
                      <bibl n="hsl_work_id_5018">Trio</bibl>
                      <bibl n="hsl_work_id_5074">Abendlied zu Gott, Hob. XXVc:9</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp><noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp></person>
                <person xml:id="hsl_person_id_115" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Friedrich</forename>
@@ -3276,7 +3279,7 @@
                      <bibl n="hsl_work_id_4685">An Diana</bibl>
                      <bibl n="hsl_work_id_4741">Genoveva</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_DerHumoristAusschnitt.xml" type="mentions" corresp="1854-11-25">Vom Musikalisch-Schönen No. 305. Samstag den 25. November 1854. 18. Jahrgang</note></noteGrp><noteGrp><note target="v__1854_DerHumoristAusschnitt.xml" type="mentions" corresp="1854-11-25">Vom Musikalisch-Schönen No. 305. Samstag den 25. November 1854. 18. Jahrgang</note></noteGrp></person>
                <person xml:id="hsl_person_id_116" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Heinrich</forename>
@@ -3703,7 +3706,7 @@
                      <bibl n="hsl_work_id_4051">Beethoven im Malkasten</bibl>
                      <bibl n="hsl_work_id_4411">Lohengrin, Oper von Richard Wagner</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp><noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp></person>
                <person xml:id="hsl_person_id_136" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Jules Gabriel</forename>
@@ -3840,7 +3843,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_4243">Critik der reinen Vernunft</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_143" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Moritz</forename>
@@ -4362,7 +4365,7 @@
                      <bibl n="hsl_work_id_4942">Das Lied der Begeisterung, S91</bibl>
                      <bibl n="hsl_work_id_5011">Les préludes, S97</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1857_AnregungenfuerKunstLebenundWissenschaftAusschnitt.xml" type="mentions" corresp="1857">Ueber das musikalisch Schöne Zweiter Band (Jahrgang 1857.)</note><note target="v__1857_NeueZeitschriftfuerMusikAusschnitt1.xml" type="mentions" corresp="1857-05-01">Die Aesthetik der Tonkunst. Sechsundvierzigster Band. Nr. 18. Den 1. Mai 1857</note></noteGrp><noteGrp><note target="v__1857_AnregungenfuerKunstLebenundWissenschaftAusschnitt.xml" type="mentions" corresp="1857">Ueber das musikalisch Schöne Zweiter Band (Jahrgang 1857.)</note><note target="v__1857_NeueZeitschriftfuerMusikAusschnitt1.xml" type="mentions" corresp="1857-05-01">Die Aesthetik der Tonkunst. Sechsundvierzigster Band. Nr. 18. Den 1. Mai 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_165" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Albert</forename>
@@ -4572,7 +4575,7 @@
                      <bibl n="hsl_work_id_230">Der Templer und die Jüdin, op. 60</bibl>
                      <bibl n="hsl_work_id_606">Der Vampyr, op. 42</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_KatholischeLiteratur-ZeitungAusschnitt.xml" type="mentions" corresp="1855">Aesthetik No. 7. Montag, den 12. Februar 1855. II. Jahrg.</note></noteGrp><noteGrp><note target="v__1855_KatholischeLiteratur-ZeitungAusschnitt.xml" type="mentions" corresp="1855">Aesthetik No. 7. Montag, den 12. Februar 1855. II. Jahrg.</note></noteGrp></person>
                <person xml:id="hsl_person_id_175" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Adolf Bernhard</forename>
@@ -4590,7 +4593,7 @@
                      <bibl n="hsl_work_id_1411">Berliner allgemeine musikalische Zeitung</bibl>
                      <bibl n="hsl_work_id_2403">Mose, op. 10</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1856_NeuerBerlinerMusikzeitungAusschnitt.xml" type="mentions" corresp="1856-12-10">Nachrichten Zehnter Jahrgang No. 50. 10. December 1856</note><note target="v__1857_AnregungenfuerKunstLebenundWissenschaftAusschnitt.xml" type="mentions" corresp="1857">Ueber das musikalisch Schöne Zweiter Band (Jahrgang 1857.)</note></noteGrp><noteGrp><note target="v__1856_NeuerBerlinerMusikzeitungAusschnitt.xml" type="mentions" corresp="1856-12-10">Nachrichten Zehnter Jahrgang No. 50. 10. December 1856</note><note target="v__1857_AnregungenfuerKunstLebenundWissenschaftAusschnitt.xml" type="mentions" corresp="1857">Ueber das musikalisch Schöne Zweiter Band (Jahrgang 1857.)</note></noteGrp></person>
                <person xml:id="hsl_person_id_176" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Edoardo</forename>
@@ -4997,7 +5000,7 @@
                      <bibl n="hsl_work_id_5088">W. A. Mozart's Werke. Kritisch durchgesehene Gesammtausgabe</bibl>
                      <bibl n="hsl_work_id_5126">Variationen für Streichinstrumente und 2 Hörner</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_IllustrirteZeitungAusschnitt.xml" type="mentions" corresp="1854-12-23">Literatur No. 599. — Leipzig, 23. December 1854. — XXIII. Band</note><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1855_NiederrheinischeMusik-Zeitung2Ausschnitt.xml" type="mentions" corresp="1855-03-24">Stimmen der Kritik über Richard Wagner. II. Nr. 12. 24. März 1855. III. Jahrgang</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1854_IllustrirteZeitungAusschnitt.xml" type="mentions" corresp="1854-12-23">Literatur No. 599. — Leipzig, 23. December 1854. — XXIII. Band</note><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1855_NiederrheinischeMusik-Zeitung2Ausschnitt.xml" type="mentions" corresp="1855-03-24">Stimmen der Kritik über Richard Wagner. II. Nr. 12. 24. März 1855. III. Jahrgang</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_190" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Ilma von</forename>
@@ -5575,7 +5578,7 @@
                      <bibl n="hsl_work_id_3800">Der stille Zecher, op. 132</bibl>
                      <bibl n="hsl_work_id_4834">Fest-Ouvertüre</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note></noteGrp><noteGrp><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note></noteGrp></person>
                <person xml:id="hsl_person_id_220" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Giovanni</forename>
@@ -5696,7 +5699,7 @@
                      <bibl n="hsl_work_id_2797">Rigaudon, RCT2 Nr. 6</bibl>
                      <bibl n="hsl_work_id_3505">Suite für Klavier in e-Moll, RCT2</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung2Ausschnitt.xml" type="mentions" corresp="1855-03-24">Stimmen der Kritik über Richard Wagner. II. Nr. 12. 24. März 1855. III. Jahrgang</note><note target="v__1855_WolfgangMenzelsLiteraturblattAusschnitt.xml" type="mentions" corresp="1855-04-25">Ueber Musik Mittwoch, No 33. 25. April 1855</note></noteGrp><noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung2Ausschnitt.xml" type="mentions" corresp="1855-03-24">Stimmen der Kritik über Richard Wagner. II. Nr. 12. 24. März 1855. III. Jahrgang</note><note target="v__1855_WolfgangMenzelsLiteraturblattAusschnitt.xml" type="mentions" corresp="1855-04-25">Ueber Musik Mittwoch, No 33. 25. April 1855</note></noteGrp></person>
                <person xml:id="hsl_person_id_228" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Benedict</forename>
@@ -5977,7 +5980,7 @@
                      <bibl n="hsl_work_id_3463">Péchés de vieillesse, vol. X: Miscellanéefür Klavier</bibl>
                      <bibl n="hsl_work_id_3464">Péchés de vieillesse, vol. VII: Album de chaumière für Klavier</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note><note target="v__1856_LiterarischeMittheilungenderStGaller-BlaetterAusschnitt.xml" type="mentions" corresp="1856">Aesthetik No. 3. 1856</note></noteGrp><noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note><note target="v__1856_LiterarischeMittheilungenderStGaller-BlaetterAusschnitt.xml" type="mentions" corresp="1856">Aesthetik No. 3. 1856</note></noteGrp></person>
                <person xml:id="hsl_person_id_242" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>François Louis Gaud Lebland</forename>
@@ -6186,7 +6189,7 @@
                      <bibl n="hsl_work_id_4628">Demetrius</bibl>
                      <bibl n="hsl_work_id_4762">Dithyrambe für Männerchor und Orchester, op. 20</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_IllustrirteZeitungAusschnitt.xml" type="mentions" corresp="1854-12-23">Literatur No. 599. — Leipzig, 23. December 1854. — XXIII. Band</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1854_IllustrirteZeitungAusschnitt.xml" type="mentions" corresp="1854-12-23">Literatur No. 599. — Leipzig, 23. December 1854. — XXIII. Band</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_249" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Anton</forename>
@@ -6902,7 +6905,7 @@
                      <bibl n="hsl_work_id_4945">Märzveilchen, op. 40 Nr. 1</bibl>
                      <bibl n="hsl_work_id_4946">5 Lieder für Singstimme und Klavier, op. 40</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note></noteGrp><noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note></noteGrp></person>
                <person xml:id="hsl_person_id_283" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Moritz Ludwig von</forename>
@@ -7043,7 +7046,7 @@
                      <bibl n="hsl_work_id_4843">Macbeth</bibl>
                      <bibl n="hsl_work_id_4907">The Comedie of Errors</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_DerHumoristAusschnitt.xml" type="mentions" corresp="1854-11-25">Vom Musikalisch-Schönen No. 305. Samstag den 25. November 1854. 18. Jahrgang</note><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1854_DerHumoristAusschnitt.xml" type="mentions" corresp="1854-11-25">Vom Musikalisch-Schönen No. 305. Samstag den 25. November 1854. 18. Jahrgang</note><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_288" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Mathilde Franziska</forename>
@@ -7174,7 +7177,7 @@
                      <bibl n="hsl_work_id_4597">Konzert für Violine und Orchester Nr. 11 in G-Dur, op. 70</bibl>
                      <bibl n="hsl_work_id_4919">Konzert für Violine und Orchester Nr. 7 in e-Moll, op. 38</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp><noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp></person>
                <person xml:id="hsl_person_id_294" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Gaspare</forename>
@@ -7194,7 +7197,7 @@
                      <bibl n="hsl_work_id_3799">Fernand Cortez, ou La conquête du Mexique</bibl>
                      <bibl n="hsl_work_id_4091">Borussia</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note></noteGrp><noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note></noteGrp></person>
                <person xml:id="hsl_person_id_295" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Robert</forename>
@@ -7247,7 +7250,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1292106</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_S/Steger_Franz.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_S/Steger_Franz_1824_1914.xml</idno>
-               </person>
+               <noteGrp><note target="v__1854_SignalefuerdieMusikalischeWeltAusschnitt.xml" type="mentions" corresp="1854-11">Signale aus Wien No. 46. Leipzig, November. 1854</note></noteGrp><noteGrp><note target="v__1854_SignalefuerdieMusikalischeWeltAusschnitt.xml" type="mentions" corresp="1854-11">Signale aus Wien No. 46. Leipzig, November. 1854</note></noteGrp></person>
                <person xml:id="hsl_person_id_299" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Johann</forename>
@@ -7298,7 +7301,7 @@
                      <bibl n="hsl_work_id_4860">La reine Indigo</bibl>
                      <bibl n="hsl_work_id_4861">Cagliostro in Wien</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_IllustrirteZeitungAusschnitt.xml" type="mentions" corresp="1854-12-23">Literatur No. 599. — Leipzig, 23. December 1854. — XXIII. Band</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp><noteGrp><note target="v__1854_IllustrirteZeitungAusschnitt.xml" type="mentions" corresp="1854-12-23">Literatur No. 599. — Leipzig, 23. December 1854. — XXIII. Band</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp></person>
                <person xml:id="hsl_person_id_300" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Giuseppina</forename>
@@ -7563,7 +7566,7 @@
                      <bibl n="hsl_work_id_3212">Les vêpres siciliennes</bibl>
                      <bibl n="hsl_work_id_5120">Quartett für 2 Violinen, Viola und Cello in e-Moll, H36</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_BlaetterfuermusikalischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1855-04-12">Zur musikalischen Literatur Nr. 15. 12. April 1855</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1855_WolfgangMenzelsLiteraturblattAusschnitt.xml" type="mentions" corresp="1855-04-25">Ueber Musik Mittwoch, No 33. 25. April 1855</note></noteGrp><noteGrp><note target="v__1855_BlaetterfuermusikalischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1855-04-12">Zur musikalischen Literatur Nr. 15. 12. April 1855</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1855_WolfgangMenzelsLiteraturblattAusschnitt.xml" type="mentions" corresp="1855-04-25">Ueber Musik Mittwoch, No 33. 25. April 1855</note></noteGrp></person>
                <person xml:id="hsl_person_id_313" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Pauline</forename>
@@ -7748,7 +7751,7 @@
                      <bibl n="hsl_work_id_5010">Großer Festmarsch zur Eröffnung der hundertjährigen Gedenkfeier der Unabhängigkeitserklärung der Vereinigten Staaten von Nordamerika, WWV110</bibl>
                      <bibl n="hsl_work_id_5089">Drei Operndichtungen nebst einer Mittheilung an seine Freunde als Vorwort</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_DerHumoristAusschnitt.xml" type="mentions" corresp="1854-11-25">Vom Musikalisch-Schönen No. 305. Samstag den 25. November 1854. 18. Jahrgang</note><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note><note target="v__1855_DiePresseAusschnitt.xml" type="mentions" corresp="1855-04-17">Tagesneuigkeiten No. 88. Wien, Dienstag 17. April 1855. 8. Jahrgang</note><note target="v__1855_KatholischeLiteratur-ZeitungAusschnitt.xml" type="mentions" corresp="1855">Aesthetik No. 7. Montag, den 12. Februar 1855. II. Jahrg.</note><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1855_NiederrheinischeMusik-Zeitung2Ausschnitt.xml" type="mentions" corresp="1855-03-24">Stimmen der Kritik über Richard Wagner. II. Nr. 12. 24. März 1855. III. Jahrgang</note><note target="v__1855_WolfgangMenzelsLiteraturblattAusschnitt.xml" type="mentions" corresp="1855-04-25">Ueber Musik Mittwoch, No 33. 25. April 1855</note><note target="v__1857_AnregungenfuerKunstLebenundWissenschaftAusschnitt.xml" type="mentions" corresp="1857">Ueber das musikalisch Schöne Zweiter Band (Jahrgang 1857.)</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note><note target="v__1857_NeueZeitschriftfuerMusikAusschnitt2.xml" type="mentions" corresp="1857-10-30">Dr.  Siebenundvierzigster Band. Nr. 18. Den 30. October 1857</note></noteGrp><noteGrp><note target="v__1854_DerHumoristAusschnitt.xml" type="mentions" corresp="1854-11-25">Vom Musikalisch-Schönen No. 305. Samstag den 25. November 1854. 18. Jahrgang</note><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note><note target="v__1855_DiePresseAusschnitt.xml" type="mentions" corresp="1855-04-17">Tagesneuigkeiten No. 88. Wien, Dienstag 17. April 1855. 8. Jahrgang</note><note target="v__1855_KatholischeLiteratur-ZeitungAusschnitt.xml" type="mentions" corresp="1855">Aesthetik No. 7. Montag, den 12. Februar 1855. II. Jahrg.</note><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1855_NiederrheinischeMusik-Zeitung2Ausschnitt.xml" type="mentions" corresp="1855-03-24">Stimmen der Kritik über Richard Wagner. II. Nr. 12. 24. März 1855. III. Jahrgang</note><note target="v__1855_WolfgangMenzelsLiteraturblattAusschnitt.xml" type="mentions" corresp="1855-04-25">Ueber Musik Mittwoch, No 33. 25. April 1855</note><note target="v__1857_AnregungenfuerKunstLebenundWissenschaftAusschnitt.xml" type="mentions" corresp="1857">Ueber das musikalisch Schöne Zweiter Band (Jahrgang 1857.)</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note><note target="v__1857_NeueZeitschriftfuerMusikAusschnitt2.xml" type="mentions" corresp="1857-10-30">Dr.  Siebenundvierzigster Band. Nr. 18. Den 30. October 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_361" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Maria</forename>
@@ -8364,7 +8367,7 @@
                      <bibl n="hsl_work_id_1803">Oedipus Tyrannus</bibl>
                      <bibl n="hsl_work_id_4442">Oidipous epi Kolōnō</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_369" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Nikolas François</forename>
@@ -8469,7 +8472,7 @@
                   <occupation style="background-color: darker-blue;">Verleger</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117243264</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q52154682</idno>
-               </person>
+               <noteGrp><note target="v__1854_DerHumoristAusschnitt.xml" type="mentions" corresp="1854-11-25">Vom Musikalisch-Schönen No. 305. Samstag den 25. November 1854. 18. Jahrgang</note><note target="v__1854_DuesseldorferJournalundKreis-BlattAusschnitt.xml" type="mentions" corresp="1854-11-08">Wissenschaften und Künste No. 265. Mittwoch den 8. November 1854. 16. Jahrg.</note><note target="v__1854_NiederrheinischeMusikzeitungAusschnitt.xml" type="mentions" corresp="1854-11-04">Wiener Briefe Nr. 44. KÖLN, 4. November 1854. II. Jahrgang</note><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note><note target="v__1855_BlaetterfuermusikalischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1855-04-12">Zur musikalischen Literatur Nr. 15. 12. April 1855</note><note target="v__1855_GoettingischeGelehrteAnzeigenAusschnitt.xml" type="mentions" corresp="1855-07-05">Göttingische gelehrte Anzeigen 106. 107. Stück. Den 5. Juli 1855</note><note target="v__1855_GrenzbotenAusschnitt.xml" type="mentions" corresp="1855">Wissenschaft und Kunst 14. Jahrgang. I. Semester. I. Band. 1855</note><note target="v__1855_KatholischeLiteratur-ZeitungAusschnitt.xml" type="mentions" corresp="1855">Aesthetik No. 7. Montag, den 12. Februar 1855. II. Jahrg.</note><note target="v__1855_LeipzigerRepertoriumAusschnitt.xml" type="mentions" corresp="1855">Schöne Künste Dreizehnter Jahrgang. Erster Band. 1855</note><note target="v__1855_NeueBerlinerMusikzeitungAusschnitt.xml" type="mentions" corresp="1855-10-17">Musik-Literatur Neunter Jahrgang. No. 42. 17. October 1855</note><note target="v__1855_NeueWienerMusik-ZeitungAusschnitt.xml" type="mentions" corresp="1855-05-24">Literarische Anzeige Vierter Jahrgang Nr. 21. 24. Mai 1855</note><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1855_UnterhaltungenamhaeuslichenHerdAusschnitt.xml" type="mentions" corresp="1855">Unterhaltungen am häuslichen Herd Nr. 43</note><note target="v__1855_WolfgangMenzelsLiteraturblattAusschnitt.xml" type="mentions" corresp="1855-04-25">Ueber Musik Mittwoch, No 33. 25. April 1855</note><note target="v__1856_LiterarischeMittheilungenderStGaller-BlaetterAusschnitt.xml" type="mentions" corresp="1856">Aesthetik No. 3. 1856</note></noteGrp><noteGrp><note target="v__1854_DerHumoristAusschnitt.xml" type="mentions" corresp="1854-11-25">Vom Musikalisch-Schönen No. 305. Samstag den 25. November 1854. 18. Jahrgang</note><note target="v__1854_DuesseldorferJournalundKreis-BlattAusschnitt.xml" type="mentions" corresp="1854-11-08">Wissenschaften und Künste No. 265. Mittwoch den 8. November 1854. 16. Jahrg.</note><note target="v__1854_NiederrheinischeMusikzeitungAusschnitt.xml" type="mentions" corresp="1854-11-04">Wiener Briefe Nr. 44. KÖLN, 4. November 1854. II. Jahrgang</note><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note><note target="v__1855_BlaetterfuermusikalischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1855-04-12">Zur musikalischen Literatur Nr. 15. 12. April 1855</note><note target="v__1855_GoettingischeGelehrteAnzeigenAusschnitt.xml" type="mentions" corresp="1855-07-05">Göttingische gelehrte Anzeigen 106. 107. Stück. Den 5. Juli 1855</note><note target="v__1855_GrenzbotenAusschnitt.xml" type="mentions" corresp="1855">Wissenschaft und Kunst 14. Jahrgang. I. Semester. I. Band. 1855</note><note target="v__1855_KatholischeLiteratur-ZeitungAusschnitt.xml" type="mentions" corresp="1855">Aesthetik No. 7. Montag, den 12. Februar 1855. II. Jahrg.</note><note target="v__1855_LeipzigerRepertoriumAusschnitt.xml" type="mentions" corresp="1855">Schöne Künste Dreizehnter Jahrgang. Erster Band. 1855</note><note target="v__1855_NeueBerlinerMusikzeitungAusschnitt.xml" type="mentions" corresp="1855-10-17">Musik-Literatur Neunter Jahrgang. No. 42. 17. October 1855</note><note target="v__1855_NeueWienerMusik-ZeitungAusschnitt.xml" type="mentions" corresp="1855-05-24">Literarische Anzeige Vierter Jahrgang Nr. 21. 24. Mai 1855</note><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1855_UnterhaltungenamhaeuslichenHerdAusschnitt.xml" type="mentions" corresp="1855">Unterhaltungen am häuslichen Herd Nr. 43</note><note target="v__1855_WolfgangMenzelsLiteraturblattAusschnitt.xml" type="mentions" corresp="1855-04-25">Ueber Musik Mittwoch, No 33. 25. April 1855</note><note target="v__1856_LiterarischeMittheilungenderStGaller-BlaetterAusschnitt.xml" type="mentions" corresp="1856">Aesthetik No. 3. 1856</note></noteGrp></person>
                <person xml:id="hsl_person_id_378" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Georg Wilhelm Friedrich</forename>
@@ -8485,7 +8488,7 @@
                      <bibl n="hsl_work_id_320">Vorlesungen über die Aesthetik</bibl>
                      <bibl n="hsl_work_id_2863">Phänomenologie des Geistes</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_IllustrirteZeitungAusschnitt.xml" type="mentions" corresp="1854-12-23">Literatur No. 599. — Leipzig, 23. December 1854. — XXIII. Band</note><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note><note target="v__1855_BlaetterfuermusikalischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1855-04-12">Zur musikalischen Literatur Nr. 15. 12. April 1855</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1856_NeuerBerlinerMusikzeitungAusschnitt.xml" type="mentions" corresp="1856-12-10">Nachrichten Zehnter Jahrgang No. 50. 10. December 1856</note><note target="v__1857_AnregungenfuerKunstLebenundWissenschaftAusschnitt.xml" type="mentions" corresp="1857">Ueber das musikalisch Schöne Zweiter Band (Jahrgang 1857.)</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1854_IllustrirteZeitungAusschnitt.xml" type="mentions" corresp="1854-12-23">Literatur No. 599. — Leipzig, 23. December 1854. — XXIII. Band</note><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note><note target="v__1855_BlaetterfuermusikalischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1855-04-12">Zur musikalischen Literatur Nr. 15. 12. April 1855</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1856_NeuerBerlinerMusikzeitungAusschnitt.xml" type="mentions" corresp="1856-12-10">Nachrichten Zehnter Jahrgang No. 50. 10. December 1856</note><note target="v__1857_AnregungenfuerKunstLebenundWissenschaftAusschnitt.xml" type="mentions" corresp="1857">Ueber das musikalisch Schöne Zweiter Band (Jahrgang 1857.)</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_379" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Friedrich Theodor</forename>
@@ -8511,7 +8514,7 @@
                      <bibl n="hsl_work_id_4577">Aesthetik oder Wissenschaft des Schönen. Zum Gebrauche für Vorlesungen. Dritter Theil: Die Kunstlehre. Zweiter Abschnitt: Die Künste. Viertes Heft: Die Musik.</bibl>
                      <bibl n="hsl_work_id_5009">Goethes Faust. Neue Beiträge zur Kritik des Gedichts</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note><note target="v__1855_GrenzbotenAusschnitt.xml" type="mentions" corresp="1855">Wissenschaft und Kunst 14. Jahrgang. I. Semester. I. Band. 1855</note><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1856_LiterarischeMittheilungenderStGaller-BlaetterAusschnitt.xml" type="mentions" corresp="1856">Aesthetik No. 3. 1856</note><note target="v__1857_AnregungenfuerKunstLebenundWissenschaftAusschnitt.xml" type="mentions" corresp="1857">Ueber das musikalisch Schöne Zweiter Band (Jahrgang 1857.)</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note><note target="v__1857_NeueZeitschriftfuerMusikAusschnitt1.xml" type="mentions" corresp="1857-05-01">Die Aesthetik der Tonkunst. Sechsundvierzigster Band. Nr. 18. Den 1. Mai 1857</note></noteGrp><noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note><note target="v__1855_GrenzbotenAusschnitt.xml" type="mentions" corresp="1855">Wissenschaft und Kunst 14. Jahrgang. I. Semester. I. Band. 1855</note><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1856_LiterarischeMittheilungenderStGaller-BlaetterAusschnitt.xml" type="mentions" corresp="1856">Aesthetik No. 3. 1856</note><note target="v__1857_AnregungenfuerKunstLebenundWissenschaftAusschnitt.xml" type="mentions" corresp="1857">Ueber das musikalisch Schöne Zweiter Band (Jahrgang 1857.)</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note><note target="v__1857_NeueZeitschriftfuerMusikAusschnitt1.xml" type="mentions" corresp="1857-05-01">Die Aesthetik der Tonkunst. Sechsundvierzigster Band. Nr. 18. Den 1. Mai 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_380" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
@@ -8533,7 +8536,7 @@
                      <bibl n="hsl_work_id_2221">Madonna della Seggiola</bibl>
                      <bibl n="hsl_work_id_4244">Madonna di San Sisto</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_DerHumoristAusschnitt.xml" type="mentions" corresp="1854-11-25">Vom Musikalisch-Schönen No. 305. Samstag den 25. November 1854. 18. Jahrgang</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1854_DerHumoristAusschnitt.xml" type="mentions" corresp="1854-11-25">Vom Musikalisch-Schönen No. 305. Samstag den 25. November 1854. 18. Jahrgang</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_381" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Nicolas</forename>
@@ -8590,7 +8593,7 @@
                      <bibl n="hsl_work_id_321">Der vollkommene Capellmeister, das ist gründliche Anzeige aller derjenigen Sachen, die einer wissen, können und vollkommen inne haben muß, der einer Capelle mit Ehren und Nutzen vorstehen will</bibl>
                      <bibl n="hsl_work_id_2452">Das neu-eröffnete Orchestre, oder Universelle und gründliche Anleitung, wie ein Glant Homme einen vollkommenen Begriff von der Hoheit und Würde der edlen Music erlangen, seinen Gout darnach formiren, die Terminos technicos verstehen und geschickt von dieser vortrefflichen Wissenschaft raisonniren möge</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_WolfgangMenzelsLiteraturblattAusschnitt.xml" type="mentions" corresp="1855-04-25">Ueber Musik Mittwoch, No 33. 25. April 1855</note><note target="v__1856_LiterarischeMittheilungenderStGaller-BlaetterAusschnitt.xml" type="mentions" corresp="1856">Aesthetik No. 3. 1856</note></noteGrp><noteGrp><note target="v__1855_WolfgangMenzelsLiteraturblattAusschnitt.xml" type="mentions" corresp="1855-04-25">Ueber Musik Mittwoch, No 33. 25. April 1855</note><note target="v__1856_LiterarischeMittheilungenderStGaller-BlaetterAusschnitt.xml" type="mentions" corresp="1856">Aesthetik No. 3. 1856</note></noteGrp></person>
                <person xml:id="hsl_person_id_384" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Johann Georg</forename>
@@ -8848,7 +8851,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_337">Aesthetik der Tonkunst</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1857_AnregungenfuerKunstLebenundWissenschaftAusschnitt.xml" type="mentions" corresp="1857">Ueber das musikalisch Schöne Zweiter Band (Jahrgang 1857.)</note></noteGrp><noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1857_AnregungenfuerKunstLebenundWissenschaftAusschnitt.xml" type="mentions" corresp="1857">Ueber das musikalisch Schöne Zweiter Band (Jahrgang 1857.)</note></noteGrp></person>
                <person xml:id="hsl_person_id_400" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Heinrich Friedrich Wilhelm</forename>
@@ -8929,7 +8932,7 @@
                      <bibl n="hsl_work_id_345">Psychologie oder die Wissenschaft vom subjectiven Geist</bibl>
                      <bibl n="hsl_work_id_3808">Aesthetik des Häßlichen</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note></noteGrp><noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note></noteGrp></person>
                <person xml:id="hsl_person_id_405" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Jean-Baptiste Antoine</forename>
@@ -8966,7 +8969,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11856871X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q379022</idno>
                   <idno type="URI" subtype="PMB">https://pmb.acdh.oeaw.ac.at/entity/154587</idno>
-               </person>
+               <noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note></noteGrp><noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note></noteGrp></person>
                <person xml:id="hsl_person_id_408" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Julian</forename>
@@ -8983,7 +8986,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_355">Geschichte der deutschen Literatur seit Lessing's Tod</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_DiePresseAusschnitt.xml" type="mentions" corresp="1855-04-17">Tagesneuigkeiten No. 88. Wien, Dienstag 17. April 1855. 8. Jahrgang</note></noteGrp><noteGrp><note target="v__1855_DiePresseAusschnitt.xml" type="mentions" corresp="1855-04-17">Tagesneuigkeiten No. 88. Wien, Dienstag 17. April 1855. 8. Jahrgang</note></noteGrp></person>
                <person xml:id="hsl_person_id_409" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Aleksandr Dmitrievič</forename>
@@ -9035,7 +9038,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118594893</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q859</idno>
                   <idno type="URI" subtype="PMB">https://pmb.acdh.oeaw.ac.at/entity/4336</idno>
-               </person>
+               <noteGrp><note target="v__1854_IllustrirteZeitungAusschnitt.xml" type="mentions" corresp="1854-12-23">Literatur No. 599. — Leipzig, 23. December 1854. — XXIII. Band</note></noteGrp><noteGrp><note target="v__1854_IllustrirteZeitungAusschnitt.xml" type="mentions" corresp="1854-12-23">Literatur No. 599. — Leipzig, 23. December 1854. — XXIII. Band</note></noteGrp></person>
                <person xml:id="hsl_person_id_412" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Hans Christian</forename>
@@ -9098,7 +9101,7 @@
                      <bibl n="hsl_work_id_3205">Jenny Lind. Eine Skizze ihres Lebens und ihrer Künstler-Laufbahn bis auf die neueste Zeit</bibl>
                      <bibl n="hsl_work_id_3731">Über Hector Berlioz</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note></noteGrp><noteGrp><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note></noteGrp></person>
                <person xml:id="hsl_person_id_415" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Jean-Jacques</forename>
@@ -9117,7 +9120,7 @@
                      <bibl n="hsl_work_id_2451">Le devin du village</bibl>
                      <bibl n="hsl_work_id_4758">Les confessions</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1855_NiederrheinischeMusik-Zeitung2Ausschnitt.xml" type="mentions" corresp="1855-03-24">Stimmen der Kritik über Richard Wagner. II. Nr. 12. 24. März 1855. III. Jahrgang</note><note target="v__1855_WolfgangMenzelsLiteraturblattAusschnitt.xml" type="mentions" corresp="1855-04-25">Ueber Musik Mittwoch, No 33. 25. April 1855</note></noteGrp><noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1855_NiederrheinischeMusik-Zeitung2Ausschnitt.xml" type="mentions" corresp="1855-03-24">Stimmen der Kritik über Richard Wagner. II. Nr. 12. 24. März 1855. III. Jahrgang</note><note target="v__1855_WolfgangMenzelsLiteraturblattAusschnitt.xml" type="mentions" corresp="1855-04-25">Ueber Musik Mittwoch, No 33. 25. April 1855</note></noteGrp></person>
                <person xml:id="hsl_person_id_416" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
@@ -9133,7 +9136,7 @@
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_820">Bibel</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_417" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Michail Ivanovič</forename>
@@ -10177,7 +10180,7 @@
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_348">Fidelio, op. 72</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_480" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
@@ -10190,7 +10193,7 @@
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_348">Fidelio, op. 72</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_481" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
@@ -10199,7 +10202,7 @@
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_348">Fidelio, op. 72</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note></noteGrp><noteGrp><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note></noteGrp></person>
                <person xml:id="hsl_person_id_482" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Luigi</forename>
@@ -10285,7 +10288,7 @@
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_165">Iphigénie en Tauride, Wq. 46</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp><noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp></person>
                <person xml:id="hsl_person_id_489" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
@@ -10836,7 +10839,7 @@
                      <bibl n="hsl_work_id_523">Freut euch des Lebens</bibl>
                      <bibl n="hsl_work_id_3634">Gesellschafts-Liederbuch für vierstimmigen Männergesang</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_LeipzigerRepertoriumAusschnitt.xml" type="mentions" corresp="1855">Schöne Künste Dreizehnter Jahrgang. Erster Band. 1855</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp><noteGrp><note target="v__1855_LeipzigerRepertoriumAusschnitt.xml" type="mentions" corresp="1855">Schöne Künste Dreizehnter Jahrgang. Erster Band. 1855</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp></person>
                <person xml:id="hsl_person_id_556" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Carl Friedrich</forename>
@@ -10854,7 +10857,7 @@
                      <bibl n="hsl_work_id_387">Briefwechsel zwischen Goethe und Zelter</bibl>
                      <bibl n="hsl_work_id_3868">Des Teutschen Vaterland</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note></noteGrp><noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note></noteGrp></person>
                <person xml:id="hsl_person_id_557" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Maria</forename>
@@ -11054,7 +11057,7 @@
                   <occupation style="background-color: darker-cyan;">Maler</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118519352</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q61987</idno>
-               </person>
+               <noteGrp><note target="v__1857_AnregungenfuerKunstLebenundWissenschaftAusschnitt.xml" type="mentions" corresp="1857">Ueber das musikalisch Schöne Zweiter Band (Jahrgang 1857.)</note></noteGrp><noteGrp><note target="v__1857_AnregungenfuerKunstLebenundWissenschaftAusschnitt.xml" type="mentions" corresp="1857">Ueber das musikalisch Schöne Zweiter Band (Jahrgang 1857.)</note></noteGrp></person>
                <person xml:id="hsl_person_id_573" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Emil</forename>
@@ -11105,7 +11108,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_392">Medicinische Psychologie oder Physiologie der Seele</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_GoettingischeGelehrteAnzeigenAusschnitt.xml" type="mentions" corresp="1855-07-05">Göttingische gelehrte Anzeigen 106. 107. Stück. Den 5. Juli 1855</note></noteGrp><noteGrp><note target="v__1855_GoettingischeGelehrteAnzeigenAusschnitt.xml" type="mentions" corresp="1855-07-05">Göttingische gelehrte Anzeigen 106. 107. Stück. Den 5. Juli 1855</note></noteGrp></person>
                <person xml:id="hsl_person_id_576" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Johann David</forename>
@@ -11124,7 +11127,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_393">Der General-Bass in der Composition</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_WolfgangMenzelsLiteraturblattAusschnitt.xml" type="mentions" corresp="1855-04-25">Ueber Musik Mittwoch, No 33. 25. April 1855</note></noteGrp><noteGrp><note target="v__1855_WolfgangMenzelsLiteraturblattAusschnitt.xml" type="mentions" corresp="1855-04-25">Ueber Musik Mittwoch, No 33. 25. April 1855</note></noteGrp></person>
                <person xml:id="hsl_person_id_577" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Franz Friedrich Siegmund August</forename>
@@ -12177,7 +12180,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_398">Ueber das Verhältniß der bildenden Künste zu der Natur</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_678" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Tommaso</forename>
@@ -12300,7 +12303,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_406">Beiträge für Leben und Wissenschaft der Tonkunst</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp><noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp></person>
                <person xml:id="hsl_person_id_687" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Moritz</forename>
@@ -12324,7 +12327,7 @@
                      <bibl n="hsl_work_id_4455">Briefe von Moritz Hauptmann, Kantor und Musikdirektor an der Thomasschule zu Leipzig, an Franz Hauser</bibl>
                      <bibl n="hsl_work_id_4766">Opuscula. Vermischte Aufsätze</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp><noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp></person>
                <person xml:id="hsl_person_id_688" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Jacob</forename>
@@ -12348,7 +12351,7 @@
                      <bibl n="hsl_work_id_2861">Sneewittchen (Schneeweißchen)</bibl>
                      <bibl n="hsl_work_id_3576">König Drosselbart</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp><noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp></person>
                <person xml:id="hsl_person_id_689" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Johanna</forename>
@@ -12377,7 +12380,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118529153</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q435844</idno>
                   <idno type="URI" subtype="PMB">https://pmb.acdh.oeaw.ac.at/entity/146268</idno>
-               </person>
+               <noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp><noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp></person>
                <person xml:id="hsl_person_id_691" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
@@ -12395,7 +12398,7 @@
                   <occupation style="background-color: light-yellow;">Sagenfigur</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118621211</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q30908</idno>
-               </person>
+               <noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp><noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp></person>
                <person xml:id="hsl_person_id_693" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>d'Arc</forename>
@@ -12422,7 +12425,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_409">System der Aesthetik</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp><noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp></person>
                <person xml:id="hsl_person_id_695" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
@@ -12469,7 +12472,7 @@
                      <bibl n="hsl_work_id_3365">Hamburgische Dramaturgie</bibl>
                      <bibl n="hsl_work_id_3366">Wem ich zu gefallen suche, und nicht suche</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1856_LiterarischeMittheilungenderStGaller-BlaetterAusschnitt.xml" type="mentions" corresp="1856">Aesthetik No. 3. 1856</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1856_LiterarischeMittheilungenderStGaller-BlaetterAusschnitt.xml" type="mentions" corresp="1856">Aesthetik No. 3. 1856</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_698" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
@@ -12478,7 +12481,7 @@
                   <occupation style="background-color: light-yellow;">Sagenfigur</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118569651</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q22878</idno>
-               </person>
+               <noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp><noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp></person>
                <person xml:id="hsl_person_id_699" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Jean-Pierre Claris de</forename>
@@ -12493,7 +12496,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_3966">Estelle</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp><noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp></person>
                <person xml:id="hsl_person_id_738" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Gotthold</forename>
@@ -12515,7 +12518,7 @@
                   <occupation style="background-color: dark-gray;">Gottheit</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118649809</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q35500</idno>
-               </person>
+               <noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp><noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp></person>
                <person xml:id="hsl_person_id_701" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Bertel</forename>
@@ -12531,7 +12534,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118622323</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q47812</idno>
                   <idno type="URI" subtype="PMB">https://pmb.acdh.oeaw.ac.at/entity/26034</idno>
-               </person>
+               <noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp><noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp></person>
                <person xml:id="hsl_person_id_702" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Friedrich</forename>
@@ -12544,7 +12547,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118840266</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q169311</idno>
                   <idno type="URI" subtype="PMB">https://pmb.acdh.oeaw.ac.at/entity/148672</idno>
-               </person>
+               <noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp><noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp></person>
                <person xml:id="hsl_person_id_703" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Jan</forename>
@@ -12582,7 +12585,7 @@
                      <bibl n="hsl_work_id_4799">Die spekulative Aesthetik und die Kritik</bibl>
                      <bibl n="hsl_work_id_5166">Zur Aesthetik der Tonkunst</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note></noteGrp><noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note></noteGrp></person>
                <person xml:id="hsl_person_id_706" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Johann Ambrosius</forename>
@@ -12802,7 +12805,7 @@
                      <bibl n="hsl_work_id_4492">Die Geschichte des Antichrist</bibl>
                      <bibl n="hsl_work_id_5113">Trio in Es-Dur</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1856_NeuerBerlinerMusikzeitungAusschnitt.xml" type="mentions" corresp="1856-12-10">Nachrichten Zehnter Jahrgang No. 50. 10. December 1856</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1856_NeuerBerlinerMusikzeitungAusschnitt.xml" type="mentions" corresp="1856-12-10">Nachrichten Zehnter Jahrgang No. 50. 10. December 1856</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_718" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Heinrich</forename>
@@ -13417,7 +13420,7 @@
                   <occupation style="background-color: light-yellow;">Sagenfigur</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118590278</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q174353</idno>
-               </person>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_784" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Bartolomeo Ortensio</forename>
@@ -13499,7 +13502,7 @@
                      <bibl n="hsl_work_id_1191">Musikalische Briefe. Wahrheit über Tonkunst und Tonkünstler. Von einem Wohlbekannten</bibl>
                      <bibl n="hsl_work_id_4842">Fliegende Blätter für Musik. Wahrheit über Tonkunst und Tonkünstler</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_LeipzigerRepertoriumAusschnitt.xml" type="mentions" corresp="1855">Schöne Künste Dreizehnter Jahrgang. Erster Band. 1855</note></noteGrp><noteGrp><note target="v__1855_LeipzigerRepertoriumAusschnitt.xml" type="mentions" corresp="1855">Schöne Künste Dreizehnter Jahrgang. Erster Band. 1855</note></noteGrp></person>
                <person xml:id="hsl_person_id_790" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Wilhelm von</forename>
@@ -13592,7 +13595,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_481">Kurze Encyklopädie der Philosophie aus praktischen Gesichtspuncten entworfen</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note></noteGrp><noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note></noteGrp></person>
                <person xml:id="hsl_person_id_796" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
@@ -13814,7 +13817,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_4759">Hunnenschlacht</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_815" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Buonarroti</forename>
@@ -13930,7 +13933,7 @@
                      <bibl n="hsl_work_id_2400">Des Heilands letzte Stunden, WoO62</bibl>
                      <bibl n="hsl_work_id_4791">Alinde, D904</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1857_NeueZeitschriftfuerMusikAusschnitt1.xml" type="mentions" corresp="1857-05-01">Die Aesthetik der Tonkunst. Sechsundvierzigster Band. Nr. 18. Den 1. Mai 1857</note></noteGrp><noteGrp><note target="v__1857_NeueZeitschriftfuerMusikAusschnitt1.xml" type="mentions" corresp="1857-05-01">Die Aesthetik der Tonkunst. Sechsundvierzigster Band. Nr. 18. Den 1. Mai 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_823" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Kaiser des Heiligen Römischen Reichs</forename>
@@ -15684,7 +15687,7 @@
                      <bibl n="hsl_work_id_3153">Le désert</bibl>
                      <bibl n="hsl_work_id_4276">L'avant d'homme</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_970" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Ferdinand</forename>
@@ -17675,7 +17678,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_4412">Leda mit dem Schwan</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp><noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp></person>
                <person xml:id="hsl_person_id_1110" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Antal</forename>
@@ -18188,7 +18191,7 @@
                      <bibl n="hsl_work_id_4343">Zampa-Walzer, op. 57</bibl>
                      <bibl n="hsl_work_id_4345">Zampa-Galopp, op. 62</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_IllustrirteZeitungAusschnitt.xml" type="mentions" corresp="1854-12-23">Literatur No. 599. — Leipzig, 23. December 1854. — XXIII. Band</note></noteGrp><noteGrp><note target="v__1854_IllustrirteZeitungAusschnitt.xml" type="mentions" corresp="1854-12-23">Literatur No. 599. — Leipzig, 23. December 1854. — XXIII. Band</note></noteGrp></person>
                <person xml:id="hsl_person_id_1151" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Josef</forename>
@@ -22666,7 +22669,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_4184">Der Bayerische Schützenmarsch</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_1461" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Albert</forename>
@@ -22855,7 +22858,7 @@
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_174">Il dissoluto punito ossia Il Don Giovanni, KV527</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_SignalefuerdieMusikalischeWeltAusschnitt.xml" type="mentions" corresp="1854-11">Signale aus Wien No. 46. Leipzig, November. 1854</note></noteGrp><noteGrp><note target="v__1854_SignalefuerdieMusikalischeWeltAusschnitt.xml" type="mentions" corresp="1854-11">Signale aus Wien No. 46. Leipzig, November. 1854</note></noteGrp></person>
                <person xml:id="hsl_person_id_1475" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
@@ -24945,7 +24948,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118605836</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q28730</idno>
                   <idno type="URI" subtype="PMB">https://pmb.acdh.oeaw.ac.at/entity/146601</idno>
-               </person>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_1642" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Carl</forename>
@@ -26336,7 +26339,7 @@
                      <bibl n="hsl_work_id_4495">Die Musik der Gegenwart und die Gesammtkunst der Zukunft</bibl>
                      <bibl n="hsl_work_id_4638">Zur Einleitung</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note><note target="v__1855_NiederrheinischeMusik-Zeitung2Ausschnitt.xml" type="mentions" corresp="1855-03-24">Stimmen der Kritik über Richard Wagner. II. Nr. 12. 24. März 1855. III. Jahrgang</note><note target="v__1856_NeuerBerlinerMusikzeitungAusschnitt.xml" type="mentions" corresp="1856-12-10">Nachrichten Zehnter Jahrgang No. 50. 10. December 1856</note><note target="v__1857_AnregungenfuerKunstLebenundWissenschaftAusschnitt.xml" type="mentions" corresp="1857">Ueber das musikalisch Schöne Zweiter Band (Jahrgang 1857.)</note><note target="v__1857_NeueZeitschriftfuerMusikAusschnitt1.xml" type="mentions" corresp="1857-05-01">Die Aesthetik der Tonkunst. Sechsundvierzigster Band. Nr. 18. Den 1. Mai 1857</note></noteGrp><noteGrp><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note><note target="v__1855_NiederrheinischeMusik-Zeitung2Ausschnitt.xml" type="mentions" corresp="1855-03-24">Stimmen der Kritik über Richard Wagner. II. Nr. 12. 24. März 1855. III. Jahrgang</note><note target="v__1856_NeuerBerlinerMusikzeitungAusschnitt.xml" type="mentions" corresp="1856-12-10">Nachrichten Zehnter Jahrgang No. 50. 10. December 1856</note><note target="v__1857_AnregungenfuerKunstLebenundWissenschaftAusschnitt.xml" type="mentions" corresp="1857">Ueber das musikalisch Schöne Zweiter Band (Jahrgang 1857.)</note><note target="v__1857_NeueZeitschriftfuerMusikAusschnitt1.xml" type="mentions" corresp="1857-05-01">Die Aesthetik der Tonkunst. Sechsundvierzigster Band. Nr. 18. Den 1. Mai 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_1746" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>?</forename>
@@ -27846,7 +27849,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118571249</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q9047</idno>
                   <idno type="URI" subtype="PMB">https://pmb.acdh.oeaw.ac.at/entity/5390</idno>
-               </person>
+               <noteGrp><note target="v__1855_UnterhaltungenamhaeuslichenHerdAusschnitt.xml" type="mentions" corresp="1855">Unterhaltungen am häuslichen Herd Nr. 43</note></noteGrp><noteGrp><note target="v__1855_UnterhaltungenamhaeuslichenHerdAusschnitt.xml" type="mentions" corresp="1855">Unterhaltungen am häuslichen Herd Nr. 43</note></noteGrp></person>
                <person xml:id="hsl_person_id_1858" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Leopold</forename>
@@ -28946,7 +28949,7 @@
                   <occupation style="background-color: orange;">Monarch</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118523929</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q41370</idno>
-               </person>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_1946" resp="#awilfing" cert="medium">
                   <persName type="main">
                      <forename>Alexandre</forename>
@@ -34976,7 +34979,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q90175</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_C/Cornet_Julius.xml</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_C/Cornet_Julius_1793_1860.xml</idno>
-               </person>
+               <noteGrp><note target="v__1854_SignalefuerdieMusikalischeWeltAusschnitt.xml" type="mentions" corresp="1854-11">Signale aus Wien No. 46. Leipzig, November. 1854</note></noteGrp><noteGrp><note target="v__1854_SignalefuerdieMusikalischeWeltAusschnitt.xml" type="mentions" corresp="1854-11">Signale aus Wien No. 46. Leipzig, November. 1854</note></noteGrp></person>
                <person xml:id="hsl_person_id_2361" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Wenzel Robert von</forename>
@@ -35875,7 +35878,7 @@
                      <bibl n="hsl_work_id_1420">Nur wer die Liebe kennt, D513a</bibl>
                      <bibl n="hsl_work_id_2288">Das Kreuz an der Ostsee</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note></noteGrp><noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note></noteGrp></person>
                <person xml:id="hsl_person_id_2426" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Adolf</forename>
@@ -35944,7 +35947,7 @@
                      <bibl n="hsl_work_id_1430">Der Wanderer, D649</bibl>
                      <bibl n="hsl_work_id_4795">Alarcos</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note></noteGrp><noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note></noteGrp></person>
                <person xml:id="hsl_person_id_2430" resp="#awilfing" cert="medium">
                   <persName type="main">
                      <forename>Georg Philipp</forename>
@@ -37939,7 +37942,7 @@
                   <occupation style="background-color: light-yellow;">Sagenfigur</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118579878</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q174278</idno>
-               </person>
+               <noteGrp><note target="v__1854_DerHumoristAusschnitt.xml" type="mentions" corresp="1854-11-25">Vom Musikalisch-Schönen No. 305. Samstag den 25. November 1854. 18. Jahrgang</note></noteGrp><noteGrp><note target="v__1854_DerHumoristAusschnitt.xml" type="mentions" corresp="1854-11-25">Vom Musikalisch-Schönen No. 305. Samstag den 25. November 1854. 18. Jahrgang</note></noteGrp></person>
                <person xml:id="hsl_person_id_2589" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Michael</forename>
@@ -40895,7 +40898,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q79181</idno>
                   <idno type="URI" subtype="PMB">https://pmb.acdh.oeaw.ac.at/entity/114231</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_T/Thun-Hohenstein_Leo_1811_1888.xml</idno>
-               </person>
+               <noteGrp><note target="v__1854_DuesseldorferJournalundKreis-BlattAusschnitt.xml" type="mentions" corresp="1854-11-08">Wissenschaften und Künste No. 265. Mittwoch den 8. November 1854. 16. Jahrg.</note></noteGrp><noteGrp><note target="v__1854_DuesseldorferJournalundKreis-BlattAusschnitt.xml" type="mentions" corresp="1854-11-08">Wissenschaften und Künste No. 265. Mittwoch den 8. November 1854. 16. Jahrg.</note></noteGrp></person>
                <person xml:id="hsl_person_id_2817" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Anton von</forename>
@@ -47906,7 +47909,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118664883</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q318385</idno>
                   <idno type="URI" subtype="OEML">https://www.musiklexikon.ac.at/ml/musik_B/Bull_Ole.xml</idno>
-               </person>
+               <noteGrp><note target="v__1855_DwightsJournalofMusicAuschnitt.xml" type="mentions" corresp="1855-07-21">Music the Exponent of Emotion Whole No. 172. Boston, Saturday, July 21, 1855. Vol. VII. No. 16</note></noteGrp><noteGrp><note target="v__1855_DwightsJournalofMusicAuschnitt.xml" type="mentions" corresp="1855-07-21">Music the Exponent of Emotion Whole No. 172. Boston, Saturday, July 21, 1855. Vol. VII. No. 16</note></noteGrp></person>
                <person xml:id="hsl_person_id_3361" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Anna</forename>
@@ -52624,7 +52627,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_4413">Jupiter und Io</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp><noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp></person>
                <person xml:id="hsl_person_id_3719" resp="#awilfing" cert="medium">
                   <persName type="main">
                      <forename>Romano</forename>
@@ -55642,7 +55645,7 @@
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_2443">Wilhelm Meisters Lehrjahre</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note></noteGrp><noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note></noteGrp></person>
                <person xml:id="hsl_person_id_3958" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
@@ -56484,7 +56487,7 @@
                   <occupation style="background-color: green;">Sängerin (Sopran)</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116646896</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3052464</idno>
-               </person>
+               <noteGrp><note target="v__1854_SignalefuerdieMusikalischeWeltAusschnitt.xml" type="mentions" corresp="1854-11">Signale aus Wien No. 46. Leipzig, November. 1854</note></noteGrp><noteGrp><note target="v__1854_SignalefuerdieMusikalischeWeltAusschnitt.xml" type="mentions" corresp="1854-11">Signale aus Wien No. 46. Leipzig, November. 1854</note></noteGrp></person>
                <person xml:id="hsl_person_id_4031" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Fanny</forename>
@@ -64139,7 +64142,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_4245">Aesthetik in Umrissen. Zur allgemeineren philosophischen Orientierung auf dem Gebiete der Kunst</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_4661" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Fannie</forename>
@@ -64660,7 +64663,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_3055">Mater Dolorosa</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_WolfgangMenzelsLiteraturblattAusschnitt.xml" type="mentions" corresp="1855-04-25">Ueber Musik Mittwoch, No 33. 25. April 1855</note></noteGrp><noteGrp><note target="v__1855_WolfgangMenzelsLiteraturblattAusschnitt.xml" type="mentions" corresp="1855-04-25">Ueber Musik Mittwoch, No 33. 25. April 1855</note></noteGrp></person>
                <person xml:id="hsl_person_id_4706" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Anna</forename>
@@ -65198,7 +65201,7 @@
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_58">Robert le diable</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_SignalefuerdieMusikalischeWeltAusschnitt.xml" type="mentions" corresp="1854-11">Signale aus Wien No. 46. Leipzig, November. 1854</note></noteGrp><noteGrp><note target="v__1854_SignalefuerdieMusikalischeWeltAusschnitt.xml" type="mentions" corresp="1854-11">Signale aus Wien No. 46. Leipzig, November. 1854</note></noteGrp></person>
                <person xml:id="hsl_person_id_4751" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Henriette</forename>
@@ -66763,7 +66766,7 @@
                      <bibl n="hsl_work_id_4640">An unsere Leser</bibl>
                      <bibl n="hsl_work_id_4642">Tannhäuser und der Sängerkrieg auf Wartburg. Romantische Oper in drei Akten von Richard Wagner</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1855_NiederrheinischeMusik-Zeitung2Ausschnitt.xml" type="mentions" corresp="1855-03-24">Stimmen der Kritik über Richard Wagner. II. Nr. 12. 24. März 1855. III. Jahrgang</note></noteGrp><noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1855_NiederrheinischeMusik-Zeitung2Ausschnitt.xml" type="mentions" corresp="1855-03-24">Stimmen der Kritik über Richard Wagner. II. Nr. 12. 24. März 1855. III. Jahrgang</note></noteGrp></person>
                <person xml:id="hsl_person_id_4881" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Franz Magnus</forename>
@@ -69979,7 +69982,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_4840">Die Grundsätze der musikalischen Komposition</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_DuesseldorferJournalundKreis-BlattAusschnitt.xml" type="mentions" corresp="1854-11-08">Wissenschaften und Künste No. 265. Mittwoch den 8. November 1854. 16. Jahrg.</note></noteGrp><noteGrp><note target="v__1854_DuesseldorferJournalundKreis-BlattAusschnitt.xml" type="mentions" corresp="1854-11-08">Wissenschaften und Künste No. 265. Mittwoch den 8. November 1854. 16. Jahrg.</note></noteGrp></person>
                <person xml:id="hsl_person_id_5138" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Aleksej Vasilʹevič</forename>
@@ -79396,7 +79399,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11864064X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q7771</idno>
                   <idno type="URI" subtype="PMB">https://pmb.acdh.oeaw.ac.at/entity/114962</idno>
-               </person>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_5948" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Kaiserin von Frankreich</forename>
@@ -80012,7 +80015,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_4643">Die Melodie der Sprache in ihrer Anwendung besonders auf das Lied und die Oper. Mit Berührung verwandter Kunstfragen dargelegt</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1855_NiederrheinischeMusik-Zeitung2Ausschnitt.xml" type="mentions" corresp="1855-03-24">Stimmen der Kritik über Richard Wagner. II. Nr. 12. 24. März 1855. III. Jahrgang</note></noteGrp><noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1855_NiederrheinischeMusik-Zeitung2Ausschnitt.xml" type="mentions" corresp="1855-03-24">Stimmen der Kritik über Richard Wagner. II. Nr. 12. 24. März 1855. III. Jahrgang</note></noteGrp></person>
                <person xml:id="hsl_person_id_5996" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Nathalie</forename>
@@ -81624,7 +81627,7 @@
                   <occupation style="background-color: light-yellow;">Musikkritiker</occupation>
                   <occupation style="background-color: light-green;">Publizist</occupation>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q110134474</idno>
-               </person>
+               <noteGrp><note target="v__1857_NeueZeitschriftfuerMusikAusschnitt2.xml" type="mentions" corresp="1857-10-30">Dr.  Siebenundvierzigster Band. Nr. 18. Den 30. October 1857</note></noteGrp><noteGrp><note target="v__1857_NeueZeitschriftfuerMusikAusschnitt2.xml" type="mentions" corresp="1857-10-30">Dr.  Siebenundvierzigster Band. Nr. 18. Den 30. October 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_6123" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Moritz</forename>
@@ -81640,7 +81643,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_4274">Das Wesen und die Formen der Poesie. Ein Beitrag zur Philosophie des Schönen und der Kunst. Mit literarhistorischen Erläuterungen</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_6124" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Hermann</forename>
@@ -81660,7 +81663,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_4797">Blätter für literarische Unterhaltung</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_DiePresseAusschnitt.xml" type="mentions" corresp="1855-04-17">Tagesneuigkeiten No. 88. Wien, Dienstag 17. April 1855. 8. Jahrgang</note></noteGrp><noteGrp><note target="v__1855_DiePresseAusschnitt.xml" type="mentions" corresp="1855-04-17">Tagesneuigkeiten No. 88. Wien, Dienstag 17. April 1855. 8. Jahrgang</note></noteGrp></person>
                <person xml:id="hsl_person_id_6125" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Ernst</forename>
@@ -81676,7 +81679,7 @@
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/104068167</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q95225256</idno>
-               </person>
+               <noteGrp><note target="v__1857_NeueZeitschriftfuerMusikAusschnitt1.xml" type="mentions" corresp="1857-05-01">Die Aesthetik der Tonkunst. Sechsundvierzigster Band. Nr. 18. Den 1. Mai 1857</note></noteGrp><noteGrp><note target="v__1857_NeueZeitschriftfuerMusikAusschnitt1.xml" type="mentions" corresp="1857-05-01">Die Aesthetik der Tonkunst. Sechsundvierzigster Band. Nr. 18. Den 1. Mai 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_6126" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Adolf</forename>
@@ -81692,7 +81695,7 @@
                      <bibl n="hsl_work_id_4246">Aesthetische Forschungen</bibl>
                      <bibl n="hsl_work_id_4273">Neue Lehre von den Proportionen des menschlichen Körpers. Aus einem bisher unerkannt gebliebenen, die ganze Natur und Kunst durchdringenden morphologischen Grundgesetze entwickelt und mit einer vollständigen historischen Uebersicht der bisherigen Systeme begleitet</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1857_AnregungenfuerKunstLebenundWissenschaftAusschnitt.xml" type="mentions" corresp="1857">Ueber das musikalisch Schöne Zweiter Band (Jahrgang 1857.)</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_AnregungenfuerKunstLebenundWissenschaftAusschnitt.xml" type="mentions" corresp="1857">Ueber das musikalisch Schöne Zweiter Band (Jahrgang 1857.)</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_6127" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Albert</forename>
@@ -81707,7 +81710,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_4270">A-B-C der Aesthetik</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_6128" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
@@ -81716,7 +81719,7 @@
                   <occupation style="background-color: light-yellow;">Sagenfigur</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1015771033</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q242835</idno>
-               </person>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_6129" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
@@ -81725,7 +81728,7 @@
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_4242">Erwin und Elmire</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_6130" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
@@ -81734,7 +81737,7 @@
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_4242">Erwin und Elmire</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_6131" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
@@ -81745,7 +81748,7 @@
                   <occupation style="background-color: darker-pink;">Bildhauer</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118593765</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q177302</idno>
-               </person>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_6132" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
@@ -81757,7 +81760,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118739972</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q80398</idno>
                   <idno type="URI" subtype="PMB">https://pmb.acdh.oeaw.ac.at/entity/156440</idno>
-               </person>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_6133" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
@@ -81771,7 +81774,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118504851</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q37122</idno>
                   <idno type="URI" subtype="PMB">https://pmb.acdh.oeaw.ac.at/entity/155085</idno>
-               </person>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_6134" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
@@ -81784,7 +81787,7 @@
                   <occupation style="background-color: light-yellow;">Sagenfigur</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/122378768</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q117323380</idno>
-               </person>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_6135" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Karl Friedrich</forename>
@@ -81798,7 +81801,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118607782</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q151759</idno>
                   <idno type="URI" subtype="PMB">https://pmb.acdh.oeaw.ac.at/entity/149841</idno>
-               </person>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_6136" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Thasius</forename>
@@ -81813,7 +81816,7 @@
                   <occupation style="background-color: darker-cyan;">Maler</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119385198</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q182855</idno>
-               </person>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_6137" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Leo von</forename>
@@ -81829,7 +81832,7 @@
                   <occupation style="background-color: darker-cyan;">Maler</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118563211</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q60163</idno>
-               </person>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_6138" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Adolf</forename>
@@ -81887,7 +81890,7 @@
                      <bibl n="hsl_work_id_4282">Die Tonkunst und ihre Factoren</bibl>
                      <bibl n="hsl_work_id_4578">Das Musikalisch-Schöne. Ein Beitrag zur Aesthetik der Tonkunst</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1856_NeuerBerlinerMusikzeitungAusschnitt.xml" type="mentions" corresp="1856-12-10">Nachrichten Zehnter Jahrgang No. 50. 10. December 1856</note><note target="v__1857_AnregungenfuerKunstLebenundWissenschaftAusschnitt.xml" type="mentions" corresp="1857">Ueber das musikalisch Schöne Zweiter Band (Jahrgang 1857.)</note></noteGrp><noteGrp><note target="v__1856_NeuerBerlinerMusikzeitungAusschnitt.xml" type="mentions" corresp="1856-12-10">Nachrichten Zehnter Jahrgang No. 50. 10. December 1856</note><note target="v__1857_AnregungenfuerKunstLebenundWissenschaftAusschnitt.xml" type="mentions" corresp="1857">Ueber das musikalisch Schöne Zweiter Band (Jahrgang 1857.)</note></noteGrp></person>
                <person xml:id="hsl_person_id_6143" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
@@ -81934,7 +81937,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_4280">Geschichte der Seelengefühle vom naturhistorisch-rationellen Standpunkt mit Berücksichtigung ihrer ästhetischen Seite</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1857_AnregungenfuerKunstLebenundWissenschaftAusschnitt.xml" type="mentions" corresp="1857">Ueber das musikalisch Schöne Zweiter Band (Jahrgang 1857.)</note></noteGrp><noteGrp><note target="v__1857_AnregungenfuerKunstLebenundWissenschaftAusschnitt.xml" type="mentions" corresp="1857">Ueber das musikalisch Schöne Zweiter Band (Jahrgang 1857.)</note></noteGrp></person>
                <person xml:id="hsl_person_id_6147" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Friedrich</forename>
@@ -81949,7 +81952,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_4283">Die Musik und die musikalischen Instrumente in ihrer Beziehung zu den Gesetzen der Akustik</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1857_AnregungenfuerKunstLebenundWissenschaftAusschnitt.xml" type="mentions" corresp="1857">Ueber das musikalisch Schöne Zweiter Band (Jahrgang 1857.)</note></noteGrp><noteGrp><note target="v__1857_AnregungenfuerKunstLebenundWissenschaftAusschnitt.xml" type="mentions" corresp="1857">Ueber das musikalisch Schöne Zweiter Band (Jahrgang 1857.)</note></noteGrp></person>
                <person xml:id="hsl_person_id_6148" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Joseph Tobias</forename>
@@ -81960,7 +81963,7 @@
                   <occupation style="background-color: darker-yellow;">Fabrikant</occupation>
                   <occupation style="background-color: dark-gray;">Chemiker</occupation>
                   <occupation style="background-color: red;">Bankier</occupation>
-               </person>
+               <noteGrp><note target="v__1856_LiterarischeMittheilungenderStGaller-BlaetterAusschnitt.xml" type="mentions" corresp="1856">Aesthetik No. 3. 1856</note></noteGrp><noteGrp><note target="v__1856_LiterarischeMittheilungenderStGaller-BlaetterAusschnitt.xml" type="mentions" corresp="1856">Aesthetik No. 3. 1856</note></noteGrp></person>
                <person xml:id="hsl_person_id_6149" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Ludvig</forename>
@@ -84112,7 +84115,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_4404">Aphorismen über Kunst</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_WolfgangMenzelsLiteraturblattAusschnitt.xml" type="mentions" corresp="1855-04-25">Ueber Musik Mittwoch, No 33. 25. April 1855</note></noteGrp><noteGrp><note target="v__1855_WolfgangMenzelsLiteraturblattAusschnitt.xml" type="mentions" corresp="1855-04-25">Ueber Musik Mittwoch, No 33. 25. April 1855</note></noteGrp></person>
                <person xml:id="hsl_person_id_6332" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Adolph</forename>
@@ -84126,7 +84129,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_4641">Kunst und Kunststil, mit einem Sendschreiben an W. von Kaulbach</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp><noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp></person>
                <person xml:id="hsl_person_id_6334" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Johann Heinrich von</forename>
@@ -84140,7 +84143,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_4414">Ariadne auf dem Panther</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp><noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp></person>
                <person xml:id="hsl_person_id_6335" role="fictional" resp="#awilfing" cert="medium">
                   <persName type="main">
                      <forename/>
@@ -84214,7 +84217,7 @@
                   <occupation style="background-color: dark-gray;">Rabbiner</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11900173X</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q310821</idno>
-               </person>
+               <noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp><noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp></person>
                <person xml:id="hsl_person_id_6342" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Filippo</forename>
@@ -84254,7 +84257,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_4415">Die Tonkunst für Alle</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp><noteGrp><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note></noteGrp></person>
                <person xml:id="hsl_person_id_6345" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
@@ -84579,7 +84582,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_4437">Christoph Willibald Ritter von Gluck. Dessen Leben und tonkünstlerisches Wirken. Ein biographisch-ästhetischer Versuch und ein Beitrag zur Geschichte der dramatischen Musik in der zweiten Hälfte des siebzehnten Jahrhunderts</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_DuesseldorferJournalundKreis-BlattAusschnitt.xml" type="mentions" corresp="1854-11-08">Wissenschaften und Künste No. 265. Mittwoch den 8. November 1854. 16. Jahrg.</note></noteGrp><noteGrp><note target="v__1854_DuesseldorferJournalundKreis-BlattAusschnitt.xml" type="mentions" corresp="1854-11-08">Wissenschaften und Künste No. 265. Mittwoch den 8. November 1854. 16. Jahrg.</note></noteGrp></person>
                <person xml:id="hsl_person_id_6374" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Carl Theodor</forename>
@@ -85483,7 +85486,7 @@
                   <death>unbekannt (19. Jhdt.)</death>
                   <idno type="URI" subtype="ACDH">https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/hl</idno>
                   <occupation style="background-color: darker-orange;">unbekannt</occupation>
-               </person>
+               <noteGrp><note target="v__1855_NeueWienerMusik-ZeitungAusschnitt.xml" type="mentions" corresp="1855-05-24">Literarische Anzeige Vierter Jahrgang Nr. 21. 24. Mai 1855</note></noteGrp><noteGrp><note target="v__1855_NeueWienerMusik-ZeitungAusschnitt.xml" type="mentions" corresp="1855-05-24">Literarische Anzeige Vierter Jahrgang Nr. 21. 24. Mai 1855</note></noteGrp></person>
                <person xml:id="hsl_person_id_6454" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Otto</forename>
@@ -86650,7 +86653,7 @@
                   <death>unbekannt (19. Jhdt.)</death>
                   <idno type="URI" subtype="ACDH">https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/mz</idno>
                   <occupation style="background-color: darker-orange;">unbekannt</occupation>
-               </person>
+               <noteGrp><note target="v__1855_KatholischeLiteratur-ZeitungAusschnitt.xml" type="mentions" corresp="1855">Aesthetik No. 7. Montag, den 12. Februar 1855. II. Jahrg.</note></noteGrp><noteGrp><note target="v__1855_KatholischeLiteratur-ZeitungAusschnitt.xml" type="mentions" corresp="1855">Aesthetik No. 7. Montag, den 12. Februar 1855. II. Jahrg.</note></noteGrp></person>
                <person xml:id="hsl_person_id_6563" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
@@ -87199,7 +87202,7 @@
                   <listBibl type="authorOf">
                      <bibl n="hsl_work_id_4275">Zeitschrift für Philosophie und philosophische Kritik</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></person>
                <person xml:id="hsl_person_id_6615" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
@@ -87695,7 +87698,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118943774</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q87196</idno>
                   <idno type="URI" subtype="OEBL">https://www.biographien.ac.at/oebl/oebl_K/Kuh_Emil_1828_1876.xml</idno>
-               </person>
+               <noteGrp><note target="v__1854_DerHumoristAusschnitt.xml" type="mentions" corresp="1854-11-25">Vom Musikalisch-Schönen No. 305. Samstag den 25. November 1854. 18. Jahrgang</note></noteGrp><noteGrp><note target="v__1854_DerHumoristAusschnitt.xml" type="mentions" corresp="1854-11-25">Vom Musikalisch-Schönen No. 305. Samstag den 25. November 1854. 18. Jahrgang</note></noteGrp></person>
                <person xml:id="hsl_person_id_6654" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Eugen</forename>
@@ -88598,7 +88601,7 @@
                   <death>unbekannt (19. Jhdt.)</death>
                   <occupation style="background-color: light-gray;">Musikautor</occupation>
 		  <idno type="URI" subtype="ACDH">https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/jh</idno>
-               </person>
+               <noteGrp><note target="v__1855_DwightsJournalofMusicAuschnitt.xml" type="mentions" corresp="1855-07-21">Music the Exponent of Emotion Whole No. 172. Boston, Saturday, July 21, 1855. Vol. VII. No. 16</note></noteGrp><noteGrp><note target="v__1855_DwightsJournalofMusicAuschnitt.xml" type="mentions" corresp="1855-07-21">Music the Exponent of Emotion Whole No. 172. Boston, Saturday, July 21, 1855. Vol. VII. No. 16</note></noteGrp></person>
                <person xml:id="hsl_person_id_6735" resp="#awilfing" cert="medium">
                   <persName type="main">
                      <forename>August</forename>
@@ -88627,7 +88630,7 @@
                      <surname>Modestus</surname>
                   </persName>
 	          <idno type="URI" subtype="ACDH">https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/modestus</idno>
-               </person>
+               <noteGrp><note target="v__1854_SignalefuerdieMusikalischeWeltAusschnitt.xml" type="mentions" corresp="1854-11">Signale aus Wien No. 46. Leipzig, November. 1854</note></noteGrp><noteGrp><note target="v__1854_SignalefuerdieMusikalischeWeltAusschnitt.xml" type="mentions" corresp="1854-11">Signale aus Wien No. 46. Leipzig, November. 1854</note></noteGrp></person>
                <person xml:id="hsl_person_id_6739" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
@@ -89384,7 +89387,7 @@
                   <birth>unbekannt (19. Jhdt.)</birth>
                   <death>unbekannt (19. Jhdt.)</death>
                   <occupation style="background-color: darker-gray;">Tänzerin</occupation>
-               </person>
+               <noteGrp><note target="v__1854_SignalefuerdieMusikalischeWeltAusschnitt.xml" type="mentions" corresp="1854-11">Signale aus Wien No. 46. Leipzig, November. 1854</note></noteGrp><noteGrp><note target="v__1854_SignalefuerdieMusikalischeWeltAusschnitt.xml" type="mentions" corresp="1854-11">Signale aus Wien No. 46. Leipzig, November. 1854</note></noteGrp></person>
                <person xml:id="hsl_person_id_6805" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
@@ -90145,7 +90148,7 @@
                   <death>unbekannt (19. Jhdt.)</death>
                   <idno type="URI" subtype="ACDH">https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/r</idno>
                   <occupation style="background-color: light-gray;">Musikautor</occupation>
-               </person>
+               <noteGrp><note target="v__1854_NiederrheinischeMusikzeitungAusschnitt.xml" type="mentions" corresp="1854-11-04">Wiener Briefe Nr. 44. KÖLN, 4. November 1854. II. Jahrgang</note></noteGrp><noteGrp><note target="v__1854_NiederrheinischeMusikzeitungAusschnitt.xml" type="mentions" corresp="1854-11-04">Wiener Briefe Nr. 44. KÖLN, 4. November 1854. II. Jahrgang</note></noteGrp></person>
                <person xml:id="hsl_person_id_6876" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
@@ -90521,7 +90524,7 @@
                   <occupation style="background-color: blue;">Schriftsteller</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116470194</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q19187976</idno>
-               </person>
+               <noteGrp><note target="v__1854_DuesseldorferJournalundKreis-BlattAusschnitt.xml" type="mentions" corresp="1854-11-08">Wissenschaften und Künste No. 265. Mittwoch den 8. November 1854. 16. Jahrg.</note></noteGrp><noteGrp><note target="v__1854_DuesseldorferJournalundKreis-BlattAusschnitt.xml" type="mentions" corresp="1854-11-08">Wissenschaften und Künste No. 265. Mittwoch den 8. November 1854. 16. Jahrg.</note></noteGrp></person>
                <person xml:id="hsl_person_id_6911" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Julius</forename>
@@ -92507,7 +92510,7 @@
                   <listBibl type="characterOf">
                      <bibl n="hsl_work_id_3703">Don Karlos, Infant von Spanien</bibl>
                   </listBibl>
-               </person>
+               <noteGrp><note target="v__1854_DerHumoristAusschnitt.xml" type="mentions" corresp="1854-11-25">Vom Musikalisch-Schönen No. 305. Samstag den 25. November 1854. 18. Jahrgang</note></noteGrp><noteGrp><note target="v__1854_DerHumoristAusschnitt.xml" type="mentions" corresp="1854-11-25">Vom Musikalisch-Schönen No. 305. Samstag den 25. November 1854. 18. Jahrgang</note></noteGrp></person>
                <person xml:id="hsl_person_id_7119" role="fictional" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename/>
@@ -92520,7 +92523,7 @@
                   <occupation style="background-color: light-yellow;">Sagenfigur</occupation>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/131358391</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q115449</idno>
-               </person>
+               <noteGrp><note target="v__1854_DerHumoristAusschnitt.xml" type="mentions" corresp="1854-11-25">Vom Musikalisch-Schönen No. 305. Samstag den 25. November 1854. 18. Jahrgang</note></noteGrp><noteGrp><note target="v__1854_DerHumoristAusschnitt.xml" type="mentions" corresp="1854-11-25">Vom Musikalisch-Schönen No. 305. Samstag den 25. November 1854. 18. Jahrgang</note></noteGrp></person>
                <person xml:id="hsl_person_id_7120" resp="#awilfing" cert="high">
                   <persName type="main">
                      <forename>Johann Friedrich</forename>

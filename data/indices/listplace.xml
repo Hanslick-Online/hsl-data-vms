@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen" xml:id="listplace.xml" prev="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/listperson.xml" >
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen" xml:id="listplace.xml" prev="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/listperson.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -85,7 +85,7 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2510769/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q29</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4055964-6</idno>
-               </place>
+               <noteGrp><note target="v__1854_SignalefuerdieMusikalischeWeltAusschnitt.xml" type="mentions" corresp="1854-11">Signale aus Wien No. 46. Leipzig, November. 1854</note></noteGrp><noteGrp><note target="v__1854_SignalefuerdieMusikalischeWeltAusschnitt.xml" type="mentions" corresp="1854-11">Signale aus Wien No. 46. Leipzig, November. 1854</note></noteGrp></place>
                <place xml:id="hsl_place_id_68" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Köln</placeName>
@@ -192,7 +192,7 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2951839/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q980</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4005044-0</idno>
-               </place>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></place>
                <place xml:id="hsl_place_id_8" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Bayreuth</placeName>
@@ -219,7 +219,7 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2950159/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q64</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4005728-8</idno>
-               </place>
+               <noteGrp><note target="v__1856_NeuerBerlinerMusikzeitungAusschnitt.xml" type="mentions" corresp="1856-12-10">Nachrichten Zehnter Jahrgang No. 50. 10. December 1856</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1856_NeuerBerlinerMusikzeitungAusschnitt.xml" type="mentions" corresp="1856-12-10">Nachrichten Zehnter Jahrgang No. 50. 10. December 1856</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></place>
                <place xml:id="hsl_place_id_10" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Braunschweig</placeName>
@@ -286,7 +286,7 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2921044/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q183</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4011882-4</idno>
-               </place>
+               <noteGrp><note target="v__1854_DerHumoristAusschnitt.xml" type="mentions" corresp="1854-11-25">Vom Musikalisch-Schönen No. 305. Samstag den 25. November 1854. 18. Jahrgang</note><note target="v__1854_DuesseldorferJournalundKreis-BlattAusschnitt.xml" type="mentions" corresp="1854-11-08">Wissenschaften und Künste No. 265. Mittwoch den 8. November 1854. 16. Jahrg.</note><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note><note target="v__1854_SignalefuerdieMusikalischeWeltAusschnitt.xml" type="mentions" corresp="1854-11">Signale aus Wien No. 46. Leipzig, November. 1854</note><note target="v__1855_DiePresseAusschnitt.xml" type="mentions" corresp="1855-04-17">Tagesneuigkeiten No. 88. Wien, Dienstag 17. April 1855. 8. Jahrgang</note><note target="v__1855_DwightsJournalofMusicAuschnitt.xml" type="mentions" corresp="1855-07-21">Music the Exponent of Emotion Whole No. 172. Boston, Saturday, July 21, 1855. Vol. VII. No. 16</note><note target="v__1855_NeueWienerMusik-ZeitungAusschnitt.xml" type="mentions" corresp="1855-05-24">Literarische Anzeige Vierter Jahrgang Nr. 21. 24. Mai 1855</note><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1856_LiterarischeMittheilungenderStGaller-BlaetterAusschnitt.xml" type="mentions" corresp="1856">Aesthetik No. 3. 1856</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1854_DerHumoristAusschnitt.xml" type="mentions" corresp="1854-11-25">Vom Musikalisch-Schönen No. 305. Samstag den 25. November 1854. 18. Jahrgang</note><note target="v__1854_DuesseldorferJournalundKreis-BlattAusschnitt.xml" type="mentions" corresp="1854-11-08">Wissenschaften und Künste No. 265. Mittwoch den 8. November 1854. 16. Jahrg.</note><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note><note target="v__1854_SignalefuerdieMusikalischeWeltAusschnitt.xml" type="mentions" corresp="1854-11">Signale aus Wien No. 46. Leipzig, November. 1854</note><note target="v__1855_DiePresseAusschnitt.xml" type="mentions" corresp="1855-04-17">Tagesneuigkeiten No. 88. Wien, Dienstag 17. April 1855. 8. Jahrgang</note><note target="v__1855_DwightsJournalofMusicAuschnitt.xml" type="mentions" corresp="1855-07-21">Music the Exponent of Emotion Whole No. 172. Boston, Saturday, July 21, 1855. Vol. VII. No. 16</note><note target="v__1855_NeueWienerMusik-ZeitungAusschnitt.xml" type="mentions" corresp="1855-05-24">Literarische Anzeige Vierter Jahrgang Nr. 21. 24. Mai 1855</note><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1856_LiterarischeMittheilungenderStGaller-BlaetterAusschnitt.xml" type="mentions" corresp="1856">Aesthetik No. 3. 1856</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></place>
                <place xml:id="hsl_place_id_15" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Dresden</placeName>
@@ -391,7 +391,7 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3017382/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q142</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4018145-5</idno>
-               </place>
+               <noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note></noteGrp><noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note></noteGrp></place>
                <place xml:id="hsl_place_id_22" resp="#awilfing" cert="medium">
                   <settlement type="A">
                      <placeName type="main">Sakartwelo</placeName>
@@ -419,7 +419,7 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/390903/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q41</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4022047-3</idno>
-               </place>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></place>
                <place xml:id="hsl_place_id_60" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Graz</placeName>
@@ -512,7 +512,7 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3175395/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q38</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4027833-5</idno>
-               </place>
+               <noteGrp><note target="v__1854_SignalefuerdieMusikalischeWeltAusschnitt.xml" type="mentions" corresp="1854-11">Signale aus Wien No. 46. Leipzig, November. 1854</note><note target="v__1855_KatholischeLiteratur-ZeitungAusschnitt.xml" type="mentions" corresp="1855">Aesthetik No. 7. Montag, den 12. Februar 1855. II. Jahrg.</note><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note></noteGrp><noteGrp><note target="v__1854_SignalefuerdieMusikalischeWeltAusschnitt.xml" type="mentions" corresp="1854-11">Signale aus Wien No. 46. Leipzig, November. 1854</note><note target="v__1855_KatholischeLiteratur-ZeitungAusschnitt.xml" type="mentions" corresp="1855">Aesthetik No. 7. Montag, den 12. Februar 1855. II. Jahrg.</note><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note></noteGrp></place>
                <place xml:id="hsl_place_id_63" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Jeruschalajim; Ūršalīm al-Quds</placeName>
@@ -580,7 +580,7 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2879139/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q2079</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4035206-7</idno>
-               </place>
+               <noteGrp><note target="v__1854_DerHumoristAusschnitt.xml" type="mentions" corresp="1854-11-25">Vom Musikalisch-Schönen No. 305. Samstag den 25. November 1854. 18. Jahrgang</note><note target="v__1854_DuesseldorferJournalundKreis-BlattAusschnitt.xml" type="mentions" corresp="1854-11-08">Wissenschaften und Künste No. 265. Mittwoch den 8. November 1854. 16. Jahrg.</note><note target="v__1854_NiederrheinischeMusikzeitungAusschnitt.xml" type="mentions" corresp="1854-11-04">Wiener Briefe Nr. 44. KÖLN, 4. November 1854. II. Jahrgang</note><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note><note target="v__1854_SignalefuerdieMusikalischeWeltAusschnitt.xml" type="mentions" corresp="1854-11">Signale aus Wien No. 46. Leipzig, November. 1854</note><note target="v__1855_BlaetterfuermusikalischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1855-04-12">Zur musikalischen Literatur Nr. 15. 12. April 1855</note><note target="v__1855_GoettingischeGelehrteAnzeigenAusschnitt.xml" type="mentions" corresp="1855-07-05">Göttingische gelehrte Anzeigen 106. 107. Stück. Den 5. Juli 1855</note><note target="v__1855_GrenzbotenAusschnitt.xml" type="mentions" corresp="1855">Wissenschaft und Kunst 14. Jahrgang. I. Semester. I. Band. 1855</note><note target="v__1855_KatholischeLiteratur-ZeitungAusschnitt.xml" type="mentions" corresp="1855">Aesthetik No. 7. Montag, den 12. Februar 1855. II. Jahrg.</note><note target="v__1855_LeipzigerRepertoriumAusschnitt.xml" type="mentions" corresp="1855">Schöne Künste Dreizehnter Jahrgang. Erster Band. 1855</note><note target="v__1855_NeueBerlinerMusikzeitungAusschnitt.xml" type="mentions" corresp="1855-10-17">Musik-Literatur Neunter Jahrgang. No. 42. 17. October 1855</note><note target="v__1855_NeueWienerMusik-ZeitungAusschnitt.xml" type="mentions" corresp="1855-05-24">Literarische Anzeige Vierter Jahrgang Nr. 21. 24. Mai 1855</note><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1855_UnterhaltungenamhaeuslichenHerdAusschnitt.xml" type="mentions" corresp="1855">Unterhaltungen am häuslichen Herd Nr. 43</note><note target="v__1855_WolfgangMenzelsLiteraturblattAusschnitt.xml" type="mentions" corresp="1855-04-25">Ueber Musik Mittwoch, No 33. 25. April 1855</note><note target="v__1856_LiterarischeMittheilungenderStGaller-BlaetterAusschnitt.xml" type="mentions" corresp="1856">Aesthetik No. 3. 1856</note><note target="v__1856_NeuerBerlinerMusikzeitungAusschnitt.xml" type="mentions" corresp="1856-12-10">Nachrichten Zehnter Jahrgang No. 50. 10. December 1856</note></noteGrp><noteGrp><note target="v__1854_DerHumoristAusschnitt.xml" type="mentions" corresp="1854-11-25">Vom Musikalisch-Schönen No. 305. Samstag den 25. November 1854. 18. Jahrgang</note><note target="v__1854_DuesseldorferJournalundKreis-BlattAusschnitt.xml" type="mentions" corresp="1854-11-08">Wissenschaften und Künste No. 265. Mittwoch den 8. November 1854. 16. Jahrg.</note><note target="v__1854_NiederrheinischeMusikzeitungAusschnitt.xml" type="mentions" corresp="1854-11-04">Wiener Briefe Nr. 44. KÖLN, 4. November 1854. II. Jahrgang</note><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note><note target="v__1854_SignalefuerdieMusikalischeWeltAusschnitt.xml" type="mentions" corresp="1854-11">Signale aus Wien No. 46. Leipzig, November. 1854</note><note target="v__1855_BlaetterfuermusikalischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1855-04-12">Zur musikalischen Literatur Nr. 15. 12. April 1855</note><note target="v__1855_GoettingischeGelehrteAnzeigenAusschnitt.xml" type="mentions" corresp="1855-07-05">Göttingische gelehrte Anzeigen 106. 107. Stück. Den 5. Juli 1855</note><note target="v__1855_GrenzbotenAusschnitt.xml" type="mentions" corresp="1855">Wissenschaft und Kunst 14. Jahrgang. I. Semester. I. Band. 1855</note><note target="v__1855_KatholischeLiteratur-ZeitungAusschnitt.xml" type="mentions" corresp="1855">Aesthetik No. 7. Montag, den 12. Februar 1855. II. Jahrg.</note><note target="v__1855_LeipzigerRepertoriumAusschnitt.xml" type="mentions" corresp="1855">Schöne Künste Dreizehnter Jahrgang. Erster Band. 1855</note><note target="v__1855_NeueBerlinerMusikzeitungAusschnitt.xml" type="mentions" corresp="1855-10-17">Musik-Literatur Neunter Jahrgang. No. 42. 17. October 1855</note><note target="v__1855_NeueWienerMusik-ZeitungAusschnitt.xml" type="mentions" corresp="1855-05-24">Literarische Anzeige Vierter Jahrgang Nr. 21. 24. Mai 1855</note><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1855_UnterhaltungenamhaeuslichenHerdAusschnitt.xml" type="mentions" corresp="1855">Unterhaltungen am häuslichen Herd Nr. 43</note><note target="v__1855_WolfgangMenzelsLiteraturblattAusschnitt.xml" type="mentions" corresp="1855-04-25">Ueber Musik Mittwoch, No 33. 25. April 1855</note><note target="v__1856_LiterarischeMittheilungenderStGaller-BlaetterAusschnitt.xml" type="mentions" corresp="1856">Aesthetik No. 3. 1856</note><note target="v__1856_NeuerBerlinerMusikzeitungAusschnitt.xml" type="mentions" corresp="1856-12-10">Nachrichten Zehnter Jahrgang No. 50. 10. December 1856</note></noteGrp></place>
                <place xml:id="hsl_place_id_33" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Lisboa</placeName>
@@ -660,7 +660,7 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2867714/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q32664319</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4127793-4</idno>
-               </place>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></place>
                <place xml:id="hsl_place_id_40" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Napoli</placeName>
@@ -674,7 +674,7 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3172394/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q49295418</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4041476-0</idno>
-               </place>
+               <noteGrp><note target="v__1856_LiterarischeMittheilungenderStGaller-BlaetterAusschnitt.xml" type="mentions" corresp="1856">Aesthetik No. 3. 1856</note></noteGrp><noteGrp><note target="v__1856_LiterarischeMittheilungenderStGaller-BlaetterAusschnitt.xml" type="mentions" corresp="1856">Aesthetik No. 3. 1856</note></noteGrp></place>
                <place xml:id="hsl_place_id_41" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Weimar</placeName>
@@ -714,7 +714,7 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2782113/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q40</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4043271-3</idno>
-               </place>
+               <noteGrp><note target="v__1854_DuesseldorferJournalundKreis-BlattAusschnitt.xml" type="mentions" corresp="1854-11-08">Wissenschaften und Künste No. 265. Mittwoch den 8. November 1854. 16. Jahrg.</note></noteGrp><noteGrp><note target="v__1854_DuesseldorferJournalundKreis-BlattAusschnitt.xml" type="mentions" corresp="1854-11-08">Wissenschaften und Künste No. 265. Mittwoch den 8. November 1854. 16. Jahrg.</note></noteGrp></place>
                <place xml:id="hsl_place_id_44" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Paris</placeName>
@@ -741,12 +741,12 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3067696/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q1085</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4076310-9</idno>
-               </place>
+               <noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note><note target="v__1857_NeueZeitschriftfuerMusikAusschnitt2.xml" type="mentions" corresp="1857-10-30">Dr.  Siebenundvierzigster Band. Nr. 18. Den 30. October 1857</note></noteGrp><noteGrp><note target="v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml" type="mentions" corresp="1854-11-20">Zur Aesthetik der Tonkunst Montag, den 20. November 1854. No. 47</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note><note target="v__1857_NeueZeitschriftfuerMusikAusschnitt2.xml" type="mentions" corresp="1857-10-30">Dr.  Siebenundvierzigster Band. Nr. 18. Den 30. October 1857</note></noteGrp></place>
                <place xml:id="hsl_place_id_46" resp="#awilfing" cert="high">
                   <placeName type="main">Preußen</placeName>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q38872</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4047194-9</idno>
-               </place>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></place>
                <place xml:id="hsl_place_id_47" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Roma</placeName>
@@ -760,7 +760,7 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3169070/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q220</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4050471-2</idno>
-               </place>
+               <noteGrp><note target="v__1854_DerHumoristAusschnitt.xml" type="mentions" corresp="1854-11-25">Vom Musikalisch-Schönen No. 305. Samstag den 25. November 1854. 18. Jahrgang</note></noteGrp><noteGrp><note target="v__1854_DerHumoristAusschnitt.xml" type="mentions" corresp="1854-11-25">Vom Musikalisch-Schönen No. 305. Samstag den 25. November 1854. 18. Jahrgang</note></noteGrp></place>
                <place xml:id="hsl_place_id_48" resp="#awilfing" cert="high">
                   <settlement type="A">
                      <placeName type="main">Rossija</placeName>
@@ -882,7 +882,7 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2761369/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q1741</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4066009-6</idno>
-               </place>
+               <noteGrp><note target="v__1854_DuesseldorferJournalundKreis-BlattAusschnitt.xml" type="mentions" corresp="1854-11-08">Wissenschaften und Künste No. 265. Mittwoch den 8. November 1854. 16. Jahrg.</note><note target="v__1854_NiederrheinischeMusikzeitungAusschnitt.xml" type="mentions" corresp="1854-11-04">Wiener Briefe Nr. 44. KÖLN, 4. November 1854. II. Jahrgang</note><note target="v__1854_SignalefuerdieMusikalischeWeltAusschnitt.xml" type="mentions" corresp="1854-11">Signale aus Wien No. 46. Leipzig, November. 1854</note><note target="v__1855_DiePresseAusschnitt.xml" type="mentions" corresp="1855-04-17">Tagesneuigkeiten No. 88. Wien, Dienstag 17. April 1855. 8. Jahrgang</note><note target="v__1855_GrenzbotenAusschnitt.xml" type="mentions" corresp="1855">Wissenschaft und Kunst 14. Jahrgang. I. Semester. I. Band. 1855</note><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1855_UnterhaltungenamhaeuslichenHerdAusschnitt.xml" type="mentions" corresp="1855">Unterhaltungen am häuslichen Herd Nr. 43</note><note target="v__1857_NeueZeitschriftfuerMusikAusschnitt2.xml" type="mentions" corresp="1857-10-30">Dr.  Siebenundvierzigster Band. Nr. 18. Den 30. October 1857</note></noteGrp><noteGrp><note target="v__1854_DuesseldorferJournalundKreis-BlattAusschnitt.xml" type="mentions" corresp="1854-11-08">Wissenschaften und Künste No. 265. Mittwoch den 8. November 1854. 16. Jahrg.</note><note target="v__1854_NiederrheinischeMusikzeitungAusschnitt.xml" type="mentions" corresp="1854-11-04">Wiener Briefe Nr. 44. KÖLN, 4. November 1854. II. Jahrgang</note><note target="v__1854_SignalefuerdieMusikalischeWeltAusschnitt.xml" type="mentions" corresp="1854-11">Signale aus Wien No. 46. Leipzig, November. 1854</note><note target="v__1855_DiePresseAusschnitt.xml" type="mentions" corresp="1855-04-17">Tagesneuigkeiten No. 88. Wien, Dienstag 17. April 1855. 8. Jahrgang</note><note target="v__1855_GrenzbotenAusschnitt.xml" type="mentions" corresp="1855">Wissenschaft und Kunst 14. Jahrgang. I. Semester. I. Band. 1855</note><note target="v__1855_NeueZeitschriftfuerMusikAusschnitt.xml" type="mentions" corresp="1855-02-16">Bücher, Zeitschriften Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</note><note target="v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml" type="mentions" corresp="1855-02-17">Eduard Hanslick Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</note><note target="v__1855_UnterhaltungenamhaeuslichenHerdAusschnitt.xml" type="mentions" corresp="1855">Unterhaltungen am häuslichen Herd Nr. 43</note><note target="v__1857_NeueZeitschriftfuerMusikAusschnitt2.xml" type="mentions" corresp="1857-10-30">Dr.  Siebenundvierzigster Band. Nr. 18. Den 30. October 1857</note></noteGrp></place>
                <place xml:id="hsl_place_id_56" resp="#awilfing" cert="medium">
                   <settlement type="P">
                      <placeName type="main">Želiezovce</placeName>
@@ -990,7 +990,7 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2973783/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q6602</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4057878-1</idno>
-               </place>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></place>
                <place xml:id="hsl_place_id_72" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Göttingen</placeName>
@@ -1301,7 +1301,7 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2658434/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q39</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4053881-3</idno>
-               </place>
+               <noteGrp><note target="v__1855_DwightsJournalofMusicAuschnitt.xml" type="mentions" corresp="1855-07-21">Music the Exponent of Emotion Whole No. 172. Boston, Saturday, July 21, 1855. Vol. VII. No. 16</note><note target="v__1855_WolfgangMenzelsLiteraturblattAusschnitt.xml" type="mentions" corresp="1855-04-25">Ueber Musik Mittwoch, No 33. 25. April 1855</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1855_DwightsJournalofMusicAuschnitt.xml" type="mentions" corresp="1855-07-21">Music the Exponent of Emotion Whole No. 172. Boston, Saturday, July 21, 1855. Vol. VII. No. 16</note><note target="v__1855_WolfgangMenzelsLiteraturblattAusschnitt.xml" type="mentions" corresp="1855-04-25">Ueber Musik Mittwoch, No 33. 25. April 1855</note><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></place>
                <place xml:id="hsl_place_id_98" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Zürich</placeName>
@@ -2222,7 +2222,7 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6252001/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q30</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4078704-7</idno>
-               </place>
+               <noteGrp><note target="v__1855_DwightsJournalofMusicAuschnitt.xml" type="mentions" corresp="1855-07-21">Music the Exponent of Emotion Whole No. 172. Boston, Saturday, July 21, 1855. Vol. VII. No. 16</note></noteGrp><noteGrp><note target="v__1855_DwightsJournalofMusicAuschnitt.xml" type="mentions" corresp="1855-07-21">Music the Exponent of Emotion Whole No. 172. Boston, Saturday, July 21, 1855. Vol. VII. No. 16</note></noteGrp></place>
                <place xml:id="hsl_place_id_177" resp="#awilfing" cert="high">
                   <settlement type="A">
                      <placeName type="main">België; Belgique</placeName>
@@ -4706,7 +4706,7 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2911522/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q445500</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4023025-9</idno>
-               </place>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></place>
                <place xml:id="hsl_place_id_375" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Löbejün</placeName>
@@ -7140,7 +7140,7 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/264371/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q1524</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4003366-1</idno>
-               </place>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></place>
                <place xml:id="hsl_place_id_579" resp="#awilfing" cert="medium">
                   <settlement type="S">
                      <placeName type="main">Taḫt-e Ǧamšīd</placeName>
@@ -7296,7 +7296,7 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6087891/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q34221</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4117863-4</idno>
-               </place>
+               <noteGrp><note target="v__1855_DwightsJournalofMusicAuschnitt.xml" type="mentions" corresp="1855-07-21">Music the Exponent of Emotion Whole No. 172. Boston, Saturday, July 21, 1855. Vol. VII. No. 16</note></noteGrp><noteGrp><note target="v__1855_DwightsJournalofMusicAuschnitt.xml" type="mentions" corresp="1855-07-21">Music the Exponent of Emotion Whole No. 172. Boston, Saturday, July 21, 1855. Vol. VII. No. 16</note></noteGrp></place>
                <place xml:id="hsl_place_id_592" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Litomyšl</placeName>
@@ -8846,7 +8846,7 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2969679/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q621</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4063142-4</idno>
-               </place>
+               <noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp><noteGrp><note target="v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml" type="mentions" corresp="1857-06-04">Populäre Aesthetik. Nr. 23. — 4. Juni 1857</note></noteGrp></place>
                <place xml:id="hsl_place_id_734" resp="#awilfing" cert="high">
                   <settlement type="P">
                      <placeName type="main">Brighton</placeName>
