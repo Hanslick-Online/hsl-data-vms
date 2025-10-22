@@ -38,7 +38,7 @@
         <acdh:hasUrl>https://hanslick.acdh.oeaw.ac.at/toc_vms.html</acdh:hasUrl>
 	<acdh:hasCreatedStartDate>2024-10-01</acdh:hasCreatedStartDate>
         <acdh:hasCreatedEndDate>2025-10-15</acdh:hasCreatedEndDate>
-        <acdh:hasCustomCitation>@incollection{Wilfing_2025_v__1855_NeueWienerMusik-ZeitungAusschnitt_xml,
+        <acdh:hasCustomCitation>@dataset{Wilfing_2025_3977585,
 		title = {Die Rezensionen zu Eduard Hanslicks „Vom Musikalisch-Schönen“ (1854–1857)},
 		publisher = {ARCHE},
 		date = {2025-10-16},
@@ -60,6 +60,17 @@
             <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
             <acdh:hasActor rdf:resource="http://d-nb.info/gnd/118545825"/>
             <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
+            <acdh:hasCustomCitation>@incollection{Wilfing_2025_3977593,
+		title = {Die Rezensionen zu Eduard Hanslicks „Vom Musikalisch-Schönen“ (1854–1857)},
+		publisher = {ARCHE},
+                date = {2025-10-16},
+                publisher = {ARCHE},
+		langid = {ngerman},
+		booktitle = {Die Rezensionen zu Eduard Hanslicks „Vom Musikalisch-Schönen“ (1854–1857)},
+	        abstract = {XML-TEI-Editionen der 26 Rezensionen der ersten Auflage von Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854)},
+		editor = {Wilfing, Alexander AND Pfiel, Anna-Maria},
+		keywords = {Digital Humanities, Digitale Edition, Kulturerbe, Musikwissenschaft, Vom Musikalisch-Schönen}
+		}</acdh:hasCustomCitation>
         </acdh:Collection>
         <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/meta">
             <acdh:hasPid>create</acdh:hasPid>
@@ -73,17 +84,6 @@
             <acdh:hasLifeCycleStatus rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelifecyclestatus/completed"/>
             <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen"/>
             <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
-            <acdh:hasCustomCitation>@incollection{Wilfing_2025_v__1855_NeueWienerMusik-ZeitungAusschnitt_xml,
-		title = {Die Rezensionen zu Eduard Hanslicks „Vom Musikalisch-Schönen“ (1854–1857)},
-		publisher = {ARCHE},
-                date = {2025-10-16},
-                publisher = {ARCHE},
-		langid = {ngerman},
-		booktitle = {Die Rezensionen zu Eduard Hanslicks „Vom Musikalisch-Schönen“ (1854–1857)},
-	        abstract = {XML-TEI-Editionen der 26 Rezensionen der ersten Auflage von Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854)}
-		editor = {Wilfing, Alexander AND Pfiel, Anna-Maria},
-		keywords = {Digital Humanities, Digitale Edition, Kulturerbe, Musikwissenschaft, Vom Musikalisch-Schönen},
-}</acdh:hasCustomCitation>
         </acdh:Collection>
         <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/indices">
             <acdh:hasPid>create</acdh:hasPid>

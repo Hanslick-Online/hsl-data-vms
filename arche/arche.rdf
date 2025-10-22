@@ -10,13 +10,11 @@
       <acdh:hasActor rdf:resource="http://d-nb.info/gnd/118545825"/>
       <acdh:hasDepositor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
       <acdh:hasCurator rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
-      <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
       <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1854-01-01</acdh:hasCoverageStartDate>
       <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1902-12-31</acdh:hasCoverageEndDate>
       <acdh:hasSubject xml:lang="de">Digitale Edition</acdh:hasSubject>
-      <acdh:hasSubject xml:lang="de">Traktat</acdh:hasSubject>
       <acdh:hasSubject xml:lang="de">Musikwissenschaft</acdh:hasSubject>
       <acdh:hasSubject xml:lang="de">Vom Musikalisch-Schönen</acdh:hasSubject>
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
@@ -28,10 +26,20 @@
       <acdh:hasFunder rdf:resource="https://id.acdh.oeaw.ac.at/org-ma7"/>
       <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
       <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
+      <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+      <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"/>
+      <acdh:hasCustomCitation>@dataset{Wilfing_2025_3977585,
+                title = {Die Rezensionen zu Eduard Hanslicks „Vom Musikalisch-Schönen“ (1854–1857)},
+                publisher = {ARCHE},
+                editor = {Wilfing, Alexander AND Pfiel, Anna-Maria},
+                keywords = {Digital Humanities, Digitale Edition, Kulturerbe, Musikwissenschaft, Vom Musikalisch-Schönen},
+                abstract = {Digitale Edition von 26 Rezensionen der ersten Auflage von Eduard Hanslicks Traktat „Vom Musikalisch-Schönen. Ein Beitrag zur Revision der Ästhetik der Tonkunst“ (1854). Die Rezensionen reichen von kurzen Berichten bis hin zu mehrteiligen Besprechungen in deutschsprachigen sowie einer englischsprachigen Zeitschrift. Sie wurden mittels Suche in digitalen Repositorien erfasst und als XML/TEI-Dateien ediert. Diese Dateien enthalten die Rezensionen selbst, annotierte Entitäten (Personen, Figuren, Werke, Orte) und werden durch aus Repositorien bezogene Faksimiles ergänzt.}
+                }
+      </acdh:hasCustomCitation>
       <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/none"/>
       <acdh:hasPrincipalInvestigator rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
-      <acdh:hasUrl>https://hanslick.acdh.oeaw.ac.at/</acdh:hasUrl>
+      <acdh:hasUrl>https://hanslick.acdh.oeaw.ac.at/toc_vms.html</acdh:hasUrl>
       <acdh:hasCreatedStartDate>2024-10-01</acdh:hasCreatedStartDate>
       <acdh:hasCreatedEndDate>2025-10-15</acdh:hasCreatedEndDate>
    </acdh:TopCollection>
@@ -58,7 +66,6 @@
    </acdh:Person>
    <acdh:Collection xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#"
                     rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions">
-      <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasMetadataCreator rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
@@ -75,6 +82,7 @@
       <acdh:hasCurator rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasPid>create</acdh:hasPid>
       <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+      <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasTitle xml:lang="de">Edition: Die Rezensionen zu Eduard Hanslicks „Vom Musikalisch-Schönen“ (1854–1857)</acdh:hasTitle>
       <acdh:hasDescription xml:lang="de">XML-TEI-Editionen der 26 Rezensionen der ersten Auflage von Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854)</acdh:hasDescription>
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
@@ -82,10 +90,19 @@
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen"/>
       <acdh:hasActor rdf:resource="http://d-nb.info/gnd/118545825"/>
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
+      <acdh:hasCustomCitation>@incollection{Wilfing_2025_3977593,
+                title = {Die Rezensionen zu Eduard Hanslicks „Vom Musikalisch-Schönen“ (1854–1857)},
+		publisher = {ARCHE},
+                date = {2025-10-16},
+                langid = {ngerman},
+                booktitle = {Die Rezensionen zu Eduard Hanslicks „Vom Musikalisch-Schönen“ (1854–1857)},
+                abstract = {XML-TEI-Editionen der 26 Rezensionen der ersten Auflage von Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854)},
+                editor = {Wilfing, Alexander AND Pfiel, Anna-Maria},
+                keywords = {Digital Humanities, Digitale Edition, Kulturerbe, Musikwissenschaft, Vom Musikalisch-Schönen},
+                }</acdh:hasCustomCitation>
    </acdh:Collection>
    <acdh:Collection xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#"
                     rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/indices">
-      <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasMetadataCreator rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
@@ -101,6 +118,8 @@
       <acdh:hasMetadataCreator rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasCurator rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasPid>create</acdh:hasPid>
+      <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+      <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasTitle xml:lang="de">Register</acdh:hasTitle>
       <acdh:hasDescription xml:lang="de">Register: Personen, Orte und Werke</acdh:hasDescription>
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
@@ -125,6 +144,7 @@
       <acdh:hasMetadataCreator rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasCurator rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasPid>create</acdh:hasPid>
+      <acdh:hasCreator rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
       <acdh:hasTitle xml:lang="de">Metadaten</acdh:hasTitle>
       <acdh:hasDescription xml:lang="de">XML-Schemas und Bilder</acdh:hasDescription>
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
@@ -141,18 +161,18 @@
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
       <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+      <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasCustomCitation xml:lang="de">@incollection{Wilfing_2025_v__1855_NeueWienerMusik-ZeitungAusschnitt_xml,
   title = {Literarische Anzeige},
   author = {{H. — L.}},
   date = {2025-10-16},
   publisher = {ARCHE},
   url = {https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1855_NeueWienerMusik-ZeitungAusschnitt.xml},
-  editor = {Wilfing, Alexander},
-  language = {DE},
+  editor = {Wilfing, Alexander AND Pfiel, Anna Anna-Maria},
+  langid = {german},
   booktitle = {Literarische Anzeige},
   keywords = {Cultural heritage, Digital humanities, Musicology}
 }</acdh:hasCustomCitation>
-      <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
       <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
@@ -176,6 +196,7 @@
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
       <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+      <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasAuthor rdf:resource="https://d-nb.info/gnd/118511343"/>
       <acdh:hasCustomCitation xml:lang="de">@incollection{Wilfing_2025_v__1855_NiederrheinischeMusik-Zeitung2Ausschnitt_xml,
   title = {Stimmen der Kritik über Richard Wagner. II.},
@@ -183,12 +204,11 @@
   date = {2025-10-16},
   publisher = {ARCHE},
   url = {https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1855_NiederrheinischeMusik-Zeitung2Ausschnitt.xml},
-  editor = {Wilfing, Alexander},
-  language = {DE},
+  editor = {Wilfing, Alexander AND Pfiel, Anna Anna-Maria},
+  langid = {german},
   booktitle = {Stimmen der Kritik über Richard Wagner. II.},
   keywords = {Cultural heritage, Digital humanities, Musicology}
 }</acdh:hasCustomCitation>
-      <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
       <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
@@ -212,17 +232,17 @@
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
       <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+      <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasCustomCitation xml:lang="de">@incollection{Wilfing_2025_v__1855_WolfgangMenzelsLiteraturblattAusschnitt_xml,
   title = {Ueber Musik},
   date = {2025-10-16},
   publisher = {ARCHE},
   url = {https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1855_WolfgangMenzelsLiteraturblattAusschnitt.xml},
-  editor = {Wilfing, Alexander},
-  language = {DE},
+  editor = {Wilfing, Alexander AND Pfiel, Anna Anna-Maria},
+  langid = {german},
   booktitle = {Ueber Musik},
   keywords = {Cultural heritage, Digital humanities, Musicology}
 }</acdh:hasCustomCitation>
-      <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
       <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
@@ -246,17 +266,17 @@
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
       <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+      <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasCustomCitation xml:lang="de">@incollection{Wilfing_2025_v__1855_LeipzigerRepertoriumAusschnitt_xml,
   title = {Schöne Künste},
   date = {2025-10-16},
   publisher = {ARCHE},
   url = {https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1855_LeipzigerRepertoriumAusschnitt.xml},
-  editor = {Wilfing, Alexander},
-  language = {DE},
+  editor = {Wilfing, Alexander AND Pfiel, Anna Anna-Maria},
+  langid = {german},
   booktitle = {Schöne Künste},
   keywords = {Cultural heritage, Digital humanities, Musicology}
 }</acdh:hasCustomCitation>
-      <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
       <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
@@ -280,18 +300,18 @@
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
       <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+      <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasCustomCitation xml:lang="de">@incollection{Wilfing_2025_v__1855_DwightsJournalofMusicAuschnitt_xml,
   title = {Music the Exponent of Emotion},
   author = {{J. H.}},
   date = {2025-10-16},
   publisher = {ARCHE},
   url = {https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1855_DwightsJournalofMusicAuschnitt.xml},
-  editor = {Wilfing, Alexander},
-  language = {DE},
+  editor = {Wilfing, Alexander AND Pfiel, Anna Anna-Maria},
+  langid = {german},
   booktitle = {Music the Exponent of Emotion},
   keywords = {Cultural heritage, Digital humanities, Musicology}
 }</acdh:hasCustomCitation>
-      <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
       <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
@@ -315,6 +335,7 @@
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
       <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+      <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasAuthor rdf:resource="https://d-nb.info/gnd/118637002"/>
       <acdh:hasCustomCitation xml:lang="de">@incollection{Wilfing_2025_v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt_xml,
   title = {Zur Aesthetik der Tonkunst},
@@ -322,12 +343,11 @@
   date = {2025-10-16},
   publisher = {ARCHE},
   url = {https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml},
-  editor = {Wilfing, Alexander},
-  language = {DE},
+  editor = {Wilfing, Alexander AND Pfiel, Anna Anna-Maria},
+  langid = {german},
   booktitle = {Zur Aesthetik der Tonkunst},
   keywords = {Cultural heritage, Digital humanities, Musicology}
 }</acdh:hasCustomCitation>
-      <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
       <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
@@ -351,17 +371,17 @@
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
       <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+      <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasCustomCitation xml:lang="de">@incollection{Wilfing_2025_v__1855_GrenzbotenAusschnitt_xml,
   title = {Wissenschaft und Kunst},
   date = {2025-10-16},
   publisher = {ARCHE},
   url = {https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1855_GrenzbotenAusschnitt.xml},
-  editor = {Wilfing, Alexander},
-  language = {DE},
+  editor = {Wilfing, Alexander AND Pfiel, Anna Anna-Maria},
+  langid = {german},
   booktitle = {Wissenschaft und Kunst},
   keywords = {Cultural heritage, Digital humanities, Musicology}
 }</acdh:hasCustomCitation>
-      <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
       <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
@@ -385,6 +405,7 @@
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
       <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+      <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasAuthor rdf:resource="https://d-nb.info/gnd/104306726"/>
       <acdh:hasCustomCitation xml:lang="de">@incollection{Wilfing_2025_v__1855_NeueBerlinerMusikzeitungAusschnitt_xml,
   title = {Musik-Literatur},
@@ -392,12 +413,11 @@
   date = {2025-10-16},
   publisher = {ARCHE},
   url = {https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1855_NeueBerlinerMusikzeitungAusschnitt.xml},
-  editor = {Wilfing, Alexander},
-  language = {DE},
+  editor = {Wilfing, Alexander AND Pfiel, Anna Anna-Maria},
+  langid = {german},
   booktitle = {Musik-Literatur},
   keywords = {Cultural heritage, Digital humanities, Musicology}
 }</acdh:hasCustomCitation>
-      <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
       <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
@@ -421,17 +441,17 @@
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
       <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+      <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasCustomCitation xml:lang="de">@incollection{Wilfing_2025_v__1854_IllustrirteZeitungAusschnitt_xml,
   title = {Literatur},
   date = {2025-10-16},
   publisher = {ARCHE},
   url = {https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1854_IllustrirteZeitungAusschnitt.xml},
-  editor = {Wilfing, Alexander},
-  language = {DE},
+  editor = {Wilfing, Alexander AND Pfiel, Anna Anna-Maria},
+  langid = {german},
   booktitle = {Literatur},
   keywords = {Cultural heritage, Digital humanities, Musicology}
 }</acdh:hasCustomCitation>
-      <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
       <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
@@ -455,6 +475,7 @@
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
       <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+      <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasAuthor rdf:resource="https://d-nb.info/gnd/11661191X"/>
       <acdh:hasCustomCitation xml:lang="de">@incollection{Wilfing_2025_v__1857_AnregungenfuerKunstLebenundWissenschaftAusschnitt_xml,
   title = {Ueber das musikalisch Schöne},
@@ -462,12 +483,11 @@
   date = {2025-10-16},
   publisher = {ARCHE},
   url = {https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1857_AnregungenfuerKunstLebenundWissenschaftAusschnitt.xml},
-  editor = {Wilfing, Alexander},
-  language = {DE},
+  editor = {Wilfing, Alexander AND Pfiel, Anna Anna-Maria},
+  langid = {german},
   booktitle = {Ueber das musikalisch Schöne},
   keywords = {Cultural heritage, Digital humanities, Musicology}
 }</acdh:hasCustomCitation>
-      <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
       <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
@@ -491,6 +511,7 @@
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
       <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+      <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasAuthor rdf:resource="https://d-nb.info/gnd/118574574"/>
       <acdh:hasCustomCitation xml:lang="de">@incollection{Wilfing_2025_v__1855_GoettingischeGelehrteAnzeigenAusschnitt_xml,
   title = {Leipzig},
@@ -498,12 +519,11 @@
   date = {2025-10-16},
   publisher = {ARCHE},
   url = {https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1855_GoettingischeGelehrteAnzeigenAusschnitt.xml},
-  editor = {Wilfing, Alexander},
-  language = {DE},
+  editor = {Wilfing, Alexander AND Pfiel, Anna Anna-Maria},
+  langid = {german},
   booktitle = {Leipzig},
   keywords = {Cultural heritage, Digital humanities, Musicology}
 }</acdh:hasCustomCitation>
-      <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
       <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
@@ -527,17 +547,17 @@
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
       <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+      <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasCustomCitation xml:lang="de">@incollection{Wilfing_2025_v__1854_DuesseldorferJournalundKreis-BlattAusschnitt_xml,
   title = {Wissenschaften und Künste},
   date = {2025-10-16},
   publisher = {ARCHE},
   url = {https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1854_DuesseldorferJournalundKreis-BlattAusschnitt.xml},
-  editor = {Wilfing, Alexander},
-  language = {DE},
+  editor = {Wilfing, Alexander AND Pfiel, Anna Anna-Maria},
+  langid = {german},
   booktitle = {Wissenschaften und Künste},
   keywords = {Cultural heritage, Digital humanities, Musicology}
 }</acdh:hasCustomCitation>
-      <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
       <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
@@ -561,17 +581,17 @@
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
       <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+      <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasCustomCitation xml:lang="de">@incollection{Wilfing_2025_v__1855_DiePresseAusschnitt_xml,
   title = {Tagesneuigkeiten},
   date = {2025-10-16},
   publisher = {ARCHE},
   url = {https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1855_DiePresseAusschnitt.xml},
-  editor = {Wilfing, Alexander},
-  language = {DE},
+  editor = {Wilfing, Alexander AND Pfiel, Anna Anna-Maria},
+  langid = {german},
   booktitle = {Tagesneuigkeiten},
   keywords = {Cultural heritage, Digital humanities, Musicology}
 }</acdh:hasCustomCitation>
-      <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
       <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
@@ -595,6 +615,7 @@
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
       <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+      <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasAuthor rdf:resource="https://d-nb.info/gnd/119355841"/>
       <acdh:hasCustomCitation xml:lang="de">@incollection{Wilfing_2025_v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt_xml,
   title = {Populäre Aesthetik.},
@@ -602,12 +623,11 @@
   date = {2025-10-16},
   publisher = {ARCHE},
   url = {https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml},
-  editor = {Wilfing, Alexander},
-  language = {DE},
+  editor = {Wilfing, Alexander AND Pfiel, Anna Anna-Maria},
+  langid = {german},
   booktitle = {Populäre Aesthetik.},
   keywords = {Cultural heritage, Digital humanities, Musicology}
 }</acdh:hasCustomCitation>
-      <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
       <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
@@ -631,18 +651,18 @@
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
       <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+      <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasCustomCitation xml:lang="de">@incollection{Wilfing_2025_v__1854_NiederrheinischeMusikzeitungAusschnitt_xml,
   title = {Wiener Briefe},
   author = {{—r—}},
   date = {2025-10-16},
   publisher = {ARCHE},
   url = {https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1854_NiederrheinischeMusikzeitungAusschnitt.xml},
-  editor = {Wilfing, Alexander},
-  language = {DE},
+  editor = {Wilfing, Alexander AND Pfiel, Anna Anna-Maria},
+  langid = {german},
   booktitle = {Wiener Briefe},
   keywords = {Cultural heritage, Digital humanities, Musicology}
 }</acdh:hasCustomCitation>
-      <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
       <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
@@ -666,6 +686,7 @@
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
       <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+      <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasAuthor rdf:resource="https://d-nb.info/gnd/118511343"/>
       <acdh:hasCustomCitation xml:lang="de">@incollection{Wilfing_2025_v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt_xml,
   title = {Eduard Hanslick},
@@ -673,12 +694,11 @@
   date = {2025-10-16},
   publisher = {ARCHE},
   url = {https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml},
-  editor = {Wilfing, Alexander},
-  language = {DE},
+  editor = {Wilfing, Alexander AND Pfiel, Anna Anna-Maria},
+  langid = {german},
   booktitle = {Eduard Hanslick},
   keywords = {Cultural heritage, Digital humanities, Musicology}
 }</acdh:hasCustomCitation>
-      <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
       <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
@@ -702,6 +722,7 @@
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
       <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+      <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasAuthor rdf:resource="https://d-nb.info/gnd/118543830"/>
       <acdh:hasCustomCitation xml:lang="de">@incollection{Wilfing_2025_v__1855_UnterhaltungenamhaeuslichenHerdAusschnitt_xml,
   title = {Vom Musikalisch-Schönen},
@@ -709,12 +730,11 @@
   date = {2025-10-16},
   publisher = {ARCHE},
   url = {https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1855_UnterhaltungenamhaeuslichenHerdAusschnitt.xml},
-  editor = {Wilfing, Alexander},
-  language = {DE},
+  editor = {Wilfing, Alexander AND Pfiel, Anna Anna-Maria},
+  langid = {german},
   booktitle = {Vom Musikalisch-Schönen},
   keywords = {Cultural heritage, Digital humanities, Musicology}
 }</acdh:hasCustomCitation>
-      <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
       <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
@@ -738,18 +758,18 @@
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
       <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+      <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasCustomCitation xml:lang="de">@incollection{Wilfing_2025_v__1855_KatholischeLiteratur-ZeitungAusschnitt_xml,
   title = {Aesthetik},
   author = {{Mz.}},
   date = {2025-10-16},
   publisher = {ARCHE},
   url = {https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1855_KatholischeLiteratur-ZeitungAusschnitt.xml},
-  editor = {Wilfing, Alexander},
-  language = {DE},
+  editor = {Wilfing, Alexander AND Pfiel, Anna Anna-Maria},
+  langid = {german},
   booktitle = {Aesthetik},
   keywords = {Cultural heritage, Digital humanities, Musicology}
 }</acdh:hasCustomCitation>
-      <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
       <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
@@ -773,6 +793,7 @@
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
       <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+      <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasAuthor rdf:resource="https://d-nb.info/gnd/119020742"/>
       <acdh:hasCustomCitation xml:lang="de">@incollection{Wilfing_2025_v__1855_NeueZeitschriftfuerMusikAusschnitt_xml,
   title = {Bücher, Zeitschriften},
@@ -780,12 +801,11 @@
   date = {2025-10-16},
   publisher = {ARCHE},
   url = {https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1855_NeueZeitschriftfuerMusikAusschnitt.xml},
-  editor = {Wilfing, Alexander},
-  language = {DE},
+  editor = {Wilfing, Alexander AND Pfiel, Anna Anna-Maria},
+  langid = {german},
   booktitle = {Bücher, Zeitschriften},
   keywords = {Cultural heritage, Digital humanities, Musicology}
 }</acdh:hasCustomCitation>
-      <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
       <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
@@ -809,17 +829,17 @@
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
       <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+      <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasCustomCitation xml:lang="de">@incollection{Wilfing_2025_v__1855_BlaetterfuermusikalischeUnterhaltungAusschnitt_xml,
   title = {Zur musikalischen Literatur},
   date = {2025-10-16},
   publisher = {ARCHE},
   url = {https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1855_BlaetterfuermusikalischeUnterhaltungAusschnitt.xml},
-  editor = {Wilfing, Alexander},
-  language = {DE},
+  editor = {Wilfing, Alexander AND Pfiel, Anna Anna-Maria},
+  langid = {german},
   booktitle = {Zur musikalischen Literatur},
   keywords = {Cultural heritage, Digital humanities, Musicology}
 }</acdh:hasCustomCitation>
-      <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
       <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
@@ -843,6 +863,7 @@
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
       <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+      <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasAuthor rdf:resource="https://www.wikidata.org/wiki/Q110134474"/>
       <acdh:hasCustomCitation xml:lang="de">@incollection{Wilfing_2025_v__1857_NeueZeitschriftfuerMusikAusschnitt2_xml,
   title = {Dr. Hanslick und der Tannhäuser},
@@ -850,12 +871,11 @@
   date = {2025-10-16},
   publisher = {ARCHE},
   url = {https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1857_NeueZeitschriftfuerMusikAusschnitt2.xml},
-  editor = {Wilfing, Alexander},
-  language = {DE},
+  editor = {Wilfing, Alexander AND Pfiel, Anna Anna-Maria},
+  langid = {german},
   booktitle = {Dr. Hanslick und der Tannhäuser},
   keywords = {Cultural heritage, Digital humanities, Musicology}
 }</acdh:hasCustomCitation>
-      <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
       <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
@@ -879,18 +899,18 @@
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
       <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+      <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasCustomCitation xml:lang="de">@incollection{Wilfing_2025_v__1854_SignalefuerdieMusikalischeWeltAusschnitt_xml,
   title = {Signale aus Wien},
   author = {{Modestus}},
   date = {2025-10-16},
   publisher = {ARCHE},
   url = {https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1854_SignalefuerdieMusikalischeWeltAusschnitt.xml},
-  editor = {Wilfing, Alexander},
-  language = {DE},
+  editor = {Wilfing, Alexander AND Pfiel, Anna Anna-Maria},
+  langid = {german},
   booktitle = {Signale aus Wien},
   keywords = {Cultural heritage, Digital humanities, Musicology}
 }</acdh:hasCustomCitation>
-      <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
       <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
@@ -914,17 +934,17 @@
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
       <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+      <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasCustomCitation xml:lang="de">@incollection{Wilfing_2025_v__1856_LiterarischeMittheilungenderStGaller-BlaetterAusschnitt_xml,
   title = {Aesthetik},
   date = {2025-10-16},
   publisher = {ARCHE},
   url = {https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1856_LiterarischeMittheilungenderStGaller-BlaetterAusschnitt.xml},
-  editor = {Wilfing, Alexander},
-  language = {DE},
+  editor = {Wilfing, Alexander AND Pfiel, Anna Anna-Maria},
+  langid = {german},
   booktitle = {Aesthetik},
   keywords = {Cultural heritage, Digital humanities, Musicology}
 }</acdh:hasCustomCitation>
-      <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
       <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
@@ -948,18 +968,18 @@
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
       <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+      <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasCustomCitation xml:lang="de">@incollection{Wilfing_2025_v__1856_NeuerBerlinerMusikzeitungAusschnitt_xml,
   title = {Nachrichten},
   author = {{N. P. Z.}},
   date = {2025-10-16},
   publisher = {ARCHE},
   url = {https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1856_NeuerBerlinerMusikzeitungAusschnitt.xml},
-  editor = {Wilfing, Alexander},
-  language = {DE},
+  editor = {Wilfing, Alexander AND Pfiel, Anna Anna-Maria},
+  langid = {german},
   booktitle = {Nachrichten},
   keywords = {Cultural heritage, Digital humanities, Musicology}
 }</acdh:hasCustomCitation>
-      <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
       <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
@@ -983,6 +1003,7 @@
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
       <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+      <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasAuthor rdf:resource="https://d-nb.info/gnd/119020742"/>
       <acdh:hasCustomCitation xml:lang="de">@incollection{Wilfing_2025_v__1857_NeueZeitschriftfuerMusikAusschnitt1_xml,
   title = {Die Aesthetik der Tonkunst.},
@@ -990,12 +1011,11 @@
   date = {2025-10-16},
   publisher = {ARCHE},
   url = {https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1857_NeueZeitschriftfuerMusikAusschnitt1.xml},
-  editor = {Wilfing, Alexander},
-  language = {DE},
+  editor = {Wilfing, Alexander AND Pfiel, Anna Anna-Maria},
+  langid = {german},
   booktitle = {Die Aesthetik der Tonkunst.},
   keywords = {Cultural heritage, Digital humanities, Musicology}
 }</acdh:hasCustomCitation>
-      <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
       <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
@@ -1019,6 +1039,7 @@
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
       <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+      <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasAuthor rdf:resource="https://d-nb.info/gnd/118943774"/>
       <acdh:hasCustomCitation xml:lang="de">@incollection{Wilfing_2025_v__1854_DerHumoristAusschnitt_xml,
   title = {Vom Musikalisch-Schönen},
@@ -1026,12 +1047,11 @@
   date = {2025-10-16},
   publisher = {ARCHE},
   url = {https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1854_DerHumoristAusschnitt.xml},
-  editor = {Wilfing, Alexander},
-  language = {DE},
+  editor = {Wilfing, Alexander AND Pfiel, Anna Anna-Maria},
+  langid = {german},
   booktitle = {Vom Musikalisch-Schönen},
   keywords = {Cultural heritage, Digital humanities, Musicology}
 }</acdh:hasCustomCitation>
-      <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
       <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
       <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
@@ -1133,7 +1153,7 @@
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
-      <acdh:hasFormat>image/svg+xml</acdh:hasFormat>
+      <acdh:hasFormat>image/+xml</acdh:hasFormat>
       <acdh:isTitleImageOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen"/>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
       <acdh:hasCreator rdf:resource="https://id.acdh.oeaw.ac.at/oreichl"/>

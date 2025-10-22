@@ -48,10 +48,6 @@
             <xsl:for-each select=".//acdh:Collection[@rdf:about=$Editions or @rdf:about=$Indices]">
                 <acdh:Collection>
                     <xsl:attribute name="rdf:about"><xsl:value-of select="@rdf:about"/></xsl:attribute>
-                    <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
-                    <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/> 
-                    <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
-                    <acdh:hasMetadataCreator rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
                     <xsl:copy-of select="$constants"/>
                     <xsl:for-each select=".//acdh:*">
                         <xsl:copy-of select="."/>
@@ -62,9 +58,6 @@
              <xsl:for-each select=".//acdh:Collection[@rdf:about=$Meta]">
                 <acdh:Collection>
                     <xsl:attribute name="rdf:about"><xsl:value-of select="@rdf:about"/></xsl:attribute>
-                    <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/> 
-                    <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
-                    <acdh:hasMetadataCreator rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
                     <xsl:copy-of select="$constants"/>
                     <xsl:for-each select=".//acdh:*">
                         <xsl:copy-of select="."/>
@@ -113,7 +106,7 @@
                     <acdh:isPartOf rdf:resource="{$partOf}"/>
                     <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
                     <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
-                    <acdh:hasEditor rdf:about="https://orcid.org/0000-0002-7722-4091"/>
+                    <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
                     <xsl:choose>
                         <xsl:when test=".//tei:titleStmt/tei:author/@ref">
                             <xsl:variable name="personId" select="substring-after(.//tei:titleStmt/tei:author/@ref, '#')"/>
@@ -171,8 +164,9 @@
                         </xsl:if>
                         <xsl:text>  date = {2025-10-16},&#10;  publisher = {ARCHE},&#10;  url = {</xsl:text>
                         <xsl:value-of select="concat(string($TopColId), '/', string(@xml:id))"/>
-                        <xsl:text>},&#10;  editor = {Wilfing, Alexander AND Pfiel, Anna Anna-Maria},&#10;  language = {DE},&#10;  booktitle = {</xsl:text>
+                        <xsl:text>},&#10;  editor = {Wilfing, Alexander AND Pfiel, Anna-Maria},&#10;  booktitle = {</xsl:text>
                         <xsl:value-of select="$rc-title"/>
+                        <xsl:text>},&#10;  langid = {ngerman}&#10;}</xsl:text>
                         <xsl:text>},&#10;  keywords = {Cultural heritage, Digital humanities, Musicology}&#10;}</xsl:text>
                     </acdh:hasCustomCitation>
                     <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
@@ -197,7 +191,6 @@
                     <acdh:isPartOf rdf:resource="{$Indices}"/>
                     <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
                     <acdh:hasCreator rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
-                    <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
                     <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
                     <xsl:if test="@xml:id = 'listperson.xml'">
                         <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
