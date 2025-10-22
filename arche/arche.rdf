@@ -155,7 +155,7 @@
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#"
                   rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1855_NeueWienerMusik-ZeitungAusschnitt.xml">
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-      <acdh:hasTitle xml:lang="de">TEI/XML: Literarische Anzeige . Auflage (1855-05-24)</acdh:hasTitle>
+      <acdh:hasTitle xml:lang="de">TEI/XML: Literarische Anzeige</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
@@ -190,7 +190,7 @@
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#"
                   rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1855_NiederrheinischeMusik-Zeitung2Ausschnitt.xml">
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-      <acdh:hasTitle xml:lang="de">TEI/XML: Stimmen der Kritik über Richard Wagner. II. . Auflage (1855-03-24)</acdh:hasTitle>
+      <acdh:hasTitle xml:lang="de">TEI/XML: Stimmen der Kritik über Richard Wagner. II.</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
@@ -226,7 +226,7 @@
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#"
                   rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1855_WolfgangMenzelsLiteraturblattAusschnitt.xml">
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-      <acdh:hasTitle xml:lang="de">TEI/XML: Ueber Musik . Auflage (1855-04-25)</acdh:hasTitle>
+      <acdh:hasTitle xml:lang="de">TEI/XML: Ueber Musik</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
@@ -294,7 +294,7 @@
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#"
                   rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1855_DwightsJournalofMusicAuschnitt.xml">
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-      <acdh:hasTitle xml:lang="de">TEI/XML: Music the Exponent of Emotion . Auflage (1855-07-21)</acdh:hasTitle>
+      <acdh:hasTitle xml:lang="de">TEI/XML: Music the Exponent of Emotion</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
@@ -329,7 +329,7 @@
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#"
                   rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1854_OesterreichischeBlaetterfuerLiteraturundKunstAusschnitt.xml">
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-      <acdh:hasTitle xml:lang="de">TEI/XML: Zur Aesthetik der Tonkunst . Auflage (1854-11-20)</acdh:hasTitle>
+      <acdh:hasTitle xml:lang="de">TEI/XML: Zur Aesthetik der Tonkunst</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
@@ -399,7 +399,7 @@
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#"
                   rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1855_NeueBerlinerMusikzeitungAusschnitt.xml">
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-      <acdh:hasTitle xml:lang="de">TEI/XML: Musik-Literatur . Auflage (1855-10-17)</acdh:hasTitle>
+      <acdh:hasTitle xml:lang="de">TEI/XML: Musik-Literatur</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
@@ -435,7 +435,7 @@
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#"
                   rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1854_IllustrirteZeitungAusschnitt.xml">
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-      <acdh:hasTitle xml:lang="de">TEI/XML: Literatur . Auflage (1854-12-23)</acdh:hasTitle>
+      <acdh:hasTitle xml:lang="de">TEI/XML: Literatur</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
@@ -505,7 +505,7 @@
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#"
                   rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1855_GoettingischeGelehrteAnzeigenAusschnitt.xml">
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-      <acdh:hasTitle xml:lang="de">TEI/XML: Leipzig . Auflage (1855-07-05)</acdh:hasTitle>
+      <acdh:hasTitle xml:lang="de">TEI/XML: Leipzig</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
@@ -541,7 +541,7 @@
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#"
                   rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1854_DuesseldorferJournalundKreis-BlattAusschnitt.xml">
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-      <acdh:hasTitle xml:lang="de">TEI/XML: Wissenschaften und Künste . Auflage (1854-11-08)</acdh:hasTitle>
+      <acdh:hasTitle xml:lang="de">TEI/XML: Wissenschaften und Künste</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
@@ -575,7 +575,7 @@
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#"
                   rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1855_DiePresseAusschnitt.xml">
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-      <acdh:hasTitle xml:lang="de">TEI/XML: Tagesneuigkeiten . Auflage (1855-04-17)</acdh:hasTitle>
+      <acdh:hasTitle xml:lang="de">TEI/XML: Tagesneuigkeiten</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
@@ -609,7 +609,7 @@
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#"
                   rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1857_BlaetterfuerliterarischeUnterhaltungAusschnitt.xml">
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-      <acdh:hasTitle xml:lang="de">TEI/XML: Populäre Aesthetik. . Auflage (1857-06-04)</acdh:hasTitle>
+      <acdh:hasTitle xml:lang="de">TEI/XML: Populäre Aesthetik.</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
@@ -645,7 +645,7 @@
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#"
                   rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1854_NiederrheinischeMusikzeitungAusschnitt.xml">
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-      <acdh:hasTitle xml:lang="de">TEI/XML: Wiener Briefe . Auflage (1854-11-04)</acdh:hasTitle>
+      <acdh:hasTitle xml:lang="de">TEI/XML: Wiener Briefe</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
@@ -680,7 +680,7 @@
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#"
                   rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1855_NiederrheinischeMusik-Zeitung1Ausschnitt.xml">
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-      <acdh:hasTitle xml:lang="de">TEI/XML: Eduard Hanslick . Auflage (1855-02-17)</acdh:hasTitle>
+      <acdh:hasTitle xml:lang="de">TEI/XML: Eduard Hanslick</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
@@ -787,7 +787,7 @@
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#"
                   rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1855_NeueZeitschriftfuerMusikAusschnitt.xml">
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-      <acdh:hasTitle xml:lang="de">TEI/XML: Bücher, Zeitschriften . Auflage (1855-02-16)</acdh:hasTitle>
+      <acdh:hasTitle xml:lang="de">TEI/XML: Bücher, Zeitschriften</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
@@ -823,7 +823,7 @@
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#"
                   rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1855_BlaetterfuermusikalischeUnterhaltungAusschnitt.xml">
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-      <acdh:hasTitle xml:lang="de">TEI/XML: Zur musikalischen Literatur . Auflage (1855-04-12)</acdh:hasTitle>
+      <acdh:hasTitle xml:lang="de">TEI/XML: Zur musikalischen Literatur</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
@@ -857,7 +857,7 @@
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#"
                   rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1857_NeueZeitschriftfuerMusikAusschnitt2.xml">
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-      <acdh:hasTitle xml:lang="de">TEI/XML: Dr. Hanslick und der Tannhäuser . Auflage (1857-10-30)</acdh:hasTitle>
+      <acdh:hasTitle xml:lang="de">TEI/XML: Dr. Hanslick und der Tannhäuser</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
@@ -962,7 +962,7 @@
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#"
                   rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1856_NeuerBerlinerMusikzeitungAusschnitt.xml">
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-      <acdh:hasTitle xml:lang="de">TEI/XML: Nachrichten . Auflage (1856-12-10)</acdh:hasTitle>
+      <acdh:hasTitle xml:lang="de">TEI/XML: Nachrichten</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
@@ -997,7 +997,7 @@
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#"
                   rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1857_NeueZeitschriftfuerMusikAusschnitt1.xml">
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-      <acdh:hasTitle xml:lang="de">TEI/XML: Die Aesthetik der Tonkunst. . Auflage (1857-05-01)</acdh:hasTitle>
+      <acdh:hasTitle xml:lang="de">TEI/XML: Die Aesthetik der Tonkunst.</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
@@ -1033,7 +1033,7 @@
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#"
                   rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/v__1854_DerHumoristAusschnitt.xml">
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-      <acdh:hasTitle xml:lang="de">TEI/XML: Vom Musikalisch-Schönen . Auflage (1854-11-25)</acdh:hasTitle>
+      <acdh:hasTitle xml:lang="de">TEI/XML: Vom Musikalisch-Schönen</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions"/>
