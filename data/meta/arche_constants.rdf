@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<acdh:ACDH xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#">
+    <acdh:Constanst>
+        <acdh:DefaultLang>de</acdh:DefaultLang>
+    </acdh:Constanst>
+    <acdh:TopCollection rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen">
+        <acdh:hasPid>create</acdh:hasPid>
+	<acdh:hasTitle xml:lang="de">Die Rezensionen zu Eduard Hanslicks „Vom Musikalisch-Schönen“ (1854–1857)</acdh:hasTitle> 
+	<acdh:hasDescription xml:lang="de">Digitale Edition von 26 Rezensionen der ersten Auflage von Eduard Hanslicks Traktat „Vom Musikalisch-Schönen. Ein Beitrag zur Revision der Ästhetik der Tonkunst“ (1854). Die Rezensionen reichen von kurzen Berichten bis hin zu mehrteiligen Besprechungen in deutschsprachigen sowie einer englischsprachigen Zeitschrift. Sie wurden mittels Suche in digitalen Repositorien erfasst und als XML/TEI-Dateien ediert. Diese Dateien enthalten die Rezensionen selbst, annotierte Entitäten (Personen, Figuren, Werke, Orte) und werden durch aus Repositorien bezogene Faksimiles ergänzt.</acdh:hasDescription>
+        <acdh:hasContact rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+        <acdh:hasMetadataCreator rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+        <acdh:hasMetadataCreator rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
+        <acdh:hasActor rdf:resource="http://d-nb.info/gnd/118545825"/>
+        <acdh:hasDepositor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/> 
+        <acdh:hasCurator rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
+        <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
+        <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
+        <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1854-01-01</acdh:hasCoverageStartDate>
+        <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1857-12-31</acdh:hasCoverageEndDate>
+        <acdh:hasSubject xml:lang="de">Digitale Edition</acdh:hasSubject>
+        <acdh:hasSubject xml:lang="de">Musikwissenschaft</acdh:hasSubject>
+        <acdh:hasSubject xml:lang="de">Vom Musikalisch-Schönen</acdh:hasSubject>
+        <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
+        <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/605007"/>
+        <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/605008"/>
+        <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/604024"/>
+        <acdh:hasNamingScheme xml:lang="de">XML/TEI Editionsdateien sind benannt als "v__185[4-7]_DescriptiveName.xml"</acdh:hasNamingScheme>
+        <acdh:hasLifeCycleStatus rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelifecyclestatus/completed"/>
+        <acdh:hasFunder rdf:resource="https://id.acdh.oeaw.ac.at/org-ma7"/>
+        <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
+        <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
+        <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"/>
+        <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/none"/>
+        <acdh:hasPrincipalInvestigator rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+        <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/> 
+        <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
+        <acdh:hasUrl>https://hanslick.acdh.oeaw.ac.at/toc_vms.html</acdh:hasUrl>
+	<acdh:hasCreatedStartDate>2024-10-01</acdh:hasCreatedStartDate>
+        <acdh:hasCreatedEndDate>2025-10-15</acdh:hasCreatedEndDate>
+        <acdh:hasCustomCitation>@dataset{Wilfing_2025_3977585,
+		title = {Die Rezensionen zu Eduard Hanslicks „Vom Musikalisch-Schönen“ (1854–1857)},
+		publisher = {ARCHE},
+		date = {2025-10-16},
+		langid = {ngerman},
+		editor = {Wilfing, Alexander AND Pfiel, Anna-Maria},
+		keywords = {Digital Humanities, Digitale Edition, Kulturerbe, Musikwissenschaft, Vom Musikalisch-Schönen},
+		abstract = {Digitale Edition von 26 Rezensionen der ersten Auflage von Eduard Hanslicks Traktat „Vom Musikalisch-Schönen. Ein Beitrag zur Revision der Ästhetik der Tonkunst“ (1854). Die Rezensionen reichen von kurzen Berichten bis hin zu mehrteiligen Besprechungen in deutschsprachigen sowie einer englischsprachigen Zeitschrift. Sie wurden mittels Suche in digitalen Repositorien erfasst und als XML/TEI-Dateien ediert. Diese Dateien enthalten die Rezensionen selbst, annotierte Entitäten (Personen, Figuren, Werke, Orte) und werden durch aus Repositorien bezogene Faksimiles ergänzt.}
+}</acdh:hasCustomCitation>
+    </acdh:TopCollection>
+    <acdh:Cols>
+        <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/editions">
+            <acdh:hasPid>create</acdh:hasPid>
+            <acdh:hasTitle xml:lang="de">Edition: Die Rezensionen zu Eduard Hanslicks „Vom Musikalisch-Schönen“ (1854–1857)</acdh:hasTitle>
+            <acdh:hasDescription xml:lang="de">XML-TEI-Editionen der 26 Rezensionen der ersten Auflage von Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854)</acdh:hasDescription>
+            <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
+            <acdh:hasLifeCycleStatus rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelifecyclestatus/completed"/>
+            <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen"/>
+            <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/> 
+            <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
+            <acdh:hasActor rdf:resource="http://d-nb.info/gnd/118545825"/>
+            <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
+            <acdh:hasCustomCitation>@incollection{Wilfing_2025_3977593,
+		title = {Die Rezensionen zu Eduard Hanslicks „Vom Musikalisch-Schönen“ (1854–1857)},
+		publisher = {ARCHE},
+                date = {2025-10-16},
+                publisher = {ARCHE},
+		langid = {ngerman},
+		booktitle = {Die Rezensionen zu Eduard Hanslicks „Vom Musikalisch-Schönen“ (1854–1857)},
+	        abstract = {XML-TEI-Editionen der 26 Rezensionen der ersten Auflage von Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854)},
+		editor = {Wilfing, Alexander AND Pfiel, Anna-Maria},
+		keywords = {Digital Humanities, Digitale Edition, Kulturerbe, Musikwissenschaft, Vom Musikalisch-Schönen}
+		}</acdh:hasCustomCitation>
+        </acdh:Collection>
+        <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/meta">
+            <acdh:hasPid>create</acdh:hasPid>
+            <acdh:hasTitle xml:lang="de">Metadaten</acdh:hasTitle>
+            <acdh:hasCreator rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+            <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
+	    <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
+            <acdh:hasMetadataCreator rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
+            <acdh:hasDescription xml:lang="de">XML-Schemas und Bilder</acdh:hasDescription>
+            <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
+            <acdh:hasLifeCycleStatus rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelifecyclestatus/completed"/>
+            <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen"/>
+            <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
+        </acdh:Collection>
+        <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/indices">
+            <acdh:hasPid>create</acdh:hasPid>
+            <acdh:hasTitle xml:lang="de">Register</acdh:hasTitle>
+            <acdh:hasEditor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/> 
+            <acdh:hasEditor rdf:resource="https://orcid.org/0000-0002-7722-4091"/>
+            <acdh:hasDescription xml:lang="de">Register: Personen, Orte und Werke</acdh:hasDescription>
+            <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
+            <acdh:hasLifeCycleStatus rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelifecyclestatus/completed"/>
+            <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen"/>
+            <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
+            <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
+	    <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
+            <acdh:hasMetadataCreator rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
+        </acdh:Collection>
+    </acdh:Cols>
+    <!-- definition of agents mentioned in the Metadata as e.g. PI, Curator, ... but not yet in ARCHE -->
+    <acdh:MetaAgents>
+        <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/org-ma7" />
+        <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/delsner" />
+        <acdh:Person rdf:about="https://orcid.org/0000-0002-7722-4091">
+            <acdh:hasLastName xml:lang="und">Pfiel</acdh:hasLastName>                                                                                                                                                                                      
+            <acdh:hasFirstName xml:lang="und">Anna Maria</acdh:hasFirstName>
+        </acdh:Person>
+        <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/awilfing" />
+        <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/fsanzlazaro" />
+        <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/oreichl" />
+        <acdh:Person rdf:about="https://d-nb.info/gnd/118545825">
+            <acdh:hasTitle xml:lang="und">Eduard Hanslick</acdh:hasTitle>
+            <acdh:hasLastName xml:lang="und">Hanslick</acdh:hasLastName>
+            <acdh:hasFirstName xml:lang="und">Eduard</acdh:hasFirstName>
+        </acdh:Person>               
+    </acdh:MetaAgents>
+    <!-- mandatory properties shared by acdh:Collection AND acdh:Resource -->
+    <acdh:RepoObject>
+        <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
+        <acdh:hasContact rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+        <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
+        <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"/>
+        <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/605007"/>
+        <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/605008"/>
+        <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/604024"/>
+        <acdh:hasDepositor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+        <acdh:hasMetadataCreator rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+        <acdh:hasMetadataCreator rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
+        <acdh:hasCurator rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
+    </acdh:RepoObject>
+    <acdh:ImgObject>
+        <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
+        <acdh:hasContact rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+        <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
+        <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/none"/>
+        <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/605007"/>
+        <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/605008"/>
+        <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/604024"/>
+        <acdh:hasDepositor rdf:resource="https://id.acdh.oeaw.ac.at/awilfing"/>
+        <acdh:hasMetadataCreator rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
+        <acdh:hasCurator rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
+    </acdh:ImgObject>
+    <acdh:Person  rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/hl">
+        <acdh:hasTitle xml:lang="und">H. — L.</acdh:hasTitle>
+        <acdh:hasPid>create</acdh:hasPid>
+    </acdh:Person>
+     <acdh:Person  rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/jh">
+        <acdh:hasTitle xml:lang="und">J. H.</acdh:hasTitle>
+        <acdh:hasPid>create</acdh:hasPid>
+    </acdh:Person>
+    <acdh:Person  rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/r">
+        <acdh:hasTitle xml:lang="und">—r—</acdh:hasTitle>
+        <acdh:hasPid>create</acdh:hasPid>
+    </acdh:Person>
+    <acdh:Person  rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/mz">
+        <acdh:hasTitle xml:lang="und">Mz.</acdh:hasTitle>
+        <acdh:hasPid>create</acdh:hasPid>
+    </acdh:Person>
+    <acdh:Person  rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/modestus">
+        <acdh:hasTitle xml:lang="und">Modestus</acdh:hasTitle>
+        <acdh:hasPid>create</acdh:hasPid>
+    </acdh:Person>
+      <acdh:Person  rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/npz">
+        <acdh:hasTitle xml:lang="und">N. P. Z.</acdh:hasTitle>
+        <acdh:hasPid>create</acdh:hasPid>
+    </acdh:Person>
+</acdh:ACDH>
