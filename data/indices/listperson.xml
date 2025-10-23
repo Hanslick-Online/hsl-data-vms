@@ -81860,7 +81860,7 @@
                   </persName>
                   <birth>unbekannt (19. Jhdt.)</birth>
                   <death>unbekannt (19. Jhdt.)</death>
-			<idno type="URI" subtype="ARCHE">https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/npz</idno>
+			<idno type="URI" subtype="ACDH">https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen/npz</idno>
                   <occupation style="background-color: darker-orange;">unbekannt</occupation>
                </person>
                <person xml:id="hsl_person_id_6141" resp="#awilfing" cert="high">
