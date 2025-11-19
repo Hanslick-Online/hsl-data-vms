@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</title>
+            <title level="j">Der Humorist</title>
+            <title level="a" type="main">Vom Musikalisch-Schönen</title>
+            <title level="a" type="sub">Ein Beitrag zur Revision der Aesthetik der Tonkunst von Dr. Ed. <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>. <title rend="italics">Von Emil <rs type="person" ref="#hsl_person_id_6653">Kuh</rs></title>.</title>
+            <author ref="#hsl_person_id_6653">Kuh, Emil</author>
+            <editor>
+               <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
+               <name ref="https://orcid.org/0000-0002-7722-4091">Pfiel, Anna-Maria</name>
+            </editor>
+            <funder>
+               <name ref="http://d-nb.info/gnd/4540825-7">Stadt Wien (MA7)</name>
+               <address>
+                  <street>Friedrich-Schmidt-Platz 5</street>
+                  <postCode>1080 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „Vom Musikalisch-Schönen“ (1854–1857)</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name ref="https://orcid.org/0000-0002-0117-3574">Wilfing, Alexander</name>
+               <name ref="https://orcid.org/0000-0002-7722-4091">Pfiel, Anna-Maria</name>
+            </respStmt>
+            <respStmt>
+               <resp>Projektmitarbeiterinnen</resp>
+               <name ref="https://orcid.org/0000-0002-0636-4476">Elsner, Daniel</name>
+               <name ref="https://orcid.org/0000-0002-8815-6741">Sanz-Lázaro, Fernando</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2025">2025</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+                        vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für
+                        beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                        Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                        Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
+                        Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
+                        nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
+                        oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder
+                        technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen,
+                        was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                        Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
+                        Ausnahmen und Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                        verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                        jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                        Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des
+                        Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <biblStruct>
+                  <analytic>
+                     <title>Vom Musikalisch-Schönen</title>
+                     <author ref="#hsl_person_id_6653">Kuh, Emil</author>
+                  </analytic>
+                  <monogr>
+                     <title type="main">Der Humorist</title>
+                     <title type="sub">No. 305. Samstag den 25. November 1854. 18. Jahrgang</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#hsl_person_id_2252">Saphir, Moritz Gottlieb</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1854-11-25">1854-11-25</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="draft">
+         <change who="awilfing" when="2024-11-01">Projektbeginn</change>
+         <change who="awilfing" when="2025-01-20">Headers Anpassung</change>
+         <change who="ampfiel" when="2025-06-23">Transkribus OCR und Lektorat.</change>
+         <change who="fsanzl" when="2025-06-24">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
+         <change who="ampfiel" when="2025-06-30">header, p+div hinzugefügt</change>
+         <change who="ampfiel" when="2025-07-04">Zeilenumbrüche, Absätze, rs ref, space</change>
+         <change who="awilfing" when="2025-08-19">Letztkorrektur für Zwischenrelease.</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
+         <graphic url="1854DerHumoristAusschnitt-0001.jpeg"
+                  width="2479px"
+                  height="3508px"/>
+         <zone points="399,31 1880,31 1880,330 399,330"
+               rendition="TextRegion"
+               xml:id="facs_1_region_1709365866740_106">
+            <zone points="629,36 1703,36 1703,299 629,299"
+                  rendition="Line"
+                  xml:id="facs_1_line_1733833039130_1561"/>
+         </zone>
+         <zone points="39,446 2223,446 2223,529 39,529"
+               rendition="TextRegion"
+               xml:id="facs_1_region_1709365869540_109">
+            <zone points="74,456 2218,456 2218,524 74,524"
+                  rendition="Line"
+                  xml:id="facs_1_line_1709371979004_69"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
+         <graphic url="1854DerHumoristAusschnitt-0002.jpeg"
+                  width="2479px"
+                  height="3508px"/>
+         <graphic url="1854DerHumoristAusschnitt-0002.jpeg"
+                  width="2479px"
+                  height="3508px"/>
+         <zone points="50,35 1147,35 1147,2336 50,2336"
+               rendition="TextRegion"
+               xml:id="facs_2_region_1709365896186_115">
+            <zone points="69,31 946,31 946,120 69,120"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_1"/>
+            <zone points="112,92 1115,92 1115,176 112,176"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_2"/>
+            <zone points="483,149 742,149 742,221 483,221"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_3"/>
+            <zone points="148,183 1143,183 1143,253 148,253"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_4"/>
+            <zone points="69,251 1136,251 1136,291 69,291"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_5"/>
+            <zone points="81,291 1134,291 1134,336 81,336"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_6"/>
+            <zone points="76,332 1143,332 1143,373 76,373"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_7"/>
+            <zone points="75,369 1139,369 1139,420 75,420"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_8"/>
+            <zone points="81,411 1134,411 1134,455 81,455"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_9"/>
+            <zone points="84,455 1135,455 1135,499 84,499"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_10"/>
+            <zone points="79,491 1139,491 1139,542 79,542"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_11"/>
+            <zone points="76,532 1135,532 1135,584 76,584"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_12"/>
+            <zone points="81,568 1134,568 1134,619 81,619"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_13"/>
+            <zone points="81,615 1127,615 1127,658 81,658"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_14"/>
+            <zone points="76,651 1135,651 1135,696 76,696"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_15"/>
+            <zone points="79,696 1139,696 1139,743 79,743"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_16"/>
+            <zone points="76,735 1139,735 1139,778 76,778"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_17"/>
+            <zone points="69,772 1136,772 1136,819 69,819"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_18"/>
+            <zone points="76,819 1131,819 1131,859 76,859"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_19"/>
+            <zone points="79,851 1134,851 1134,907 79,907"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_20"/>
+            <zone points="76,890 1131,890 1131,940 76,940"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_21"/>
+            <zone points="79,939 1134,939 1134,976 79,976"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_22"/>
+            <zone points="79,976 1134,976 1134,1019 79,1019"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_23"/>
+            <zone points="69,1018 1136,1018 1136,1059 69,1059"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_24"/>
+            <zone points="75,1063 1128,1063 1128,1107 75,1107"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_25"/>
+            <zone points="76,1098 1131,1098 1131,1148 76,1148"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_26"/>
+            <zone points="79,1138 1124,1138 1124,1187 79,1187"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_27"/>
+            <zone points="76,1178 782,1178 782,1219 76,1219"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_28"/>
+            <zone points="148,1216 1127,1216 1127,1259 148,1259"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_29"/>
+            <zone points="79,1259 1134,1259 1134,1306 79,1306"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_30"/>
+            <zone points="67,1299 1136,1299 1136,1344 67,1344"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_31"/>
+            <zone points="79,1339 1138,1339 1138,1386 79,1386"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_32"/>
+            <zone points="69,1382 1131,1382 1131,1419 69,1419"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_33"/>
+            <zone points="76,1419 1136,1419 1136,1467 76,1467"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_34"/>
+            <zone points="76,1458 1139,1458 1139,1503 76,1503"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_35"/>
+            <zone points="79,1502 1131,1502 1131,1547 79,1547"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_36"/>
+            <zone points="69,1546 1131,1546 1131,1587 69,1587"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_37"/>
+            <zone points="69,1587 1135,1587 1135,1629 69,1629"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_38"/>
+            <zone points="69,1627 1128,1627 1128,1667 69,1667"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_39"/>
+            <zone points="76,1666 1135,1666 1135,1706 76,1706"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_40"/>
+            <zone points="76,1707 1122,1707 1122,1747 76,1747"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_41"/>
+            <zone points="79,1746 1134,1746 1134,1787 79,1787"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_42"/>
+            <zone points="69,1787 1135,1787 1135,1830 69,1830"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_43"/>
+            <zone points="69,1823 1124,1823 1124,1875 69,1875"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_44"/>
+            <zone points="72,1873 1127,1873 1127,1913 72,1913"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_45"/>
+            <zone points="69,1909 1131,1909 1131,1947 69,1947"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_46"/>
+            <zone points="72,1950 1124,1950 1124,1995 72,1995"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_47"/>
+            <zone points="69,1991 1119,1991 1119,2034 69,2034"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_48"/>
+            <zone points="65,2030 1122,2030 1122,2075 65,2075"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_49"/>
+            <zone points="69,2075 1112,2075 1112,2122 69,2122"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_50"/>
+            <zone points="64,2115 1116,2115 1116,2155 64,2155"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_51"/>
+            <zone points="64,2155 1124,2155 1124,2195 64,2195"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_52"/>
+            <zone points="67,2195 1115,2195 1115,2235 67,2235"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_53"/>
+            <zone points="67,2230 1115,2230 1115,2275 67,2275"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_54"/>
+            <zone points="64,2275 730,2275 730,2314 64,2314"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_55"/>
+            <zone points="824,2282 1059,2282 1059,2325 824,2325"
+                  rendition="Line"
+                  xml:id="facs_2_region_1709365896186_115_tl_56"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_3">
+         <graphic url="1854DerHumoristAusschnitt-0003.jpeg"
+                  width="2479px"
+                  height="3508px"/>
+         <zone points="397,11 1883,11 1883,423 397,423"
+               rendition="TextRegion"
+               xml:id="facs_3_region_1709365909929_121">
+            <zone points="697,64 1724,64 1724,293 697,293"
+                  rendition="Line"
+                  xml:id="facs_3_line_1733833092720_1587"/>
+         </zone>
+         <zone points="97,452 2220,452 2220,530 97,530"
+               rendition="TextRegion"
+               xml:id="facs_3_region_1709365913241_124">
+            <zone points="83,450 2218,450 2218,512 83,512"
+                  rendition="Line"
+                  xml:id="facs_3_line_1709372062644_151"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_4">
+         <graphic url="1854DerHumoristAusschnitt-0004.jpeg"
+                  width="2479px"
+                  height="3508px"/>
+         <graphic url="1854DerHumoristAusschnitt-0004.jpeg"
+                  width="2479px"
+                  height="3508px"/>
+         <zone points="11,1168 1097,1168 1097,3324 11,3324"
+               rendition="TextRegion"
+               xml:id="facs_4_region_1709365927616_130">
+            <zone points="266,1187 874,1187 874,1266 266,1266"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_1"/>
+            <zone points="79,1257 1062,1257 1062,1307 79,1307"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_2"/>
+            <zone points="443,1300 699,1300 699,1360 443,1360"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_3"/>
+            <zone points="363,1352 778,1352 778,1401 363,1401"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_4"/>
+            <zone points="117,1410 1099,1410 1099,1456 117,1456"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_5"/>
+            <zone points="46,1445 1095,1445 1095,1490 46,1490"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_6"/>
+            <zone points="42,1481 1091,1481 1091,1532 42,1532"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_7"/>
+            <zone points="46,1526 1096,1526 1096,1571 46,1571"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_8"/>
+            <zone points="40,1568 1087,1568 1087,1612 40,1612"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_9"/>
+            <zone points="49,1606 1092,1606 1092,1651 49,1651"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_10"/>
+            <zone points="41,1648 1085,1648 1085,1696 41,1696"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_11"/>
+            <zone points="41,1691 1092,1691 1092,1739 41,1739"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_12"/>
+            <zone points="46,1737 1091,1737 1091,1779 46,1779"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_13"/>
+            <zone points="40,1776 1095,1776 1095,1816 40,1816"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_14"/>
+            <zone points="42,1809 1085,1809 1085,1850 42,1850"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_15"/>
+            <zone points="40,1852 1081,1852 1081,1890 40,1890"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_16"/>
+            <zone points="42,1888 1089,1888 1089,1931 42,1931"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_17"/>
+            <zone points="42,1931 1085,1931 1085,1972 42,1972"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_18"/>
+            <zone points="42,1972 1085,1972 1085,2019 42,2019"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_19"/>
+            <zone points="40,2015 1089,2015 1089,2052 40,2052"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_20"/>
+            <zone points="40,2053 1087,2053 1087,2098 40,2098"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_21"/>
+            <zone points="38,2090 1083,2090 1083,2147 38,2147"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_22"/>
+            <zone points="34,2132 1085,2132 1085,2173 34,2173"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_23"/>
+            <zone points="28,2168 1081,2168 1081,2217 28,2217"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_24"/>
+            <zone points="26,2216 1083,2216 1083,2267 26,2267"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_25"/>
+            <zone points="28,2256 1085,2256 1085,2300 28,2300"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_26"/>
+            <zone points="29,2306 1085,2306 1085,2339 29,2339"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_27"/>
+            <zone points="30,2339 1080,2339 1080,2386 30,2386"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_28"/>
+            <zone points="34,2379 1081,2379 1081,2424 34,2424"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_29"/>
+            <zone points="28,2416 1081,2416 1081,2458 28,2458"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_30"/>
+            <zone points="28,2458 1075,2458 1075,2499 28,2499"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_31"/>
+            <zone points="30,2499 1080,2499 1080,2547 30,2547"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_32"/>
+            <zone points="30,2540 1073,2540 1073,2585 30,2585"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_33"/>
+            <zone points="28,2586 1081,2586 1081,2627 28,2627"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_34"/>
+            <zone points="30,2620 1077,2620 1077,2667 30,2667"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_35"/>
+            <zone points="28,2660 1075,2660 1075,2707 28,2707"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_36"/>
+            <zone points="26,2701 1075,2701 1075,2752 26,2752"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_37"/>
+            <zone points="24,2730 1080,2730 1080,2794 24,2794"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_38"/>
+            <zone points="21,2783 1076,2783 1076,2827 21,2827"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_39"/>
+            <zone points="29,2822 1073,2822 1073,2876 29,2876"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_40"/>
+            <zone points="28,2867 1083,2867 1083,2908 28,2908"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_41"/>
+            <zone points="26,2901 1085,2901 1085,2955 26,2955"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_42"/>
+            <zone points="30,2947 1085,2947 1085,2994 30,2994"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_43"/>
+            <zone points="104,2987 1080,2987 1080,3040 104,3040"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_44"/>
+            <zone points="28,3030 1075,3030 1075,3075 28,3075"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_45"/>
+            <zone points="30,3069 1080,3069 1080,3114 30,3114"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_46"/>
+            <zone points="28,3107 1085,3107 1085,3154 28,3154"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_47"/>
+            <zone points="30,3145 1083,3145 1083,3203 30,3203"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_48"/>
+            <zone points="30,3187 1080,3187 1080,3236 30,3236"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_49"/>
+            <zone points="24,3228 1080,3228 1080,3289 24,3289"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_50"/>
+            <zone points="21,3273 1080,3273 1080,3322 21,3322"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365927616_130_tl_51"/>
+         </zone>
+         <zone points="1138,1175 2193,1175 2193,1601 1138,1601"
+               rendition="TextRegion"
+               xml:id="facs_4_region_1709365935304_133">
+            <zone points="1142,1200 2190,1200 2190,1255 1142,1255"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365935304_133_tl_1"/>
+            <zone points="1138,1245 2190,1245 2190,1306 1138,1306"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365935304_133_tl_2"/>
+            <zone points="1138,1277 1673,1277 1673,1344 1138,1344"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365935304_133_tl_3"/>
+            <zone points="1254,1332 2070,1332 2070,1385 1254,1385"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365935304_133_tl_4"/>
+            <zone points="1250,1370 1937,1370 1937,1427 1250,1427"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365935304_133_tl_5"/>
+            <zone points="1146,1408 2194,1408 2194,1474 1146,1474"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365935304_133_tl_6"/>
+            <zone points="1139,1468 2189,1468 2189,1517 1139,1517"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365935304_133_tl_7"/>
+            <zone points="1139,1502 2181,1502 2181,1553 1139,1553"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365935304_133_tl_8"/>
+            <zone points="1924,1556 2109,1556 2109,1602 1924,1602"
+                  rendition="Line"
+                  xml:id="facs_4_region_1709365935304_133_tl_9"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_5">
+         <graphic url="1854DerHumoristAusschnitt-0005.jpeg"
+                  width="2479px"
+                  height="3508px"/>
+         <zone points="403,26 1852,26 1852,453 403,453"
+               rendition="TextRegion"
+               xml:id="facs_5_region_1709365946063_139">
+            <zone points="585,49 1699,49 1699,335 585,335"
+                  rendition="Line"
+                  xml:id="facs_5_line_1733833125455_1602"/>
+         </zone>
+         <zone points="25,464 2219,464 2219,553 25,553"
+               rendition="TextRegion"
+               xml:id="facs_5_region_1709365949248_142">
+            <zone points="53,474 2206,474 2206,536 53,536"
+                  rendition="Line"
+                  xml:id="facs_5_line_1709372090341_162"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_6">
+         <graphic url="1854DerHumoristAusschnitt-0006.jpeg"
+                  width="2479px"
+                  height="3508px"/>
+         <graphic url="1854DerHumoristAusschnitt-0006.jpeg"
+                  width="2479px"
+                  height="3508px"/>
+         <zone points="62,656 1146,656 1146,3336 62,3336"
+               rendition="TextRegion"
+               xml:id="facs_6_region_1709365964991_148">
+            <zone points="306,658 910,658 910,728 306,728"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_1"/>
+            <zone points="114,713 1097,713 1097,769 114,769"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_2"/>
+            <zone points="472,765 739,765 739,819 472,819"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_3"/>
+            <zone points="539,810 650,810 650,851 539,851"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_4"/>
+            <zone points="150,822 1128,822 1128,887 150,887"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_5"/>
+            <zone points="69,882 1133,882 1133,924 69,924"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_6"/>
+            <zone points="76,924 1133,924 1133,967 76,967"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_7"/>
+            <zone points="69,960 1128,960 1128,1003 69,1003"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_8"/>
+            <zone points="69,1005 1128,1005 1128,1041 69,1041"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_9"/>
+            <zone points="69,1045 1132,1045 1132,1083 69,1083"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_10"/>
+            <zone points="73,1087 1133,1087 1133,1132 73,1132"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_11"/>
+            <zone points="69,1128 1133,1128 1133,1170 69,1170"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_12"/>
+            <zone points="69,1169 1128,1169 1128,1210 69,1210"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_13"/>
+            <zone points="69,1210 1128,1210 1128,1252 69,1252"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_14"/>
+            <zone points="69,1242 1128,1242 1128,1297 69,1297"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_15"/>
+            <zone points="64,1290 1130,1290 1130,1330 64,1330"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_16"/>
+            <zone points="69,1331 1128,1331 1128,1371 69,1371"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_17"/>
+            <zone points="66,1371 1129,1371 1129,1414 66,1414"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_18"/>
+            <zone points="78,1410 1125,1410 1125,1458 78,1458"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_19"/>
+            <zone points="69,1451 1133,1451 1133,1495 69,1495"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_20"/>
+            <zone points="69,1490 1128,1490 1128,1530 69,1530"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_21"/>
+            <zone points="69,1530 1125,1530 1125,1577 69,1577"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_22"/>
+            <zone points="69,1571 1125,1571 1125,1619 69,1619"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_23"/>
+            <zone points="69,1612 1121,1612 1121,1656 69,1656"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_24"/>
+            <zone points="73,1652 1129,1652 1129,1698 73,1698"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_25"/>
+            <zone points="69,1697 1128,1697 1128,1737 69,1737"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_26"/>
+            <zone points="73,1737 1129,1737 1129,1781 73,1781"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_27"/>
+            <zone points="69,1772 1127,1772 1127,1819 69,1819"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_28"/>
+            <zone points="73,1817 1125,1817 1125,1859 73,1859"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_29"/>
+            <zone points="69,1859 1128,1859 1128,1898 69,1898"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_30"/>
+            <zone points="69,1898 1116,1898 1116,1946 69,1946"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_31"/>
+            <zone points="66,1938 290,1938 290,1988 66,1988"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_32"/>
+            <zone points="136,1979 1121,1979 1121,2022 136,2022"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_33"/>
+            <zone points="66,2019 1130,2019 1130,2065 66,2065"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_34"/>
+            <zone points="66,2065 1125,2065 1125,2104 66,2104"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_35"/>
+            <zone points="66,2107 1123,2107 1123,2149 66,2149"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_36"/>
+            <zone points="64,2147 1116,2147 1116,2187 64,2187"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_37"/>
+            <zone points="66,2188 1116,2188 1116,2226 66,2226"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_38"/>
+            <zone points="66,2224 1125,2224 1125,2268 66,2268"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_39"/>
+            <zone points="64,2266 1117,2266 1117,2308 64,2308"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_40"/>
+            <zone points="66,2304 1123,2304 1123,2347 66,2347"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_41"/>
+            <zone points="69,2345 1109,2345 1109,2391 69,2391"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_42"/>
+            <zone points="64,2386 1121,2386 1121,2433 64,2433"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_43"/>
+            <zone points="61,2426 1119,2426 1119,2467 61,2467"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_44"/>
+            <zone points="66,2468 1113,2468 1113,2510 66,2510"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_45"/>
+            <zone points="57,2507 1121,2507 1121,2548 57,2548"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_46"/>
+            <zone points="66,2546 1123,2546 1123,2587 66,2587"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_47"/>
+            <zone points="61,2587 1112,2587 1112,2635 61,2635"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_48"/>
+            <zone points="55,2627 1117,2627 1117,2680 55,2680"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_49"/>
+            <zone points="64,2675 1121,2675 1121,2713 64,2713"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_50"/>
+            <zone points="57,2707 1116,2707 1116,2753 57,2753"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_51"/>
+            <zone points="66,2754 420,2754 420,2806 66,2806"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_52"/>
+            <zone points="138,2781 1121,2781 1121,2841 138,2841"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_53"/>
+            <zone points="57,2836 1121,2836 1121,2875 57,2875"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_54"/>
+            <zone points="57,2874 1116,2874 1116,2918 57,2918"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_55"/>
+            <zone points="64,2915 1120,2915 1120,2959 64,2959"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_56"/>
+            <zone points="57,2955 1116,2955 1116,2998 57,2998"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_57"/>
+            <zone points="57,2992 1113,2992 1113,3043 57,3043"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_58"/>
+            <zone points="60,3040 1121,3040 1121,3092 60,3092"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_59"/>
+            <zone points="66,3076 1113,3076 1113,3115 66,3115"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_60"/>
+            <zone points="64,3115 1120,3115 1120,3161 64,3161"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_61"/>
+            <zone points="66,3153 528,3153 528,3208 66,3208"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_62"/>
+            <zone points="145,3180 1121,3180 1121,3243 145,3243"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_63"/>
+            <zone points="57,3236 1127,3236 1127,3282 57,3282"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_64"/>
+            <zone points="57,3281 450,3281 450,3328 57,3328"
+                  rendition="Line"
+                  xml:id="facs_6_region_1709365964991_148_tl_65"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <div n="1">
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+               <head type="h3">Humorist. No. 305. Samstag den 25. November 1854. 18. Jahrgang</head>
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+               <lb facs="#facs_2_region_1709365896186_115_tl_1" n="N001"/><head type="h1"><hi rendition="#em"><rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs></hi>.</head>
+               <lb facs="#facs_2_region_1709365896186_115_tl_2" n="N002"/><head type="h2">Ein Beitrag zur Revision der Aesthetik der Tonkunst von Dr. Ed. <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>.
+               <lb facs="#facs_2_region_1709365896186_115_tl_3" n="N003"/><hi rendition="#em">Von Emil <rs type="person" ref="#hsl_person_id_6653">Kuh</rs></hi>.</head>
+            <p>      
+               <lb facs="#facs_2_region_1709365896186_115_tl_4" n="N004"/>Das Werk, mit dem Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> zum ersten Mal in die Literatur tritt
+                  <lb facs="#facs_2_region_1709365896186_115_tl_5" n="N005"/>und von dem die in der Beilage der „<rs type="bibl" ref="#hsl_work_id_156">Wiener Zeitung</rs>“ veröffentlichten <rs type="bibl" ref="#hsl_work_id_4912 #hsl_work_id_4911">Bruch
+               <lb facs="#facs_2_region_1709365896186_115_tl_6" n="N006" break="no"/>stücke</rs> die Aufmerksamkeit auch der Nichtmusiker erregten, ist so bedeutend,
+               <lb facs="#facs_2_region_1709365896186_115_tl_7" n="N007"/>daß es enthusiastische Anhänger und wüthende Gegner in der <rs type="place" ref="#hsl_place_id_14">deutsch</rs>en
+               <lb facs="#facs_2_region_1709365896186_115_tl_8" n="N008"/>Kritik finden und einen wichtigen Abschnitt in der Geschichte der Aesthetik dieser
+               <lb facs="#facs_2_region_1709365896186_115_tl_9" n="N009"/>Kunst bilden dürfte. Wer die ersten Seiten des <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>’schen <rs type="bibl" ref="#hsl_work_id_1083">Buch</rs>s gelesen hat,
+               <lb facs="#facs_2_region_1709365896186_115_tl_10" n="N010"/>der wird ebensowenig leugnen, daß ein tiefer Kenner der Musik und ihrer Theorie
+               <lb facs="#facs_2_region_1709365896186_115_tl_11" n="N011"/>zu ihm spricht, als es ihm entgehen kann, daß hier keine Schlacht auf gewonne
+               <lb facs="#facs_2_region_1709365896186_115_tl_12" n="N012" break="no"/>nem Gebiet geschlagen, sondern das Terrain selbst der Gegenstand des Kampfes
+               <lb facs="#facs_2_region_1709365896186_115_tl_13" n="N013"/>ward. Das <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>’sche <rs type="bibl" ref="#hsl_work_id_1083">Buch</rs> ist nicht polemischer Natur, es ist ein Feldzug: denn
+               <lb facs="#facs_2_region_1709365896186_115_tl_14" n="N014"/>nicht diese oder jene Meinung soll bestritten, nicht eine irrige Ansicht aufgeklärt,
+               <lb facs="#facs_2_region_1709365896186_115_tl_15" n="N015"/>ein zweifelhafter Punkt in’s rechte Licht gesetzt werden, nein, sogenannte Resultate
+               <lb facs="#facs_2_region_1709365896186_115_tl_16" n="N016"/>der Aesthetik der Tonkunst, Grundsätze und Begriffsbestimmungen durch viele, mit
+               <lb facs="#facs_2_region_1709365896186_115_tl_17" n="N017" break="no"/>unter würdige Namen in der Wissenschaft, durch die Tradition von Decennien
+               <lb facs="#facs_2_region_1709365896186_115_tl_18" n="N018"/>und die allgemeine Geschmacksrichtung des Publikums sanctionirt, sollen in ihr
+               <lb facs="#facs_2_region_1709365896186_115_tl_19" n="N019"/>Nichts aufgelöst und ihre unberechtigten, dem innersten Wesen dieser Kunst ent
+               <lb facs="#facs_2_region_1709365896186_115_tl_20" n="N020" break="no"/>gegengesetzten Prämissen und Consequenzen gezeigt werden. Richard <rs type="person" ref="#hsl_person_id_319">Wagner</rs>s
+               <lb facs="#facs_2_region_1709365896186_115_tl_21" n="N021"/>Bilderstürmerei findet in dem vorliegenden <rs type="bibl" ref="#hsl_work_id_1083">Buch</rs>e einen ganz prächtigen <rs type="person" ref="#hsl_person_id_7118">Alba</rs>,
+               <lb facs="#facs_2_region_1709365896186_115_tl_22" n="N022"/>und es war auch Zeit, jenem wüsten, wenn auch genialen Theoretiker und Produ
+               <lb facs="#facs_2_region_1709365896186_115_tl_23" n="N023" break="no"/>centen in <hi rendition="#em">einer</hi> Person mit aller Energie an den Leib zu rücken. Weil dies aber
+               <lb facs="#facs_2_region_1709365896186_115_tl_24" n="N024"/>dadurch geschah, daß man den Kreis der Tonkunst neuerdings abgemessen und ihre
+               <lb facs="#facs_2_region_1709365896186_115_tl_25" n="N025"/>Aesthetik revidirte, ohne von dem verrückten Ingenieur weiter Notiz zu nehmen,
+               <lb facs="#facs_2_region_1709365896186_115_tl_26" n="N026"/>der darin Raum für ein Pantheon, einen Circus, ein Spital und eine Festung
+               <lb facs="#facs_2_region_1709365896186_115_tl_27" n="N027"/>entdeckte, so ist die Wirkung eine um so reinere und schlagendere, da die Sache
+               <lb facs="#facs_2_region_1709365896186_115_tl_28" n="N028"/>ihrer selbst willen einer Prüfung unterzogen erscheint.</p>
+            <p>
+               <lb facs="#facs_2_region_1709365896186_115_tl_29" n="N029"/>Das <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>’sche <rs type="bibl" ref="#hsl_work_id_1083">Buch</rs> zerfällt in sieben Kapitel, unter denen das erste,
+               <lb facs="#facs_2_region_1709365896186_115_tl_30" n="N030"/>zweite und letzte, welche die Begriffe Zweck und Inhalt der Musik bestimmen und
+               <lb facs="#facs_2_region_1709365896186_115_tl_31" n="N031"/>die Herrschaft der Gefühle aus dem Centrum der Musik hinausweisen, die wichtig
+               <lb facs="#facs_2_region_1709365896186_115_tl_32" n="N032" break="no"/>sten sind. Wie die Aesthetik der Kunst im Allgemeinen erst in den letzten Decen
+               <lb facs="#facs_2_region_1709365896186_115_tl_33" n="N033" break="no"/>nien dieser einen Selbstzweck vindicirte und deren Aufgabe, auf Staats- und
+               <lb facs="#facs_2_region_1709365896186_115_tl_34" n="N034"/>Völkerleben, auf Humanität und Sittlichkeit zu wirken, in zweite Linie rückte,
+               <lb facs="#facs_2_region_1709365896186_115_tl_35" n="N035"/>wie sie selbst das reinste, d. h. das unabsichtlichste Utilitätsprinzip als mit der
+               <lb facs="#facs_2_region_1709365896186_115_tl_36" n="N036"/>Heiligkeit und Größe der Kunst unverträglich erklärte, ebenso brachte <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> in
+               <lb facs="#facs_2_region_1709365896186_115_tl_37" n="N037"/>diese specielle Sphäre der Kunst Verstand und Ordnung und entkleidete die
+               <lb facs="#facs_2_region_1709365896186_115_tl_38" n="N038"/>Musik ihres falschen Helmschmuckes, beraubt sie ihrer Piken und Fähnlein, auf
+               <lb facs="#facs_2_region_1709365896186_115_tl_39" n="N039"/>welche Dinge bis jetzt grade der einzige Nachdruck gelegt worden war. Man hatte
+               <lb facs="#facs_2_region_1709365896186_115_tl_40" n="N040"/>sich gewöhnt, eine bemalte, mit der Farbenpracht des Colibri künstlich ausgestattete
+               <lb facs="#facs_2_region_1709365896186_115_tl_41" n="N041"/>Nachtigall in der Musik zu sehen und man wird von Profanation, Verstandes-
+               <lb facs="#facs_2_region_1709365896186_115_tl_42" n="N042"/>Construction u. s. w. sprechen, wenn man hört, daß „<rs type="person" ref="#hsl_person_id_7119">Philomele</rs>“ ein grauer Vogel
+               <lb facs="#facs_2_region_1709365896186_115_tl_43" n="N043"/>sei. Die Musik, als die einzig begrifflose Kunst — mit Ausschluß der Architectur
+               <lb facs="#facs_2_region_1709365896186_115_tl_44" n="N044"/>— mußte, da man ihr keine Ideen im philosophischen Sinn unterschieben konnte,
+               <lb facs="#facs_2_region_1709365896186_115_tl_45" n="N045"/>nothwendig von der Masse als das beste Ausdrucksmittel der Gefühle betrachtet
+               <lb facs="#facs_2_region_1709365896186_115_tl_46" n="N046"/>werden; aber man vergaß, daß auch diese erst durch Begriffe aus einer allgemei
+               <lb facs="#facs_2_region_1709365896186_115_tl_47" n="N047" break="no"/>nen farblosen Empfindung sich zu Gefühlen verdichten und dann in bestimmt
+               <lb facs="#facs_2_region_1709365896186_115_tl_48" n="N048"/>begrenzte sich zertheilen. Die Gefühle, welche die Musik zum Ausdruck brächte,
+               <lb facs="#facs_2_region_1709365896186_115_tl_49" n="N049"/>könnten überirdische, doch nimmer menschliche Wesen durchzittern, in denen ein
+               <lb facs="#facs_2_region_1709365896186_115_tl_50" n="N050"/>Endliches angeregt werden muß, das nur durch einschränkende Begriffe im Reiche
+               <lb facs="#facs_2_region_1709365896186_115_tl_51" n="N051"/>der Vernunft wie der Anschauung möglich ist. Aber die Musik weiß nichts von
+               <lb facs="#facs_2_region_1709365896186_115_tl_52" n="N052"/>einschränkenden Begriffen, sie kennt bloß eine allgemein-traurige, eine allgemein
+               <lb facs="#facs_2_region_1709365896186_115_tl_53" n="N053" break="no"/>heitere <hi rendition="#em">Stimmung</hi>, und ihr Zweck und ihr Inhalt, welchen letzteren <rs type="person" ref="#hsl_person_id_1">Hanslick</rs><space quantity="1" unit="char"/>
+               <lb facs="#facs_2_region_1709365896186_115_tl_54" n="N054"/>auf <hi rendition="#em">Gehalt</hi> reducirt, liegt in ihrem eigensten Kreise und ist nicht allgemein
+               <lb facs="#facs_2_region_1709365896186_115_tl_55" n="N055"/>menschlicher, sondern specifisch-musikalischer Natur.
+               <lb facs="#facs_2_region_1709365896186_115_tl_56" n="N056"/>(Fortsetzung folgt.)</p>
+            </div>
+            <div n="2">
+            <pb facs="#facs_3" n="3" xml:id="img_0003"/>
+               <head type="h3">Humorist. No. 306. Sonntag den 26. November <date when="1854">1854</date>. 18. Jahrgang</head>
+            <pb facs="#facs_4" n="4" xml:id="img_0004"/>
+               <lb facs="#facs_4_region_1709365927616_130_tl_1" n="N001"/><head type="h1"><hi rendition="#em"><rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs></hi>.</head>
+               <lb facs="#facs_4_region_1709365927616_130_tl_2" n="N002"/><head type="h2">Ein Beitrag zur Revision der Aesthetik der Tonkunst von Dr. Ed. <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>.
+               <lb facs="#facs_4_region_1709365927616_130_tl_3" n="N003"/>Von Emil <rs type="person" ref="#hsl_person_id_6653">Kuh</rs>.
+               <lb facs="#facs_4_region_1709365927616_130_tl_4" n="N004"/>(<hi rendition="#em">Fortsetzung</hi>.)</head>
+            <p>      
+               <lb facs="#facs_4_region_1709365927616_130_tl_5" n="N005"/><rs type="person" ref="#hsl_person_id_1">Hanslick</rs> hat auf die eindringlichste und schlagendste Weise bewiesen, daß
+               <lb facs="#facs_4_region_1709365927616_130_tl_6" n="N006"/>die Musik nicht nur keine bestimmte Freude, keinen bestimmten Schmerz darstellen
+               <lb facs="#facs_4_region_1709365927616_130_tl_7" n="N007"/>kann, sondern daß es ihr auch unmöglich ist, mehr als eine Stimmung von
+               <lb facs="#facs_4_region_1709365927616_130_tl_8" n="N008"/>Schmerz, eine Stimmung von Freude anzuregen. Er überzeugte uns, daß die
+               <lb facs="#facs_4_region_1709365927616_130_tl_9" n="N009"/>Musik weder die Wuth einer <rs type="person" ref="#hsl_person_id_2588">Medea</rs> von der eines Kärrner’s unterschieden zu
+               <lb facs="#facs_4_region_1709365927616_130_tl_10" n="N010"/>schildern, noch durch Töne auszudrücken vermag, daß wir es überhaupt mit
+               <lb facs="#facs_4_region_1709365927616_130_tl_11" n="N011"/>Wuth, nicht etwa mit Zorn, Haß, Liebesraserei, Glaubensfanatismus u. dgl. zu
+               <lb facs="#facs_4_region_1709365927616_130_tl_12" n="N012"/>thun haben. Wo aber eine solche Individualisirung ersten Grades nicht einmal
+               <lb facs="#facs_4_region_1709365927616_130_tl_13" n="N013"/>möglich, wie soll da noch weiter von einer künstlerischen Manifestation der Ge
+               <lb facs="#facs_4_region_1709365927616_130_tl_14" n="N014" break="no"/>fühle die Rede sein! Dies ist klar. Wenn <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> aber die Anforderung an den
+               <lb facs="#facs_4_region_1709365927616_130_tl_15" n="N015"/>ästhetisch Gebildeten stellt, sich an der reinen Form dieser Kunst, ohne Neben
+               <lb facs="#facs_4_region_1709365927616_130_tl_16" n="N016" break="no"/>wünsche und Beziehungen zu erfreuen und den Genuß blos in ihrem Specifischen
+               <lb facs="#facs_4_region_1709365927616_130_tl_17" n="N017"/>zu suchen, so verlangt er da nicht das, was jeder Künstler in jeder Kunst ver
+               <lb facs="#facs_4_region_1709365927616_130_tl_18" n="N018" break="no"/>langen muß, nein, er verlangt, meiner Ansicht nach, etwas den Bedingungen der
+               <lb facs="#facs_4_region_1709365927616_130_tl_19" n="N019"/>menschlichen Natur und der Kunst Widerstrebendes. Hier ist für mich der Punkt,
+               <lb facs="#facs_4_region_1709365927616_130_tl_20" n="N020"/>wo ich <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> nicht beistimmen kann; denn in der Musik sehen wir, wie <rs type="person" ref="#hsl_person_id_1">Hans
+               <lb facs="#facs_4_region_1709365927616_130_tl_21" n="N021" break="no"/>lick</rs> unwiderleglich darthut, „Inhalt und Form, Stoff und Gestaltung, Bild und
+               <lb facs="#facs_4_region_1709365927616_130_tl_22" n="N022"/>Idee in dunkler, untrennbarer Einheit verschmolzen“ und er bemerkt ganz richtig,
+               <lb facs="#facs_4_region_1709365927616_130_tl_23" n="N023"/>daß „dieser Eigenthümlichkeit der Tonkunst, Form und Inhalt ungetrennt zu be
+               <lb facs="#facs_4_region_1709365927616_130_tl_24" n="N024" break="no"/>sitzen, die dichtenden und bildenden Künste schroff gegenüberstehen.“ Dieser un
+               <lb facs="#facs_4_region_1709365927616_130_tl_25" n="N025" break="no"/>leugbare <hi rendition="#em">Mangel</hi> der Tonkunst kann nun doch nie und nimmer einen Mangel
+               <lb facs="#facs_4_region_1709365927616_130_tl_26" n="N026"/>in der Seele des Genießenden zu seinem Bundesgenossen begehren, um so weni
+               <lb facs="#facs_4_region_1709365927616_130_tl_27" n="N027" break="no"/>ger, als eine Allianz solchen Schlages die ganze Tonkunst selber zu einem inhalt
+               <lb facs="#facs_4_region_1709365927616_130_tl_28" n="N028" break="no"/>losen Spiel, in ästhetischer wie in ethischer Bedeutung herabdrücken müßte, die
+               <lb facs="#facs_4_region_1709365927616_130_tl_29" n="N029"/>Malerei, die Plastik, namentlich die Poesie haben grade darin ihre künstlerische
+               <lb facs="#facs_4_region_1709365927616_130_tl_30" n="N030"/>Aufgabe zu lösen, „Form“ und „Inhalt“ ineinander zu schmelzen, und dieser ge
+               <lb facs="#facs_4_region_1709365927616_130_tl_31" n="N031" break="no"/>heimnißvolle Act, den man den schöpferischen Prozeß nennt, gebiert erst das Wun
+               <lb facs="#facs_4_region_1709365927616_130_tl_32" n="N032" break="no"/>der jener Form, die als beseelter Leib das Eigentliche, Ewige der Kunst darstellt.
+               <lb facs="#facs_4_region_1709365927616_130_tl_33" n="N033"/><rs type="person" ref="#hsl_person_id_287">Shakespeare</rs> fordert daher vom Genießenden die Freude an der Form seines
+               <lb facs="#facs_4_region_1709365927616_130_tl_34" n="N034"/>„<rs type="bibl" ref="#hsl_work_id_362">Lear</rs>,“ seines „<rs type="bibl" ref="#hsl_work_id_4843">Macbeth</rs>,“ unbekümmert um die rohe Materie, die sich in dieser
+               <lb facs="#facs_4_region_1709365927616_130_tl_35" n="N035"/>Szene, in jener Charakterwendung am leichtesten betasten läßt, und er fordert es
+               <lb facs="#facs_4_region_1709365927616_130_tl_36" n="N036"/>mit Recht; ebenso <rs type="person" ref="#hsl_person_id_380">Raphael</rs>, wenn er seine <rs type="bibl" ref="#hsl_work_id_4244">sixtinische Madonna</rs> aus dem Himmel
+               <lb facs="#facs_4_region_1709365927616_130_tl_37" n="N037"/>hervorzaubert; ebenso der Grieche, der die Majestät des olympischen Gottes aus
+               <lb facs="#facs_4_region_1709365927616_130_tl_38" n="N038"/>dem Marmor entbindet. <rs type="person" ref="#hsl_person_id_25">Beethoven</rs> jedoch, wenn er zwar mit demselben Rechte
+               <lb facs="#facs_4_region_1709365927616_130_tl_39" n="N039"/>begehrt, der Hörer seiner Symphonie soll die „klingend bewegten Formen“ ge
+               <lb facs="#facs_4_region_1709365927616_130_tl_40" n="N040" break="no"/>nießen, kann dies nicht in dem absoluten Maße begehren, wie es den früher ge
+               <lb facs="#facs_4_region_1709365927616_130_tl_41" n="N041" break="no"/>nannten Künstlern zusteht. Dort sollten wir den Inhalt der Welt, alles was den
+               <lb facs="#facs_4_region_1709365927616_130_tl_42" n="N042"/>Menschengeist und das Menschenherz erfüllt, aus einem Becher edlen Weines trinken
+               <lb facs="#facs_4_region_1709365927616_130_tl_43" n="N043"/>und hier uns plötzlich mit der Glut und Flüßigkeit des Weines allein begnügen?!</p>
+            <p>
+               <lb facs="#facs_4_region_1709365927616_130_tl_44" n="N044"/>Die Musik hat ihre spezifische Schönheit in den „klingend bewegten For
+               <lb facs="#facs_4_region_1709365927616_130_tl_45" n="N045" break="no"/>men“ und nach dieser muß zuerst gefragt werden, Gefühle sind nicht ihr Zweck
+               <lb facs="#facs_4_region_1709365927616_130_tl_46" n="N046"/>und nicht ihr Inhalt, aber sie muß Bilder, Gefühle und Gedanken im ästhe
+               <lb facs="#facs_4_region_1709365927616_130_tl_47" n="N047" break="no"/>tischsten, „musikalischsten“ Zuhörer erwecken und sie thut es auch. Hundert
+               <lb facs="#facs_4_region_1709365927616_130_tl_48" n="N048"/>Menschen, wenn sie aus einer <rs type="person" ref="#hsl_person_id_25">Beethoven</rs>’schen Symphonie kämen und aufgefordert
+               <lb facs="#facs_4_region_1709365927616_130_tl_49" n="N049"/>würden, das von der Musik Erregte zu Papier zu bringen, müßten, wie <rs type="person" ref="#hsl_person_id_1">Hanslick</rs><space quantity="1" unit="char"/>
+               <lb facs="#facs_4_region_1709365927616_130_tl_50" n="N050"/>mit Recht behauptet, jeder etwas Anderes zu notiren haben. Wohl, doch jeder
+               <lb facs="#facs_4_region_1709365927616_130_tl_51" n="N051"/><hi rendition="#em">würde</hi> etwas zu notiren haben, keiner setzte sich von den Tönen unbefruchtet an
+            <cb n="1"/>
+               <lb facs="#facs_4_region_1709365935304_133_tl_1" n="N001"/>das Pult. Das Materiale dieser Kunst ist eben der Art, daß der Genießende
+               <lb facs="#facs_4_region_1709365935304_133_tl_2" n="N002"/>nicht gebunden wird, daß er im Gegentheil umherschwärmen kann, wie es ihm
+               <lb facs="#facs_4_region_1709365935304_133_tl_3" n="N003"/>gefällt. <rs type="person" ref="#hsl_person_id_115">Hebbel</rs>’s tiefsinniges Epigramm:
+               <lb facs="#facs_4_region_1709365935304_133_tl_4" n="N004"/><l>Jede Form ist ein Kerker, wie hält die Natur denn das Leben</l>
+               <lb facs="#facs_4_region_1709365935304_133_tl_5" n="N005"/><l>Fest in allen? Sie hat keinen mit Fenstern versehen,</l>
+               <lb facs="#facs_4_region_1709365935304_133_tl_6" n="N006"/>stößt im Umkreise von Natur und Kunst in der Musik zum ersten und letzten Mal
+               <lb facs="#facs_4_region_1709365935304_133_tl_7" n="N007"/>auf eine Ausnahme. Dieser Kerker ist mit Fenstern versehen, wenigstens mit Luft
+               <lb facs="#facs_4_region_1709365935304_133_tl_8" n="N008" break="no"/>löchern und das Leben strömt wechselseitig, zerstörend und erzeugend, aus und ein.
+               <lb facs="#facs_4_region_1709365935304_133_tl_9" n="N009"/>(Schluß folgt.)</p></div>
+            <div n="3">
+            <pb facs="#facs_5" n="5" xml:id="img_0005"/>
+               <head type="h3">No. 309. Mittwoch den 29. November <date when="1854">1854</date>. 18. Jahrgang</head>
+            <pb facs="#facs_6" n="6" xml:id="img_0006"/>
+               <lb facs="#facs_6_region_1709365964991_148_tl_1" n="N001"/><head type="h1"><hi rendition="#em"><rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs></hi>.</head>
+               <lb facs="#facs_6_region_1709365964991_148_tl_2" n="N002"/><head type="h2">Ein Beitrag zur Revision der Aesthetik der Tonkunst von Dr. Ed. <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>.
+               <lb facs="#facs_6_region_1709365964991_148_tl_3" n="N003"/>Von Emil <rs type="person" ref="#hsl_person_id_6653">Kuh</rs>.
+               <lb facs="#facs_6_region_1709365964991_148_tl_4" n="N004"/>(Schluß.)</head>
+            <p>            
+               <lb facs="#facs_6_region_1709365964991_148_tl_5" n="N005"/>Wenn <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> sagt, daß den Componisten nicht irgend ein Gefühl, eine
+               <lb facs="#facs_6_region_1709365964991_148_tl_6" n="N006"/>Idee zum Schaffen anrege, sondern daß er eine Melodie, ein Thema klingen höre,
+               <lb facs="#facs_6_region_1709365964991_148_tl_7" n="N007"/>so erleidet das keinen Widerspruch; auch der Dichter sieht eine Gestalt, vernimmt
+               <lb facs="#facs_6_region_1709365964991_148_tl_8" n="N008"/>eine Stimme, dem bildenden Künstler geht eine Erscheinung auf, und dann com
+               <lb facs="#facs_6_region_1709365964991_148_tl_9" n="N009" break="no"/>poniren, dichten und malen die Leute. Aber jeder unter ihnen, mit Einschluß des
+               <lb facs="#facs_6_region_1709365964991_148_tl_10" n="N010"/>Componisten, wird von der Zeit und ihren Schicksalen, von den Ideen und Con
+               <lb facs="#facs_6_region_1709365964991_148_tl_11" n="N011" break="no"/>flicten der Welt berührt, und bei der Produktion eines jeden influenziren ganz
+               <lb facs="#facs_6_region_1709365964991_148_tl_12" n="N012"/>gewaltig die individuellen Leiden und Freuden, und das Alles theilt sich nun
+               <lb facs="#facs_6_region_1709365964991_148_tl_13" n="N013"/>unbewußt dem künstlerischen Gebilde mit. Die Musik ist dem Feuer vergleichbar.
+               <lb facs="#facs_6_region_1709365964991_148_tl_14" n="N014"/>Dieses verzehrt Kronen und Papierstreifen, Blumen und Metall, und diese Gegen
+               <lb facs="#facs_6_region_1709365964991_148_tl_15" n="N015" break="no"/>stände werden Feuer und nur Feuer, bald rothstrahlend, bald bläulich züngelnd,
+               <lb facs="#facs_6_region_1709365964991_148_tl_16" n="N016"/>bald in Flammen emporschlagend, bald als Glut sich zusammenpressend, doch das
+               <lb facs="#facs_6_region_1709365964991_148_tl_17" n="N017"/>Feuer hat Kronen und Papierstreifen, Blumen und Metall gefressen. <rs type="place" ref="#hsl_place_id_47">Rom</rs>s Unter
+               <lb facs="#facs_6_region_1709365964991_148_tl_18" n="N018" break="no"/>gang und <rs type="person" ref="#hsl_person_id_39">Napoleon</rs>s Kaisergröße, Lieb’ und Haß, Conflicte der tiefsten und der
+               <lb facs="#facs_6_region_1709365964991_148_tl_19" n="N019"/>schmerzlichsten Art, wenn sie auch den Componisten im Innersten durchzittern,
+               <lb facs="#facs_6_region_1709365964991_148_tl_20" n="N020"/>sie sind nur Klänge, Tonfiguren, Schallwellen, harmonisch verknüpft, zur Melodie
+               <lb facs="#facs_6_region_1709365964991_148_tl_21" n="N021"/>crystallisirt, sobald sie uns als Musik entgegentreten; alle bestimmten Linien er
+               <lb facs="#facs_6_region_1709365964991_148_tl_22" n="N022" break="no"/>bleichen, jede Grenze verschwindet, das Individuelle, Concrete des Gedankens und
+               <lb facs="#facs_6_region_1709365964991_148_tl_23" n="N023"/>Gefühls wird zum allgemeinen Feuer, aber im Genießenden wandeln die Schatten
+               <lb facs="#facs_6_region_1709365964991_148_tl_24" n="N024"/>sich in lebendige Individuen um, und Gefühle und Gestalten, wenn auch schein
+               <lb facs="#facs_6_region_1709365964991_148_tl_25" n="N025" break="no"/>bar mit ungezügelter Willkühr, steigen in ihm auf. Daß die Musik nun ein
+               <lb facs="#facs_6_region_1709365964991_148_tl_26" n="N026"/>solcher Conductor des Menschengeistes ist, daß sie ebenfalls an den „großen Be
+               <lb facs="#facs_6_region_1709365964991_148_tl_27" n="N027" break="no"/>wegungen im Weltall“ participirt, dafür liefert uns die „reine Kunst,” als welche
+               <lb facs="#facs_6_region_1709365964991_148_tl_28" n="N028"/><rs type="person" ref="#hsl_person_id_1">Hanslick</rs> bloß die Instrumentalmusik betrachtet, keinen Beweis, wohl aber die
+               <lb facs="#facs_6_region_1709365964991_148_tl_29" n="N029"/>Vocalmusik, oder die Musik überhaupt, sobald sie mit den übrigen Künsten und
+               <lb facs="#facs_6_region_1709365964991_148_tl_30" n="N030"/>mit dem empirischen Leben sich verbindet, sobald sie mit einem Wort einen dienen
+               <lb facs="#facs_6_region_1709365964991_148_tl_31" n="N031" break="no"/>den Charakter annimmt, wie wir dies an jedem vortrefflichen Liede täglich
+               <lb facs="#facs_6_region_1709365964991_148_tl_32" n="N032"/>erfahren können.</p>
+            <p>
+               <lb facs="#facs_6_region_1709365964991_148_tl_33" n="N033"/>Das sechste Capitel des <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>’schen <rs type="bibl" ref="#hsl_work_id_1083">Buch</rs>es, das „von den Beziehungen
+               <lb facs="#facs_6_region_1709365964991_148_tl_34" n="N034"/>der Tonkunst zur Natur“ handelt, erläutert uns das merkwürdige Phänomen der
+               <lb facs="#facs_6_region_1709365964991_148_tl_35" n="N035"/>Musik: Inhalt und Form ungetrennt zu besitzen und gibt uns einen Erklärungs
+               <lb facs="#facs_6_region_1709365964991_148_tl_36" n="N036" break="no"/>grund für das mysteriöse Gesetz, das in dieser sinnlichsten aller Künste waltet,
+               <lb facs="#facs_6_region_1709365964991_148_tl_37" n="N037"/>welches in uns dennoch einen übersinnlichen Eindruck hervorruft, indem <rs type="person" ref="#hsl_person_id_1">Hanslick</rs><space quantity="1" unit="char"/>
+               <lb facs="#facs_6_region_1709365964991_148_tl_38" n="N038"/>auf eben so gelehrte als anschauliche Weise <hi rendition="#em">die Nichtexistenz eines
+               <lb facs="#facs_6_region_1709365964991_148_tl_39" n="N039"/>Naturschönen</hi> für die Mustk darthut. Die Musik ist ausschließlich ein Pro
+               <lb facs="#facs_6_region_1709365964991_148_tl_40" n="N040" break="no"/>dukt des Menschengeistes nach Form und Inhalt und trotzdem seine sinnlichste
+               <lb facs="#facs_6_region_1709365964991_148_tl_41" n="N041"/>Emanation. „Hat Jemand in der Natur einen Dreiklang gehört, einen Sext- oder
+               <lb facs="#facs_6_region_1709365964991_148_tl_42" n="N042"/>Septim-Accord? Wie die Melodie so war auch (nur in viel langsamerem Fort
+               <lb facs="#facs_6_region_1709365964991_148_tl_43" n="N043" break="no"/>schreiten) die Harmonie ein Erzeugniß menschlichen Geistes.” —„Dadurch, daß
+               <lb facs="#facs_6_region_1709365964991_148_tl_44" n="N044"/>in der Musik Alles commensurabel sein muß, in den Naturlauten aber nichts
+               <lb facs="#facs_6_region_1709365964991_148_tl_45" n="N045"/>commensurabel ist, stehen diese beiden Schallreiche unvermittelt nebeneinander.
+               <lb facs="#facs_6_region_1709365964991_148_tl_46" n="N046"/>Die Natur gibt uns nicht das künstlerische Material eines fertigen, vorgebildeten
+               <lb facs="#facs_6_region_1709365964991_148_tl_47" n="N047"/>Tonsystems, sondern nur den rohen Stoff der Körper, die wir der Musik dienstbar
+               <lb facs="#facs_6_region_1709365964991_148_tl_48" n="N048"/>machen. Nicht die Stimmen der Thiere, sondern ihre Gedärme sind uns wichtig,
+               <lb facs="#facs_6_region_1709365964991_148_tl_49" n="N049"/>und das Thier, dem die Musik am meisten verdankt, ist nicht die Nachtigall,
+               <lb facs="#facs_6_region_1709365964991_148_tl_50" n="N050"/>sondern das Schaf.“ Ich müßte das ganze Capitel exerciren, wollte ich von der
+               <lb facs="#facs_6_region_1709365964991_148_tl_51" n="N051"/>wunderbaren Entwicklung der Ideen <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>’s über das Verhältniß der Musik zur
+               <lb facs="#facs_6_region_1709365964991_148_tl_52" n="N052"/>Natur einen Begriff geben.</p>
+            <p>
+               <lb facs="#facs_6_region_1709365964991_148_tl_53" n="N053"/>Das ganze Buch zeichnet sich durch schärfste Analyse und klarste Darstellung
+               <lb facs="#facs_6_region_1709365964991_148_tl_54" n="N054"/>vor den meisten wissenschaftlichen Arbeiten, die in <rs type="place" ref="#hsl_place_id_14">Deutschland</rs> hervortreten, aus,
+               <lb facs="#facs_6_region_1709365964991_148_tl_55" n="N055"/>und namentlich ward, was schon einige Kritiker hervorhoben, die merkwürdige
+               <lb facs="#facs_6_region_1709365964991_148_tl_56" n="N056"/>Ehe zwischen unerbittlicher Dialektik und poetischer Anschauung darin vollzogen.
+               <lb facs="#facs_6_region_1709365964991_148_tl_57" n="N057"/>Man wird auch auf keinem Kunstgebiet etwas Ersprießliches fördern, wenn nicht
+               <lb facs="#facs_6_region_1709365964991_148_tl_58" n="N058"/>in einem und demselben Aesthetiker jene beiden Eigenschaften zusammenfallen,
+               <lb facs="#facs_6_region_1709365964991_148_tl_59" n="N059"/>denn es existiren Punkte in der Kunst, und das sind leider die wichtigsten, wo
+               <lb facs="#facs_6_region_1709365964991_148_tl_60" n="N060"/>man durchaus nur mit der Anschauung den Dingen an den Leib zu rücken ver
+               <lb facs="#facs_6_region_1709365964991_148_tl_61" n="N061" break="no"/>mag, wo man nur mit einem Bilde dem Bilde nahe kommt; Glas kann bloß
+               <lb facs="#facs_6_region_1709365964991_148_tl_62" n="N062"/>mit Diamanten geschnitten werden.</p>
+            <p>
+               <lb facs="#facs_6_region_1709365964991_148_tl_63" n="N063"/>Die Ausstattung des Buches von Rudolph <rs type="person" ref="#hsl_person_id_377">Weigel</rs> in <rs type="place" ref="#hsl_place_id_32">Leipzig</rs> ist eine sehr
+               <lb facs="#facs_6_region_1709365964991_148_tl_64" n="N064"/>gefällige und dürfte zur größeren Verbreitung desselben beitragen, obgleich es an
+               <lb facs="#facs_6_region_1709365964991_148_tl_65" n="N065"/>und für sich gute Beine hat.
+            </p></div>
+         </div>
+      </body>
+   </text>
+</TEI>
