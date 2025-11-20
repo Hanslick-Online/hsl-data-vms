@@ -69,11 +69,12 @@
             <xsl:for-each select="collection('../data/editions?select=*.xml')//tei:TEI">
                 <!--TEIs-->
                 <xsl:variable name="listPersonDoc" select="document('../data/indices/listperson.xml')"/>
+                <xsl:variable name="resourceName" select="if (normalize-space(@xml:id) != '') then normalize-space(@xml:id) else tokenize(string(base-uri(.)), '/')[last()]"/>
                 <xsl:variable name="partOf">
                     <xsl:value-of select="concat(string(@xml:base), '/editions')"/>
                 </xsl:variable>
                 <xsl:variable name="id">
-                    <xsl:value-of select="concat(string($TopColId), '/', string(@xml:id))"/>
+                    <xsl:value-of select="concat(string($TopColId), '/', $resourceName)"/>
                 </xsl:variable>
                 <!-- <xsl:variable name="facs-col">
                     <xsl:choose>
@@ -163,7 +164,7 @@
                             <xsl:text>},&#10;</xsl:text>
                         </xsl:if>
                         <xsl:text>  date = {2025-10-16},&#10;  publisher = {ARCHE},&#10;  url = {</xsl:text>
-                        <xsl:value-of select="concat(string($TopColId), '/', string(@xml:id))"/>
+                        <xsl:value-of select="concat(string($TopColId), '/', $resourceName)"/>
                         <xsl:text>},&#10;  editor = {Wilfing, Alexander AND Pfiel, Anna-Maria},&#10;  booktitle = {</xsl:text>
                         <xsl:value-of select="$rc-title"/>
                         <xsl:text>},&#10;  langid = {ngerman}&#10;}</xsl:text>
@@ -177,8 +178,9 @@
 
             <xsl:for-each select="collection('../data/indices?select=*.xml')//tei:TEI">
                 <xsl:variable name="listPersonDoc" select="document('../data/indices/listperson.xml')"/>
+                <xsl:variable name="resourceName" select="if (normalize-space(@xml:id) != '') then normalize-space(@xml:id) else tokenize(string(base-uri(.)), '/')[last()]"/>
                 <xsl:variable name="id">
-                    <xsl:value-of select="concat(string($TopColId), '/', string(@xml:id))"/>
+                    <xsl:value-of select="concat(string($TopColId), '/', $resourceName)"/>
                 </xsl:variable>
                 <acdh:Resource rdf:about="{$id}">
                     <acdh:hasPid>create</acdh:hasPid>
@@ -212,7 +214,7 @@
                 <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
                 <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
                 <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
-                <acdh:hasFormat>image/+xml</acdh:hasFormat>
+                <acdh:hasFormat>image/svg+xml</acdh:hasFormat>
                 <acdh:isTitleImageOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms-rezensionen"/>
                 <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
                 <acdh:hasCreator rdf:resource="https://id.acdh.oeaw.ac.at/oreichl"/>
