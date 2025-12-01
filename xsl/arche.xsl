@@ -89,7 +89,7 @@
                 <xsl:variable name="rc-title">
                     <xsl:choose>
                         <xsl:when test=".//tei:sourceDesc//tei:edition/@n and .//tei:sourceDesc//tei:date/@when">
-                            <xsl:value-of select="concat(string(.//tei:titleStmt/tei:title[@type='main']), ' ', string(.//tei:sourceDesc//tei:edition/@n), '. Auflage', ' (', string(.//tei:sourceDesc//tei:date/@when), ')')"/>
+                            <xsl:value-of select="concat(string(.//tei:titleStmt/tei:title[@type='main']), ' (', string(.//tei:sourceDesc//tei:date/@when), ')')"/>
                         </xsl:when>
                         <xsl:otherwise>
                             <xsl:value-of select="string(.//tei:titleStmt/tei:title[@type='main' or @level='a'][1])"/>
@@ -100,7 +100,7 @@
                     <!-- <acdh:hasPid>create</acdh:hasPid> -->
                     <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
                     <acdh:hasTitle xml:lang="de">
-                        <xsl:value-of select="concat('TEI/XML: ', .//tei:titleStmt/tei:title[@type='main'], ' ', .//tei:sourceDesc//tei:edition/@n, '. Auflage', ' (', .//tei:sourceDesc//tei:date/@when, ')')"/>
+                        <xsl:value-of select="concat('TEI/XML: ', .//tei:titleStmt/tei:title[@type='main'],  ' (', .//tei:sourceDesc//tei:date/@when, ')')"/>
                         </acdh:hasTitle>
                     <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
                     <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
@@ -132,8 +132,8 @@
                         </xsl:when>
                     </xsl:choose>
                     <acdh:hasCustomCitation xml:lang="de">
-                        <xsl:variable name="uniqueId" select="translate(@xml:id, '.', '_')"/>
-                        <xsl:variable name="title" select=".//tei:titleStmt/tei:title[@type='main' or @level='a'][1]"/>
+                        <!-- <xsl:variable name="uniqueId" select="translate(@xml:id, '.', '_')"/>
+                        <xsl:variable name="title" select=".//tei:titleStmt/tei:title[@type='main' or @level='a'][1]"/> -->
                         <xsl:variable name="authorName" select="if (.//tei:titleStmt/tei:author/@ref) then normalize-space(concat(normalize-space($listPersonDoc//tei:person[@xml:id=substring-after(current()//tei:titleStmt/tei:author/@ref, '#')]//tei:persName[@type='main']/tei:forename), ' ', normalize-space($listPersonDoc//tei:person[@xml:id=substring-after(current()//tei:titleStmt/tei:author/@ref, '#')]//tei:persName[@type='main']/tei:surname))) else ''"/>
                         <xsl:variable name="authorCitation">
                             <xsl:if test=".//tei:titleStmt/tei:author/@ref">
@@ -145,30 +145,34 @@
                                         <xsl:value-of select="concat($surname, ', ', $forename)"/>
                                     </xsl:when>
                                     <xsl:when test="$surname != ''">
-                                        <xsl:value-of select="concat('{', $surname, '}')"/>
+                                        <xsl:value-of select="$surname"/>
                                     </xsl:when>
                                     <xsl:when test="$forename != ''">
-                                        <xsl:value-of select="concat('{', $forename, '}')"/>
+                                        <xsl:value-of select="$forename"/>
                                     </xsl:when>
                                 </xsl:choose>
                             </xsl:if>
                         </xsl:variable>
-                        <xsl:text>@incollection{Wilfing_2025_</xsl:text>
+                        <!-- <xsl:text>@incollection{Wilfing_2025_</xsl:text>
                         <xsl:value-of select="$uniqueId"/>
-                        <xsl:text>,&#10;  title = {</xsl:text>
+                        <xsl:text>,&#10;  title = {</xsl:text> -->
+                        <!-- <xsl:text>title = {</xsl:text>
                         <xsl:value-of select="$title"/>
-                        <xsl:text>},&#10;</xsl:text>
+                        <xsl:text>},&#10;</xsl:text> -->
                         <xsl:if test="$authorName != '' and $authorName != 'Anonym'">
-                            <xsl:text>  author = {</xsl:text>
+                            <xsl:text>author = {</xsl:text>
                             <xsl:value-of select="$authorCitation"/>
                             <xsl:text>},&#10;</xsl:text>
                         </xsl:if>
-                        <xsl:text>  date = {2025-10-16},&#10;  publisher = {ARCHE},&#10;  url = {</xsl:text>
+                        <!-- <xsl:text>  date = {2025-10-16},&#10;  publisher = {ARCHE},&#10;  url = {</xsl:text>
                         <xsl:value-of select="concat(string($TopColId), '/', $resourceName)"/>
-                        <xsl:text>},&#10;  editor = {Wilfing, Alexander AND Pfiel, Anna-Maria},&#10;  booktitle = {</xsl:text>
+                        <xsl:text>},&#10;  editor = {Wilfing, Alexander and Pfiel, Anna-Maria},&#10;  booktitle = {</xsl:text>
                         <xsl:value-of select="$rc-title"/>
+                        <xsl:text>}</xsl:text>
                         <xsl:text>},&#10;  langid = {ngerman}&#10;}</xsl:text>
-                        <xsl:text>},&#10;  keywords = {Cultural heritage, Digital humanities, Musicology}&#10;}</xsl:text>
+                        <xsl:text>},&#10;  keywords = {Cultural heritage, Digital humanities, Musicology}&#10;}</xsl:text> -->
+                       <!-- <xsl:text>},&#10;  keywords = {Cultural heritage, Digital humanities, Musicology}</xsl:text> -->
+                       <xsl:text>editor = {Wilfing, Alexander and Pfiel, Anna-Maria}</xsl:text>
                     </acdh:hasCustomCitation>
                     <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
                     <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/delsner"/>
