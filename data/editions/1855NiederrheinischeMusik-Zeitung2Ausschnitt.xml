@@ -89,9 +89,11 @@
                         <date when="1855-03-24">1855-03-24</date>
                      </imprint>
                   </monogr>
-                     <relatedItem type="facsimile">https://anno.onb.ac.at/cgi-content/anno?aid=zkk&amp;datum=18550324</relatedItem>
                </biblStruct>
             </listBibl>
+               <bibl type="facsimiles-source">
+               <relatedItem type="facsimile" subtype="ONB-ANNO" target="https://anno.onb.ac.at/cgi-content/anno?aid=zkk&amp;datum=18550324"/>
+               </bibl>   
          </sourceDesc>
       </fileDesc>
       <encodingDesc>

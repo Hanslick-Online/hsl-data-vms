@@ -91,9 +91,11 @@
                         <date when="1857">1857</date>
                      </imprint>
                   </monogr>
-                     <relatedItem type="facsimile">https://www.digitale-sammlungen.de/en/view/bsb10271054?page=191</relatedItem>
                </biblStruct>
             </listBibl>
+               <bibl type="facsimiles-source">
+               <relatedItem type="facsimile" subtype="MDZ" target="https://www.digitale-sammlungen.de/en/view/bsb10271054?page=191"/>
+               </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>

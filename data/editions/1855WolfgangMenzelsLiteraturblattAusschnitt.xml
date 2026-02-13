@@ -90,9 +90,11 @@
                         <date when="1855-04-25">1855-04-25</date>
                      </imprint>
                   </monogr>
-                     <relatedItem type="facsimile">https://books.google.com.bn/books?id=vGsHAAAAQAAJ&amp;hl=de&amp;pg=PA129</relatedItem>
                </biblStruct>
             </listBibl>
+               <bibl type="facsimiles-source">
+               <relatedItem type="facsimile" subtype="GoogleBooks" target="https://books.google.com.bn/books?id=vGsHAAAAQAAJ&amp;hl=de&amp;pg=PA129"/>
+               </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>

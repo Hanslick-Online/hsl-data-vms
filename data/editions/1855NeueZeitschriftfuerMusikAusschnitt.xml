@@ -90,11 +90,13 @@
                         <date when="1855-02-16">1855-02-16</date>
                      </imprint>
                   </monogr>
-                     <relatedItem type="facsimile">https://www.digitale-sammlungen.de/de/view/bsb10527933?page=93</relatedItem>
-                     <relatedItem type="facsimile">https://www.digitale-sammlungen.de/de/view/bsb10527933?page=105</relatedItem>
-                     <relatedItem type="facsimile">https://www.digitale-sammlungen.de/de/view/bsb10527933?page=113</relatedItem>
                </biblStruct>
             </listBibl>
+               <bibl type="facsimiles-source">
+               <relatedItem type="facsimile" subtype="MDZ" target="https://www.digitale-sammlungen.de/de/view/bsb10527933?page=93"/>
+               <relatedItem type="facsimile" subtype="MDZ" target="https://www.digitale-sammlungen.de/de/view/bsb10527933?page=105"/>
+               <relatedItem type="facsimile" subtype="MDZ" target="https://www.digitale-sammlungen.de/de/view/bsb10527933?page=113"/>
+               </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>

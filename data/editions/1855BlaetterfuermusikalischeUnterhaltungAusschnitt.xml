@@ -90,9 +90,11 @@
                         <date when="1855-04-12">1855-04-12</date>
                      </imprint>
                   </monogr>
-                     <relatedItem type="facsimile">https://digital.slub-dresden.de/werkansicht/dlf/90165/271</relatedItem>
                </biblStruct>
             </listBibl>
+               <bibl type="facsimiles-source">
+               <relatedItem type="facsimile" subtype="SLUB" target="https://digital.slub-dresden.de/werkansicht/dlf/90165/271"/>
+               </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>

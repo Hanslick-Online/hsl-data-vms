@@ -89,9 +89,11 @@
                         <date when="1857-06-04">1857-06-04</date>
                      </imprint>
                   </monogr>
-                     <relatedItem type="facsimile">https://digital.slub-dresden.de/werkansicht/dlf/90365/423</relatedItem>
                </biblStruct>
             </listBibl>
+               <bibl type="facsimiles-source">
+               <relatedItem type="facsimile" subtype="SLUB" target="https://digital.slub-dresden.de/werkansicht/dlf/90365/423"/>
+               </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>

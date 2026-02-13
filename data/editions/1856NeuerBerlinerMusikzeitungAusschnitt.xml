@@ -89,9 +89,11 @@
                         <date when="1856-12-10">1856-12-10</date>
                      </imprint>
                   </monogr>
-                     <relatedItem type="facsimile">https://anno.onb.ac.at/cgi-content/anno?aid=bmz&amp;datum=18561210</relatedItem>
                </biblStruct>
             </listBibl>
+               <bibl type="facsimiles-source">
+               <relatedItem type="facsimile" subtype="ONB-ANNO" target="https://anno.onb.ac.at/cgi-content/anno?aid=bmz&amp;datum=18561210" />
+               </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>

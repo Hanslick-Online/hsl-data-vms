@@ -90,9 +90,11 @@
                         <date when="1855-05-24">1855-05-24</date>
                      </imprint>
                   </monogr>
-                     <relatedItem type="facsimile">https://anno.onb.ac.at/cgi-content/anno?aid=nwm&amp;datum=18550524</relatedItem>
                </biblStruct>
             </listBibl>
+               <bibl type="facsimiles-source">
+               <relatedItem type="facsimile" subtype="ONB-ANNO" target="https://anno.onb.ac.at/cgi-content/anno?aid=nwm&amp;datum=18550524"/>
+               </bibl>   
          </sourceDesc>
       </fileDesc>
       <encodingDesc>

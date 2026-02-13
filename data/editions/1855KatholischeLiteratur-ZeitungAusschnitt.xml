@@ -90,9 +90,11 @@
                         <date when="1855">1855</date>
                      </imprint>
                   </monogr>
-                     <relatedItem type="facsimile">https://books.google.at/books?id=p-XiwPt3sncC&amp;hl=de&amp;pg=PA49</relatedItem>
                </biblStruct>
             </listBibl>
+               <bibl type="facsimiles-source">
+               <relatedItem type="facsimile" subtype="GoogleBooks" target="https://books.google.at/books?id=p-XiwPt3sncC&amp;hl=de&amp;pg=PA49"/>
+               </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>

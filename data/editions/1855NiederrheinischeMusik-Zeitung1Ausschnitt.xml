@@ -89,12 +89,14 @@
                         <date when="1855-02-17">1855-02-17</date>
                      </imprint>
                   </monogr>
-                     <relatedItem type="facsimile">https://www.digitale-sammlungen.de/en/view/bsb10527506?page=59</relatedItem>
-                     <relatedItem type="facsimile">https://www.digitale-sammlungen.de/en/view/bsb10527506?page=67</relatedItem>
-                     <relatedItem type="facsimile">https://www.digitale-sammlungen.de/en/view/bsb10527506?page=75</relatedItem>
-                     <relatedItem type="facsimile">https://www.digitale-sammlungen.de/en/view/bsb10527506?page=83</relatedItem>
                </biblStruct>
             </listBibl>
+               <bibl type="facsimiles-source">
+               <relatedItem type="facsimile" subtype="MDZ" target="https://www.digitale-sammlungen.de/en/view/bsb10527506?page=59"/>
+               <relatedItem type="facsimile" subtype="MDZ" target="https://www.digitale-sammlungen.de/en/view/bsb10527506?page=67"/>
+               <relatedItem type="facsimile" subtype="MDZ" target="https://www.digitale-sammlungen.de/en/view/bsb10527506?page=75"/>
+               <relatedItem type="facsimile" subtype="MDZ" target="https://www.digitale-sammlungen.de/en/view/bsb10527506?page=83"/>
+               </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>

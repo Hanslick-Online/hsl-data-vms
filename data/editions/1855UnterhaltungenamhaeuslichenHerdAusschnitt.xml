@@ -89,9 +89,11 @@
                         <date when="1855">1855</date>
                      </imprint>
                   </monogr>
-                     <relatedItem type="facsimile">https://www.digitale-sammlungen.de/de/view/bsb10616950?page=685</relatedItem>
                </biblStruct>
             </listBibl>
+               <bibl type="facsimiles-source">
+               <relatedItem type="facsimile" subtype="MDZ" target="https://www.digitale-sammlungen.de/de/view/bsb10616950?page=685"/>
+               </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
