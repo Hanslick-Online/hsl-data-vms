@@ -88,12 +88,12 @@
                      </imprint>
                   </monogr>
                </biblStruct>
-                  <bibl type="facsimiles-source">
+            </listBibl>
+            <bibl type="facsimiles-source">
                   <relatedItem type="facsimile" subtype="ONB-ANNO" target="https://anno.onb.ac.at/cgi-content/anno?aid=hum&amp;datum=18541125"/>
                   <relatedItem type="facsimile" subtype="ONB-ANNO" target="https://anno.onb.ac.at/cgi-content/anno?aid=hum&amp;datum=18541126"/>
                   <relatedItem type="facsimile" subtype="ONB-ANNO" target="https://anno.onb.ac.at/cgi-content/anno?aid=hum&amp;datum=18541129"/>
                   </bibl>
-            </listBibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
