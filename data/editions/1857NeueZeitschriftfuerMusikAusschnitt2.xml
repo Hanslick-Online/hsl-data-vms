@@ -610,9 +610,9 @@
    <text>
       <body>
          <div>
-            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <pb facs="#facs_1" n="185" xml:id="img_0001"/>
             <head type="h3">Neue Zeitschrift für Musik. Siebenundvierzigster Band. Nr. 18. Den 30. October 1857.</head>
-            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+            <pb facs="#facs_2" n="192" xml:id="img_0002"/>
             <cb n="1"/>
             <lb facs="#facs_2_region_1709376989041_2071_tl_1" n="N001"/><head type="h1">Dr. <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> und der „<rs type="bibl" ref="#hsl_work_id_40">Tannhäuser</rs>“.</head>
             <p>     
@@ -700,7 +700,7 @@
       <lb facs="#facs_2_region_1709376995266_2074_tl_52" n="N052"/>gefunden, denn auf <hi rendition="#em">diese</hi> Weise wäre er unmöglich zu
       <lb facs="#facs_2_region_1709376995266_2074_tl_53" n="N053"/>Resultaten gekommen, die — wie sie eben wirklich in
       <lb facs="#facs_2_region_1709376995266_2074_tl_54" n="N054"/>seinem Werke vorliegen — mit dem ganzen historischen<space quantity="1" unit="char"/>
-            <pb facs="#facs_3" n="3" xml:id="img_0003"/>
+            <pb facs="#facs_3" n="193" xml:id="img_0003"/>
             <cb n="3"/>
       <lb facs="#facs_3_region_1709377018081_2080_tl_1" n="N001"/>Gange der Musik und ihrer Praxis in diamentralem
       <lb facs="#facs_3_region_1709377018081_2080_tl_2" n="N002"/>Gegensatze stehen. Als Theoretiker „mit Zopf und
