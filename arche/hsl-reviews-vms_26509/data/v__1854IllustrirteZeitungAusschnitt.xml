@@ -105,7 +105,7 @@
          <change who="awilfing" when="2024-11-01">Projektbeginn</change>
          <change who="awilfing" when="2025-01-20">Headers Anpassung</change>
          <change who="ampfiel" when="2025-06-09">Transkribus OCR und Lektorat.</change>
-         <change who="fsanzl" when="2025-06-24">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
+         <change who="fsanzlazaro" when="2025-06-24">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-06-30">header, p hinzugefügt</change>
          <change who="ampfiel" when="2025-07-04">Zeilenumbrüche, Absätze, rs ref</change>
          <change who="awilfing" when="2025-08-19">Letztkorrektur für Zwischenrelease.</change>
@@ -342,7 +342,7 @@
             <p>
                <lb facs="#facs_2_region_1709372669268_416_tl_1" n="N001"/>„<hi rendition="#em"><rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs></hi>. Ein Beitrag zur Revi
                <lb facs="#facs_2_region_1709372669268_416_tl_2" n="N002" break="no"/>sion der Aesthetik der Tonkunst, von Dr. <hi rendition="#em">Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi>.“ Der Verf.
-               <lb facs="#facs_2_region_1709372669268_416_tl_3" n="N003"/>sucht in dem vorliegenden Schriftchen zu beweisen, daß die Musik keinen an
+               <lb facs="#facs_2_region_1709372669268_416_tl_3" n="N003"/>sucht in dem vorliegenden <rs type="bibl" ref="#hsl_work_id_1083">Schriftchen</rs> zu beweisen, daß die Musik keinen an
                <lb facs="#facs_2_line_1709373334355_517" n="N004" break="no"/>dern als rein tonlichen Inhalt habe. Nur Anschauungen gebe sie der Phanta
                <lb facs="#facs_2_line_1709373350587_523" n="N005" break="no"/>sie. Die Gefühle, welche wir allenfalls dabei empfinden könnten, seien kein
                <lb facs="#facs_2_line_1709373357348_529" n="N006"/>unmittelbares Product der Töne, sondern unsere subjectiven Stimmungen. Die
@@ -400,7 +400,7 @@
                <lb facs="#facs_2_line_1709373588707_758" n="N057"/>und umfassender Belesenheit ausgerüstet, das Concrete scharf ins Auge faßt und
                <lb facs="#facs_2_line_1709373594955_765" n="N058"/>selbständige Gedanken mit überall deutlichen und allgemein begreiflichen Wor
                <lb facs="#facs_2_line_1709373599659_770" n="N059" break="no"/>ten auszudrücken und zu entwickeln versteht. Möge Keiner, der sich für un
-               <lb facs="#facs_2_line_1709373611116_781" n="N060" break="no"/>sere Kunst interessirt, das Schriftchen unbeachtet lassen. Es ist jedenfalls mehr
+               <lb facs="#facs_2_line_1709373611116_781" n="N060" break="no"/>sere Kunst interessirt, das <rs type="bibl" ref="#hsl_work_id_1083">Schriftchen</rs> unbeachtet lassen. Es ist jedenfalls mehr
                <lb facs="#facs_2_region_1709372669268_416_tl_111" n="N061"/>werth, als aller Zukunftsjammer, womit wir seit einigen Jahren bis zum
                <lb facs="#facs_2_region_1709372669268_416_tl_112" n="N062"/>Ueberdruß heimgesucht werden.
             </p>

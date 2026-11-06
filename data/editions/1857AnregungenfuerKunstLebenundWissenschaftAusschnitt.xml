@@ -112,7 +112,7 @@
       <revisionDesc status="final">
          <change who="awilfing" when="2024-11-01">Projektbeginn</change>
          <change who="ampfiel" when="2024-12-10">Transkribus OCR und Lektorat.</change>
-         <change who="fsanzl" when="2023-12-11">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
+         <change who="fsanzlazaro" when="2023-12-11">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2024-12-11">header, Zeilenumbrüche, Absätze, rs ref, space</change>
          <change who="ampfiel" when="2025-01-24">header richtigstellen</change>
          <change who="awilfing" when="2025-03-06">Letztkorrektur für Zwischenrelease</change>
@@ -941,7 +941,7 @@
       <lb facs="#facs_3_region_1709376541146_1929_tl_25" n="N025"/>z. B. sein Proportionalitätsgesetz ein epochemachendes Resultat ist. <hi rendition="#em"><rs type="person" ref="#hsl_person_id_6126">Zei
       <lb facs="#facs_3_region_1709376541146_1929_tl_26" n="N026" break="no"/>sing</rs>’s</hi> Begriffe haben eine wunderbare Logik und sein Standpunkt ist in
       <lb facs="#facs_3_region_1709376541146_1929_tl_27" n="N027"/>vielem so klar und scharf, daß man durch die Deutlichkeit und Schnellig
-      <lb facs="#facs_3_region_1709376541146_1929_tl_28" n="N028" break="no"/>keit seiner Resultate überrascht wird. — Nur ist sein Buch so sehr viel
+      <lb facs="#facs_3_region_1709376541146_1929_tl_28" n="N028" break="no"/>keit seiner Resultate überrascht wird. — Nur ist sein <rs type="bibl" ref="#hsl_work_id_4246">Buch</rs> so sehr viel
       <lb facs="#facs_3_region_1709376541146_1929_tl_29" n="N029"/>ärmer an Material als <hi rendition="#em"><rs type="person" ref="#hsl_person_id_379">Vischer</rs>’s</hi><space quantity="1" unit="char"/><rs type="bibl" ref="#hsl_work_id_319">Aesthetik</rs>, auch vermengt er Fortschritts-<space quantity="1" unit="char"/>
       <lb facs="#facs_3_region_1709376541146_1929_tl_30" n="N030"/>und Rückschrittsgedanken in dem eigentlichen Fundament seines Stand
       <lb facs="#facs_3_region_1709376541146_1929_tl_31" n="N031" break="no"/>puncts so sehr, daß man sich mehr an <hi rendition="#em"><rs type="person" ref="#hsl_person_id_379">Vischer</rs>’s</hi> Autorität anlehnen möchte.
@@ -974,7 +974,7 @@
       <lb facs="#facs_4_region_1709376564042_1935_tl_16" n="N016"/>ist eigentlich mehr nach dem Erscheinen seiner <rs type="bibl" ref="#hsl_work_id_1083">Broschüre</rs> mit literarischen
       <lb facs="#facs_4_region_1709376564042_1935_tl_17" n="N017"/>Namen hervorgetreten, obwol sie vorher in Zeitschriften genugsam ihren
       <lb facs="#facs_4_region_1709376564042_1935_tl_18" n="N018"/>Gegenton behauptet hat. Es scheint als sei sie zu ihrem Selbstbewußt
-      <lb facs="#facs_4_region_1709376564042_1935_tl_19" n="N019" break="no"/>sein erst durch seine Abhandlung herangereift. — <hi rendition="#em"><rs type="person" ref="#hsl_person_id_6147">Zamminer</rs></hi> schließt sich
+      <lb facs="#facs_4_region_1709376564042_1935_tl_19" n="N019" break="no"/>sein erst durch seine <rs type="bibl" ref="#hsl_work_id_1083">Abhandlung</rs> herangereift. — <hi rendition="#em"><rs type="person" ref="#hsl_person_id_6147">Zamminer</rs></hi> schließt sich
       <lb facs="#facs_4_region_1709376564042_1935_tl_20" n="N020"/>in seinem Buche „<rs type="bibl" ref="#hsl_work_id_4283">die Musik und die musikalischen Instrumente</rs>“ ganz
       <lb facs="#facs_4_region_1709376564042_1935_tl_21" n="N021"/><hi rendition="#em"><rs type="person" ref="#hsl_person_id_1">Hanslick</rs>’s</hi> Ansicht an, nicht minder <hi rendition="#em"><rs type="person" ref="#hsl_person_id_6126">Zeising</rs></hi> in seinen obengenannten
       <lb facs="#facs_4_region_1709376564042_1935_tl_22" n="N022"/><rs type="bibl" ref="#hsl_work_id_4246">Forschungen</rs>, um die Richtung der <hi rendition="#em"><rs type="bibl" ref="#hsl_work_id_4281">niederrheinischen Zeitung</rs></hi> hier

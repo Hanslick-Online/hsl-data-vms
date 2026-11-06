@@ -109,7 +109,7 @@
          <change who="awilfing" when="2024-11-01">Projektbeginn</change>
          <change who="awilfing" when="2025-01-20">Headers Anpassung</change>
          <change who="ampfiel" when="2025-02-25">Transkribus OCR und Lektorat.</change>
-         <change who="fsanzl" when="2025-03-06">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
+         <change who="fsanzlazaro" when="2025-03-06">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-03-06">fix header, Layout</change>
          <change who="ampfiel" when="2025-03-20">Zeilenumbrüche, rs ref</change>
          <change who="awilfing" when="2025-03-31">Letztkorrektur für Zwischenrelease.</change>
@@ -645,7 +645,7 @@
       <lb facs="#facs_2_region_1709374833827_1401_tl_21" n="N020"/>durchaus nicht sein; auch der <rs type="person" ref="#hsl_person_id_789">Verfasser</rs> der „<rs type="bibl" ref="#hsl_work_id_1191">Musikalischen Briefe</rs>“
       <lb facs="#facs_2_region_1709374833827_1401_tl_22" n="N021"/>(<rs type="place" ref="#hsl_place_id_32">Leipzig</rs>, <date when="1852">1852</date>) sprach sich, wenn auch nicht mit derselben Be
       <lb facs="#facs_2_region_1709374833827_1401_tl_23" n="N022" break="no"/>stimmtheit, in ähnlicher Weise aus, und es ist vielfach Wider
-      <lb facs="#facs_2_region_1709374833827_1401_tl_24" n="N023" break="no"/>spruch dagegen erhoben worden. Der Vf. des vorlieg. Schriftchens,
+      <lb facs="#facs_2_region_1709374833827_1401_tl_24" n="N023" break="no"/>spruch dagegen erhoben worden. Der Vf. des vorlieg. <rs type="bibl" ref="#hsl_work_id_1083">Schriftchen</rs>s,
       <lb facs="#facs_2_region_1709374833827_1401_tl_25" n="N024"/>welches jedenfalls einen neuen, interessanten Beitrag für die ganze
       <lb facs="#facs_2_region_1709374833827_1401_tl_26" n="N025"/>Streitfrage giebt, geht nicht so weit als <rs type="person" ref="#hsl_person_id_555">Nägeli</rs>, indem sein Streben
       <lb facs="#facs_2_region_1709374833827_1401_tl_27" n="N026"/>ist, schärfer in die Tiefen der Sache einzudringen, schliesst sich

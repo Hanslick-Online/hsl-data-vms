@@ -109,7 +109,7 @@
          <change who="awilfing" when="2024-11-01">Projektbeginn</change>
          <change who="awilfing" when="2025-01-20">Headers Anpassung</change>
          <change who="ampfiel" when="2025-02-19">Transkribus OCR und Lektorat.</change>
-         <change who="fsanzl" when="2025-02-22">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
+         <change who="fsanzlazaro" when="2025-02-22">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-02-24">Header, Layout, rs ref ausfüllen</change>
          <change who="awilfing" when="2025-03-07">Letztkorrektur für Zwischenrelease</change>
       </revisionDesc>
@@ -317,10 +317,10 @@
       <lb facs="#facs_2_region_1709374989506_1444_tl_11" n="N011" break="no"/>lichst bekannt, besitzt sowohl musikalische wie wissenschaft
       <lb facs="#facs_2_region_1709374989506_1444_tl_12" n="N012" break="no"/>liche Bildung, die ihn befähigt, in den Gegenstand tief ein
       <lb facs="#facs_2_region_1709374989506_1444_tl_13" n="N013" break="no"/>zudringen. Dennoch will er hier nur anregen. Man könnte
-      <lb facs="#facs_2_region_1709374989506_1444_tl_14" n="N014"/>seine Schrift eine Einleitung zur Ästhetik der Musik nennen;
+      <lb facs="#facs_2_region_1709374989506_1444_tl_14" n="N014"/>seine <rs type="bibl" ref="#hsl_work_id_1083">Schrift</rs> eine Einleitung zur Ästhetik der Musik nennen;
       <lb facs="#facs_2_region_1709374989506_1444_tl_15" n="N015"/>sie will die Grundsätze hinstellen, aus denen eine Revision
       <lb facs="#facs_2_region_1709374989506_1444_tl_16" n="N016"/>der bisherigen Ästhetik der Tonkunst hervorgehen soll. Im
-      <lb facs="#facs_2_region_1709374989506_1444_tl_17" n="N017"/>Princip ist die Schrift gegen die „verrottete Gefühlsästhetik“
+      <lb facs="#facs_2_region_1709374989506_1444_tl_17" n="N017"/>Princip ist die <rs type="bibl" ref="#hsl_work_id_1083">Schrift</rs> gegen die „verrottete Gefühlsästhetik“
       <lb facs="#facs_2_region_1709374989506_1444_tl_18" n="N018"/>gerichtet und hat daher theils einen polemisch-negativen,
       <lb facs="#facs_2_region_1709374989506_1444_tl_19" n="N019"/>theils einen fundamental-positiven Charakter. Die sieben
       <lb facs="#facs_2_region_1709374989506_1444_tl_20" n="N020"/>kleinen Kapitel weisen den unwissenschaftlichen Standpunkt
@@ -334,11 +334,11 @@
       <lb facs="#facs_2_region_1709374989506_1444_tl_28" n="N028"/>Verfassers. Wie wenig das Gefühl als solches den Anspruch
       <lb facs="#facs_2_region_1709374989506_1444_tl_29" n="N029"/>auf das Princip der Musik-Ästhetik zu machen habe, indem
       <lb facs="#facs_2_region_1709374989506_1444_tl_30" n="N030"/>dadurch ein bedeutendes, ja vielleicht das gehaltvollste Ge
-      <lb facs="#facs_2_region_1709374989506_1444_tl_31" n="N031" break="no"/>biet der Musik der Ästhetik entzogen wird, sucht die Schrift
+      <lb facs="#facs_2_region_1709374989506_1444_tl_31" n="N031" break="no"/>biet der Musik der Ästhetik entzogen wird, sucht die <rs type="bibl" ref="#hsl_work_id_1083">Schrift</rs><space quantity="1" unit="char"/>
       <lb facs="#facs_2_region_1709374989506_1444_tl_32" n="N032"/>mit schlagenden Gründen darzuthun und mit höchst interes
       <lb facs="#facs_2_region_1709374989506_1444_tl_33" n="N033" break="no"/>santen Nachrichten aus musikalischen Compositionen und
       <lb facs="#facs_2_region_1709374989506_1444_tl_34" n="N034"/>Schriften bedeutender Schriftsteller darzulegen. Darnach ist
-      <lb facs="#facs_2_region_1709374989506_1444_tl_35" n="N035"/>das dritte Kapitel der Schrift nicht bloss von grosser Be
+      <lb facs="#facs_2_region_1709374989506_1444_tl_35" n="N035"/>das dritte Kapitel der <rs type="bibl" ref="#hsl_work_id_1083">Schrift</rs> nicht bloss von grosser Be
       <lb facs="#facs_2_region_1709374989506_1444_tl_36" n="N036" break="no"/>deutung für die Sache selbst, sondern auch wichtig durch
       <lb facs="#facs_2_region_1709374989506_1444_tl_37" n="N037"/>die Art der Behandlung, welche in der That durch schla
       <lb facs="#facs_2_region_1709374989506_1444_tl_38" n="N038" break="no"/>gende Beweisführung in geistvollem Ausdruck einen reichen
@@ -348,7 +348,7 @@
       <lb facs="#facs_2_region_1709374989506_1444_tl_42" n="N042"/>Anziehendes. Das letzte Kapitel ist ebenfalls wichtig für
       <lb facs="#facs_2_region_1709374989506_1444_tl_43" n="N043"/>die Beurtheilung des Standpunktes. So viel im Allgemeinen.
       <lb facs="#facs_2_region_1709374989506_1444_tl_44" n="N044"/>Eine nähere Beleuchtung ist hier um so weniger nothwen
-      <lb facs="#facs_2_region_1709374989506_1444_tl_45" n="N045" break="no"/>dig, als die Schrift durchaus selbst gelesen sein will. Ihr
+      <lb facs="#facs_2_region_1709374989506_1444_tl_45" n="N045" break="no"/>dig, als die <rs type="bibl" ref="#hsl_work_id_1083">Schrift</rs> durchaus selbst gelesen sein will. Ihr
       <lb facs="#facs_2_region_1709374989506_1444_tl_46" n="N046"/>geringer Umfang wird dazu einen Jeden, der sich für den
       <lb facs="#facs_2_region_1709374989506_1444_tl_47" n="N047"/>Gegenstand interessirt, auffordern. Wir selbst aber sind
       <lb facs="#facs_2_region_1709374989506_1444_tl_48" n="N048"/>mit dem, was der Verfasser darbietet, ganz einverstanden.

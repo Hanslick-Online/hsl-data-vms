@@ -112,7 +112,7 @@
          <change who="awilfing" when="2024-11-01 ">Projektbeginn</change>
          <change who="awilfing" when="2025-01-20">Headers Anpassung</change>
          <change who="ampfiel" when="2025-02-19">Transkribus OCR und Lektorat.</change>
-         <change who="fsanzl" when="2025-02-22">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
+         <change who="fsanzlazaro" when="2025-02-22">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-02-24">Header, Layout, rs ref ausfüllen</change>
          <change who="awilfing" when="2025-03-06">Letztkorrektur für Zwischenrelease</change>
       </revisionDesc>
@@ -403,9 +403,9 @@
             <lb facs="#facs_1_line_1739998041122_26" n="N001"/><head type="h1"><hi rendition="#em">Literarische Anzeige</hi>.</head>
             <lb facs="#facs_1_line_1739998028851_22" n="N002"/><head type="h2">„<rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs>“. Ein Beitrag zur
             <lb facs="#facs_1_region_1709375039906_1465_tl_3" n="N003"/>Revision der Aesthetik der Tonkunst. Von Dr. Eduard
-            <lb facs="#facs_1_region_1709375039906_1465_tl_4" n="N004"/><hi rendition="#em"><rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi>. <rs type="place" ref="#hsl_place_id_32">Leipzig</rs>, Rudolf <hi rendition="#em"><rs type="person" ref="#hsl_person_id_377">Weigel</rs></hi><space quantity="1" unit="char"/><date when="1834">1854</date>.</head>
+            <lb facs="#facs_1_region_1709375039906_1465_tl_4" n="N004"/><hi rendition="#em"><rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi>. <rs type="place" ref="#hsl_place_id_32">Leipzig</rs>, Rudolf <hi rendition="#em"><rs type="person" ref="#hsl_person_id_377">Weigel</rs></hi><space quantity="1" unit="char"/><date when="1854">1854</date>.</head>
             <p>      
-      <lb facs="#facs_1_region_1709375039906_1465_tl_5" n="N005"/>(<rs type="person" ref="#hsl_person_id_6453">H. — L.</rs>) Dieses Büchlein enthält im engen Rahmen rei
+      <lb facs="#facs_1_region_1709375039906_1465_tl_5" n="N005"/>(<rs type="person" ref="#hsl_person_id_6453">H. — L.</rs>) Dieses <rs type="bibl" ref="#hsl_work_id_1083">Büchlein</rs> enthält im engen Rahmen rei
       <lb facs="#facs_1_region_1709375039906_1465_tl_6" n="N006" break="no"/>chen und gehaltvollen Inhalt, der auch bereits in ganz <rs type="place" ref="#hsl_place_id_14">Deutsch
       <lb facs="#facs_1_region_1709375039906_1465_tl_7" n="N007" break="no"/>land</rs> ehrende Anerkennung gefunden hat. Da es die Grundsätze,
       <lb facs="#facs_1_region_1709375039906_1465_tl_8" n="N008"/>welche eine Revision der Aesthetik der Tonkunst in ihrer kriti
@@ -420,7 +420,7 @@
       <lb facs="#facs_1_region_1709375039906_1465_tl_17" n="N017" break="no"/>tischen Auffassung derselben gegenüber der pathologischen, der
       <lb facs="#facs_1_region_1709375039906_1465_tl_18" n="N018"/>Beziehungen der Tonkunst zur Natur, des Inhalts und der Form
       <lb facs="#facs_1_region_1709375039906_1465_tl_19" n="N019"/>in der Musik — so würde man — um eine vollständige, gewis
-      <lb facs="#facs_1_region_1709375039906_1465_tl_20" n="N020" break="no"/>senhafte Würdigung dieser Schrift und der in ihr enthaltenen
+      <lb facs="#facs_1_region_1709375039906_1465_tl_20" n="N020" break="no"/>senhafte Würdigung dieser <rs type="bibl" ref="#hsl_work_id_1083">Schrift</rs> und der in ihr enthaltenen
       <lb facs="#facs_1_region_1709375039906_1465_tl_21" n="N021"/>Keime zur richtigen und fruchtbringenden Erkenntniß des Wesens
       <lb facs="#facs_1_region_1709375039906_1465_tl_22" n="N022"/>der Tonkunst und ihrer Geheimnisse zu geben — ein kaum min
       <lb facs="#facs_1_region_1709375039906_1465_tl_23" n="N023" break="no"/>der umfangreiches Referat liefern müssen, als das Werk selbst
@@ -431,7 +431,7 @@
       <lb facs="#facs_1_region_1709375039906_1465_tl_28" n="N028"/>Entschiedenheit der Meinung und scharfer Polemik gegen bishe
       <lb facs="#facs_1_region_1709375039906_1465_tl_29" n="N029" break="no"/>rige und gegen neu aufgetauchte Ansichten über Wesen, Inhalt
       <lb facs="#facs_1_region_1709375039906_1465_tl_30" n="N030"/>und Zweck der Musik hingestellten Behauptungen etwas dem
-      <lb facs="#facs_1_region_1709375039906_1465_tl_31" n="N031"/>Werthe des Buches wenigstens durch Vollständigkeit und Ernst
+      <lb facs="#facs_1_region_1709375039906_1465_tl_31" n="N031"/>Werthe des <rs type="bibl" ref="#hsl_work_id_1083">Buch</rs>es wenigstens durch Vollständigkeit und Ernst
       <lb facs="#facs_1_region_1709375039906_1465_tl_32" n="N032"/>Entsprechendes geliefert werden. Da hierzu der Raum dieser
       <lb facs="#facs_1_region_1709375039906_1465_tl_33" n="N033"/>Blätter nicht hinreicht, so begnügen wir uns damit, das geistreiche
       <lb facs="#facs_1_region_1709375039906_1465_tl_34" n="N034"/>und höchst anregende Werkchen der Aufmerksamkeit des musik
@@ -463,7 +463,7 @@
             </p><p>
       <lb facs="#facs_1_region_1709375043722_1468_tl_21" n="N021"/>Daß der geistreiche Verfasser, einer der feinsten Musik-
       <lb facs="#facs_1_region_1709375043722_1468_tl_22" n="N022"/>Kenner und scharfsinnigsten Kritiker, dies selbst gefühlt habe,
-      <lb facs="#facs_1_region_1709375043722_1468_tl_23" n="N023"/>scheint aus manchen Stellen in seinem trefflichen Buche hervor
+      <lb facs="#facs_1_region_1709375043722_1468_tl_23" n="N023"/>scheint aus manchen Stellen in seinem trefflichen <rs type="bibl" ref="#hsl_work_id_1083">Buch</rs>e hervor
       <lb facs="#facs_1_region_1709375043722_1468_tl_24" n="N024" break="no"/>zugehen; denn nachdem er ausgeführt, daß das Schöne <hi rendition="#em">über
       <lb facs="#facs_1_region_1709375043722_1468_tl_25" n="N025" break="no"/>haupt</hi> bloße Form, daß das Schöne <hi rendition="#em">in der Musik</hi> ein spezi
       <lb facs="#facs_1_region_1709375043722_1468_tl_26" n="N026" break="no"/>fisch Musikalisches sei, aus dem reichen Tonmateriale gebildet

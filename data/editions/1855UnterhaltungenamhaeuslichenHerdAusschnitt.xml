@@ -110,7 +110,7 @@
       <revisionDesc status="final">
          <change who="awilfing" when="2024-11-01">Projektbeginn</change>
          <change who="ampfiel" when="2024-12-27">Transkribus OCR und Lektorat.</change>
-         <change who="fsanzl" when="2024-12-27">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
+         <change who="fsanzlazaro" when="2024-12-27">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="awilfing" when="2025-01-20">Headers Anpassung</change>
          <change who="ampfiel" when="2025-01-24">header richtigstellen, Absätze, Zeilenumbrüche</change>
          <change who="ampfiel" when="2025-01-28">rs ref, space einfügen</change>
@@ -291,7 +291,7 @@
       <lb facs="#facs_2_region_1709376164218_1808_tl_20" n="N020" break="no"/>schaft constatirte.“
             </p><p>
       <lb facs="#facs_2_region_1709376164218_1808_tl_21" n="N021"/>Auch über <hi rendition="#em">Malerei</hi> der Tonkunst findet
-      <lb facs="#facs_2_region_1709376164218_1808_tl_22" n="N022"/>man in seiner Abhandlung sehr treffende Worte.
+      <lb facs="#facs_2_region_1709376164218_1808_tl_22" n="N022"/>man in seiner <rs type="bibl" ref="#hsl_work_id_1083">Abhandlung</rs> sehr treffende Worte.
       <lb facs="#facs_2_region_1709376164218_1808_tl_23" n="N023"/>Ueberhaupt zeigt diese neben gründlichsten musika
       <lb facs="#facs_2_region_1709376164218_1808_tl_24" n="N024" break="no"/>lischen Einzelkenntnissen einen wissenschaftlichen
       <lb facs="#facs_2_region_1709376164218_1808_tl_25" n="N025"/>Sinn auch in den allgemeinen Partieen. Die

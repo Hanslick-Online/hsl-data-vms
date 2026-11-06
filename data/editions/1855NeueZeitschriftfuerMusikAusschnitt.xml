@@ -80,7 +80,7 @@
                   </analytic>
                   <monogr>
                      <title type="main">Neue Zeitschrift für Musik</title>
-                     <title type="sub">Zweiundvierzigster Band. No. 8. Den 16. Februar 1855</title>
+                     <title type="sub">Zweiundvierzigster Band</title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person" ref="#hsl_person_id_1745">Brendel, Franz</name>
@@ -114,7 +114,7 @@
          <change who="awilfing" when="2024-11-01">Projektbeginn</change>
          <change who="awilfing" when="2025-01-20">Headers Anpassung</change>
          <change who="ampfiel" when="2025-02-17">Transkribus OCR und Lektorat.</change>
-         <change who="fsanzl" when="2025-02-22">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
+         <change who="fsanzlazaro" when="2025-02-22">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-02-24">Header, Layout, rs ref ausfüllen, space einfügen</change>
          <change who="awilfing" when="2025-04-07">Letztkorrektur für Zwischenrelease.</change></revisionDesc>
    </teiHeader>
@@ -3678,7 +3678,7 @@
       <lb facs="#facs_1_region_1709375117595_1487_tl_15" n="N014"/>solchen Wendung für die Gegenwart hingewiesen haben.
       <lb facs="#facs_1_region_1709375117595_1487_tl_16" n="N015"/>Unberührt geblieben war bis jetzt noch das ästhetische
       <lb facs="#facs_1_region_1709375117595_1487_tl_17" n="N016"/>Gebiet im engeren und speciellen Sinne. Jetzt hat
-      <lb facs="#facs_1_region_1709375117595_1487_tl_18" n="N017"/>der Verf. der hier angezeigten Schrift nun auch einen
+      <lb facs="#facs_1_region_1709375117595_1487_tl_18" n="N017"/>der Verf. der hier angezeigten <rs type="bibl" ref="#hsl_work_id_1083">Schrift</rs> nun auch einen
       <lb facs="#facs_1_region_1709375117595_1487_tl_19" n="N018"/>Beitrag nach dieser Seite hin gegeben, und zwar einen
       <lb facs="#facs_1_region_1709375117595_1487_tl_20" n="N019"/>beachtenswerthen, einen Fortschritt, wenn auch noch
       <lb facs="#facs_1_region_1709375117595_1487_tl_21" n="N020"/>nicht begründenden, so doch anregenden, so daß nun
@@ -3687,14 +3687,14 @@
       <lb facs="#facs_1_region_1709375124066_1490_tl_2" n="N002" break="no"/>schaftlichen Standpunkt der Neuzeit entsprechender An
       <lb facs="#facs_1_region_1709375124066_1490_tl_3" n="N003" break="no"/>fang gemacht worden ist.
             </p><p>
-      <lb facs="#facs_1_region_1709375124066_1490_tl_4" n="N004"/>Die Wichtigkeit der Schrift rechtfertigt ein etwas
+      <lb facs="#facs_1_region_1709375124066_1490_tl_4" n="N004"/>Die Wichtigkeit der <rs type="bibl" ref="#hsl_work_id_1083">Schrift</rs> rechtfertigt ein etwas
       <lb facs="#facs_1_region_1709375124066_1490_tl_5" n="N005"/>ausführlicheres Eingehen; ich will zunächst den Leser
       <lb facs="#facs_1_region_1709375124066_1490_tl_6" n="N006"/>mit dem Princip und Gedankengang derselben bekannt
       <lb facs="#facs_1_region_1709375124066_1490_tl_7" n="N007"/>zu machen suchen.
             </p><p>
       <lb facs="#facs_1_region_1709375124066_1490_tl_8" n="N008"/>„Die bisherige Aesthetik der Tonkunst bedarf einer
       <lb facs="#facs_1_region_1709375124066_1490_tl_9" n="N009"/>durchgängigen Revision.“ Dies ist der Grundgedanke
-      <lb facs="#facs_1_region_1709375124066_1490_tl_10" n="N010"/>des Verfs., und der Zweck der vorliegenden Schrift
+      <lb facs="#facs_1_region_1709375124066_1490_tl_10" n="N010"/>des Verfs., und der Zweck der vorliegenden <rs type="bibl" ref="#hsl_work_id_1083">Schrift</rs><space quantity="1" unit="char"/>
       <lb facs="#facs_1_region_1709375124066_1490_tl_11" n="N011"/>daher, „die Grundsätze hinzustellen, die eine solche Re
       <lb facs="#facs_1_region_1709375124066_1490_tl_12" n="N012" break="no"/>vision in ihrer kritischen und construirenden Thätigkeit
       <lb facs="#facs_1_region_1709375124066_1490_tl_13" n="N013"/>festzuhalten hat.“ Demzufolge beschäftigt sich der
@@ -4236,14 +4236,14 @@
       <lb facs="#facs_6_region_1709375295546_1535_tl_26" n="N026"/>So viel im Allgemeinen. Ich wende mich nur
       <lb facs="#facs_6_region_1709375295546_1535_tl_27" n="N027"/>zu dem Einzelnen. Aus der schiefen Stellung, welche
       <lb facs="#facs_6_region_1709375295546_1535_tl_28" n="N028"/>der Verf. seinem Princip gegeben hat, erklärt sich eine
-      <lb facs="#facs_6_region_1709375295546_1535_tl_29" n="N029"/>Menge von Irrthümern, die die Schrift enthält. Diese
+      <lb facs="#facs_6_region_1709375295546_1535_tl_29" n="N029"/>Menge von Irrthümern, die die <rs type="bibl" ref="#hsl_work_id_1083">Schrift</rs> enthält. Diese
       <lb facs="#facs_6_region_1709375295546_1535_tl_30" n="N030"/>Irrthümer sind meist unzweifelhaft, lassen sich mit
       <lb facs="#facs_6_region_1709375295546_1535_tl_31" n="N031"/>Evidenz darthun. Die Nachweisung derselben gewährt
       <lb facs="#facs_6_region_1709375295546_1535_tl_32" n="N032"/>daher meiner Entgegnung noch eine zweite, von der
       <lb facs="#facs_6_region_1709375295546_1535_tl_33" n="N033"/>principiellen Betrachtung unabhängige Begründung.
       <lb facs="#facs_6_region_1709375295546_1535_tl_34" n="N034"/>Gesetzt auch, es wäre mir nicht gelungen, das Irrige
       <lb facs="#facs_6_region_1709375295546_1535_tl_35" n="N035"/>principiell nachzuweisen, so muß sich dies jetzt aus der
-      <lb facs="#facs_6_region_1709375295546_1535_tl_36" n="N036"/>Einzelbetrachtung ergeben. Weil die Schrift der Verf.’s
+      <lb facs="#facs_6_region_1709375295546_1535_tl_36" n="N036"/>Einzelbetrachtung ergeben. Weil die <rs type="bibl" ref="#hsl_work_id_1083">Schrift</rs> der Verf.’s
       <lb facs="#facs_6_region_1709375295546_1535_tl_37" n="N037"/>im Einzelnen viele Irrthümer enthält, so muß seine
       <lb facs="#facs_6_region_1709375295546_1535_tl_38" n="N038"/>Entwicklung des Princips eine irrige oder einseitige
       <lb facs="#facs_6_region_1709375295546_1535_tl_39" n="N039"/>sein. Die practischen Bemerkungen beweisen die theil
@@ -4391,7 +4391,7 @@
       <lb facs="#facs_8_region_1709375369026_1559_tl_23" n="N023"/>aber ist das Gefühl sehr bestimmt und gar nicht mit
       <lb facs="#facs_8_region_1709375369026_1559_tl_24" n="N024"/>anderen zu verwechseln. Dasselbe gilt von der Musik.
       <lb facs="#facs_8_region_1709375369026_1559_tl_25" n="N025"/>Ob also z. B. die Sehnsucht nach dem Meere oder
-      <lb facs="#facs_8_region_1709375369026_1559_tl_26" n="N026"/>nach der Schweiz gerichtet ist, ist für das Gefühl und
+      <lb facs="#facs_8_region_1709375369026_1559_tl_26" n="N026"/>nach der <rs type="place" ref="#hsl_place_id_97">Schweiz</rs> gerichtet ist, ist für das Gefühl und
       <lb facs="#facs_8_region_1709375369026_1559_tl_27" n="N027"/>in Folge davon für die Musik sehr gleichgültig. Die
       <lb facs="#facs_8_region_1709375369026_1559_tl_28" n="N028"/>Sehnsucht an sich aber wird in dem Tonstück, wenn
       <lb facs="#facs_8_region_1709375369026_1559_tl_29" n="N029"/>es rechter Art ist, so bestimmt ausgesprochen sein, daß
@@ -4781,7 +4781,7 @@
       <lb facs="#facs_13_region_1709375549834_1613_tl_21" n="N021"/>vernachlässigt hat.
             </p><p>
       <lb facs="#facs_13_region_1709375549834_1613_tl_22" n="N022"/>Ich habe mit etwas größerer Ausführlichkeit die
-      <lb facs="#facs_13_region_1709375549834_1613_tl_23" n="N023"/>vorliegende Schrift besprochen, weil in ihr auf eigen
+      <lb facs="#facs_13_region_1709375549834_1613_tl_23" n="N023"/>vorliegende <rs type="bibl" ref="#hsl_work_id_1083">Schrift</rs> besprochen, weil in ihr auf eigen
       <lb facs="#facs_13_region_1709375549834_1613_tl_24" n="N024" break="no"/>thümliche Weise Wahres und Irriges vermengt ist.
       <lb facs="#facs_13_region_1709375549834_1613_tl_25" n="N025"/>Gegen manchen der angeführten Sätze wird jeder Mu
       <lb facs="#facs_13_region_1709375549834_1613_tl_26" n="N026" break="no"/>siker sogleich protestiren, und zwar mit vollem Recht.

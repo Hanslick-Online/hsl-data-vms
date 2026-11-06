@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat „<title>Vom Musikalisch-Schönen</title>“ (1854–1857)</title>
-            <title level="j">Niederrheinische Musik-Zeitung für Musikfreunde und Künstler</title>
+            <title level="j">Niederrheinische Musik-Zeitung für Kunstfreunde und Künstler</title>
             <title level="a" type="main">Eduard Hanslick</title>
             <author ref="#hsl_person_id_4880">Bischoff, Ludwig</author>
             <editor>
@@ -78,8 +78,8 @@
                      <author ref="#hsl_person_id_4880">Bischoff, Ludwig</author>
                   </analytic>
                   <monogr>
-                     <title type="main">Niederrheinische Musik-Zeitung für Musikfreunde und Künstler</title>
-                     <title type="sub">Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</title>
+                     <title type="main">Niederrheinische Musik-Zeitung für Kunstfreunde und Künstler</title>
+                     <title type="sub">III. Jahrgang.</title>
                      <respStmt>
                         <resp>Herausgegeben von</resp>
                         <name type="person" ref="#hsl_person_id_4880">Bischoff, Ludwig</name>
@@ -114,7 +114,7 @@
          <change who="awilfing" when="2024-11-01">Projektbeginn</change>
          <change who="awilfing" when="2025-01-20">Headers Anpassung</change>
          <change who="ampfiel" when="2025-01-21">Transkribus OCR und Lektorat.</change>
-         <change who="fsanzl" when="2025-01-22">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
+         <change who="fsanzlazaro" when="2025-01-22">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-01-24">Header, Fußnoten, Layout</change>
          <change who="ampfiel" when="2025-01-27">rs ref, space einfügen</change>
          <change who="awilfing" when="2025-04-08">Letztkorrektur für Zwischenrelease.</change>
@@ -3442,7 +3442,7 @@
       <body>
          <div n="1">
             <pb facs="#facs_1" n="49" xml:id="img_0001"/>
-            <head type="h3">Niederrheinische Musik-Zeitung für Musikfreunde und Künstler. Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</head>
+            <head type="h3">Niederrheinische Musik-Zeitung für Kunstfreunde und Künstler. Nr. 7. Köln, 17. Februar 1855. III. Jahrgang.</head>
             <cb n="1"/>
             <lb facs="#facs_1_region_1709375595290_1629_tl_1" n="N001"/><head type="h1">Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>.</head>
             <lb facs="#facs_1_line_1735900402825_4" n="N002"/><head type="h3">I.</head>
@@ -3482,7 +3482,7 @@
             </p><p>
       <lb facs="#facs_1_region_1709375595290_1629_tl_34" n="N035"/>Mit wahrer Freude reichen wir daher einem Manne
       <lb facs="#facs_1_region_1709375595290_1629_tl_35" n="N036"/>die Hand, der in einer nicht umfang-, aber inhaltreichen
-      <lb facs="#facs_1_region_1709375595290_1629_tl_36" n="N037"/>Schrift das Wesen der Musik als einer selbstständigen Kunst
+      <lb facs="#facs_1_region_1709375595290_1629_tl_36" n="N037"/><rs type="bibl" ref="#hsl_work_id_1083">Schrift</rs> das Wesen der Musik als einer selbstständigen Kunst
             <cb n="2"/>
       <lb facs="#facs_1_region_1709375599402_1632_tl_1" n="N001"/>zu ergründen sucht, und sich zu dieser Untersuchung so
       <lb facs="#facs_1_region_1709375599402_1632_tl_2" n="N002" break="no"/>wohl durch musicalische Kenntnisse als durch wissenschaft
@@ -3861,7 +3861,7 @@
             <div n="2">
             <pb facs="#facs_6" n="57" xml:id="img_0006"/>
             <cb n="11"/>
-            <lb facs="#facs_6_line_1736106606881_378" n="N001"/><head type="h3">Niederrheinische Musik-Zeitung für Musikfreunde und Künstler. Nr. 8. Köln, 24. Februar 1855. III. Jahrgang</head>
+            <lb facs="#facs_6_line_1736106606881_378" n="N001"/><head type="h3">Niederrheinische Musik-Zeitung für Kunstfreunde und Künstler. Nr. 8. Köln, 24. Februar 1855. III. Jahrgang</head>
             <cb n="12"/>
             <lb facs="#facs_6_region_1709375767730_1677_tl_1" n="N001"/><head type="h1">Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>.</head>
             <lb facs="#facs_6_line_1736106630902_384" n="N002"/><head type="h3">II.</head>
@@ -3971,7 +3971,7 @@
       <lb facs="#facs_7_region_1709375802114_1686_tl_22" n="N022" break="no"/>selben mit dem vollsten Rechte zu betrachten. Und dies
       <lb facs="#facs_7_region_1709375802114_1686_tl_23" n="N023"/>Verdienst wollen gerade wir dem Dr. <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> im vorlie
       <lb facs="#facs_7_region_1709375802114_1686_tl_24" n="N024" break="no"/>genden Fall am allerwenigsten schmälern. Seine kleine
-      <lb facs="#facs_7_region_1709375802114_1686_tl_25" n="N025"/>Schrift enthält offenbar die <hi rendition="#em">Saat</hi> zu einer Revision der
+      <lb facs="#facs_7_region_1709375802114_1686_tl_25" n="N025"/><rs type="bibl" ref="#hsl_work_id_1083">Schrift</rs> enthält offenbar die <hi rendition="#em">Saat</hi> zu einer Revision der
       <lb facs="#facs_7_region_1709375802114_1686_tl_26" n="N026"/>Aesthetik der Tonkunst; und nach der ganzen Art und
       <lb facs="#facs_7_region_1709375802114_1686_tl_27" n="N027"/>Weise, wie er sich hier gibt, glauben wir nicht, dass er zu
       <lb facs="#facs_7_region_1709375802114_1686_tl_28" n="N028"/>denjenigen Reformatoren gehört, die da meinen, ihre Ori
@@ -4137,7 +4137,7 @@
       <lb facs="#facs_8_region_1709375845703_1698_tl_23" n="N023" break="no"/>setze seiner <hi rendition="#em">Construction</hi> nur diesen.“
             </p><p>
       <lb facs="#facs_8_region_1709375845703_1698_tl_24" n="N024"/>Dies sind die Hauptsätze, deren Ausführung in der
-      <lb facs="#facs_8_region_1709375845703_1698_tl_25" n="N025"/>Schrift selbst nachzulesen ist. Es reihen sich daran eine
+      <lb facs="#facs_8_region_1709375845703_1698_tl_25" n="N025"/><rs type="bibl" ref="#hsl_work_id_1083">Schrift</rs> selbst nachzulesen ist. Es reihen sich daran eine
       <lb facs="#facs_8_region_1709375845703_1698_tl_26" n="N026"/>Menge von treffenden Bemerkungen über das Sinnliche und
       <lb facs="#facs_8_region_1709375845703_1698_tl_27" n="N027"/>Geistige in der Musik, über das Gemeine oder Edle der
       <lb facs="#facs_8_region_1709375845703_1698_tl_28" n="N028"/>musicalischen Gedanken, über das Hineindeuten und Hin
@@ -4169,7 +4169,7 @@
             <div n="3">
             <pb facs="#facs_10" n="65" xml:id="img_0010"/>
             <cb n="20"/>
-            <lb facs="#facs_10_line_1736974196948_643" n="N001"/><head type="h3">Niederrheinische Musik-Zeitung für Musikfreunde und Künstler. Nr. 9. Köln, 3. März 1855. III. Jahrgang</head>
+            <lb facs="#facs_10_line_1736974196948_643" n="N001"/><head type="h3">Niederrheinische Musik-Zeitung für Kunstfreunde und Künstler. Nr. 9. Köln, 3. März 1855. III. Jahrgang</head>
             <cb n="21"/>
             <lb facs="#facs_10_region_1709375902962_1716_tl_1" n="N001"/><head type="h1">Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>.</head>
             <lb facs="#facs_10_line_1736861568747_80" n="N002"/><head type="h3">III.</head>
@@ -4292,7 +4292,7 @@
             </div>      
             <div n="4">
             <pb facs="#facs_12" n="73" xml:id="img_0012"/>
-            <lb facs="#facs_12_line_1736861831810_193" n="N001"/><head type="h3">Niederrheinische Musik-Zeitung für Musikfreunde und Künstler. Nr. 10. Köln, 10. März 1855. III. Jahrgang</head>
+            <lb facs="#facs_12_line_1736861831810_193" n="N001"/><head type="h3">Niederrheinische Musik-Zeitung für Kunstfreunde und Künstler. Nr. 10. Köln, 10. März 1855. III. Jahrgang</head>
             <cb n="26"/>
             <lb facs="#facs_12_region_1709375969162_1737_tl_1" n="N001"/><head type="h1">Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>.</head>
             <lb facs="#facs_12_region_1709375969162_1737_tl_2" n="N002"/><head type="h3">IV.</head>
@@ -4398,7 +4398,7 @@
       <lb facs="#facs_13_region_1709375996154_1746_tl_15" n="N015"/>was elementarisch sei.
             </p><p>
       <lb facs="#facs_13_region_1709375996154_1746_tl_16" n="N016"/>Sollen wir diesem Abriss des fünften Abschnittes des
-      <lb facs="#facs_13_region_1709375996154_1746_tl_17" n="N017"/>Büchleins eine Bemerkung zufügen, so wird es der Aus
+      <lb facs="#facs_13_region_1709375996154_1746_tl_17" n="N017"/><rs type="bibl" ref="#hsl_work_id_1083">Büchlein</rs>s eine Bemerkung zufügen, so wird es der Aus
       <lb facs="#facs_13_region_1709375996154_1746_tl_18" n="N018" break="no"/>spruch der Befürchtung sein, dass die darin aufgestellten
       <lb facs="#facs_13_region_1709375996154_1746_tl_19" n="N019"/>Ansichten von der Kunst des Hörens und der Schwierig
       <lb facs="#facs_13_region_1709375996154_1746_tl_20" n="N020" break="no"/>keit derselben das Missverständniss veranlassen könnten, dass
@@ -4568,7 +4568,7 @@
       <lb facs="#facs_14_region_1709376029154_1758_tl_28" n="N028"/>Man sieht, dass das Verhältniss der Musik zum Natur
       <lb facs="#facs_14_region_1709376029154_1758_tl_29" n="N029" break="no"/>schönen mit der ganzen Frage vom <hi rendition="#em">Inhalt</hi> der Musik
       <lb facs="#facs_14_region_1709376029154_1758_tl_30" n="N030"/>enge zusammenhängt. Und diese Frage ist es dann eben,
-      <lb facs="#facs_14_region_1709376029154_1758_tl_31" n="N031"/>welche der letzte Abschnitt der <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>’schen Schrift be
+      <lb facs="#facs_14_region_1709376029154_1758_tl_31" n="N031"/>welche der letzte Abschnitt der <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>’schen <rs type="bibl" ref="#hsl_work_id_1083">Schrift</rs> be
       <lb facs="#facs_14_region_1709376029154_1758_tl_32" n="N032" break="no"/>antwortet, welchen wir bereits in dem ersten Artikel über
       <lb facs="#facs_14_region_1709376029154_1758_tl_33" n="N033"/>dieselbe (in Nr. 7) im Auszuge gegeben haben.
             </p><p>
@@ -4576,7 +4576,7 @@
       <lb facs="#facs_14_region_1709376029154_1758_tl_35" n="N035"/>wichtige Punkte der musicalischen Aesthetik der Verfasser
       <lb facs="#facs_14_region_1709376029154_1758_tl_36" n="N036"/>zur Sprache bringt, welche Menge von Problemen er der
       <lb facs="#facs_14_region_1709376029154_1758_tl_37" n="N037"/>Lösung entgegenführt, welche eingewurzelte Vorurtheile
-      <lb facs="#facs_14_region_1709376029154_1758_tl_38" n="N038"/>er bekämpft. Seine Schrift ist uns ein Zeichen des Auf
+      <lb facs="#facs_14_region_1709376029154_1758_tl_38" n="N038"/>er bekämpft. Seine <rs type="bibl" ref="#hsl_work_id_1083">Schrift</rs> ist uns ein Zeichen des Auf
       <lb facs="#facs_14_region_1709376029154_1758_tl_39" n="N039" break="no"/>lebens der tonkünstlerischen Vernunft gegen die wissen
       <lb facs="#facs_14_region_1709376029154_1758_tl_40" n="N040" break="no"/>schaftliche Unmündigkeit und den faselnden Wahnsinn der
       <lb facs="#facs_14_region_1709376029154_1758_tl_41" n="N041"/>Scharwächter der realistischen Propaganda; wir begrüssen

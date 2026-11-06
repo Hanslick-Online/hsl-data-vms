@@ -111,7 +111,7 @@
       <revisionDesc status="draft">
          <change who="awilfing" when="2024-11-01">Projektbeginn</change>
          <change who="ampfiel" when="2024-12-10">Transkribus OCR und Lektorat.</change>
-         <change who="fsanzl" when="2024-12-10">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
+         <change who="fsanzlazaro" when="2024-12-10">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2024-12-11">header, Zeilenumbrüche, Absätze, rs ref, space</change>
          <change who="ampfiel" when="2025-01-24">header richtigstellen</change>
          <change who="awilfing" when="2025-03-07">Letztkorrektur für Zwischenrelease</change>
@@ -675,13 +675,13 @@
       <lb facs="#facs_1_region_1709376309154_1864_tl_3" n="N003"/><hi rendition="#bold"><rs type="person" ref="#hsl_person_id_1">Hanslick</rs></hi>, Dr. Eduard, <hi rendition="#bold"><rs type="bibl" ref="#hsl_work_id_1083">Vom Musikalisch-Schönen</rs></hi>. Ein Beitrag zur
       <lb facs="#facs_1_region_1709376309154_1864_tl_4" n="N004"/>Revision der Aesthetik der Tonkunst. <rs type="place" ref="#hsl_place_id_32">Leipzig</rs>, <date when="1854">1854</date>. R. <rs type="person" ref="#hsl_person_id_377">Weigel</rs>. 2 Fr.
             </p><p>
-      <lb facs="#facs_1_region_1709376309154_1864_tl_5" n="N005"/>Als den Hauptgewinn dieser Schrift möchten wir vor Allem die scharfe,
+      <lb facs="#facs_1_region_1709376309154_1864_tl_5" n="N005"/>Als den Hauptgewinn dieser <rs type="bibl" ref="#hsl_work_id_1083">Schrift</rs> möchten wir vor Allem die scharfe,
       <lb facs="#facs_1_region_1709376309154_1864_tl_6" n="N006"/>gründliche Kritik der bisherigen Auffassung der Musik als der „Sprache des
       <lb facs="#facs_1_region_1709376309154_1864_tl_7" n="N007"/>Gefühls“ bezeichnen. Es ist wirklich fabelhaft, wenn man bedenkt, daß die
       <lb facs="#facs_1_region_1709376309154_1864_tl_8" n="N008"/>gesammte ästhetische Literatur über die Tonkunst, von dem alten <rs type="person" ref="#hsl_person_id_383">Matheson</rs> an
       <lb facs="#facs_1_region_1709376309154_1864_tl_9" n="N009"/>bis auf die neuesten Aesthetiker dieses Gebiets (<rs type="person" ref="#hsl_person_id_379">Vischer</rs> läßt, wie bekannt, seit
       <lb facs="#facs_1_region_1709376309154_1864_tl_10" n="N010"/><date when="1854">1854</date> auf die Fortsetzung seiner <rs type="bibl" ref="#hsl_work_id_319">Aesthetik</rs> warten, die bis zum Abschnitte
-      <lb facs="#facs_1_region_1709376309154_1864_tl_11" n="N011"/>„Musik“ vollendet ist), dieser Kunstgattung einen Charakter zuschreibt, der
+      <lb facs="#facs_1_region_1709376309154_1864_tl_11" n="N011"/>„<rs type="bibl" ref="#hsl_work_id_4577">Musik</rs>“ vollendet ist), dieser Kunstgattung einen Charakter zuschreibt, der
       <lb facs="#facs_1_region_1709376309154_1864_tl_12" n="N012"/>ihr von vorneherein jede Bedeutung einer selbstständigen, von der Reflexion
       <lb facs="#facs_1_region_1709376309154_1864_tl_13" n="N013"/>auf die subjektive Empfindung des Menschen unabhängigen Kunst nimmt.
       <lb facs="#facs_1_region_1709376309154_1864_tl_14" n="N014"/>Diese Begriffsverwirrung räumt nun <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> mit einer Schärfe der Beweis
@@ -699,7 +699,7 @@
       <lb facs="#facs_1_region_1709376309154_1864_tl_26" n="N026"/>Empfindung ist aber etwas außerhalb der Musik Liegendes, ist nicht ihr Wesen
       <lb facs="#facs_1_region_1709376309154_1864_tl_27" n="N027"/>und Inhalt. Diese Wahrheit der bisherigen Begriffsverwirrung gegenüber
       <lb facs="#facs_1_region_1709376309154_1864_tl_28" n="N028"/>in so eindringlicher Weise aufgestellt zu haben, ist wohl das Hauptverdienst
-      <lb facs="#facs_1_region_1709376309154_1864_tl_29" n="N029"/>des Schriftchens, da damit der Schwerpunkt für die Aesthetik der Musik ge
+      <lb facs="#facs_1_region_1709376309154_1864_tl_29" n="N029"/>des <rs type="bibl" ref="#hsl_work_id_1083">Schriftchen</rs>s, da damit der Schwerpunkt für die Aesthetik der Musik ge
       <lb facs="#facs_1_region_1709376309154_1864_tl_30" n="N030" break="no"/>funden ist.
             </p><p>
       <lb facs="#facs_1_region_1709376309154_1864_tl_31" n="N031"/>So scharfsinnig die Aufstellung des Grundgedankens, so brillant und
@@ -840,11 +840,11 @@
       <lb facs="#facs_2_region_1709376347186_1873_tl_67" n="N067" break="no"/>formter</hi> Gedanke.
             </p><p>
       <lb facs="#facs_2_region_1709376347186_1873_tl_68" n="N068"/>Wir <hi rendition="#em">glauben</hi> in den gegebenen Auszügen den Hauptinhalt dieser höchst
-      <lb facs="#facs_2_region_1709376347186_1873_tl_69" n="N069"/>gediegenen Schrift angedeutet zu haben, <hi rendition="#em">wissen</hi> aber zugleich, daß die ganz
+      <lb facs="#facs_2_region_1709376347186_1873_tl_69" n="N069"/>gediegenen <rs type="bibl" ref="#hsl_work_id_1083">Schrift</rs> angedeutet zu haben, <hi rendition="#em">wissen</hi> aber zugleich, daß die ganz
       <lb facs="#facs_2_region_1709376347186_1873_tl_70" n="N070"/>klare, vollständige Ausführung dieser eben so wahren und wissenschaftlich fest
       <lb facs="#facs_2_region_1709376347186_1873_tl_71" n="N071" break="no"/>begründeten als originellen Gedanken nur von der Lektüre des trefflichen<space quantity="1" unit="char"/>
             <cb/>
-      <lb facs="#facs_2_line_1733826577416_761" n="N001"/>Schriftchens selbst gewonnen werden kann. Wir hoffen aber, wenigstens so
+      <lb facs="#facs_2_line_1733826577416_761" n="N001"/><rs type="bibl" ref="#hsl_work_id_1083">Schriftchen</rs>s selbst gewonnen werden kann. Wir hoffen aber, wenigstens so
       <lb facs="#facs_2_line_1733826579628_764" n="N002"/>viel daraus gebracht zu haben, um jeden Musikfreund (Aktiv- und Passiv-
       <lb facs="#facs_2_line_1733826581684_767" n="N003"/>Mitglieder) auf diese ausgezeichnete Arbeit aufmerksam gemacht zu haben.</p>
          </div>

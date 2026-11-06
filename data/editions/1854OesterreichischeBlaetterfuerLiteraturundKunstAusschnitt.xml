@@ -112,7 +112,7 @@
          <change who="awilfing" when="2024-11-01">Projektbeginn</change>
          <change who="awilfing" when="2025-01-20">Headers Anpassung</change>
          <change who="ampfiel" when="2025-04-25">Transkribus OCR und Lektorat.</change>
-         <change who="fsanzl" when="2025-04-27">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
+         <change who="fsanzlazaro" when="2025-04-27">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-04-28">fix lb</change>
          <change who="ampfiel" when="2025-05-09">fill header, layout, space</change>
          <change who="ampfiel" when="2025-05-14">rs ref fertig</change>
@@ -2375,7 +2375,7 @@
       <lb facs="#facs_1_region_1709373986218_1090_tl_43" n="N046" break="no"/>gen seine Schüchternheit eingestehen.
             </p><p>
       <lb facs="#facs_1_region_1709373986218_1090_tl_44" n="N047"/>Nur mit diesem Vorbehalt entschließen wir uns,
-      <lb facs="#facs_1_region_1709373986218_1090_tl_45" n="N048"/>Dr. <hi rendition="#em"><rs type="person" ref="#hsl_person_id_1">Hanslick</rs>’s</hi> uns sehr werthvoll dünkende Schrift
+      <lb facs="#facs_1_region_1709373986218_1090_tl_45" n="N048"/>Dr. <hi rendition="#em"><rs type="person" ref="#hsl_person_id_1">Hanslick</rs>’s</hi> uns sehr werthvoll dünkende <rs type="bibl" ref="#hsl_work_id_1083">Schrift</rs><space quantity="1" unit="char"/>
       <lb facs="#facs_1_line_1744274529309_289" n="N049"/>vom Standpunkt eines nicht musikalischen Beurtheilers
       <lb facs="#facs_1_region_1709373986218_1090_tl_46" n="N050"/>mit unsern Bemerkungen zu begleiten.
             </p><p>
@@ -2388,7 +2388,7 @@
       <lb facs="#facs_1_region_1709373986218_1090_tl_53" n="N057" break="no"/>urtheile, insbesondere gegen eine allgemein verbreitete
       <lb facs="#facs_1_region_1709373986218_1090_tl_54" n="N058"/>Meinung, die das Wesen der Musik in den Ausdruck
       <lb facs="#facs_1_region_1709373986218_1090_tl_55" n="N059"/>von Gefühlen setzt. Diese Aufsätze hat der Verfasser
-      <lb facs="#facs_1_region_1709373986218_1090_tl_56" n="N060"/>in seinem Schriftchen gesammelt, durch neue vermehrt
+      <lb facs="#facs_1_region_1709373986218_1090_tl_56" n="N060"/>in seinem <rs type="bibl" ref="#hsl_work_id_1083">Schriftchen</rs> gesammelt, durch neue vermehrt
       <lb facs="#facs_1_line_1744274572618_315" n="N061"/>und ergänzt, so daß sie nun ein zusammenhängendes
       <lb facs="#facs_1_region_1709373986218_1090_tl_57" n="N062"/>Ganzes bilden, das die wichtigsten Fragen der musi
       <lb facs="#facs_1_region_1709373986218_1090_tl_58" n="N063" break="no"/>kalischen Aesthetik bespricht, ohne Anspruch zu machen
@@ -2527,7 +2527,7 @@
       <lb facs="#facs_1_region_1709373996802_1096_tl_43" n="N048"/>größten Schwingungsanzahl und der raschen Bewe
       <lb facs="#facs_1_line_1744275157217_690" n="N049" break="no"/>gung der Freude stattfindet. Wie tief der Verfasser
       <lb facs="#facs_1_line_1744378781575_128" n="N050"/>dies erkennt, zeigen die Beispiele S. 18 aus <rs type="person" ref="#hsl_person_id_25">Beetho
-      <lb facs="#facs_1_region_1709373996802_1096_tl_46" n="N051" break="no"/>ven</rs>s Ouverture zum <rs type="bibl" ref="#hsl_work_id_4494">Prometheus</rs>. Manchen Gefühls
+      <lb facs="#facs_1_region_1709373996802_1096_tl_46" n="N051" break="no"/>ven</rs>s Ouverture zum <rs type="bibl" ref="#hsl_work_id_346">Prometheus</rs>. Manchen Gefühls
       <lb facs="#facs_1_region_1709373996802_1096_tl_47" n="N052" break="no"/>enthusiasten wird es wie kaltes Wasser überlaufen,
       <lb facs="#facs_1_region_1709373996802_1096_tl_48" n="N053"/>wenn er hört, daß er es hier statt mit himmelstür
       <lb facs="#facs_1_line_1744275173671_707" n="N054" break="no"/>menden Gefühlen, blos mit Rhythmen, Symmetrieen
@@ -2723,7 +2723,7 @@
       <lb facs="#facs_2_line_1744659916689_422" n="N074"/>„Es ist ein spezifisch Musikalisches,“ die Ausführung
       <lb facs="#facs_2_line_1744659913419_419" n="N075"/>dieses Gedankens gibt der Verfasser mit solcher Klar
       <lb facs="#facs_2_region_1709374025339_1105_tl_38" n="N076" break="no"/>heit und Einsicht, daß wir dem Leser diesen Abschnitt
-      <lb facs="#facs_2_region_1709374025339_1105_tl_39" n="N077"/>der Schrift besonders auf das Angelegentlichste em
+      <lb facs="#facs_2_region_1709374025339_1105_tl_39" n="N077"/>der <rs type="bibl" ref="#hsl_work_id_1083">Schrift</rs> besonders auf das Angelegentlichste em
       <lb facs="#facs_2_line_1744659908485_416" n="N078" break="no"/>pfehlen. So fremdartig es Vielen klingen wird, den
       <lb facs="#facs_2_region_1709374025339_1105_tl_40" n="N079"/>„tiefen Inhalt“ der Musik zuletzt in bloße „Töne
       <lb facs="#facs_2_line_1744659905793_413" n="N080"/>und ihre künstlerische Verbindung“ aufgelöst zu sehen,
@@ -2970,7 +2970,7 @@
       <lb facs="#facs_3_region_1709374062906_1117_tl_18" n="N029"/>keine, die blos Gefühl wäre“ S. 55. Dabei verkennt
       <lb facs="#facs_3_region_1709374062906_1117_tl_19" n="N030"/>er den ungeheuern Antheil nicht, den physiologische
       <lb facs="#facs_3_region_1709374062906_1117_tl_20" n="N031"/>Bedingungen am <hi rendition="#em">Eindruck</hi> der Musik haben. Eine
-      <lb facs="#facs_3_line_1744660767168_992" n="N032"/>Stelle in <hi rendition="#em"><rs type="person" ref="#hsl_person_id_100">Goethe</rs>s</hi> Briefwechsel mit <hi rendition="#em"><rs type="person" ref="#hsl_person_id_556">Zelter</rs></hi> be
+      <lb facs="#facs_3_line_1744660767168_992" n="N032"/>Stelle in <hi rendition="#em"><rs type="person" ref="#hsl_person_id_100">Goethe</rs>s</hi><space quantity="1" unit="char"/><rs type="bibl" ref="#hsl_work_id_387">Briefwechsel</rs> mit <hi rendition="#em"><rs type="person" ref="#hsl_person_id_556">Zelter</rs></hi> be
       <lb facs="#facs_3_line_1744660765108_989" n="N033" break="no"/>weist, wie <hi rendition="#em">nervöse</hi> Aufregung übergroße Empfäng
       <lb facs="#facs_3_region_1709374062906_1117_tl_23" n="N034" break="no"/>lichkeit für Musik erzeugt. „Derlei Beobachtungen“,
       <lb facs="#facs_3_line_1744660763058_986" n="N035"/>heißt es S. 60, „müssen uns aufmerksam machen, daß
@@ -3020,10 +3020,10 @@
             </p><p>
       <lb facs="#facs_3_region_1709374062906_1117_tl_65" n="N077"/>Gern möchten wir hier abschließen und dem Ver
       <lb facs="#facs_3_region_1709374062906_1117_tl_66" n="N078" break="no"/>fasser für den Genuß, den uns sein scharfsinniges,
-      <lb facs="#facs_3_region_1709374062906_1117_tl_67" n="N079"/>gedankenreiches und geistreich geschriebenes Buch ge
+      <lb facs="#facs_3_region_1709374062906_1117_tl_67" n="N079"/>gedankenreiches und geistreich geschriebenes <rs type="bibl" ref="#hsl_work_id_1083">Buch</rs> ge
       <lb facs="#facs_3_region_1709374062906_1117_tl_68" n="N080" break="no"/>spendet hat, herzlich danken, wenn uns der Schluß
       <lb facs="#facs_3_line_1744660620911_921" n="N081"/>nicht noch zu einer kleinen Rüge veranlaßte. Je ent
-      <lb facs="#facs_3_region_1709374062906_1117_tl_70" n="N082" break="no"/>schiedener die Schrift auf gesonderte Geltung des rein
+      <lb facs="#facs_3_region_1709374062906_1117_tl_70" n="N082" break="no"/>schiedener die <rs type="bibl" ref="#hsl_work_id_1083">Schrift</rs> auf gesonderte Geltung des rein
       <lb facs="#facs_3_region_1709374062906_1117_tl_71" n="N083"/>Musikalisch-Schönen dringt, desto mehr hätte ihr Ver
       <lb facs="#facs_3_region_1709374062906_1117_tl_72" n="N084" break="no"/>fasser auch jeden Schein vermeiden sollen, sich selbst zu
       <lb facs="#facs_3_line_1744660615497_918" n="N085"/>widersprechen. Warum sagt er doch schließlich: „dem
@@ -3042,7 +3042,7 @@
       <lb facs="#facs_3_line_1744660810650_1034" n="N004"/>Und hätte denn nicht die Musik in der That ein
       <lb facs="#facs_3_region_1709374068051_1120_tl_4" n="N005"/>Vorbild in der Natur, was doch vorher geleugnet
       <lb facs="#facs_3_region_1709374068051_1120_tl_5" n="N006"/>worden? Warum hebt der Verfasser den Hauptsatz
-      <lb facs="#facs_3_region_1709374068051_1120_tl_6" n="N007"/>seiner Schrift: das Musikalisch-Schöne gefällt durch
+      <lb facs="#facs_3_region_1709374068051_1120_tl_6" n="N007"/>seiner <rs type="bibl" ref="#hsl_work_id_1083">Schrift</rs>: das Musikalisch-Schöne gefällt durch
       <lb facs="#facs_3_region_1709374068051_1120_tl_7" n="N008"/>sich selbst, diese goldene Wahrheit am Schluß dadurch
       <lb facs="#facs_3_region_1709374068051_1120_tl_8" n="N009"/>auf, daß es als „tönendes Abbild der Bewegungen
       <lb facs="#facs_3_region_1709374068051_1120_tl_9" n="N010"/>im Weltall“ gefallen soll? Mich dünkt, hier hat der
@@ -3052,14 +3052,14 @@
             </p><p>
       <lb facs="#facs_3_region_1709374068051_1120_tl_13" n="N014"/>Doch genug der Fragen, wo wir fest überzeugt sind,
       <lb facs="#facs_3_region_1709374068051_1120_tl_14" n="N015"/>daß sie der Verfasser in unserem Sinne beantworten
-      <lb facs="#facs_3_region_1709374068051_1120_tl_15" n="N016"/>würde. Wir scheiden von seinem Buch mit der innigen
+      <lb facs="#facs_3_region_1709374068051_1120_tl_15" n="N016"/>würde. Wir scheiden von seinem <rs type="bibl" ref="#hsl_work_id_1083">Buch</rs> mit der innigen
       <lb facs="#facs_3_line_1744660815848_1037" n="N017"/>Ueberzeugung, daß es eine Lücke ausfüllt, in der Literatur
       <lb facs="#facs_3_region_1709374068051_1120_tl_17" n="N018"/>der Aesthetik und wissen dem Verfasser nichts Besseres
       <lb facs="#facs_3_region_1709374068051_1120_tl_18" n="N019"/>zu wünschen, als daß es ihm bald vergönnt sein möge,
       <lb facs="#facs_3_line_1744660818436_1040" n="N020"/>das Ideal der musikalischen Aesthetik, das er mit so
       <lb facs="#facs_3_region_1709374068051_1120_tl_20" n="N021"/>sichern Strichen zu zeichnen weiß, im Zusammenhang
       <lb facs="#facs_3_line_1744660821096_1043" n="N022"/>auszuführen. Fügen wir noch hinzu, daß die Aus
-      <lb facs="#facs_3_region_1709374068051_1120_tl_22" n="N023" break="no"/>stattung seiner Schrift eben so empfehlend ist, als
+      <lb facs="#facs_3_region_1709374068051_1120_tl_22" n="N023" break="no"/>stattung seiner <rs type="bibl" ref="#hsl_work_id_1083">Schrift</rs> eben so empfehlend ist, als
       <lb facs="#facs_3_line_1744660825342_1046" n="N024"/>sein Styl anmuthvoll und lebendig, so dürfen wir
       <lb facs="#facs_3_region_1709374068051_1120_tl_24" n="N025"/>zu den Lesern, Musikern und Laien getrost sagen:
       <lb facs="#facs_3_region_1709374068051_1120_tl_25" n="N026"/>Wir haben das Unsere gethan, thun Sie das Ihre!

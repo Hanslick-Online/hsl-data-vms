@@ -112,7 +112,7 @@
          <change who="awilfing" when="2024-11-01">Projektbeginn</change>
          <change who="awilfing" when="2025-01-20">Headers Anpassung</change>
          <change who="ampfiel" when="2025-04-09">Transkribus OCR und Lektorat.</change>
-         <change who="fsanzl" when="2025-04-27">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
+         <change who="fsanzlazaro" when="2025-04-27">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-04-28">fix lb</change>
          <change who="ampfiel" when="2025-05-09">fill header, layout, space</change>
          <change who="ampfiel" when="2025-05-14">rs ref fertig</change>
@@ -767,7 +767,7 @@
       <lb facs="#facs_3_region_1709374174131_1152_tl_55" n="N054"/>darunter ein Schönes, das, „unbedürftig und unabhängig eines
       <lb facs="#facs_3_region_1709374174131_1152_tl_56" n="N055"/>von außen her kommenden Inhalts, einzig in den Tönen und
       <lb facs="#facs_3_region_1709374174131_1152_tl_57" n="N056"/>ihrer künstlerischen Verbindung liegt“. Es ist dieses Capitel
-      <lb facs="#facs_3_region_1709374174131_1152_tl_58" n="N057"/>wol der Cardinalpunkt des ganzen Buchs und am meisten ge
+      <lb facs="#facs_3_region_1709374174131_1152_tl_58" n="N057"/>wol der Cardinalpunkt des ganzen <rs type="bibl" ref="#hsl_work_id_1083">Buch</rs>s und am meisten ge
       <lb facs="#facs_3_region_1709374174131_1152_tl_59" n="N058" break="no"/>eignet, darüber aufzuklären, was die musikalische Kunst eigent
       <lb facs="#facs_3_region_1709374174131_1152_tl_60" n="N059" break="no"/>lich bieten soll und kann, und widerlegt am siegendsten und
       <lb facs="#facs_3_region_1709374174131_1152_tl_61" n="N060"/>methodischsten die verrotteten Vorurtheile und nebulosen An
@@ -792,7 +792,7 @@
       <lb facs="#facs_3_region_1709374179043_1155_tl_8" n="N008"/>übersieht das Hören gänzlich und geht unmittelbar ans Fühlen.
       <lb facs="#facs_3_region_1709374179043_1155_tl_9" n="N009"/>Die Musik schaffe für das Herz, meinen sie, das Ohr aber sei
       <lb facs="#facs_3_region_1709374179043_1155_tl_10" n="N010"/>ein triviales Ding; — ja, was sie eben Ohr nennen; — für
-      <lb facs="#facs_3_region_1709374179043_1155_tl_11" n="N011"/>das «Labyrinth» oder die «Eustachische Trompete» dichtet kein
+      <lb facs="#facs_3_region_1709374179043_1155_tl_11" n="N011"/>das «Labyrinth» oder die «<rs type="bibl" ref="#hsl_person_id_10050">Eustachisch</rs>e Trompete» dichtet kein
       <lb facs="#facs_3_region_1709374179043_1155_tl_12" n="N012"/><rs type="person" ref="#hsl_person_id_25">Beethoven</rs>. Aber die Phantasie, die auf Gehörempfindungen
       <lb facs="#facs_3_region_1709374179043_1155_tl_13" n="N013"/>organisirt ist und welcher der Sinn etwas ganz Anderes be
       <lb facs="#facs_3_region_1709374179043_1155_tl_14" n="N014" break="no"/>deutet als ein bloßer Trichter an der Oberfläche der Erschei
@@ -823,7 +823,7 @@
       <lb facs="#facs_3_region_1709374179043_1155_tl_42" n="N038"/>Form in der Musik“.
             </p><p>
       <lb facs="#facs_3_region_1709374179043_1155_tl_43" n="N039"/>Zum Schluß können wir nicht anders, als den lebhaften
-      <lb facs="#facs_3_region_1709374179043_1155_tl_44" n="N040"/>Wunsch ausdrücken: das vorliegende Buch möge von Vie
+      <lb facs="#facs_3_region_1709374179043_1155_tl_44" n="N040"/>Wunsch ausdrücken: das vorliegende <rs type="bibl" ref="#hsl_work_id_1083">Buch</rs> möge von Vie
       <lb facs="#facs_3_region_1709374179043_1155_tl_45" n="N041" break="no"/>len, Musikern und Kunstfreunden, recht aufmerksam gelesen
       <lb facs="#facs_3_region_1709374179043_1155_tl_46" n="N042"/>werden, damit doch endlich einmal die vage Begriffslosigkeit
       <lb facs="#facs_3_region_1709374179043_1155_tl_47" n="N043"/>und das Umhertappen im Nebel bei der Beurtheilung musika

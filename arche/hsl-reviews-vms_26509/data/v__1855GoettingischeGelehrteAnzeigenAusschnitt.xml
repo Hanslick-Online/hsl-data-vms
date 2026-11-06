@@ -109,7 +109,7 @@
          <change who="awilfing" when="2024-11-01">Projektbeginn</change>
          <change who="awilfing" when="2025-01-20">Headers Anpassung</change>
          <change who="ampfiel" when="2025-03-05">Transkribus OCR und Lektorat.</change>
-         <change who="fsanzl" when="2025-03-06">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
+         <change who="fsanzlazaro" when="2025-03-06">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-03-06">fix header, Layout</change>
          <change who="ampfiel" when="2025-03-13">Zeilenumbrüche, rs ref</change>
          <change who="ampfiel" when="2025-03-20">space</change>
@@ -2475,7 +2475,7 @@
       <lb facs="#facs_2_region_1709374438315_1246_tl_24" n="N023" break="no"/>jectiv Schöne scheint mir die Ursache zu sein, daß
       <lb facs="#facs_2_region_1709374438315_1246_tl_25" n="N024"/>die richtige und fein empfundene Auffassung des
       <lb facs="#facs_2_region_1709374438315_1246_tl_26" n="N025"/>Musikalisch-Schönen, die er uns gibt, namentlich
-      <lb facs="#facs_2_region_1709374438315_1246_tl_27" n="N026"/>in den ersten Abschnitten seiner Schrift nicht ganz
+      <lb facs="#facs_2_region_1709374438315_1246_tl_27" n="N026"/>in den ersten Abschnitten seiner <rs type="bibl" ref="#hsl_work_id_1083">Schrift</rs> nicht ganz
       <lb facs="#facs_2_region_1709374438315_1246_tl_28" n="N027"/>klar hervortritt.
             </p><p>
       <lb facs="#facs_2_region_1709374438315_1246_tl_29" n="N028"/>Ich kann nicht glauben, daß der subjective Ein
@@ -2777,7 +2777,7 @@
       <lb facs="#facs_10_region_1709374517170_1294_tl_25" n="N025"/>Kampf gegen jene pathologischen Gefühlseindrücke
       <lb facs="#facs_10_region_1709374517170_1294_tl_26" n="N026"/>scheint uns auch der Verf. über das gebotene Maß
       <lb facs="#facs_10_region_1709374517170_1294_tl_27" n="N027"/>hinausgekommen zu sein und die ersten Abschnitte
-      <lb facs="#facs_10_region_1709374517170_1294_tl_28" n="N028"/>seiner Schrift verrathen zuweilen durch die wun
+      <lb facs="#facs_10_region_1709374517170_1294_tl_28" n="N028"/>seiner <rs type="bibl" ref="#hsl_work_id_1083">Schrift</rs> verrathen zuweilen durch die wun
       <lb facs="#facs_10_region_1709374517170_1294_tl_29" n="N029" break="no"/>derlichen Consequenzen, die er entschlossen zieht,
       <lb facs="#facs_10_region_1709374517170_1294_tl_30" n="N030"/>den Zwiespalt seiner theoretischen Grundlage mit
       <lb facs="#facs_10_region_1709374517170_1294_tl_31" n="N031"/>seinem lebendigen künstlerischen Gefühl. Er er
@@ -3143,7 +3143,7 @@
       <lb facs="#facs_20_region_1709374644395_1357_tl_25" n="N025"/>Kunstwerke knüpft. Die Musik dürfte mit der
       <lb facs="#facs_20_region_1709374644395_1357_tl_26" n="N026"/>Architectur allein vielleicht in Bezug auf die Er
       <lb facs="#facs_20_region_1709374644395_1357_tl_27" n="N027" break="no"/>giebigkeit der hierher gehörigen Betrachtungen wett
-      <lb facs="#facs_20_region_1709374644395_1357_tl_28" n="N028" break="no"/>eifern können, und dem Verf. dieser Schrift wür
+      <lb facs="#facs_20_region_1709374644395_1357_tl_28" n="N028" break="no"/>eifern können, und dem Verf. dieser <rs type="bibl" ref="#hsl_work_id_1083">Schrift</rs> wür
       <lb facs="#facs_20_region_1709374644395_1357_tl_29" n="N029" break="no"/>den wir sehr dankbar sein müssen, wenn er die
       <lb facs="#facs_20_region_1709374644395_1357_tl_30" n="N030"/>scharfsinnige und eingehende Untersuchung, die er
       <lb facs="#facs_20_region_1709374644395_1357_tl_31" n="N031"/>hier dem allgemeinen Standpunkte der Musik zu

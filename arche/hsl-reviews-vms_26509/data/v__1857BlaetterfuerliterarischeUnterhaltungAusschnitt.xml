@@ -107,7 +107,7 @@
       <revisionDesc status="final">
          <change who="awilfing" when="2024-11-01">Projektbeginn</change>
          <change who="ampfiel" when="2024-12-09">Transkribus OCR und Lektorat.</change>
-         <change who="fsanzl" when="2024-12-09">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
+         <change who="fsanzlazaro" when="2024-12-09">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2024-12-10">header, Absätze, Zeilenumbrüche, space, Liste, rs ref, header</change>
          <change who="ampfiel" when="2025-01-24">header richtigstellen</change>
          <change who="awilfing" when="2025-04-03">Letztkorrektur für Zwischenrelease.</change>
@@ -1941,7 +1941,7 @@
       <lb facs="#facs_3_region_1709376684138_1975_tl_28" n="N028"/>größeres Publicum leicht ansprechende Weise popularisirend zu
       <lb facs="#facs_3_region_1709376684138_1975_tl_29" n="N029"/>schildern, diesen Zweck haben sie glücklich erreicht.
             </p><p>
-      <lb facs="#facs_3_region_1709376684138_1975_tl_30" n="N030"/><hi rendition="#em"><rs type="person" ref="#hsl_person_id_6127">Grün</rs>’s</hi> Vorlesungen sind durch jugendliche Frische und
+      <lb facs="#facs_3_region_1709376684138_1975_tl_30" n="N030"/><hi rendition="#em"><rs type="person" ref="#hsl_person_id_6127">Grün</rs>’s</hi><space quantity="1" unit="char"/><rs type="bibl" ref="#hsl_work_id_4270">Vorlesungen</rs> sind durch jugendliche Frische und
       <lb facs="#facs_3_region_1709376684138_1975_tl_31" n="N031"/>Wärme ausgezeichnet, das lebendige Wort des Redners klingt
       <lb facs="#facs_3_region_1709376684138_1975_tl_32" n="N032"/>auch im Druck durch die stummen Lettern hindurch, er sagt We
       <lb facs="#facs_3_region_1709376684138_1975_tl_33" n="N033" break="no"/>niges, was geradezu falsch wäre, aber er meint oft ein Problem
@@ -1952,7 +1952,7 @@
       <lb facs="#facs_3_region_1709376684138_1975_tl_38" n="N038" break="no"/>nen, daß wir es thun; aber um einen Ueberblick über das Ge
       <lb facs="#facs_3_region_1709376684138_1975_tl_39" n="N039" break="no"/>biet der Aesthetik zu gewinnen, um einmal, was jetzt Eigen
       <lb facs="#facs_3_region_1709376684138_1975_tl_40" n="N040" break="no"/>thum aller Gebildeten ist, dem heranwachsenden Geschlechte in
-      <lb facs="#facs_3_region_1709376684138_1975_tl_41" n="N041"/>gedrängtem Zusammenhange vorzutragen, ist sein Büchlein
+      <lb facs="#facs_3_region_1709376684138_1975_tl_41" n="N041"/>gedrängtem Zusammenhange vorzutragen, ist sein <rs type="bibl" ref="#hsl_work_id_4270">Büchlein</rs><space quantity="1" unit="char"/>
       <lb facs="#facs_3_region_1709376684138_1975_tl_42" n="N042"/>empfehlenswerth. Daß er die landschaftliche Schönheit leugnet,
       <lb facs="#facs_3_region_1709376684138_1975_tl_43" n="N043"/>mit der für viele Menschen doch die ästhetischen Eindrücke be
       <lb facs="#facs_3_region_1709376684138_1975_tl_44" n="N044" break="no"/>ginnen, der zuliebe Tausende jetzt in die <rs type="place" ref="#hsl_place_id_97">Schweiz</rs> und jetzt ans
@@ -1979,7 +1979,7 @@
       <lb facs="#facs_3_region_1709376684138_1975_tl_64" n="N064" break="no"/>tik der reinen Vernunft</rs>“ studirt zu haben, sollte Niemand in
       <lb facs="#facs_3_region_1709376684138_1975_tl_65" n="N065"/>ästhetischen Dingen ein Wort mitreden wollen, aber weder bei
       <lb facs="#facs_3_region_1709376684138_1975_tl_66" n="N066"/><rs type="person" ref="#hsl_person_id_4660">Bayer</rs> noch bei <rs type="person" ref="#hsl_person_id_6127">Grün</rs> sind die Spuren eines Verständnisses
-      <lb facs="#facs_3_region_1709376684138_1975_tl_67" n="N067"/>dieses Buchs. Mit diesem aber stimmt die Naturwissen
+      <lb facs="#facs_3_region_1709376684138_1975_tl_67" n="N067"/>dieses <rs type="bibl" ref="#hsl_work_id_4243">Buch</rs>s. Mit diesem aber stimmt die Naturwissen
       <lb facs="#facs_3_region_1709376684138_1975_tl_68" n="N068" break="no"/>schaft überein, wenn sie lehrt, daß Ton und Farbe außer uns
       <lb facs="#facs_3_region_1709376684138_1975_tl_69" n="N069"/>als solche nicht erfunden, daß sie erst in uns und durch uns<space quantity="1" unit="char"/>
             <cb n="3"/>
@@ -2086,7 +2086,7 @@
       <lb facs="#facs_4_region_1709376713762_1984_tl_34" n="N027"/>den Begriff des Schönen auch volksverständlich zu schreiben.
             </p><p>
       <lb facs="#facs_4_region_1709376713762_1984_tl_35" n="N028"/>Nachdem ich der Redaction die Besprechung von <rs type="person" ref="#hsl_person_id_4660">Bayer</rs>’s
-      <lb facs="#facs_4_region_1709376713762_1984_tl_36" n="N029"/>Buch zugesagt, habe ich es genau durchgenommen und beson
+      <lb facs="#facs_4_region_1709376713762_1984_tl_36" n="N029"/><rs type="bibl" ref="#hsl_work_id_4245">Buch</rs> zugesagt, habe ich es genau durchgenommen und beson
       <lb facs="#facs_4_region_1709376713762_1984_tl_37" n="N030" break="no"/>ders in den ersten Heften eine Menge halbwahrer oder fal
       <lb facs="#facs_4_region_1709376713762_1984_tl_38" n="N031" break="no"/>scher Vorstellungen neben den zusammengelesenen wirklichen
       <lb facs="#facs_4_region_1709376713762_1984_tl_39" n="N032"/>Resultaten der seitherigen Forschung gefunden. Eigenthüm
@@ -2260,7 +2260,7 @@
       <lb facs="#facs_5_region_1709376764026_2002_tl_53" n="N053"/>schildern zu wollen, statt das Schöne in der musikalischen Form
       <lb facs="#facs_5_region_1709376764026_2002_tl_54" n="N054"/>zu verstehen und zu genießen, oder Bilder und Worte musika
       <lb facs="#facs_5_region_1709376764026_2002_tl_55" n="N055" break="no"/>lisch darstellen zu wollen, hat <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> bekanntlich ein ebenso
-      <lb facs="#facs_5_region_1709376764026_2002_tl_56" n="N056"/>einseitiges als geistvolles Schriftchen gerichtet. „Der Compo
+      <lb facs="#facs_5_region_1709376764026_2002_tl_56" n="N056"/>einseitiges als geistvolles <rs type="bibl" ref="#hsl_work_id_1083">Schriftchen</rs> gerichtet. „Der Compo
       <lb facs="#facs_5_region_1709376764026_2002_tl_57" n="N057" break="no"/>nist“, sagt <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>, „dichtet und denkt, nur dichtet und denkt
       <lb facs="#facs_5_region_1709376764026_2002_tl_58" n="N058"/>er, entrückt aller gegenständlichen Realität, in Tönen.“ Der
       <lb facs="#facs_5_region_1709376764026_2002_tl_59" n="N059"/>Musiker componirt nicht mit dem Gefühl, sondern wie jeder
@@ -2415,7 +2415,7 @@
       <lb facs="#facs_6_region_1709376794962_2008_tl_63" n="N062"/>Schließlich möchte ich noch aufmerksam machen, daß über
       <lb facs="#facs_6_region_1709376794962_2008_tl_64" n="N063"/><rs type="person" ref="#hsl_person_id_108">Händel</rs>’s „<rs type="bibl" ref="#hsl_work_id_463">Messias</rs>“, über <rs type="person" ref="#hsl_person_id_25">Beethoven</rs>’s „<rs type="bibl" ref="#hsl_work_id_348">Fidelio</rs>“, über einige
       <lb facs="#facs_6_region_1709376794962_2008_tl_65" n="N064"/>Symphonien dieses Meisters vortreffliche Worte künstlerischer
-      <lb facs="#facs_6_region_1709376794962_2008_tl_66" n="N065"/>Charakteristik im vorliegenden Büchlein zu finden sind. Auch
+      <lb facs="#facs_6_region_1709376794962_2008_tl_66" n="N065"/>Charakteristik im vorliegenden <rs type="bibl" ref="#hsl_work_id_4247">Büchlein</rs> zu finden sind. Auch
       <lb facs="#facs_6_region_1709376794962_2008_tl_67" n="N066"/>der „<rs type="bibl" ref="#hsl_work_id_40">Tanhäuser</rs>“ von Richard <rs type="person" ref="#hsl_person_id_319">Wagner</rs> erfährt eine gerechte
       <lb facs="#facs_6_region_1709376794962_2008_tl_68" n="N067"/>Würdigung.
             </p><p>
@@ -2452,7 +2452,7 @@
       <lb facs="#facs_6_region_1709376799537_2011_tl_28" n="N028"/>Keime er bereits in ausgezeichneten Schöpfungen unserer Tage
       <lb facs="#facs_6_region_1709376799537_2011_tl_29" n="N029"/>erblickt. Ganz gereift und selbst ohne Widersprüche ist sein
       <lb facs="#facs_6_region_1709376799537_2011_tl_30" n="N030"/>Urtheil freilich nicht, aber die Darstellung klar, die Gesinnung
-      <lb facs="#facs_6_region_1709376799537_2011_tl_31" n="N031"/>entschieden und wohlwollend. Das Büchlein wird den Künst
+      <lb facs="#facs_6_region_1709376799537_2011_tl_31" n="N031"/>entschieden und wohlwollend. Das <rs type="bibl" ref="#hsl_work_id_4271">Büchlein</rs> wird den Künst
       <lb facs="#facs_6_region_1709376799537_2011_tl_32" n="N032" break="no"/>lern zwar nichts Neues von Einfluß auf ihr Wirken sagen,
       <lb facs="#facs_6_region_1709376799537_2011_tl_33" n="N033"/>da bedeuten eben die Worte nicht viel, wol aber kann es zur
       <lb facs="#facs_6_region_1709376799537_2011_tl_34" n="N034"/>Orientirung des Publicums und zur Bildung des Geschmacks

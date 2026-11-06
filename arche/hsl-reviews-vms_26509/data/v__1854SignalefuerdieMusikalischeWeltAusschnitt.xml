@@ -109,7 +109,7 @@
          <change who="awilfing" when="2024-11-01">Projektbeginn</change>
          <change who="awilfing" when="2025-01-20">Headers Anpassung</change>
          <change who="ampfiel" when="2025-04-10">Transkribus OCR und Lektorat.</change>
-         <change who="fsanzl" when="2025-04-27">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
+         <change who="fsanzlazaro" when="2025-04-27">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="ampfiel" when="2025-04-28">fix lb</change>
          <change who="ampfiel" when="2025-05-09">fill header, layout, space</change>
          <change who="ampfiel" when="2025-05-14">rs ref fertig</change>
@@ -444,7 +444,7 @@
       <lb facs="#facs_3_region_1709373739787_903_tl_28" n="N024"/>sein; aber sie weist der Frau Musica einen ganz andern, mehr nach abwärts gelegenen
       <lb facs="#facs_3_region_1709373739787_903_tl_29" n="N025"/>Rang an als der ist, den sie seit ihrer größeren Entwickelung eingenommen hat.
             </p><p>
-      <lb facs="#facs_3_region_1709373739787_903_tl_30" n="N026"/>Uebrigens gebe ich Ihnen einen Auszug aus dem Buche, um Ihnen mit einigen
+      <lb facs="#facs_3_region_1709373739787_903_tl_30" n="N026"/>Uebrigens gebe ich Ihnen einen Auszug aus dem <rs type="bibl" ref="#hsl_work_id_1083">Buch</rs>e, um Ihnen mit einigen
       <lb facs="#facs_3_region_1709373739787_903_tl_31" n="N027"/>Zügen die <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>’sche Anschauung klar zu machen. Er sagt: „Jeder von uns hat
       <lb facs="#facs_3_region_1709373739787_903_tl_32" n="N028"/>als Kind sich wohl an dem wechselnden Farbenspiele eines <hi rendition="#em">Kaleidoscops</hi> ergötzt.
       <lb facs="#facs_3_region_1709373739787_903_tl_33" n="N029"/>Ein solches Kaleidoscop auf incommensurabel höherer Erscheinungsstufe ist Musik. Sie
@@ -460,7 +460,7 @@
       <lb facs="#facs_4_region_1709373751471_909_tl_2" n="N002"/>beider Erscheinungen auf gleicher Basis ruhe.“
             </p><p>
       <lb facs="#facs_4_region_1709373751471_909_tl_3" n="N003"/>Herr <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> ist der Musik-Rezensent der <rs type="bibl" ref="#hsl_work_id_156">Wiener Zeitung</rs>, als solcher sehr gerne
-      <lb facs="#facs_4_region_1709373751471_909_tl_4" n="N004"/>gelesen und vielfach in <rs type="place" ref="#hsl_place_id_55">Wien</rs> bekannt und als Autorität betrachtet. Sein Buch macht
+      <lb facs="#facs_4_region_1709373751471_909_tl_4" n="N004"/>gelesen und vielfach in <rs type="place" ref="#hsl_place_id_55">Wien</rs> bekannt und als Autorität betrachtet. Sein <rs type="bibl" ref="#hsl_work_id_1083">Buch</rs> macht
       <lb facs="#facs_4_region_1709373751471_909_tl_5" n="N005"/>schon aus diesem Grunde hier entschiedenes Glück. Man findet es in den Händen aller
       <lb facs="#facs_4_region_1709373751471_909_tl_6" n="N006"/>Leute, die sich für Musik interessiren, und es hat nicht versäumt in den betreffenden
       <lb facs="#facs_4_region_1709373751471_909_tl_7" n="N007"/>Kreisen große Sensation zu erregen, um so mehr, als es klar, wenn auch nicht ohne

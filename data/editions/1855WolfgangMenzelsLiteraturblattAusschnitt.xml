@@ -111,7 +111,7 @@
       <revisionDesc status="final">
          <change who="awilfing" when="2024-11-01">Projektbeginn</change>
          <change who="ampfiel" when="2024-12-09">Transkribus OCR und Lektorat.</change>
-         <change who="fsanzl" when="2024-12-27">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
+         <change who="fsanzlazaro" when="2024-12-27">Transformierung der Daten des Transkribus TEI-Export mit "editions.xsl".</change>
          <change who="awilfing" when="2025-01-20">Headers Anpassung</change>
          <change who="ampfiel" when="2025-01-24">header richtigstellen, Absätze, Zeilenumbrüche</change>
          <change who="ampfiel" when="2025-01-28">rs ref, space einfügen</change>
@@ -1284,7 +1284,7 @@
             <lb facs="#facs_1_region_1709376192650_1821_tl_3" n="N003" break="no"/>sion der Aesthetik der Tonkunst. Von Dr. Eduard
             <lb facs="#facs_1_region_1709376192650_1821_tl_4" n="N004"/><rs type="person" ref="#hsl_person_id_1">Hanslick</rs>. <rs type="place" ref="#hsl_place_id_32">Leipzig</rs>, Rudolf <rs type="person" ref="#hsl_person_id_377">Weigel</rs>, <date when="1854">1854</date>.</head>
             <p>
-      <lb facs="#facs_1_region_1709376192650_1821_tl_5" n="N005"/>Eine anregende Schrift, die sehr viel Wahres ent
+      <lb facs="#facs_1_region_1709376192650_1821_tl_5" n="N005"/>Eine anregende <rs type="bibl" ref="#hsl_work_id_1083">Schrift</rs>, die sehr viel Wahres ent
       <lb facs="#facs_1_region_1709376192650_1821_tl_6" n="N006" break="no"/>hält, wenn sie auch im Eifer zu viel beweist.
             </p><p>
       <lb facs="#facs_1_region_1709376192650_1821_tl_7" n="N007"/>Der Verfasser sieht in der Musik immer mehr eine
@@ -1646,7 +1646,7 @@
       <lb facs="#facs_4_region_1709376268610_1851_tl_24" n="N024"/>durch ein Stück Käse eben so gewiß erweckt.
             </p><p>
       <lb facs="#facs_4_region_1709376268610_1851_tl_25" n="N025"/>Das, was wir als vollkommen gerechtfertigt in der
-      <lb facs="#facs_4_region_1709376268610_1851_tl_26" n="N026"/>vorliegenden Schrift erkennen, wollen wir durch eine
+      <lb facs="#facs_4_region_1709376268610_1851_tl_26" n="N026"/>vorliegenden <rs type="bibl" ref="#hsl_work_id_1083">Schrift</rs> erkennen, wollen wir durch eine
       <lb facs="#facs_4_region_1709376268610_1851_tl_27" n="N027"/>Vergleichung mit der Malerei erhärten. Was Herr
       <lb facs="#facs_4_region_1709376268610_1851_tl_28" n="N028"/><rs type="person" ref="#hsl_person_id_1">Hanslick</rs> in der Musik rügt, ist noch weit mehr zu
       <lb facs="#facs_4_region_1709376268610_1851_tl_29" n="N029"/>rügen in der Malerei. Denn hier läuft alles je mehr
@@ -1665,7 +1665,7 @@
       <lb facs="#facs_4_region_1709376268610_1851_tl_42" n="N042"/>daß es nöthig wäre, deshalb die Wechselwirkung zwi
       <lb facs="#facs_4_region_1709376268610_1851_tl_43" n="N043" break="no"/>schen Musik und Gefühl und die Anlehnung der Musik
       <lb facs="#facs_4_region_1709376268610_1851_tl_44" n="N044"/>an den Text so weit abzulehnen, als der Verfasser der
-      <lb facs="#facs_4_region_1709376268610_1851_tl_45" n="N045"/>vorliegenden Schrift gethan hat.</p>
+      <lb facs="#facs_4_region_1709376268610_1851_tl_45" n="N045"/>vorliegenden <rs type="bibl" ref="#hsl_work_id_1083">Schrift</rs> gethan hat.</p>
          </div>
       </body>
    </text>
