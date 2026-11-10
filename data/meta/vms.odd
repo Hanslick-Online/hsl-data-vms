@@ -57,13 +57,60 @@
         <head>TEI-Modifikation</head>
         
         <schemaSpec ident="hsl-vms" start="TEI" xml:lang="de">
-          <moduleRef key="header" include="langUsage language teiHeader fileDesc titleStmt editionStmt publicationStmt sourceDesc profileDesc encodingDesc projectDesc appInfo application editorialDecl segmentation correction normalization hyphenation interpretation punctuation revisionDesc listChange change notesStmt edition funder availability licence idno"/>
-          <moduleRef key="core" include="milestone address addrLine graphic imprint biblScope head desc l label lg list author editor title p respStmt resp noteGrp note biblStruct item listBibl bibl monogr date pubPlace publisher ref address name emph pb q quote rs add cit"/>
+          <moduleRef key="header" include="langUsage language teiHeader fileDesc titleStmt editionStmt publicationStmt sourceDesc profileDesc encodingDesc projectDesc appInfo application editorialDecl segmentation correction normalization hyphenation interpretation punctuation revisionDesc listChange change notesStmt edition funder availability licence idno tagsDecl rendition"/>
+          <moduleRef key="core" include="milestone address addrLine graphic imprint biblScope head desc l label lg list author editor title p respStmt resp noteGrp note biblStruct item listBibl bibl monogr date pubPlace publisher ref address name emph pb q quote rs add cit analytic street postCode lb hi"/>
           <moduleRef key="namesdates" include="country settlement listPerson person listPlace place forename geo location orgName persName placeName surname"/>
           <moduleRef key="tei"/>
           <moduleRef key="textstructure" include="TEI text front body back div titlePage docTitle byline docImprint titlePart docAuthor docEdition"/>
-          <moduleRef key="transcr" include="facsimile surface"/>
+          <moduleRef key="transcr" include="facsimile surface zone"/>
           <moduleRef key="figures" include="notatedMusic"/>
+
+          <!-- element TEI -->
+          <elementSpec ident="TEI" module="textstructure" mode="change">
+            <attList>
+              <attDef ident="prev" mode="add" usage="opt">
+                <datatype>
+                  <dataRef key="teidata.pointer"/>
+                </datatype>
+              </attDef>
+              <attDef ident="next" mode="add" usage="opt">
+                <datatype>
+                  <dataRef key="teidata.pointer"/>
+                </datatype>
+              </attDef>
+            </attList>
+          </elementSpec>
+
+          <!-- element div: allow bare line-based transcriptions (text, lb, pb, hi, rs)
+               directly, in addition to the standard p/head/nested-div structure, since
+               the reviews are diplomatically transcribed line-by-line rather than
+               segmented into paragraphs -->
+          <elementSpec ident="div" module="textstructure" mode="change">
+            <content>
+              <alternate minOccurs="0" maxOccurs="unbounded">
+                <classRef key="model.divTop"/>
+                <classRef key="model.divGenLike"/>
+                <classRef key="model.divLike"/>
+                <classRef key="model.common"/>
+                <classRef key="model.phrase"/>
+                <classRef key="model.global"/>
+                <textNode/>
+              </alternate>
+            </content>
+          </elementSpec>
+
+          <!-- element funder -->
+          <elementSpec ident="funder" module="header" mode="change">
+            <content>
+              <alternate minOccurs="0" maxOccurs="unbounded">
+                <textNode/>
+                <classRef key="model.limitedPhrase"/>
+                <classRef key="model.global"/>
+                <elementRef key="name"/>
+                <elementRef key="address"/>
+              </alternate>
+            </content>
+          </elementSpec>
         
           <!-- element availability -->
           <elementSpec ident="availability" module="header" mode="change"/>
@@ -91,7 +138,7 @@
             <attList>
               <attDef ident="target" mode="change" usage="req">
                 <valList mode="replace" type="closed">
-                  <valItem ident="https://creativecommons.org/licenses/by/4.0/"/>
+                  <valItem ident="https://creativecommons.org/licenses/by/4.0"/>
                 </valList>
               </attDef>
             </attList>
@@ -120,6 +167,24 @@
                   <dataRef key="teidata.temporal.iso"/>
                 </datatype>
               </attDef>
+              <!-- custom structured-date breakdown attributes used in the
+                   transcribed running text (currently placeholder "0" values,
+                   pending completion of the structured dates) -->
+              <attDef ident="year" mode="add" usage="opt">
+                <datatype>
+                  <dataRef key="teidata.enumerated"/>
+                </datatype>
+              </attDef>
+              <attDef ident="month" mode="add" usage="opt">
+                <datatype>
+                  <dataRef key="teidata.enumerated"/>
+                </datatype>
+              </attDef>
+              <attDef ident="day" mode="add" usage="opt">
+                <datatype>
+                  <dataRef key="teidata.enumerated"/>
+                </datatype>
+              </attDef>
             </attList>
           </elementSpec>
           
@@ -128,10 +193,10 @@
             <attList>
               <attDef ident="who" mode="change" usage="req">
                 <valList type="closed" mode="replace">
-                  <valItem ident="#awilfing"/>
-                  <valItem ident="#delsner"/>
-	          <valItem ident="#fsanzl"/>
-                  <valItem ident="#ampfiel"/>
+                  <valItem ident="awilfing"/>
+                  <valItem ident="delsner"/>
+	          <valItem ident="fsanzl"/>
+                  <valItem ident="ampfiel"/>
                 </valList>
               </attDef>
               <attDef ident="when" mode="change" usage="req">
@@ -218,9 +283,14 @@
                   <valItem ident="bibl"/>
                 </valList>
               </attDef>
-              <attDef ident="ref" mode="change" usage="req">
+              <attDef ident="ref" mode="change" usage="opt">
                 <datatype>
                   <dataRef name="token" restriction="#.+"/>
+                </datatype>
+              </attDef>
+              <attDef ident="continued" mode="add" usage="opt">
+                <datatype>
+                  <dataRef key="teidata.truthValue"/>
                 </datatype>
               </attDef>
             </attList>
